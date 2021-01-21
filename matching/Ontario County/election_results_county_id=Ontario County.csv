@@ -1,94 +1,94 @@
 county,precinct,HOR_DEM,HOR_REP,HOR_CON,HOR_GRE,HOR_WOR,HOR_IND,HOR_WEP,HOR_REF,Sen_DEM,Sen_REP,Sen_CON,Sen_WOR,Sen_IND,Sen_WEP,Sen_REF,Gov_DEM,Gov_REP,Gov_CON,Gov_GRE,Gov_WOR,Gov_IND,Gov_WEP,Gov_REF,Gov_SAM,Gov_LBT,county_id,original_precinct_name
-Ontario County,City of Canandaigua 1/1,309,154,25,0,13,5,6,4,287,177,27,6,18,2,4,223,219,30,12,2,7,4,3,6,14,Ontario County,precinct
-Ontario County,City of Canandaigua 1/2,428,143,26,0,17,2,8,12,392,171,32,12,9,9,6,309,215,40,15,7,8,10,6,4,15,Ontario County,precinct
-Ontario County,City of Canandaigua 2/1,178,70,14,0,17,2,6,2,178,75,16,10,5,4,2,138,89,22,3,7,5,1,6,8,16,Ontario County,precinct
-Ontario County,City of Canandaigua 2/2,240,142,21,0,14,5,9,12,233,143,29,11,11,9,5,165,182,28,12,2,6,3,4,6,31,Ontario County,precinct
-Ontario County,City of Canandaigua 3/1,281,121,22,0,21,6,9,8,272,136,20,12,14,7,5,216,160,25,22,6,8,3,5,3,21,Ontario County,precinct
-Ontario County,City of Canandaigua 3/2,309,158,28,0,14,4,13,6,282,182,30,11,13,8,2,218,224,32,10,5,4,6,4,10,11,Ontario County,precinct
-Ontario County,City of Canandaigua 4/1,299,134,24,0,11,2,9,8,278,153,25,9,8,8,6,233,176,29,11,4,7,3,6,9,19,Ontario County,precinct
-Ontario County,City of Canandaigua 4/2,426,156,20,0,13,8,21,12,397,196,24,6,18,13,3,283,266,32,13,5,10,12,8,13,25,Ontario County,precinct
-Ontario County,City of Geneva Ward 1/1,185,76,9,0,5,0,4,0,188,70,9,5,1,5,2,168,78,5,6,4,1,2,4,3,1,Ontario County,precinct
-Ontario County,City of Geneva Ward 1/2,151,55,6,0,12,3,3,0,149,51,7,13,2,5,1,130,57,6,10,8,2,2,0,3,4,Ontario County,precinct
-Ontario County,City of Geneva Ward 2/1,219,125,20,0,7,5,6,0,234,98,19,6,12,6,1,182,126,18,13,8,4,4,2,5,17,Ontario County,precinct
-Ontario County,City of Geneva Ward 2/2,238,151,17,0,10,7,5,0,250,133,16,8,7,8,0,184,179,22,4,1,5,4,3,7,5,Ontario County,precinct
-Ontario County,City of Geneva Ward 3/1,228,95,8,0,14,5,6,0,234,78,9,12,6,9,1,201,91,14,12,5,4,6,0,10,9,Ontario County,precinct
-Ontario County,City of Geneva Ward 3/2,379,159,12,0,11,5,5,0,394,131,13,12,11,2,0,329,162,19,6,5,7,2,2,16,10,Ontario County,precinct
-Ontario County,City of Geneva Ward 4/1,222,105,13,0,8,5,7,0,230,84,12,6,15,5,1,190,116,11,7,2,8,4,3,6,10,Ontario County,precinct
-Ontario County,City of Geneva Ward 4/2,159,58,10,0,12,4,4,0,162,52,10,9,7,3,2,144,53,9,5,6,3,0,3,3,11,Ontario County,precinct
-Ontario County,City of Geneva Ward 5/1,135,57,14,0,7,4,2,0,138,51,12,9,4,4,0,114,56,19,3,5,4,4,2,4,8,Ontario County,precinct
-Ontario County,City of Geneva Ward 5/2,155,35,6,0,5,1,1,0,152,33,6,4,4,1,0,134,34,7,6,5,3,1,1,4,4,Ontario County,precinct
-Ontario County,City of Geneva Ward 6/1,122,42,3,0,7,1,2,0,134,30,4,6,2,2,0,118,39,6,2,0,2,1,1,3,4,Ontario County,precinct
-Ontario County,City of Geneva Ward 6/2,100,41,3,0,7,1,4,0,109,32,5,4,2,5,0,97,42,2,0,4,1,2,0,2,3,Ontario County,precinct
-Ontario County,Multi-ED Collection,77,47,4,0,2,0,1,0,81,46,3,0,2,0,1,69,49,4,1,1,3,0,1,1,1,Ontario County,precinct
-Ontario County,Town of Bristol 1,158,186,39,0,5,6,4,4,149,192,46,5,8,3,1,84,233,50,3,2,4,2,4,3,26,Ontario County,precinct
-Ontario County,Town of Bristol 2,257,281,42,0,19,10,7,13,234,309,49,8,21,4,4,172,337,46,10,5,7,5,4,8,38,Ontario County,precinct
-Ontario County,Town of Canadice 1,164,182,49,0,13,3,7,4,149,200,51,10,10,7,0,113,216,55,3,4,5,3,0,2,26,Ontario County,precinct
-Ontario County,Town of Canadice 2,140,141,39,0,8,2,1,7,132,147,43,4,9,4,1,99,156,44,8,3,3,1,1,6,19,Ontario County,precinct
-Ontario County,Town of Canandaigua 1,297,171,28,0,11,5,6,3,279,191,29,5,14,3,3,197,246,34,7,5,5,2,2,8,17,Ontario County,precinct
-Ontario County,Town of Canandaigua 2,298,266,29,0,13,5,4,11,293,266,39,12,13,1,1,210,329,42,9,2,5,2,5,5,16,Ontario County,precinct
-Ontario County,Town of Canandaigua 3,567,382,64,0,31,7,15,22,520,420,77,20,33,8,7,378,517,85,20,6,9,5,12,7,40,Ontario County,precinct
-Ontario County,Town of Canandaigua 4,389,291,45,0,16,6,7,11,365,315,52,9,20,7,3,272,377,56,3,6,13,4,7,4,11,Ontario County,precinct
-Ontario County,Town of Canandaigua 5,519,321,61,0,16,13,7,12,491,372,59,10,19,6,7,364,446,59,13,8,10,3,10,15,34,Ontario County,precinct
-Ontario County,Town of Canandaigua 6,226,170,33,0,5,3,6,7,210,175,31,8,9,5,5,161,207,31,10,3,8,6,4,5,11,Ontario County,precinct
-Ontario County,Town of Canandaigua 7,243,233,54,0,19,4,5,8,221,255,55,17,11,8,5,156,293,54,15,7,5,5,1,8,16,Ontario County,precinct
-Ontario County,Town of East Bloomfield 1,225,237,48,0,13,6,6,11,211,259,55,10,10,5,2,145,298,56,12,6,3,4,0,5,24,Ontario County,precinct
-Ontario County,Town of East Bloomfield 2,230,225,43,0,14,5,4,11,222,241,41,10,12,3,5,141,290,42,7,3,7,1,3,9,35,Ontario County,precinct
-Ontario County,Town of East Bloomfield 3,231,190,47,0,15,6,6,11,211,219,45,9,10,6,4,161,256,50,7,5,5,3,2,5,21,Ontario County,precinct
-Ontario County,Town of Farmington 1,253,267,58,0,7,3,6,4,228,281,61,10,12,6,1,157,344,63,10,1,4,6,2,6,20,Ontario County,precinct
-Ontario County,Town of Farmington 10,76,98,15,0,3,4,2,6,66,115,17,3,1,2,3,36,132,20,5,1,2,0,1,3,7,Ontario County,precinct
-Ontario County,Town of Farmington 2,316,224,33,0,21,2,3,9,288,249,42,11,13,4,2,201,303,52,10,8,8,1,4,11,14,Ontario County,precinct
-Ontario County,Town of Farmington 3,276,173,26,0,12,4,1,8,259,180,32,7,7,6,5,210,199,30,11,3,4,4,2,11,30,Ontario County,precinct
-Ontario County,Town of Farmington 4,274,214,26,0,23,3,7,14,256,244,35,10,14,5,0,174,283,36,10,6,6,2,4,12,29,Ontario County,precinct
-Ontario County,Town of Farmington 5,175,113,13,0,7,0,3,3,158,122,17,7,4,4,1,115,140,14,6,2,1,1,3,3,24,Ontario County,precinct
-Ontario County,Town of Farmington 6,358,280,42,0,19,14,4,10,342,300,50,13,13,2,6,245,335,50,6,9,9,2,9,15,47,Ontario County,precinct
-Ontario County,Town of Farmington 7,294,195,31,0,15,4,4,14,279,218,34,15,8,4,4,205,247,36,15,9,4,2,2,10,26,Ontario County,precinct
-Ontario County,Town of Farmington 8,234,140,19,0,21,2,7,5,224,156,18,12,12,5,1,163,183,30,7,4,4,1,4,10,19,Ontario County,precinct
-Ontario County,Town of Farmington 9,180,133,29,0,7,1,4,4,182,125,30,3,10,4,2,131,153,31,12,1,5,0,0,3,17,Ontario County,precinct
-Ontario County,Town of Geneva 1,243,194,8,0,4,3,1,0,262,171,8,5,8,1,1,205,214,10,4,2,4,2,1,5,2,Ontario County,precinct
-Ontario County,Town of Geneva 2,262,214,21,0,12,5,4,0,279,184,16,18,6,4,1,225,231,18,9,7,4,3,2,12,1,Ontario County,precinct
-Ontario County,Town of Geneva 3,300,231,29,0,19,3,8,0,296,222,30,10,14,12,2,237,255,36,9,9,7,7,6,4,15,Ontario County,precinct
-Ontario County,Town of Gorham 1,137,235,27,0,11,3,2,0,153,207,30,10,8,2,4,96,243,32,2,2,2,1,4,6,22,Ontario County,precinct
-Ontario County,Town of Gorham 2,156,215,32,0,7,7,2,0,174,191,30,8,9,2,0,95,245,32,11,1,4,0,5,4,15,Ontario County,precinct
-Ontario County,Town of Gorham 3,206,197,35,0,6,4,2,0,215,174,37,8,6,2,1,166,202,38,5,5,2,0,5,8,13,Ontario County,precinct
-Ontario County,Town of Gorham 4,183,191,27,0,3,6,3,0,186,180,28,1,10,3,2,155,199,30,1,1,5,2,0,4,9,Ontario County,precinct
-Ontario County,Town of Hopewell 1,133,190,24,0,3,2,5,0,146,170,24,5,7,4,1,88,201,28,7,4,4,1,0,9,19,Ontario County,precinct
-Ontario County,Town of Hopewell 2,139,229,39,0,10,10,3,0,163,205,38,8,10,2,0,101,258,37,9,2,4,1,0,3,17,Ontario County,precinct
-Ontario County,Town of Hopewell 3,154,170,28,0,10,3,2,0,162,164,24,8,12,2,1,136,180,27,4,2,5,2,4,1,19,Ontario County,precinct
-Ontario County,Town of Manchester 1,217,233,26,0,10,13,7,0,247,193,30,11,14,5,3,183,231,22,13,2,11,1,1,7,32,Ontario County,precinct
-Ontario County,Town of Manchester 2,136,202,29,0,3,12,3,0,147,177,31,13,10,4,5,100,211,34,5,1,4,2,7,2,23,Ontario County,precinct
-Ontario County,Town of Manchester 3,162,258,37,0,1,10,6,0,193,229,34,5,6,5,2,113,290,32,8,0,2,2,6,7,20,Ontario County,precinct
-Ontario County,Town of Manchester 4,112,235,38,0,4,7,3,0,135,210,35,6,6,2,0,80,252,38,4,0,1,1,0,5,20,Ontario County,precinct
-Ontario County,Town of Manchester 5,111,122,13,0,2,3,1,0,132,92,13,6,5,1,2,85,123,18,4,2,1,0,3,3,10,Ontario County,precinct
-Ontario County,Town of Manchester 6,134,159,19,0,5,3,2,0,158,133,16,6,3,2,1,108,157,12,5,2,2,3,2,7,27,Ontario County,precinct
-Ontario County,Town of Manchester 7,141,155,26,0,5,2,4,0,164,133,24,12,3,3,1,114,154,26,4,4,3,4,3,3,20,Ontario County,precinct
-Ontario County,Town of Manchester 8,144,144,21,0,5,5,5,0,153,127,23,5,10,3,3,105,161,26,5,2,6,1,2,6,18,Ontario County,precinct
-Ontario County,Town of Naples 1,260,232,36,0,17,2,11,0,273,221,34,18,8,5,3,180,254,37,12,13,6,5,1,7,37,Ontario County,precinct
-Ontario County,Town of Naples 2,215,229,38,0,14,2,7,8,203,247,37,11,8,2,7,157,265,42,14,7,1,3,4,4,23,Ontario County,precinct
-Ontario County,Town of Phelps 1,201,185,19,0,10,6,5,0,207,172,17,9,10,5,3,147,222,17,2,5,4,3,1,5,23,Ontario County,precinct
-Ontario County,Town of Phelps 2,132,285,27,0,9,8,2,0,166,241,25,10,9,2,4,101,285,30,4,1,3,1,6,11,29,Ontario County,precinct
-Ontario County,Town of Phelps 3,143,221,26,0,6,8,4,0,153,201,23,7,7,5,3,98,246,28,4,1,3,0,3,7,17,Ontario County,precinct
-Ontario County,Town of Phelps 4,173,253,31,0,11,5,1,0,187,237,28,13,13,3,0,119,273,36,4,3,6,1,1,8,33,Ontario County,precinct
-Ontario County,Town of Phelps 5,153,213,25,0,11,12,9,0,190,169,23,16,13,6,3,109,232,22,6,2,6,4,4,7,38,Ontario County,precinct
-Ontario County,Town of Phelps 6,126,223,34,0,6,4,0,0,138,206,22,8,12,0,1,95,250,18,0,2,4,0,1,6,23,Ontario County,precinct
-Ontario County,Town of Richmond 1,179,206,19,0,12,4,6,9,171,219,22,10,11,3,3,108,267,21,8,6,4,2,4,2,18,Ontario County,precinct
-Ontario County,Town of Richmond 2,185,216,39,0,7,1,1,5,168,227,40,8,3,1,3,124,257,39,4,2,3,1,3,3,19,Ontario County,precinct
-Ontario County,Town of Richmond 3,215,260,71,0,15,6,12,9,212,272,75,9,17,6,3,130,323,59,9,7,5,4,9,8,42,Ontario County,precinct
-Ontario County,Town of Seneca 1,87,141,31,0,4,0,6,0,94,135,26,5,4,4,1,50,166,32,3,0,2,1,2,6,11,Ontario County,precinct
-Ontario County,Town of Seneca 2,145,196,24,0,1,5,9,0,157,170,21,10,14,8,1,100,211,24,4,3,9,3,1,7,27,Ontario County,precinct
-Ontario County,Town of Seneca 3,149,200,31,0,9,10,9,0,180,172,30,8,11,4,4,119,233,31,5,2,4,2,2,3,18,Ontario County,precinct
-Ontario County,Town of South Bristol 1,211,114,33,0,7,4,0,8,184,144,35,4,12,1,2,145,162,39,4,1,8,0,4,5,9,Ontario County,precinct
-Ontario County,Town of South Bristol 2,236,177,51,0,18,2,5,3,225,183,52,16,14,3,2,166,220,51,12,9,6,1,4,4,22,Ontario County,precinct
-Ontario County,Town of Victor 1,271,221,27,0,4,5,5,10,264,243,28,3,6,4,2,198,272,25,5,3,6,3,4,9,18,Ontario County,precinct
-Ontario County,Town of Victor 10,341,238,33,0,18,4,6,7,325,258,41,10,19,5,1,247,314,37,4,6,8,5,3,9,18,Ontario County,precinct
-Ontario County,Town of Victor 11,186,167,24,0,5,3,2,2,192,171,21,3,5,1,1,156,203,22,1,1,4,2,1,0,5,Ontario County,precinct
-Ontario County,Town of Victor 12,289,170,30,0,13,3,5,8,279,179,38,12,10,5,2,211,198,40,9,6,8,4,3,9,29,Ontario County,precinct
-Ontario County,Town of Victor 2,307,314,40,0,11,7,6,14,286,338,49,9,13,2,2,213,367,47,10,6,12,2,3,9,16,Ontario County,precinct
-Ontario County,Town of Victor 3,272,213,40,0,9,1,6,9,267,223,47,5,7,3,1,234,230,44,7,3,4,1,0,6,16,Ontario County,precinct
-Ontario County,Town of Victor 4,238,156,34,0,6,5,5,8,231,169,45,4,7,4,2,179,198,42,11,1,2,3,2,10,10,Ontario County,precinct
-Ontario County,Town of Victor 5,458,288,42,0,8,10,6,21,436,322,49,7,18,4,3,341,381,44,9,5,14,2,2,5,30,Ontario County,precinct
-Ontario County,Town of Victor 6,293,253,42,0,12,1,7,8,279,272,47,4,12,9,2,211,304,44,6,2,7,6,4,7,28,Ontario County,precinct
-Ontario County,Town of Victor 7,379,205,24,0,11,2,6,5,365,220,30,8,10,6,1,274,272,25,3,4,7,4,2,2,30,Ontario County,precinct
-Ontario County,Town of Victor 8,358,193,21,0,12,5,4,5,350,206,25,12,8,4,2,269,229,23,10,7,7,2,5,8,24,Ontario County,precinct
-Ontario County,Town of Victor 9,316,267,35,0,10,5,7,3,297,284,38,5,18,8,1,228,337,35,10,1,9,3,6,6,15,Ontario County,precinct
-Ontario County,Town of West Bloomfield 1,227,261,56,0,14,5,5,9,205,281,63,12,12,4,4,154,315,63,3,4,7,1,3,7,17,Ontario County,precinct
-Ontario County,Town of West Bloomfield 2,203,205,50,0,8,3,3,9,188,224,50,9,10,2,2,139,247,49,6,2,4,2,5,5,20,Ontario County,precinct
+Ontario County,City of Canandaigua 1/1,309,154,25,0,13,5,6,4,287,177,27,6,18,2,4,223,219,30,12,2,7,4,3,6,14,Ontario County,City of Canandaigua 1/1
+Ontario County,City of Canandaigua 1/2,428,143,26,0,17,2,8,12,392,171,32,12,9,9,6,309,215,40,15,7,8,10,6,4,15,Ontario County,City of Canandaigua 1/2
+Ontario County,City of Canandaigua 2/1,178,70,14,0,17,2,6,2,178,75,16,10,5,4,2,138,89,22,3,7,5,1,6,8,16,Ontario County,City of Canandaigua 2/1
+Ontario County,City of Canandaigua 2/2,240,142,21,0,14,5,9,12,233,143,29,11,11,9,5,165,182,28,12,2,6,3,4,6,31,Ontario County,City of Canandaigua 2/2
+Ontario County,City of Canandaigua 3/1,281,121,22,0,21,6,9,8,272,136,20,12,14,7,5,216,160,25,22,6,8,3,5,3,21,Ontario County,City of Canandaigua 3/1
+Ontario County,City of Canandaigua 3/2,309,158,28,0,14,4,13,6,282,182,30,11,13,8,2,218,224,32,10,5,4,6,4,10,11,Ontario County,City of Canandaigua 3/2
+Ontario County,City of Canandaigua 4/1,299,134,24,0,11,2,9,8,278,153,25,9,8,8,6,233,176,29,11,4,7,3,6,9,19,Ontario County,City of Canandaigua 4/1
+Ontario County,City of Canandaigua 4/2,426,156,20,0,13,8,21,12,397,196,24,6,18,13,3,283,266,32,13,5,10,12,8,13,25,Ontario County,City of Canandaigua 4/2
+Ontario County,City of Geneva Ward 1/1,185,76,9,0,5,0,4,0,188,70,9,5,1,5,2,168,78,5,6,4,1,2,4,3,1,Ontario County,City of Geneva Ward 1/1
+Ontario County,City of Geneva Ward 1/2,151,55,6,0,12,3,3,0,149,51,7,13,2,5,1,130,57,6,10,8,2,2,0,3,4,Ontario County,City of Geneva Ward 1/2
+Ontario County,City of Geneva Ward 2/1,219,125,20,0,7,5,6,0,234,98,19,6,12,6,1,182,126,18,13,8,4,4,2,5,17,Ontario County,City of Geneva Ward 2/1
+Ontario County,City of Geneva Ward 2/2,238,151,17,0,10,7,5,0,250,133,16,8,7,8,0,184,179,22,4,1,5,4,3,7,5,Ontario County,City of Geneva Ward 2/2
+Ontario County,City of Geneva Ward 3/1,228,95,8,0,14,5,6,0,234,78,9,12,6,9,1,201,91,14,12,5,4,6,0,10,9,Ontario County,City of Geneva Ward 3/1
+Ontario County,City of Geneva Ward 3/2,379,159,12,0,11,5,5,0,394,131,13,12,11,2,0,329,162,19,6,5,7,2,2,16,10,Ontario County,City of Geneva Ward 3/2
+Ontario County,City of Geneva Ward 4/1,222,105,13,0,8,5,7,0,230,84,12,6,15,5,1,190,116,11,7,2,8,4,3,6,10,Ontario County,City of Geneva Ward 4/1
+Ontario County,City of Geneva Ward 4/2,159,58,10,0,12,4,4,0,162,52,10,9,7,3,2,144,53,9,5,6,3,0,3,3,11,Ontario County,City of Geneva Ward 4/2
+Ontario County,City of Geneva Ward 5/1,135,57,14,0,7,4,2,0,138,51,12,9,4,4,0,114,56,19,3,5,4,4,2,4,8,Ontario County,City of Geneva Ward 5/1
+Ontario County,City of Geneva Ward 5/2,155,35,6,0,5,1,1,0,152,33,6,4,4,1,0,134,34,7,6,5,3,1,1,4,4,Ontario County,City of Geneva Ward 5/2
+Ontario County,City of Geneva Ward 6/1,122,42,3,0,7,1,2,0,134,30,4,6,2,2,0,118,39,6,2,0,2,1,1,3,4,Ontario County,City of Geneva Ward 6/1
+Ontario County,City of Geneva Ward 6/2,100,41,3,0,7,1,4,0,109,32,5,4,2,5,0,97,42,2,0,4,1,2,0,2,3,Ontario County,City of Geneva Ward 6/2
+Ontario County,Multi-ED Collection,77,47,4,0,2,0,1,0,81,46,3,0,2,0,1,69,49,4,1,1,3,0,1,1,1,Ontario County,Multi-ED Collection
+Ontario County,Town of Bristol 1,158,186,39,0,5,6,4,4,149,192,46,5,8,3,1,84,233,50,3,2,4,2,4,3,26,Ontario County,Town of Bristol 1
+Ontario County,Town of Bristol 2,257,281,42,0,19,10,7,13,234,309,49,8,21,4,4,172,337,46,10,5,7,5,4,8,38,Ontario County,Town of Bristol 2
+Ontario County,Town of Canadice 1,164,182,49,0,13,3,7,4,149,200,51,10,10,7,0,113,216,55,3,4,5,3,0,2,26,Ontario County,Town of Canadice 1
+Ontario County,Town of Canadice 2,140,141,39,0,8,2,1,7,132,147,43,4,9,4,1,99,156,44,8,3,3,1,1,6,19,Ontario County,Town of Canadice 2
+Ontario County,Town of Canandaigua 1,297,171,28,0,11,5,6,3,279,191,29,5,14,3,3,197,246,34,7,5,5,2,2,8,17,Ontario County,Town of Canandaigua 1
+Ontario County,Town of Canandaigua 2,298,266,29,0,13,5,4,11,293,266,39,12,13,1,1,210,329,42,9,2,5,2,5,5,16,Ontario County,Town of Canandaigua 2
+Ontario County,Town of Canandaigua 3,567,382,64,0,31,7,15,22,520,420,77,20,33,8,7,378,517,85,20,6,9,5,12,7,40,Ontario County,Town of Canandaigua 3
+Ontario County,Town of Canandaigua 4,389,291,45,0,16,6,7,11,365,315,52,9,20,7,3,272,377,56,3,6,13,4,7,4,11,Ontario County,Town of Canandaigua 4
+Ontario County,Town of Canandaigua 5,519,321,61,0,16,13,7,12,491,372,59,10,19,6,7,364,446,59,13,8,10,3,10,15,34,Ontario County,Town of Canandaigua 5
+Ontario County,Town of Canandaigua 6,226,170,33,0,5,3,6,7,210,175,31,8,9,5,5,161,207,31,10,3,8,6,4,5,11,Ontario County,Town of Canandaigua 6
+Ontario County,Town of Canandaigua 7,243,233,54,0,19,4,5,8,221,255,55,17,11,8,5,156,293,54,15,7,5,5,1,8,16,Ontario County,Town of Canandaigua 7
+Ontario County,Town of East Bloomfield 1,225,237,48,0,13,6,6,11,211,259,55,10,10,5,2,145,298,56,12,6,3,4,0,5,24,Ontario County,Town of East Bloomfield 1
+Ontario County,Town of East Bloomfield 2,230,225,43,0,14,5,4,11,222,241,41,10,12,3,5,141,290,42,7,3,7,1,3,9,35,Ontario County,Town of East Bloomfield 2
+Ontario County,Town of East Bloomfield 3,231,190,47,0,15,6,6,11,211,219,45,9,10,6,4,161,256,50,7,5,5,3,2,5,21,Ontario County,Town of East Bloomfield 3
+Ontario County,Town of Farmington 1,253,267,58,0,7,3,6,4,228,281,61,10,12,6,1,157,344,63,10,1,4,6,2,6,20,Ontario County,Town of Farmington 1
+Ontario County,Town of Farmington 10,76,98,15,0,3,4,2,6,66,115,17,3,1,2,3,36,132,20,5,1,2,0,1,3,7,Ontario County,Town of Farmington 10
+Ontario County,Town of Farmington 2,316,224,33,0,21,2,3,9,288,249,42,11,13,4,2,201,303,52,10,8,8,1,4,11,14,Ontario County,Town of Farmington 2
+Ontario County,Town of Farmington 3,276,173,26,0,12,4,1,8,259,180,32,7,7,6,5,210,199,30,11,3,4,4,2,11,30,Ontario County,Town of Farmington 3
+Ontario County,Town of Farmington 4,274,214,26,0,23,3,7,14,256,244,35,10,14,5,0,174,283,36,10,6,6,2,4,12,29,Ontario County,Town of Farmington 4
+Ontario County,Town of Farmington 5,175,113,13,0,7,0,3,3,158,122,17,7,4,4,1,115,140,14,6,2,1,1,3,3,24,Ontario County,Town of Farmington 5
+Ontario County,Town of Farmington 6,358,280,42,0,19,14,4,10,342,300,50,13,13,2,6,245,335,50,6,9,9,2,9,15,47,Ontario County,Town of Farmington 6
+Ontario County,Town of Farmington 7,294,195,31,0,15,4,4,14,279,218,34,15,8,4,4,205,247,36,15,9,4,2,2,10,26,Ontario County,Town of Farmington 7
+Ontario County,Town of Farmington 8,234,140,19,0,21,2,7,5,224,156,18,12,12,5,1,163,183,30,7,4,4,1,4,10,19,Ontario County,Town of Farmington 8
+Ontario County,Town of Farmington 9,180,133,29,0,7,1,4,4,182,125,30,3,10,4,2,131,153,31,12,1,5,0,0,3,17,Ontario County,Town of Farmington 9
+Ontario County,Town of Geneva 1,243,194,8,0,4,3,1,0,262,171,8,5,8,1,1,205,214,10,4,2,4,2,1,5,2,Ontario County,Town of Geneva 1
+Ontario County,Town of Geneva 2,262,214,21,0,12,5,4,0,279,184,16,18,6,4,1,225,231,18,9,7,4,3,2,12,1,Ontario County,Town of Geneva 2
+Ontario County,Town of Geneva 3,300,231,29,0,19,3,8,0,296,222,30,10,14,12,2,237,255,36,9,9,7,7,6,4,15,Ontario County,Town of Geneva 3
+Ontario County,Town of Gorham 1,137,235,27,0,11,3,2,0,153,207,30,10,8,2,4,96,243,32,2,2,2,1,4,6,22,Ontario County,Town of Gorham 1
+Ontario County,Town of Gorham 2,156,215,32,0,7,7,2,0,174,191,30,8,9,2,0,95,245,32,11,1,4,0,5,4,15,Ontario County,Town of Gorham 2
+Ontario County,Town of Gorham 3,206,197,35,0,6,4,2,0,215,174,37,8,6,2,1,166,202,38,5,5,2,0,5,8,13,Ontario County,Town of Gorham 3
+Ontario County,Town of Gorham 4,183,191,27,0,3,6,3,0,186,180,28,1,10,3,2,155,199,30,1,1,5,2,0,4,9,Ontario County,Town of Gorham 4
+Ontario County,Town of Hopewell 1,133,190,24,0,3,2,5,0,146,170,24,5,7,4,1,88,201,28,7,4,4,1,0,9,19,Ontario County,Town of Hopewell 1
+Ontario County,Town of Hopewell 2,139,229,39,0,10,10,3,0,163,205,38,8,10,2,0,101,258,37,9,2,4,1,0,3,17,Ontario County,Town of Hopewell 2
+Ontario County,Town of Hopewell 3,154,170,28,0,10,3,2,0,162,164,24,8,12,2,1,136,180,27,4,2,5,2,4,1,19,Ontario County,Town of Hopewell 3
+Ontario County,Town of Manchester 1,217,233,26,0,10,13,7,0,247,193,30,11,14,5,3,183,231,22,13,2,11,1,1,7,32,Ontario County,Town of Manchester 1
+Ontario County,Town of Manchester 2,136,202,29,0,3,12,3,0,147,177,31,13,10,4,5,100,211,34,5,1,4,2,7,2,23,Ontario County,Town of Manchester 2
+Ontario County,Town of Manchester 3,162,258,37,0,1,10,6,0,193,229,34,5,6,5,2,113,290,32,8,0,2,2,6,7,20,Ontario County,Town of Manchester 3
+Ontario County,Town of Manchester 4,112,235,38,0,4,7,3,0,135,210,35,6,6,2,0,80,252,38,4,0,1,1,0,5,20,Ontario County,Town of Manchester 4
+Ontario County,Town of Manchester 5,111,122,13,0,2,3,1,0,132,92,13,6,5,1,2,85,123,18,4,2,1,0,3,3,10,Ontario County,Town of Manchester 5
+Ontario County,Town of Manchester 6,134,159,19,0,5,3,2,0,158,133,16,6,3,2,1,108,157,12,5,2,2,3,2,7,27,Ontario County,Town of Manchester 6
+Ontario County,Town of Manchester 7,141,155,26,0,5,2,4,0,164,133,24,12,3,3,1,114,154,26,4,4,3,4,3,3,20,Ontario County,Town of Manchester 7
+Ontario County,Town of Manchester 8,144,144,21,0,5,5,5,0,153,127,23,5,10,3,3,105,161,26,5,2,6,1,2,6,18,Ontario County,Town of Manchester 8
+Ontario County,Town of Naples 1,260,232,36,0,17,2,11,0,273,221,34,18,8,5,3,180,254,37,12,13,6,5,1,7,37,Ontario County,Town of Naples 1
+Ontario County,Town of Naples 2,215,229,38,0,14,2,7,8,203,247,37,11,8,2,7,157,265,42,14,7,1,3,4,4,23,Ontario County,Town of Naples 2
+Ontario County,Town of Phelps 1,201,185,19,0,10,6,5,0,207,172,17,9,10,5,3,147,222,17,2,5,4,3,1,5,23,Ontario County,Town of Phelps 1
+Ontario County,Town of Phelps 2,132,285,27,0,9,8,2,0,166,241,25,10,9,2,4,101,285,30,4,1,3,1,6,11,29,Ontario County,Town of Phelps 2
+Ontario County,Town of Phelps 3,143,221,26,0,6,8,4,0,153,201,23,7,7,5,3,98,246,28,4,1,3,0,3,7,17,Ontario County,Town of Phelps 3
+Ontario County,Town of Phelps 4,173,253,31,0,11,5,1,0,187,237,28,13,13,3,0,119,273,36,4,3,6,1,1,8,33,Ontario County,Town of Phelps 4
+Ontario County,Town of Phelps 5,153,213,25,0,11,12,9,0,190,169,23,16,13,6,3,109,232,22,6,2,6,4,4,7,38,Ontario County,Town of Phelps 5
+Ontario County,Town of Phelps 6,126,223,34,0,6,4,0,0,138,206,22,8,12,0,1,95,250,18,0,2,4,0,1,6,23,Ontario County,Town of Phelps 6
+Ontario County,Town of Richmond 1,179,206,19,0,12,4,6,9,171,219,22,10,11,3,3,108,267,21,8,6,4,2,4,2,18,Ontario County,Town of Richmond 1
+Ontario County,Town of Richmond 2,185,216,39,0,7,1,1,5,168,227,40,8,3,1,3,124,257,39,4,2,3,1,3,3,19,Ontario County,Town of Richmond 2
+Ontario County,Town of Richmond 3,215,260,71,0,15,6,12,9,212,272,75,9,17,6,3,130,323,59,9,7,5,4,9,8,42,Ontario County,Town of Richmond 3
+Ontario County,Town of Seneca 1,87,141,31,0,4,0,6,0,94,135,26,5,4,4,1,50,166,32,3,0,2,1,2,6,11,Ontario County,Town of Seneca 1
+Ontario County,Town of Seneca 2,145,196,24,0,1,5,9,0,157,170,21,10,14,8,1,100,211,24,4,3,9,3,1,7,27,Ontario County,Town of Seneca 2
+Ontario County,Town of Seneca 3,149,200,31,0,9,10,9,0,180,172,30,8,11,4,4,119,233,31,5,2,4,2,2,3,18,Ontario County,Town of Seneca 3
+Ontario County,Town of South Bristol 1,211,114,33,0,7,4,0,8,184,144,35,4,12,1,2,145,162,39,4,1,8,0,4,5,9,Ontario County,Town of South Bristol 1
+Ontario County,Town of South Bristol 2,236,177,51,0,18,2,5,3,225,183,52,16,14,3,2,166,220,51,12,9,6,1,4,4,22,Ontario County,Town of South Bristol 2
+Ontario County,Town of Victor 1,271,221,27,0,4,5,5,10,264,243,28,3,6,4,2,198,272,25,5,3,6,3,4,9,18,Ontario County,Town of Victor 1
+Ontario County,Town of Victor 10,341,238,33,0,18,4,6,7,325,258,41,10,19,5,1,247,314,37,4,6,8,5,3,9,18,Ontario County,Town of Victor 10
+Ontario County,Town of Victor 11,186,167,24,0,5,3,2,2,192,171,21,3,5,1,1,156,203,22,1,1,4,2,1,0,5,Ontario County,Town of Victor 11
+Ontario County,Town of Victor 12,289,170,30,0,13,3,5,8,279,179,38,12,10,5,2,211,198,40,9,6,8,4,3,9,29,Ontario County,Town of Victor 12
+Ontario County,Town of Victor 2,307,314,40,0,11,7,6,14,286,338,49,9,13,2,2,213,367,47,10,6,12,2,3,9,16,Ontario County,Town of Victor 2
+Ontario County,Town of Victor 3,272,213,40,0,9,1,6,9,267,223,47,5,7,3,1,234,230,44,7,3,4,1,0,6,16,Ontario County,Town of Victor 3
+Ontario County,Town of Victor 4,238,156,34,0,6,5,5,8,231,169,45,4,7,4,2,179,198,42,11,1,2,3,2,10,10,Ontario County,Town of Victor 4
+Ontario County,Town of Victor 5,458,288,42,0,8,10,6,21,436,322,49,7,18,4,3,341,381,44,9,5,14,2,2,5,30,Ontario County,Town of Victor 5
+Ontario County,Town of Victor 6,293,253,42,0,12,1,7,8,279,272,47,4,12,9,2,211,304,44,6,2,7,6,4,7,28,Ontario County,Town of Victor 6
+Ontario County,Town of Victor 7,379,205,24,0,11,2,6,5,365,220,30,8,10,6,1,274,272,25,3,4,7,4,2,2,30,Ontario County,Town of Victor 7
+Ontario County,Town of Victor 8,358,193,21,0,12,5,4,5,350,206,25,12,8,4,2,269,229,23,10,7,7,2,5,8,24,Ontario County,Town of Victor 8
+Ontario County,Town of Victor 9,316,267,35,0,10,5,7,3,297,284,38,5,18,8,1,228,337,35,10,1,9,3,6,6,15,Ontario County,Town of Victor 9
+Ontario County,Town of West Bloomfield 1,227,261,56,0,14,5,5,9,205,281,63,12,12,4,4,154,315,63,3,4,7,1,3,7,17,Ontario County,Town of West Bloomfield 1
+Ontario County,Town of West Bloomfield 2,203,205,50,0,8,3,3,9,188,224,50,9,10,2,2,139,247,49,6,2,4,2,5,5,20,Ontario County,Town of West Bloomfield 2

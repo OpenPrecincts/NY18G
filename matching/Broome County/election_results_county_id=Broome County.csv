@@ -1,143 +1,143 @@
 county,precinct,HOR_DEM,HOR_REP,HOR_CON,HOR_GRE,HOR_WOR,HOR_IND,HOR_WEP,HOR_REF,Sen_DEM,Sen_REP,Sen_CON,Sen_WOR,Sen_IND,Sen_WEP,Sen_REF,Gov_DEM,Gov_REP,Gov_CON,Gov_GRE,Gov_WOR,Gov_IND,Gov_WEP,Gov_REF,Gov_SAM,Gov_LBT,county_id,original_precinct_name
-Broome County,City of Binghamton 1,286,115,17,0,13,17,7,2,286,115,16,11,13,8,4,243,135,14,14,7,8,3,5,7,12,Broome County,precinct
-Broome County,City of Binghamton 10,216,137,9,0,12,7,2,2,215,131,5,16,11,3,1,162,153,16,5,15,5,1,2,10,14,Broome County,precinct
-Broome County,City of Binghamton 11,222,104,11,0,20,10,5,2,204,101,13,19,12,6,1,172,128,14,14,16,5,6,1,5,12,Broome County,precinct
-Broome County,City of Binghamton 12,304,138,15,0,11,8,2,1,306,119,14,12,8,6,3,257,152,17,5,9,5,3,3,5,15,Broome County,precinct
-Broome County,City of Binghamton 13,308,130,19,0,26,22,2,2,306,127,23,27,17,5,4,251,161,25,13,19,12,4,6,4,12,Broome County,precinct
-Broome County,City of Binghamton 14,297,161,15,0,13,7,3,0,299,155,18,17,7,3,0,246,185,18,8,9,8,2,0,3,9,Broome County,precinct
-Broome County,City of Binghamton 15,310,104,15,0,25,10,3,0,292,104,16,22,9,3,3,258,126,20,12,13,3,4,3,3,5,Broome County,precinct
-Broome County,City of Binghamton 16,388,133,15,0,25,18,5,1,387,123,16,27,16,5,2,310,168,16,20,23,12,6,1,9,11,Broome County,precinct
-Broome County,City of Binghamton 17,340,106,18,0,30,11,7,0,333,101,16,26,13,10,0,284,126,19,24,19,5,6,1,7,16,Broome County,precinct
-Broome County,City of Binghamton 18,249,71,3,0,13,8,5,0,240,72,7,15,5,5,0,209,66,5,16,12,2,4,2,6,13,Broome County,precinct
-Broome County,City of Binghamton 19,434,65,6,0,23,4,5,0,416,70,5,18,4,7,4,389,74,4,16,16,3,7,1,11,8,Broome County,precinct
-Broome County,City of Binghamton 2,196,75,9,0,4,3,3,1,192,74,7,3,4,4,1,160,86,10,6,3,3,1,2,9,6,Broome County,precinct
-Broome County,City of Binghamton 20,319,183,23,0,21,12,4,3,321,168,23,21,12,8,1,252,212,22,15,16,6,4,8,9,12,Broome County,precinct
-Broome County,City of Binghamton 21,333,62,8,0,33,7,9,0,323,67,12,33,6,8,3,283,86,13,21,21,2,2,0,6,10,Broome County,precinct
-Broome County,City of Binghamton 22,233,26,3,0,13,3,5,0,224,34,4,13,2,5,1,194,36,3,15,13,3,5,0,5,6,Broome County,precinct
-Broome County,City of Binghamton 23,534,174,19,0,31,10,8,2,525,163,19,35,12,8,5,449,198,19,29,32,7,5,3,7,15,Broome County,precinct
-Broome County,City of Binghamton 24,318,216,31,0,17,8,4,3,322,204,30,15,9,2,4,252,256,32,2,13,6,4,4,12,11,Broome County,precinct
-Broome County,City of Binghamton 25,317,149,15,0,15,13,6,0,321,137,18,13,11,7,0,259,173,22,18,7,8,4,2,6,8,Broome County,precinct
-Broome County,City of Binghamton 26,322,157,18,0,22,11,5,1,327,142,16,20,11,4,8,253,180,18,10,11,11,6,2,7,21,Broome County,precinct
-Broome County,City of Binghamton 27,279,130,12,0,23,14,2,3,280,117,14,22,19,4,3,233,152,14,14,14,12,3,3,7,12,Broome County,precinct
-Broome County,City of Binghamton 28,290,115,9,0,14,10,1,1,281,107,11,11,6,3,2,212,142,15,7,9,7,2,3,6,17,Broome County,precinct
-Broome County,City of Binghamton 29,233,147,14,0,15,14,1,1,243,131,14,9,14,2,4,189,170,18,6,7,6,0,3,6,9,Broome County,precinct
-Broome County,City of Binghamton 3,165,96,13,0,24,14,2,1,165,94,13,22,13,6,1,145,104,12,9,15,8,2,5,2,11,Broome County,precinct
-Broome County,City of Binghamton 30,243,141,12,0,12,12,1,4,232,132,12,13,14,1,6,204,154,15,6,5,7,1,4,3,11,Broome County,precinct
-Broome County,City of Binghamton 31,262,168,24,0,13,15,2,3,260,157,28,12,13,5,2,211,188,27,6,10,6,2,1,5,12,Broome County,precinct
-Broome County,City of Binghamton 32,243,91,9,0,26,8,5,1,239,87,11,26,11,3,2,210,97,17,7,17,9,3,1,7,6,Broome County,precinct
-Broome County,City of Binghamton 4,189,104,7,0,23,8,4,4,177,107,9,21,11,3,2,159,114,9,6,19,4,2,5,5,5,Broome County,precinct
-Broome County,City of Binghamton 5,278,113,9,0,18,6,5,2,273,103,10,17,10,6,3,236,125,9,14,14,4,2,2,4,15,Broome County,precinct
-Broome County,City of Binghamton 6,224,99,7,0,40,16,1,1,206,98,7,39,18,4,0,187,116,8,10,30,11,3,1,2,10,Broome County,precinct
-Broome County,City of Binghamton 7,235,79,7,0,17,7,1,1,211,84,10,25,5,2,0,199,90,10,6,15,5,0,0,3,7,Broome County,precinct
-Broome County,City of Binghamton 8,191,82,11,0,32,15,6,1,184,83,12,29,15,4,3,160,94,11,12,26,10,7,1,2,7,Broome County,precinct
-Broome County,City of Binghamton 9,197,118,13,0,17,12,2,1,200,112,11,17,10,4,0,169,133,16,4,14,5,3,3,2,9,Broome County,precinct
-Broome County,TOTAL Town of Sanford,280,456,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Broome County,precinct
-Broome County,Town of Barker 1,150,257,33,0,6,11,3,1,158,238,34,9,14,1,2,108,266,33,3,4,8,0,4,5,20,Broome County,precinct
-Broome County,Town of Barker 2,157,333,34,0,8,14,1,1,158,311,33,13,10,5,4,104,340,34,10,4,8,2,6,8,18,Broome County,precinct
-Broome County,Town of Binghamton 1,389,364,35,0,20,10,2,1,401,339,33,22,13,1,2,329,384,43,12,19,3,1,4,5,12,Broome County,precinct
-Broome County,Town of Binghamton 2,345,337,20,0,15,6,6,2,339,316,23,18,10,5,1,246,392,28,15,6,3,0,1,5,25,Broome County,precinct
-Broome County,Town of Binghamton 3,294,400,36,0,10,8,2,1,294,373,34,13,15,3,2,194,460,40,8,7,6,3,5,5,10,Broome County,precinct
-Broome County,Town of Chenango 1,294,291,30,0,11,12,3,2,296,266,32,16,10,3,3,225,318,32,12,8,6,4,1,6,16,Broome County,precinct
-Broome County,Town of Chenango 2,286,279,24,0,10,12,6,0,301,261,22,9,15,4,2,219,315,27,7,7,7,3,1,9,14,Broome County,precinct
-Broome County,Town of Chenango 3,264,302,19,0,10,14,1,2,284,267,20,12,10,2,2,209,324,25,8,6,5,1,5,9,16,Broome County,precinct
-Broome County,Town of Chenango 4,256,316,12,0,11,19,2,1,249,304,17,13,23,1,2,190,350,23,6,8,12,0,3,3,17,Broome County,precinct
-Broome County,Town of Chenango 5,328,297,24,0,16,16,6,3,320,290,26,14,20,7,3,234,359,28,6,11,11,7,11,7,18,Broome County,precinct
-Broome County,Town of Chenango 6,380,277,29,0,11,13,3,2,366,267,33,13,15,4,3,297,319,34,11,4,10,1,4,7,15,Broome County,precinct
-Broome County,Town of Chenango 7,298,288,18,0,11,17,3,1,298,274,20,14,14,3,1,237,332,22,3,9,9,1,1,4,7,Broome County,precinct
-Broome County,Town of Chenango 8,316,242,18,0,8,14,2,2,296,243,18,9,11,5,3,237,297,24,7,6,6,4,2,4,10,Broome County,precinct
-Broome County,Town of Colesville 1,189,365,24,0,10,8,2,3,200,350,21,6,9,3,1,120,385,35,13,4,6,2,3,10,15,Broome County,precinct
-Broome County,Town of Colesville 2,177,373,32,0,13,11,1,1,179,349,33,21,9,4,1,114,397,36,6,8,4,2,8,5,25,Broome County,precinct
-Broome County,Town of Colesville 3,147,320,17,0,11,8,1,1,147,306,19,11,8,2,1,96,358,18,7,2,2,1,2,2,15,Broome County,precinct
-Broome County,Town of Conklin 1,196,271,21,0,12,9,3,3,196,251,26,9,17,7,3,133,308,26,9,9,5,1,1,9,21,Broome County,precinct
-Broome County,Town of Conklin 2,250,282,22,0,8,12,3,2,229,278,26,12,20,7,4,174,326,25,1,14,9,3,4,4,25,Broome County,precinct
-Broome County,Town of Conklin 3,209,309,26,0,8,5,0,6,216,296,27,12,6,0,1,151,335,29,11,1,3,0,5,10,12,Broome County,precinct
-Broome County,Town of Conklin 4,157,175,20,0,9,14,2,3,151,177,19,7,12,3,5,107,203,27,2,3,6,3,4,7,12,Broome County,precinct
-Broome County,Town of Dickinson 1,230,170,24,0,14,13,3,3,229,155,32,16,11,3,2,178,196,26,8,6,6,2,3,3,17,Broome County,precinct
-Broome County,Town of Dickinson 2,331,210,20,0,16,10,3,3,323,211,22,12,7,8,0,251,245,22,7,11,11,4,6,9,19,Broome County,precinct
-Broome County,Town of Dickinson 3,403,220,23,0,13,10,5,3,400,204,27,15,8,9,2,305,265,27,16,10,10,4,5,9,16,Broome County,precinct
-Broome County,Town of Dickinson 4,80,80,8,0,3,5,1,0,81,74,9,3,5,1,3,58,90,11,2,1,1,0,3,0,7,Broome County,precinct
-Broome County,Town of Fenton 1,209,150,10,0,9,9,2,2,201,150,12,7,9,4,2,129,192,19,5,4,5,2,7,7,16,Broome County,precinct
-Broome County,Town of Fenton 2,195,139,9,0,2,9,2,0,190,134,7,2,8,2,0,148,170,14,7,2,7,1,1,1,7,Broome County,precinct
-Broome County,Town of Fenton 3,200,183,12,0,11,15,3,0,199,179,17,8,15,3,1,133,224,20,7,4,4,3,3,4,17,Broome County,precinct
-Broome County,Town of Fenton 4,196,226,26,0,16,12,4,2,188,218,26,12,16,4,2,131,245,36,10,3,7,1,7,3,18,Broome County,precinct
-Broome County,Town of Fenton 5,202,289,40,0,6,4,2,2,208,279,36,5,8,2,2,147,323,38,5,1,3,2,1,6,13,Broome County,precinct
-Broome County,Town of Fenton 6,203,287,23,0,8,7,0,1,216,268,20,8,11,2,1,159,309,18,7,2,2,2,3,4,18,Broome County,precinct
-Broome County,Town of Kirkwood 1,248,318,21,0,13,13,4,0,265,296,21,17,11,5,2,176,371,30,7,9,6,4,5,3,9,Broome County,precinct
-Broome County,Town of Kirkwood 2,215,287,23,0,10,10,6,1,210,284,20,15,13,5,6,153,315,25,8,4,8,3,3,6,25,Broome County,precinct
-Broome County,Town of Kirkwood 3,217,235,15,0,9,8,1,2,200,231,16,9,11,2,1,153,264,18,11,5,5,1,1,2,16,Broome County,precinct
-Broome County,Town of Kirkwood 4,179,300,15,0,7,8,2,0,180,278,17,6,12,2,4,119,317,25,4,3,4,2,4,5,16,Broome County,precinct
-Broome County,Town of Lisle 1,143,278,33,0,5,10,2,1,149,259,33,6,8,6,2,98,291,33,5,1,3,2,5,4,19,Broome County,precinct
-Broome County,Town of Lisle 2,139,214,19,0,8,5,0,2,148,196,15,8,6,1,0,90,240,25,4,1,2,0,3,2,11,Broome County,precinct
-Broome County,Town of Maine 1,194,241,28,0,7,4,1,2,192,238,25,6,8,3,0,144,273,28,3,4,3,1,7,8,7,Broome County,precinct
-Broome County,Town of Maine 2,251,307,35,0,13,10,3,0,246,287,44,18,8,0,2,179,334,48,6,6,5,1,3,8,21,Broome County,precinct
-Broome County,Town of Maine 3,230,270,34,0,11,15,3,1,238,258,39,10,9,3,2,174,309,41,7,5,5,0,6,3,10,Broome County,precinct
-Broome County,Town of Maine 4,211,238,28,0,7,16,3,1,210,225,27,12,13,3,0,149,277,30,4,5,4,2,4,3,16,Broome County,precinct
-Broome County,Town of Nanticoke 1,152,342,29,0,13,6,3,3,159,311,28,20,9,4,1,97,361,30,12,2,6,3,4,1,21,Broome County,precinct
-Broome County,Town of Sanford 1,10,18,3,0,0,1,0,0,10,17,2,0,3,1,0,7,22,1,0,0,1,0,0,0,0,Broome County,precinct
-Broome County,Town of Sanford 2,107,226,15,2,5,1,5,0,109,223,16,6,7,1,1,75,246,19,2,2,2,0,1,1,12,Broome County,precinct
-Broome County,Town of Sanford 3,173,230,15,7,18,5,6,1,177,225,15,18,7,3,4,126,260,22,7,6,3,2,9,4,14,Broome County,precinct
-Broome County,Town of Triangle 1,206,209,20,0,5,6,1,2,199,199,20,6,9,2,1,130,246,20,7,4,5,1,4,10,20,Broome County,precinct
-Broome County,Town of Triangle 2,200,322,24,0,12,9,2,1,196,304,25,12,14,3,1,141,354,28,7,1,3,0,3,6,16,Broome County,precinct
-Broome County,Town of Union 1,290,175,16,0,12,8,4,1,296,166,20,9,10,5,1,247,194,19,11,9,3,3,3,4,14,Broome County,precinct
-Broome County,Town of Union 10,257,207,27,0,6,11,5,0,252,201,26,6,11,4,2,204,242,28,7,2,9,2,1,3,5,Broome County,precinct
-Broome County,Town of Union 11,163,143,12,0,4,9,3,3,170,129,10,6,11,4,2,122,163,21,4,0,6,3,1,4,14,Broome County,precinct
-Broome County,Town of Union 12,259,195,14,0,14,14,3,1,265,175,18,13,14,5,2,200,218,20,8,9,6,2,1,7,21,Broome County,precinct
-Broome County,Town of Union 13,269,149,13,0,13,13,3,2,269,140,17,13,15,3,2,215,170,20,12,11,6,1,3,4,24,Broome County,precinct
-Broome County,Town of Union 14,231,179,16,0,13,9,4,2,225,169,19,17,10,3,2,168,207,19,8,12,4,2,4,5,20,Broome County,precinct
-Broome County,Town of Union 15,296,199,14,0,9,10,2,5,289,187,19,13,8,5,2,232,227,17,18,5,6,2,3,7,13,Broome County,precinct
-Broome County,Town of Union 16,261,113,11,0,12,5,5,1,248,110,18,13,7,5,2,214,131,15,7,8,4,1,3,6,13,Broome County,precinct
-Broome County,Town of Union 17,266,170,20,0,11,15,8,1,256,158,13,19,13,7,4,210,199,23,8,10,8,7,0,5,8,Broome County,precinct
-Broome County,Town of Union 18,329,200,20,0,13,16,1,5,342,182,19,13,18,4,3,269,220,29,9,9,9,2,3,6,22,Broome County,precinct
-Broome County,Town of Union 19,267,249,37,0,15,7,1,6,265,248,34,15,6,3,6,185,301,42,7,4,4,3,4,4,17,Broome County,precinct
-Broome County,Town of Union 2,288,180,18,0,14,12,8,3,273,182,17,16,10,7,3,224,210,23,12,9,9,5,5,4,16,Broome County,precinct
-Broome County,Town of Union 20,346,237,22,0,6,15,3,2,352,216,22,5,19,4,4,286,254,20,16,3,11,3,4,10,18,Broome County,precinct
-Broome County,Town of Union 21,338,238,42,0,15,13,3,3,340,235,37,16,14,2,4,262,296,40,11,7,9,0,3,4,20,Broome County,precinct
-Broome County,Town of Union 22,288,277,23,0,8,12,2,2,297,255,23,10,13,2,4,222,310,28,10,6,6,2,0,9,12,Broome County,precinct
-Broome County,Town of Union 23,328,224,11,0,15,21,3,1,331,209,14,11,19,7,4,246,268,22,10,4,12,2,8,4,25,Broome County,precinct
-Broome County,Town of Union 24,291,274,24,0,6,9,2,3,286,264,29,7,8,3,2,219,328,25,3,4,6,1,5,0,9,Broome County,precinct
-Broome County,Town of Union 25,303,215,19,0,10,19,4,2,295,207,16,12,15,5,3,232,251,22,10,5,16,2,3,4,14,Broome County,precinct
-Broome County,Town of Union 26,359,299,34,0,10,22,6,1,352,291,39,13,20,10,2,251,358,43,11,6,14,8,9,13,14,Broome County,precinct
-Broome County,Town of Union 27,327,214,28,0,3,14,7,1,332,194,31,6,9,9,3,258,236,29,7,4,8,1,4,10,25,Broome County,precinct
-Broome County,Town of Union 28,368,233,18,0,8,16,2,1,383,212,16,11,15,2,5,311,260,18,3,8,13,2,6,7,9,Broome County,precinct
-Broome County,Town of Union 29,325,221,28,0,5,26,5,2,325,220,28,6,23,7,1,274,253,29,3,3,14,8,6,6,8,Broome County,precinct
-Broome County,Town of Union 3,277,236,21,0,7,8,1,3,271,214,25,7,8,3,3,207,257,28,7,6,6,0,6,6,16,Broome County,precinct
-Broome County,Town of Union 30,266,228,23,0,4,8,3,2,284,208,25,8,9,1,1,221,259,30,9,3,5,1,2,7,2,Broome County,precinct
-Broome County,Town of Union 31,296,201,20,0,10,11,4,7,286,195,20,19,13,5,7,221,239,24,9,7,6,5,7,8,16,Broome County,precinct
-Broome County,Town of Union 32,259,156,22,0,9,16,1,0,246,167,20,14,17,2,0,202,208,16,6,5,8,3,0,6,10,Broome County,precinct
-Broome County,Town of Union 33,284,174,15,0,14,13,3,2,279,177,22,10,10,5,3,232,191,27,7,6,7,2,6,6,17,Broome County,precinct
-Broome County,Town of Union 34,280,251,21,0,6,9,4,1,272,238,22,9,11,4,3,206,302,24,8,6,7,5,2,6,9,Broome County,precinct
-Broome County,Town of Union 35,277,203,27,0,9,11,4,1,287,189,22,8,12,7,3,220,223,26,11,5,10,1,6,7,19,Broome County,precinct
-Broome County,Town of Union 36,339,259,35,0,20,18,5,2,347,250,35,14,17,6,3,276,288,38,11,6,11,7,5,3,24,Broome County,precinct
-Broome County,Town of Union 37,360,319,31,0,8,17,4,1,364,309,39,8,17,2,1,294,371,31,6,3,13,2,0,2,18,Broome County,precinct
-Broome County,Town of Union 38,384,300,19,0,9,16,5,2,391,289,28,8,11,6,3,307,334,27,12,10,8,5,4,7,10,Broome County,precinct
-Broome County,Town of Union 39,172,112,7,0,6,5,0,3,178,98,9,10,3,2,4,135,130,8,6,2,1,2,1,2,11,Broome County,precinct
-Broome County,Town of Union 4,249,141,17,0,10,8,5,3,244,136,18,11,6,4,3,214,147,21,8,6,4,3,5,6,9,Broome County,precinct
-Broome County,Town of Union 5,204,107,20,0,9,11,1,1,187,101,20,17,9,4,6,161,116,21,5,8,8,4,6,6,16,Broome County,precinct
-Broome County,Town of Union 6,234,166,11,0,8,9,3,6,232,155,12,8,10,6,3,171,203,11,9,4,4,2,5,6,12,Broome County,precinct
-Broome County,Town of Union 7,284,182,28,0,9,11,4,2,281,178,26,12,10,5,4,217,226,25,11,7,4,4,2,11,14,Broome County,precinct
-Broome County,Town of Union 8,161,126,17,0,12,8,3,0,164,122,13,13,9,3,3,126,138,13,8,4,4,2,2,9,23,Broome County,precinct
-Broome County,Town of Union 9,278,195,29,0,4,14,0,1,281,180,33,4,14,3,1,224,222,24,5,3,11,0,4,6,14,Broome County,precinct
-Broome County,Town of Vestal 1,243,252,31,0,11,9,7,2,234,245,28,12,8,9,4,198,261,37,3,14,7,3,5,5,19,Broome County,precinct
-Broome County,Town of Vestal 10,259,156,17,0,19,8,4,1,258,156,17,17,5,3,4,227,172,22,12,11,4,4,1,5,5,Broome County,precinct
-Broome County,Town of Vestal 11,343,28,4,0,5,3,9,1,333,34,2,7,5,7,1,280,36,3,35,5,2,6,1,10,9,Broome County,precinct
-Broome County,Town of Vestal 12,438,84,4,0,7,6,4,0,434,82,6,5,7,4,0,378,93,5,30,4,3,6,1,12,10,Broome County,precinct
-Broome County,Town of Vestal 13,415,62,6,0,8,2,7,0,403,62,5,11,3,8,2,353,69,3,38,7,2,6,3,6,8,Broome County,precinct
-Broome County,Town of Vestal 14,262,358,42,0,14,10,5,1,264,331,43,21,17,8,4,181,404,44,9,12,9,6,3,4,22,Broome County,precinct
-Broome County,Town of Vestal 15,320,310,36,0,17,16,6,2,327,294,33,20,17,5,3,249,351,40,9,14,7,4,7,9,16,Broome County,precinct
-Broome County,Town of Vestal 16,310,226,20,0,12,7,4,0,307,222,21,13,8,5,0,257,263,21,1,9,7,4,1,3,5,Broome County,precinct
-Broome County,Town of Vestal 17,227,157,15,0,3,10,2,4,225,151,13,10,9,2,5,181,178,15,1,3,9,2,3,3,10,Broome County,precinct
-Broome County,Town of Vestal 18,200,264,26,0,15,17,3,0,199,249,24,19,19,5,6,141,287,31,11,10,8,4,3,6,24,Broome County,precinct
-Broome County,Town of Vestal 19,371,201,18,0,15,7,2,1,383,186,19,18,5,1,0,311,219,22,12,10,5,2,4,5,13,Broome County,precinct
-Broome County,Town of Vestal 2,381,278,22,0,20,17,5,1,371,283,21,20,14,9,2,289,332,26,11,13,7,5,7,7,19,Broome County,precinct
-Broome County,Town of Vestal 3,185,166,26,0,8,5,1,0,195,145,26,11,5,3,2,135,179,34,7,4,3,1,5,6,13,Broome County,precinct
-Broome County,Town of Vestal 4,324,186,15,0,12,9,3,1,326,172,16,10,5,7,2,275,207,17,10,6,5,2,2,4,8,Broome County,precinct
-Broome County,Town of Vestal 5,523,220,17,0,10,9,2,2,513,215,21,16,11,6,1,455,239,19,14,9,10,4,4,11,22,Broome County,precinct
-Broome County,Town of Vestal 6,371,254,25,0,19,25,7,2,371,246,35,18,23,6,2,287,310,33,16,12,14,2,2,7,10,Broome County,precinct
-Broome County,Town of Vestal 7,349,242,34,0,16,20,3,3,341,237,34,18,21,2,2,269,295,34,16,13,17,0,3,4,13,Broome County,precinct
-Broome County,Town of Vestal 8,359,254,28,0,19,10,7,3,350,259,30,17,9,6,2,286,302,27,10,10,4,7,3,3,15,Broome County,precinct
-Broome County,Town of Vestal 9,363,198,23,0,16,17,3,3,348,204,22,16,17,8,3,318,233,20,5,11,11,4,1,2,9,Broome County,precinct
-Broome County,Town of Windsor 1,242,307,21,0,13,13,5,0,239,300,21,14,17,6,1,151,344,26,7,9,13,2,2,10,38,Broome County,precinct
-Broome County,Town of Windsor 2,140,267,25,0,11,6,1,0,132,253,23,16,9,2,2,95,275,25,7,4,4,2,8,6,12,Broome County,precinct
-Broome County,Town of Windsor 3,149,300,22,0,10,8,2,4,161,285,20,9,9,1,3,104,305,23,10,6,6,1,4,6,26,Broome County,precinct
-Broome County,Town of Windsor 4,158,155,9,0,9,13,0,1,152,150,6,14,10,3,3,95,170,15,6,5,10,2,3,9,20,Broome County,precinct
-Broome County,Town of Windsor 5,168,268,24,0,9,13,1,2,159,261,23,9,13,1,2,94,304,25,12,3,6,1,2,8,22,Broome County,precinct
+Broome County,City of Binghamton 1,286,115,17,0,13,17,7,2,286,115,16,11,13,8,4,243,135,14,14,7,8,3,5,7,12,Broome County,City of Binghamton 1
+Broome County,City of Binghamton 10,216,137,9,0,12,7,2,2,215,131,5,16,11,3,1,162,153,16,5,15,5,1,2,10,14,Broome County,City of Binghamton 10
+Broome County,City of Binghamton 11,222,104,11,0,20,10,5,2,204,101,13,19,12,6,1,172,128,14,14,16,5,6,1,5,12,Broome County,City of Binghamton 11
+Broome County,City of Binghamton 12,304,138,15,0,11,8,2,1,306,119,14,12,8,6,3,257,152,17,5,9,5,3,3,5,15,Broome County,City of Binghamton 12
+Broome County,City of Binghamton 13,308,130,19,0,26,22,2,2,306,127,23,27,17,5,4,251,161,25,13,19,12,4,6,4,12,Broome County,City of Binghamton 13
+Broome County,City of Binghamton 14,297,161,15,0,13,7,3,0,299,155,18,17,7,3,0,246,185,18,8,9,8,2,0,3,9,Broome County,City of Binghamton 14
+Broome County,City of Binghamton 15,310,104,15,0,25,10,3,0,292,104,16,22,9,3,3,258,126,20,12,13,3,4,3,3,5,Broome County,City of Binghamton 15
+Broome County,City of Binghamton 16,388,133,15,0,25,18,5,1,387,123,16,27,16,5,2,310,168,16,20,23,12,6,1,9,11,Broome County,City of Binghamton 16
+Broome County,City of Binghamton 17,340,106,18,0,30,11,7,0,333,101,16,26,13,10,0,284,126,19,24,19,5,6,1,7,16,Broome County,City of Binghamton 17
+Broome County,City of Binghamton 18,249,71,3,0,13,8,5,0,240,72,7,15,5,5,0,209,66,5,16,12,2,4,2,6,13,Broome County,City of Binghamton 18
+Broome County,City of Binghamton 19,434,65,6,0,23,4,5,0,416,70,5,18,4,7,4,389,74,4,16,16,3,7,1,11,8,Broome County,City of Binghamton 19
+Broome County,City of Binghamton 2,196,75,9,0,4,3,3,1,192,74,7,3,4,4,1,160,86,10,6,3,3,1,2,9,6,Broome County,City of Binghamton 2
+Broome County,City of Binghamton 20,319,183,23,0,21,12,4,3,321,168,23,21,12,8,1,252,212,22,15,16,6,4,8,9,12,Broome County,City of Binghamton 20
+Broome County,City of Binghamton 21,333,62,8,0,33,7,9,0,323,67,12,33,6,8,3,283,86,13,21,21,2,2,0,6,10,Broome County,City of Binghamton 21
+Broome County,City of Binghamton 22,233,26,3,0,13,3,5,0,224,34,4,13,2,5,1,194,36,3,15,13,3,5,0,5,6,Broome County,City of Binghamton 22
+Broome County,City of Binghamton 23,534,174,19,0,31,10,8,2,525,163,19,35,12,8,5,449,198,19,29,32,7,5,3,7,15,Broome County,City of Binghamton 23
+Broome County,City of Binghamton 24,318,216,31,0,17,8,4,3,322,204,30,15,9,2,4,252,256,32,2,13,6,4,4,12,11,Broome County,City of Binghamton 24
+Broome County,City of Binghamton 25,317,149,15,0,15,13,6,0,321,137,18,13,11,7,0,259,173,22,18,7,8,4,2,6,8,Broome County,City of Binghamton 25
+Broome County,City of Binghamton 26,322,157,18,0,22,11,5,1,327,142,16,20,11,4,8,253,180,18,10,11,11,6,2,7,21,Broome County,City of Binghamton 26
+Broome County,City of Binghamton 27,279,130,12,0,23,14,2,3,280,117,14,22,19,4,3,233,152,14,14,14,12,3,3,7,12,Broome County,City of Binghamton 27
+Broome County,City of Binghamton 28,290,115,9,0,14,10,1,1,281,107,11,11,6,3,2,212,142,15,7,9,7,2,3,6,17,Broome County,City of Binghamton 28
+Broome County,City of Binghamton 29,233,147,14,0,15,14,1,1,243,131,14,9,14,2,4,189,170,18,6,7,6,0,3,6,9,Broome County,City of Binghamton 29
+Broome County,City of Binghamton 3,165,96,13,0,24,14,2,1,165,94,13,22,13,6,1,145,104,12,9,15,8,2,5,2,11,Broome County,City of Binghamton 3
+Broome County,City of Binghamton 30,243,141,12,0,12,12,1,4,232,132,12,13,14,1,6,204,154,15,6,5,7,1,4,3,11,Broome County,City of Binghamton 30
+Broome County,City of Binghamton 31,262,168,24,0,13,15,2,3,260,157,28,12,13,5,2,211,188,27,6,10,6,2,1,5,12,Broome County,City of Binghamton 31
+Broome County,City of Binghamton 32,243,91,9,0,26,8,5,1,239,87,11,26,11,3,2,210,97,17,7,17,9,3,1,7,6,Broome County,City of Binghamton 32
+Broome County,City of Binghamton 4,189,104,7,0,23,8,4,4,177,107,9,21,11,3,2,159,114,9,6,19,4,2,5,5,5,Broome County,City of Binghamton 4
+Broome County,City of Binghamton 5,278,113,9,0,18,6,5,2,273,103,10,17,10,6,3,236,125,9,14,14,4,2,2,4,15,Broome County,City of Binghamton 5
+Broome County,City of Binghamton 6,224,99,7,0,40,16,1,1,206,98,7,39,18,4,0,187,116,8,10,30,11,3,1,2,10,Broome County,City of Binghamton 6
+Broome County,City of Binghamton 7,235,79,7,0,17,7,1,1,211,84,10,25,5,2,0,199,90,10,6,15,5,0,0,3,7,Broome County,City of Binghamton 7
+Broome County,City of Binghamton 8,191,82,11,0,32,15,6,1,184,83,12,29,15,4,3,160,94,11,12,26,10,7,1,2,7,Broome County,City of Binghamton 8
+Broome County,City of Binghamton 9,197,118,13,0,17,12,2,1,200,112,11,17,10,4,0,169,133,16,4,14,5,3,3,2,9,Broome County,City of Binghamton 9
+Broome County,TOTAL Town of Sanford,280,456,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Broome County,TOTAL Town of Sanford
+Broome County,Town of Barker 1,150,257,33,0,6,11,3,1,158,238,34,9,14,1,2,108,266,33,3,4,8,0,4,5,20,Broome County,Town of Barker 1
+Broome County,Town of Barker 2,157,333,34,0,8,14,1,1,158,311,33,13,10,5,4,104,340,34,10,4,8,2,6,8,18,Broome County,Town of Barker 2
+Broome County,Town of Binghamton 1,389,364,35,0,20,10,2,1,401,339,33,22,13,1,2,329,384,43,12,19,3,1,4,5,12,Broome County,Town of Binghamton 1
+Broome County,Town of Binghamton 2,345,337,20,0,15,6,6,2,339,316,23,18,10,5,1,246,392,28,15,6,3,0,1,5,25,Broome County,Town of Binghamton 2
+Broome County,Town of Binghamton 3,294,400,36,0,10,8,2,1,294,373,34,13,15,3,2,194,460,40,8,7,6,3,5,5,10,Broome County,Town of Binghamton 3
+Broome County,Town of Chenango 1,294,291,30,0,11,12,3,2,296,266,32,16,10,3,3,225,318,32,12,8,6,4,1,6,16,Broome County,Town of Chenango 1
+Broome County,Town of Chenango 2,286,279,24,0,10,12,6,0,301,261,22,9,15,4,2,219,315,27,7,7,7,3,1,9,14,Broome County,Town of Chenango 2
+Broome County,Town of Chenango 3,264,302,19,0,10,14,1,2,284,267,20,12,10,2,2,209,324,25,8,6,5,1,5,9,16,Broome County,Town of Chenango 3
+Broome County,Town of Chenango 4,256,316,12,0,11,19,2,1,249,304,17,13,23,1,2,190,350,23,6,8,12,0,3,3,17,Broome County,Town of Chenango 4
+Broome County,Town of Chenango 5,328,297,24,0,16,16,6,3,320,290,26,14,20,7,3,234,359,28,6,11,11,7,11,7,18,Broome County,Town of Chenango 5
+Broome County,Town of Chenango 6,380,277,29,0,11,13,3,2,366,267,33,13,15,4,3,297,319,34,11,4,10,1,4,7,15,Broome County,Town of Chenango 6
+Broome County,Town of Chenango 7,298,288,18,0,11,17,3,1,298,274,20,14,14,3,1,237,332,22,3,9,9,1,1,4,7,Broome County,Town of Chenango 7
+Broome County,Town of Chenango 8,316,242,18,0,8,14,2,2,296,243,18,9,11,5,3,237,297,24,7,6,6,4,2,4,10,Broome County,Town of Chenango 8
+Broome County,Town of Colesville 1,189,365,24,0,10,8,2,3,200,350,21,6,9,3,1,120,385,35,13,4,6,2,3,10,15,Broome County,Town of Colesville 1
+Broome County,Town of Colesville 2,177,373,32,0,13,11,1,1,179,349,33,21,9,4,1,114,397,36,6,8,4,2,8,5,25,Broome County,Town of Colesville 2
+Broome County,Town of Colesville 3,147,320,17,0,11,8,1,1,147,306,19,11,8,2,1,96,358,18,7,2,2,1,2,2,15,Broome County,Town of Colesville 3
+Broome County,Town of Conklin 1,196,271,21,0,12,9,3,3,196,251,26,9,17,7,3,133,308,26,9,9,5,1,1,9,21,Broome County,Town of Conklin 1
+Broome County,Town of Conklin 2,250,282,22,0,8,12,3,2,229,278,26,12,20,7,4,174,326,25,1,14,9,3,4,4,25,Broome County,Town of Conklin 2
+Broome County,Town of Conklin 3,209,309,26,0,8,5,0,6,216,296,27,12,6,0,1,151,335,29,11,1,3,0,5,10,12,Broome County,Town of Conklin 3
+Broome County,Town of Conklin 4,157,175,20,0,9,14,2,3,151,177,19,7,12,3,5,107,203,27,2,3,6,3,4,7,12,Broome County,Town of Conklin 4
+Broome County,Town of Dickinson 1,230,170,24,0,14,13,3,3,229,155,32,16,11,3,2,178,196,26,8,6,6,2,3,3,17,Broome County,Town of Dickinson 1
+Broome County,Town of Dickinson 2,331,210,20,0,16,10,3,3,323,211,22,12,7,8,0,251,245,22,7,11,11,4,6,9,19,Broome County,Town of Dickinson 2
+Broome County,Town of Dickinson 3,403,220,23,0,13,10,5,3,400,204,27,15,8,9,2,305,265,27,16,10,10,4,5,9,16,Broome County,Town of Dickinson 3
+Broome County,Town of Dickinson 4,80,80,8,0,3,5,1,0,81,74,9,3,5,1,3,58,90,11,2,1,1,0,3,0,7,Broome County,Town of Dickinson 4
+Broome County,Town of Fenton 1,209,150,10,0,9,9,2,2,201,150,12,7,9,4,2,129,192,19,5,4,5,2,7,7,16,Broome County,Town of Fenton 1
+Broome County,Town of Fenton 2,195,139,9,0,2,9,2,0,190,134,7,2,8,2,0,148,170,14,7,2,7,1,1,1,7,Broome County,Town of Fenton 2
+Broome County,Town of Fenton 3,200,183,12,0,11,15,3,0,199,179,17,8,15,3,1,133,224,20,7,4,4,3,3,4,17,Broome County,Town of Fenton 3
+Broome County,Town of Fenton 4,196,226,26,0,16,12,4,2,188,218,26,12,16,4,2,131,245,36,10,3,7,1,7,3,18,Broome County,Town of Fenton 4
+Broome County,Town of Fenton 5,202,289,40,0,6,4,2,2,208,279,36,5,8,2,2,147,323,38,5,1,3,2,1,6,13,Broome County,Town of Fenton 5
+Broome County,Town of Fenton 6,203,287,23,0,8,7,0,1,216,268,20,8,11,2,1,159,309,18,7,2,2,2,3,4,18,Broome County,Town of Fenton 6
+Broome County,Town of Kirkwood 1,248,318,21,0,13,13,4,0,265,296,21,17,11,5,2,176,371,30,7,9,6,4,5,3,9,Broome County,Town of Kirkwood 1
+Broome County,Town of Kirkwood 2,215,287,23,0,10,10,6,1,210,284,20,15,13,5,6,153,315,25,8,4,8,3,3,6,25,Broome County,Town of Kirkwood 2
+Broome County,Town of Kirkwood 3,217,235,15,0,9,8,1,2,200,231,16,9,11,2,1,153,264,18,11,5,5,1,1,2,16,Broome County,Town of Kirkwood 3
+Broome County,Town of Kirkwood 4,179,300,15,0,7,8,2,0,180,278,17,6,12,2,4,119,317,25,4,3,4,2,4,5,16,Broome County,Town of Kirkwood 4
+Broome County,Town of Lisle 1,143,278,33,0,5,10,2,1,149,259,33,6,8,6,2,98,291,33,5,1,3,2,5,4,19,Broome County,Town of Lisle 1
+Broome County,Town of Lisle 2,139,214,19,0,8,5,0,2,148,196,15,8,6,1,0,90,240,25,4,1,2,0,3,2,11,Broome County,Town of Lisle 2
+Broome County,Town of Maine 1,194,241,28,0,7,4,1,2,192,238,25,6,8,3,0,144,273,28,3,4,3,1,7,8,7,Broome County,Town of Maine 1
+Broome County,Town of Maine 2,251,307,35,0,13,10,3,0,246,287,44,18,8,0,2,179,334,48,6,6,5,1,3,8,21,Broome County,Town of Maine 2
+Broome County,Town of Maine 3,230,270,34,0,11,15,3,1,238,258,39,10,9,3,2,174,309,41,7,5,5,0,6,3,10,Broome County,Town of Maine 3
+Broome County,Town of Maine 4,211,238,28,0,7,16,3,1,210,225,27,12,13,3,0,149,277,30,4,5,4,2,4,3,16,Broome County,Town of Maine 4
+Broome County,Town of Nanticoke 1,152,342,29,0,13,6,3,3,159,311,28,20,9,4,1,97,361,30,12,2,6,3,4,1,21,Broome County,Town of Nanticoke 1
+Broome County,Town of Sanford 1,10,18,3,0,0,1,0,0,10,17,2,0,3,1,0,7,22,1,0,0,1,0,0,0,0,Broome County,Town of Sanford 1
+Broome County,Town of Sanford 2,107,226,15,2,5,1,5,0,109,223,16,6,7,1,1,75,246,19,2,2,2,0,1,1,12,Broome County,Town of Sanford 2
+Broome County,Town of Sanford 3,173,230,15,7,18,5,6,1,177,225,15,18,7,3,4,126,260,22,7,6,3,2,9,4,14,Broome County,Town of Sanford 3
+Broome County,Town of Triangle 1,206,209,20,0,5,6,1,2,199,199,20,6,9,2,1,130,246,20,7,4,5,1,4,10,20,Broome County,Town of Triangle 1
+Broome County,Town of Triangle 2,200,322,24,0,12,9,2,1,196,304,25,12,14,3,1,141,354,28,7,1,3,0,3,6,16,Broome County,Town of Triangle 2
+Broome County,Town of Union 1,290,175,16,0,12,8,4,1,296,166,20,9,10,5,1,247,194,19,11,9,3,3,3,4,14,Broome County,Town of Union 1
+Broome County,Town of Union 10,257,207,27,0,6,11,5,0,252,201,26,6,11,4,2,204,242,28,7,2,9,2,1,3,5,Broome County,Town of Union 10
+Broome County,Town of Union 11,163,143,12,0,4,9,3,3,170,129,10,6,11,4,2,122,163,21,4,0,6,3,1,4,14,Broome County,Town of Union 11
+Broome County,Town of Union 12,259,195,14,0,14,14,3,1,265,175,18,13,14,5,2,200,218,20,8,9,6,2,1,7,21,Broome County,Town of Union 12
+Broome County,Town of Union 13,269,149,13,0,13,13,3,2,269,140,17,13,15,3,2,215,170,20,12,11,6,1,3,4,24,Broome County,Town of Union 13
+Broome County,Town of Union 14,231,179,16,0,13,9,4,2,225,169,19,17,10,3,2,168,207,19,8,12,4,2,4,5,20,Broome County,Town of Union 14
+Broome County,Town of Union 15,296,199,14,0,9,10,2,5,289,187,19,13,8,5,2,232,227,17,18,5,6,2,3,7,13,Broome County,Town of Union 15
+Broome County,Town of Union 16,261,113,11,0,12,5,5,1,248,110,18,13,7,5,2,214,131,15,7,8,4,1,3,6,13,Broome County,Town of Union 16
+Broome County,Town of Union 17,266,170,20,0,11,15,8,1,256,158,13,19,13,7,4,210,199,23,8,10,8,7,0,5,8,Broome County,Town of Union 17
+Broome County,Town of Union 18,329,200,20,0,13,16,1,5,342,182,19,13,18,4,3,269,220,29,9,9,9,2,3,6,22,Broome County,Town of Union 18
+Broome County,Town of Union 19,267,249,37,0,15,7,1,6,265,248,34,15,6,3,6,185,301,42,7,4,4,3,4,4,17,Broome County,Town of Union 19
+Broome County,Town of Union 2,288,180,18,0,14,12,8,3,273,182,17,16,10,7,3,224,210,23,12,9,9,5,5,4,16,Broome County,Town of Union 2
+Broome County,Town of Union 20,346,237,22,0,6,15,3,2,352,216,22,5,19,4,4,286,254,20,16,3,11,3,4,10,18,Broome County,Town of Union 20
+Broome County,Town of Union 21,338,238,42,0,15,13,3,3,340,235,37,16,14,2,4,262,296,40,11,7,9,0,3,4,20,Broome County,Town of Union 21
+Broome County,Town of Union 22,288,277,23,0,8,12,2,2,297,255,23,10,13,2,4,222,310,28,10,6,6,2,0,9,12,Broome County,Town of Union 22
+Broome County,Town of Union 23,328,224,11,0,15,21,3,1,331,209,14,11,19,7,4,246,268,22,10,4,12,2,8,4,25,Broome County,Town of Union 23
+Broome County,Town of Union 24,291,274,24,0,6,9,2,3,286,264,29,7,8,3,2,219,328,25,3,4,6,1,5,0,9,Broome County,Town of Union 24
+Broome County,Town of Union 25,303,215,19,0,10,19,4,2,295,207,16,12,15,5,3,232,251,22,10,5,16,2,3,4,14,Broome County,Town of Union 25
+Broome County,Town of Union 26,359,299,34,0,10,22,6,1,352,291,39,13,20,10,2,251,358,43,11,6,14,8,9,13,14,Broome County,Town of Union 26
+Broome County,Town of Union 27,327,214,28,0,3,14,7,1,332,194,31,6,9,9,3,258,236,29,7,4,8,1,4,10,25,Broome County,Town of Union 27
+Broome County,Town of Union 28,368,233,18,0,8,16,2,1,383,212,16,11,15,2,5,311,260,18,3,8,13,2,6,7,9,Broome County,Town of Union 28
+Broome County,Town of Union 29,325,221,28,0,5,26,5,2,325,220,28,6,23,7,1,274,253,29,3,3,14,8,6,6,8,Broome County,Town of Union 29
+Broome County,Town of Union 3,277,236,21,0,7,8,1,3,271,214,25,7,8,3,3,207,257,28,7,6,6,0,6,6,16,Broome County,Town of Union 3
+Broome County,Town of Union 30,266,228,23,0,4,8,3,2,284,208,25,8,9,1,1,221,259,30,9,3,5,1,2,7,2,Broome County,Town of Union 30
+Broome County,Town of Union 31,296,201,20,0,10,11,4,7,286,195,20,19,13,5,7,221,239,24,9,7,6,5,7,8,16,Broome County,Town of Union 31
+Broome County,Town of Union 32,259,156,22,0,9,16,1,0,246,167,20,14,17,2,0,202,208,16,6,5,8,3,0,6,10,Broome County,Town of Union 32
+Broome County,Town of Union 33,284,174,15,0,14,13,3,2,279,177,22,10,10,5,3,232,191,27,7,6,7,2,6,6,17,Broome County,Town of Union 33
+Broome County,Town of Union 34,280,251,21,0,6,9,4,1,272,238,22,9,11,4,3,206,302,24,8,6,7,5,2,6,9,Broome County,Town of Union 34
+Broome County,Town of Union 35,277,203,27,0,9,11,4,1,287,189,22,8,12,7,3,220,223,26,11,5,10,1,6,7,19,Broome County,Town of Union 35
+Broome County,Town of Union 36,339,259,35,0,20,18,5,2,347,250,35,14,17,6,3,276,288,38,11,6,11,7,5,3,24,Broome County,Town of Union 36
+Broome County,Town of Union 37,360,319,31,0,8,17,4,1,364,309,39,8,17,2,1,294,371,31,6,3,13,2,0,2,18,Broome County,Town of Union 37
+Broome County,Town of Union 38,384,300,19,0,9,16,5,2,391,289,28,8,11,6,3,307,334,27,12,10,8,5,4,7,10,Broome County,Town of Union 38
+Broome County,Town of Union 39,172,112,7,0,6,5,0,3,178,98,9,10,3,2,4,135,130,8,6,2,1,2,1,2,11,Broome County,Town of Union 39
+Broome County,Town of Union 4,249,141,17,0,10,8,5,3,244,136,18,11,6,4,3,214,147,21,8,6,4,3,5,6,9,Broome County,Town of Union 4
+Broome County,Town of Union 5,204,107,20,0,9,11,1,1,187,101,20,17,9,4,6,161,116,21,5,8,8,4,6,6,16,Broome County,Town of Union 5
+Broome County,Town of Union 6,234,166,11,0,8,9,3,6,232,155,12,8,10,6,3,171,203,11,9,4,4,2,5,6,12,Broome County,Town of Union 6
+Broome County,Town of Union 7,284,182,28,0,9,11,4,2,281,178,26,12,10,5,4,217,226,25,11,7,4,4,2,11,14,Broome County,Town of Union 7
+Broome County,Town of Union 8,161,126,17,0,12,8,3,0,164,122,13,13,9,3,3,126,138,13,8,4,4,2,2,9,23,Broome County,Town of Union 8
+Broome County,Town of Union 9,278,195,29,0,4,14,0,1,281,180,33,4,14,3,1,224,222,24,5,3,11,0,4,6,14,Broome County,Town of Union 9
+Broome County,Town of Vestal 1,243,252,31,0,11,9,7,2,234,245,28,12,8,9,4,198,261,37,3,14,7,3,5,5,19,Broome County,Town of Vestal 1
+Broome County,Town of Vestal 10,259,156,17,0,19,8,4,1,258,156,17,17,5,3,4,227,172,22,12,11,4,4,1,5,5,Broome County,Town of Vestal 10
+Broome County,Town of Vestal 11,343,28,4,0,5,3,9,1,333,34,2,7,5,7,1,280,36,3,35,5,2,6,1,10,9,Broome County,Town of Vestal 11
+Broome County,Town of Vestal 12,438,84,4,0,7,6,4,0,434,82,6,5,7,4,0,378,93,5,30,4,3,6,1,12,10,Broome County,Town of Vestal 12
+Broome County,Town of Vestal 13,415,62,6,0,8,2,7,0,403,62,5,11,3,8,2,353,69,3,38,7,2,6,3,6,8,Broome County,Town of Vestal 13
+Broome County,Town of Vestal 14,262,358,42,0,14,10,5,1,264,331,43,21,17,8,4,181,404,44,9,12,9,6,3,4,22,Broome County,Town of Vestal 14
+Broome County,Town of Vestal 15,320,310,36,0,17,16,6,2,327,294,33,20,17,5,3,249,351,40,9,14,7,4,7,9,16,Broome County,Town of Vestal 15
+Broome County,Town of Vestal 16,310,226,20,0,12,7,4,0,307,222,21,13,8,5,0,257,263,21,1,9,7,4,1,3,5,Broome County,Town of Vestal 16
+Broome County,Town of Vestal 17,227,157,15,0,3,10,2,4,225,151,13,10,9,2,5,181,178,15,1,3,9,2,3,3,10,Broome County,Town of Vestal 17
+Broome County,Town of Vestal 18,200,264,26,0,15,17,3,0,199,249,24,19,19,5,6,141,287,31,11,10,8,4,3,6,24,Broome County,Town of Vestal 18
+Broome County,Town of Vestal 19,371,201,18,0,15,7,2,1,383,186,19,18,5,1,0,311,219,22,12,10,5,2,4,5,13,Broome County,Town of Vestal 19
+Broome County,Town of Vestal 2,381,278,22,0,20,17,5,1,371,283,21,20,14,9,2,289,332,26,11,13,7,5,7,7,19,Broome County,Town of Vestal 2
+Broome County,Town of Vestal 3,185,166,26,0,8,5,1,0,195,145,26,11,5,3,2,135,179,34,7,4,3,1,5,6,13,Broome County,Town of Vestal 3
+Broome County,Town of Vestal 4,324,186,15,0,12,9,3,1,326,172,16,10,5,7,2,275,207,17,10,6,5,2,2,4,8,Broome County,Town of Vestal 4
+Broome County,Town of Vestal 5,523,220,17,0,10,9,2,2,513,215,21,16,11,6,1,455,239,19,14,9,10,4,4,11,22,Broome County,Town of Vestal 5
+Broome County,Town of Vestal 6,371,254,25,0,19,25,7,2,371,246,35,18,23,6,2,287,310,33,16,12,14,2,2,7,10,Broome County,Town of Vestal 6
+Broome County,Town of Vestal 7,349,242,34,0,16,20,3,3,341,237,34,18,21,2,2,269,295,34,16,13,17,0,3,4,13,Broome County,Town of Vestal 7
+Broome County,Town of Vestal 8,359,254,28,0,19,10,7,3,350,259,30,17,9,6,2,286,302,27,10,10,4,7,3,3,15,Broome County,Town of Vestal 8
+Broome County,Town of Vestal 9,363,198,23,0,16,17,3,3,348,204,22,16,17,8,3,318,233,20,5,11,11,4,1,2,9,Broome County,Town of Vestal 9
+Broome County,Town of Windsor 1,242,307,21,0,13,13,5,0,239,300,21,14,17,6,1,151,344,26,7,9,13,2,2,10,38,Broome County,Town of Windsor 1
+Broome County,Town of Windsor 2,140,267,25,0,11,6,1,0,132,253,23,16,9,2,2,95,275,25,7,4,4,2,8,6,12,Broome County,Town of Windsor 2
+Broome County,Town of Windsor 3,149,300,22,0,10,8,2,4,161,285,20,9,9,1,3,104,305,23,10,6,6,1,4,6,26,Broome County,Town of Windsor 3
+Broome County,Town of Windsor 4,158,155,9,0,9,13,0,1,152,150,6,14,10,3,3,95,170,15,6,5,10,2,3,9,20,Broome County,Town of Windsor 4
+Broome County,Town of Windsor 5,168,268,24,0,9,13,1,2,159,261,23,9,13,1,2,94,304,25,12,3,6,1,2,8,22,Broome County,Town of Windsor 5

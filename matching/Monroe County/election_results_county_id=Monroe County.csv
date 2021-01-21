@@ -1,834 +1,834 @@
 county,precinct,HOR_DEM,HOR_REP,HOR_CON,HOR_GRE,HOR_WOR,HOR_IND,HOR_WEP,HOR_REF,Sen_DEM,Sen_REP,Sen_CON,Sen_WOR,Sen_IND,Sen_WEP,Sen_REF,Gov_DEM,Gov_REP,Gov_CON,Gov_GRE,Gov_WOR,Gov_IND,Gov_WEP,Gov_REF,Gov_SAM,Gov_LBT,county_id,original_precinct_name
-Monroe County,Brighton 1,345,61,14,0,21,8,3,2,350,51,16,22,11,8,1,300,67,18,19,14,8,5,1,16,8,Monroe County,precinct
-Monroe County,Brighton 10,329,90,18,0,5,8,9,2,331,82,20,8,10,6,1,281,105,16,6,7,9,4,4,13,6,Monroe County,precinct
-Monroe County,Brighton 11,287,95,24,0,17,12,11,5,298,83,23,19,16,14,2,254,105,23,10,11,7,8,4,10,17,Monroe County,precinct
-Monroe County,Brighton 12,367,93,16,0,15,11,8,2,374,76,17,19,14,9,1,313,106,16,13,14,11,14,4,10,5,Monroe County,precinct
-Monroe County,Brighton 13,179,59,5,0,7,4,4,5,196,44,3,8,5,4,1,174,54,4,2,7,6,3,1,4,4,Monroe County,precinct
-Monroe County,Brighton 14,221,40,4,0,11,8,8,1,220,37,3,13,12,8,0,181,47,3,18,13,8,7,3,5,8,Monroe County,precinct
-Monroe County,Brighton 15,222,69,22,0,5,5,6,0,234,64,18,8,3,4,0,199,77,19,10,5,2,3,2,4,10,Monroe County,precinct
-Monroe County,Brighton 16,131,102,22,0,0,5,2,3,132,95,20,1,7,3,0,107,110,20,2,1,5,4,2,5,0,Monroe County,precinct
-Monroe County,Brighton 17,169,47,4,0,4,0,1,1,178,37,4,3,1,3,1,172,38,3,0,2,2,2,3,1,1,Monroe County,precinct
-Monroe County,Brighton 18,270,69,12,0,16,8,8,1,276,57,12,18,9,11,1,232,74,11,7,15,4,12,2,13,9,Monroe County,precinct
-Monroe County,Brighton 19,182,42,11,0,7,8,2,1,187,38,11,8,7,2,1,169,41,11,3,7,6,2,2,3,6,Monroe County,precinct
-Monroe County,Brighton 2,135,93,15,0,5,4,4,1,146,83,18,6,3,2,0,113,93,19,5,7,1,2,0,6,13,Monroe County,precinct
-Monroe County,Brighton 20,194,48,12,0,4,5,3,1,198,43,12,5,5,4,0,167,45,10,13,3,4,3,1,8,9,Monroe County,precinct
-Monroe County,Brighton 21,242,75,12,0,10,6,8,1,243,74,12,8,4,8,1,215,78,11,5,8,4,7,2,9,5,Monroe County,precinct
-Monroe County,Brighton 22,278,83,18,0,7,6,1,2,281,70,19,8,8,5,1,257,77,19,13,7,3,2,2,6,4,Monroe County,precinct
-Monroe County,Brighton 23,224,58,13,0,7,3,4,2,228,52,12,10,3,3,1,200,68,10,7,5,3,5,0,6,4,Monroe County,precinct
-Monroe County,Brighton 24,262,135,14,0,8,6,2,1,286,91,19,11,13,4,2,240,118,20,4,7,7,3,2,8,6,Monroe County,precinct
-Monroe County,Brighton 25,203,53,12,0,13,2,7,3,205,48,12,16,3,7,1,177,56,10,6,16,0,4,4,16,3,Monroe County,precinct
-Monroe County,Brighton 26,150,87,14,0,8,10,4,2,165,74,13,13,7,3,1,131,76,16,4,8,10,5,1,7,12,Monroe County,precinct
-Monroe County,Brighton 27,199,59,8,0,7,6,5,2,201,58,9,6,5,8,0,172,67,5,14,4,2,6,1,6,8,Monroe County,precinct
-Monroe County,Brighton 28,337,112,15,0,16,14,6,2,345,94,10,18,15,9,2,292,120,11,14,18,4,9,2,11,10,Monroe County,precinct
-Monroe County,Brighton 29,170,84,12,0,3,3,4,2,176,71,9,5,5,4,1,165,81,14,1,4,1,2,2,2,4,Monroe County,precinct
-Monroe County,Brighton 3,227,112,15,0,4,5,6,1,239,91,13,6,6,6,1,214,105,9,6,5,3,2,2,5,8,Monroe County,precinct
-Monroe County,Brighton 30,487,143,9,0,5,8,4,4,502,120,8,10,13,7,0,464,126,13,13,4,12,4,3,7,5,Monroe County,precinct
-Monroe County,Brighton 31,240,63,7,0,9,10,12,2,253,49,8,10,6,12,0,216,61,10,5,11,5,11,2,10,4,Monroe County,precinct
-Monroe County,Brighton 32,294,83,13,0,11,10,9,4,310,65,14,12,9,8,4,265,77,14,13,11,9,5,2,12,4,Monroe County,precinct
-Monroe County,Brighton 33,298,104,13,0,8,5,4,0,313,93,13,6,5,5,2,257,124,15,11,6,4,3,1,5,1,Monroe County,precinct
-Monroe County,Brighton 34,260,74,17,0,12,4,8,0,269,61,16,10,9,8,2,211,86,17,7,12,7,6,2,9,12,Monroe County,precinct
-Monroe County,Brighton 35,239,48,8,0,7,3,5,0,233,47,9,10,5,5,0,216,51,7,7,8,2,7,1,5,5,Monroe County,precinct
-Monroe County,Brighton 36,223,46,14,0,6,11,5,2,235,42,14,3,9,5,2,208,53,13,11,0,7,4,1,3,14,Monroe County,precinct
-Monroe County,Brighton 37,234,47,11,0,4,4,3,1,241,40,10,4,7,2,0,211,53,8,5,4,6,1,1,7,2,Monroe County,precinct
-Monroe County,Brighton 38,271,92,19,0,10,5,2,0,279,80,15,12,9,3,0,250,86,19,8,9,5,1,1,7,6,Monroe County,precinct
-Monroe County,Brighton 39,219,70,16,0,5,6,8,6,221,57,16,6,14,9,3,187,71,16,8,4,5,7,3,8,11,Monroe County,precinct
-Monroe County,Brighton 4,293,72,12,0,13,7,4,2,288,66,10,25,8,5,0,252,79,10,10,17,7,5,1,11,6,Monroe County,precinct
-Monroe County,Brighton 40,449,114,13,0,6,9,7,2,458,105,14,8,10,5,1,412,116,13,6,11,5,3,2,15,7,Monroe County,precinct
-Monroe County,Brighton 41,345,100,9,0,6,11,8,5,340,102,6,8,11,13,2,320,101,9,10,3,7,12,2,6,15,Monroe County,precinct
-Monroe County,Brighton 42,103,17,9,0,4,0,1,0,102,16,9,4,2,0,0,86,23,8,1,4,0,2,1,6,0,Monroe County,precinct
-Monroe County,Brighton 43,264,91,8,0,7,9,3,2,277,88,9,6,4,2,4,252,88,9,6,4,4,2,0,8,11,Monroe County,precinct
-Monroe County,Brighton 44,98,42,8,0,0,3,3,0,97,39,7,1,3,2,0,84,42,6,5,2,2,2,2,1,5,Monroe County,precinct
-Monroe County,Brighton 45,182,79,5,0,5,2,4,3,179,73,7,7,6,4,0,155,83,6,7,3,4,3,2,3,8,Monroe County,precinct
-Monroe County,Brighton 46,162,42,6,0,1,3,2,0,168,35,7,1,4,2,0,152,37,10,2,2,3,0,0,5,1,Monroe County,precinct
-Monroe County,Brighton 5,298,59,12,0,14,6,10,2,294,58,13,17,6,11,1,255,64,13,14,17,3,9,2,12,5,Monroe County,precinct
-Monroe County,Brighton 6,352,136,21,0,16,8,7,2,360,114,22,17,12,10,2,310,139,15,13,14,9,7,2,10,13,Monroe County,precinct
-Monroe County,Brighton 7,206,77,11,0,14,15,1,2,217,65,10,15,11,5,1,177,87,8,7,14,5,3,5,4,12,Monroe County,precinct
-Monroe County,Brighton 8,209,168,12,0,1,5,3,4,250,132,11,1,1,3,5,203,157,14,2,2,3,1,2,10,4,Monroe County,precinct
-Monroe County,Brighton 9,244,65,22,0,15,3,2,5,250,60,20,15,4,3,2,217,67,16,8,11,2,1,3,7,12,Monroe County,precinct
-Monroe County,Chili 1,136,114,32,0,3,4,2,4,144,104,30,4,8,2,2,117,121,33,2,2,7,2,0,3,6,Monroe County,precinct
-Monroe County,Chili 10,82,109,36,0,4,6,2,2,99,91,35,2,6,2,2,61,110,33,6,4,2,3,0,2,14,Monroe County,precinct
-Monroe County,Chili 11,145,183,35,0,4,9,4,5,163,159,36,5,8,2,5,112,183,38,6,4,6,2,3,6,17,Monroe County,precinct
-Monroe County,Chili 12,162,142,33,0,3,2,4,1,182,124,29,4,7,3,0,134,155,30,8,3,2,0,1,6,7,Monroe County,precinct
-Monroe County,Chili 13,204,227,61,0,6,8,4,4,213,213,51,11,9,3,7,152,239,54,6,5,5,1,5,6,16,Monroe County,precinct
-Monroe County,Chili 14,128,161,38,0,4,7,6,4,145,145,37,4,8,7,1,102,165,41,7,4,2,2,4,5,21,Monroe County,precinct
-Monroe County,Chili 15,134,132,31,0,0,8,0,4,134,118,30,1,10,3,3,106,132,33,6,0,6,0,1,4,14,Monroe County,precinct
-Monroe County,Chili 16,279,312,65,0,9,11,2,4,307,288,61,9,16,2,0,253,320,66,7,8,7,2,5,3,15,Monroe County,precinct
-Monroe County,Chili 17,323,389,80,0,9,14,2,9,364,336,82,14,13,3,6,300,390,80,2,6,7,2,4,6,24,Monroe County,precinct
-Monroe County,Chili 18,155,178,37,0,3,6,3,4,170,159,36,2,11,3,5,127,191,29,6,1,6,3,1,6,15,Monroe County,precinct
-Monroe County,Chili 19,167,140,20,0,4,3,1,2,181,117,22,6,7,1,1,144,142,21,1,2,5,2,3,2,9,Monroe County,precinct
-Monroe County,Chili 2,127,251,57,0,12,6,3,0,152,216,50,11,12,3,4,87,250,59,6,8,3,3,2,3,29,Monroe County,precinct
-Monroe County,Chili 20,257,175,35,0,8,4,5,2,270,152,36,10,7,3,0,198,202,35,4,6,4,3,1,10,10,Monroe County,precinct
-Monroe County,Chili 21,112,114,21,0,3,5,1,0,129,96,19,3,7,1,0,103,105,21,5,2,5,0,0,0,11,Monroe County,precinct
-Monroe County,Chili 22,265,103,20,0,7,7,3,3,270,98,17,7,7,4,2,254,106,16,3,6,3,1,0,4,11,Monroe County,precinct
-Monroe County,Chili 23,134,114,29,0,3,3,3,1,138,105,27,7,4,3,0,115,117,27,1,2,2,3,0,2,14,Monroe County,precinct
-Monroe County,Chili 24,385,284,60,0,7,12,4,7,404,257,58,7,15,6,6,309,313,56,9,4,8,1,7,18,31,Monroe County,precinct
-Monroe County,Chili 25,182,94,20,0,3,6,3,3,199,75,15,7,7,4,1,171,91,17,6,3,3,1,3,7,9,Monroe County,precinct
-Monroe County,Chili 26,169,205,61,0,5,8,3,4,170,198,63,5,8,3,2,126,211,59,4,5,3,2,5,7,24,Monroe County,precinct
-Monroe County,Chili 27,161,133,28,0,3,6,1,2,175,120,28,6,7,2,2,142,142,27,5,3,2,2,1,2,13,Monroe County,precinct
-Monroe County,Chili 28,166,97,25,0,3,4,1,1,161,90,26,4,7,3,0,136,99,26,3,3,7,1,1,4,14,Monroe County,precinct
-Monroe County,Chili 29,106,92,21,0,6,2,2,5,105,89,22,8,4,3,2,86,95,19,5,4,2,1,1,5,15,Monroe County,precinct
-Monroe County,Chili 3,185,165,45,0,5,4,2,7,190,147,48,7,5,7,1,150,167,41,7,4,2,2,3,8,21,Monroe County,precinct
-Monroe County,Chili 30,96,80,28,0,7,5,1,1,97,74,29,9,6,0,1,80,74,27,3,3,3,1,2,8,18,Monroe County,precinct
-Monroe County,Chili 31,173,127,25,0,6,4,4,1,179,117,23,7,5,2,0,153,130,23,4,3,6,2,2,1,7,Monroe County,precinct
-Monroe County,Chili 32,160,183,34,0,6,12,1,2,175,164,35,8,13,3,1,141,175,29,3,8,8,4,1,9,17,Monroe County,precinct
-Monroe County,Chili 4,103,130,28,0,5,2,1,1,107,126,27,7,4,1,1,86,135,30,3,2,2,1,2,2,10,Monroe County,precinct
-Monroe County,Chili 5,154,136,37,0,2,1,4,4,168,120,36,3,1,4,3,140,134,34,3,2,0,2,2,4,13,Monroe County,precinct
-Monroe County,Chili 6,146,152,42,0,5,8,4,3,155,137,41,9,11,4,1,120,168,40,3,5,5,4,2,2,12,Monroe County,precinct
-Monroe County,Chili 7,122,80,15,0,1,3,7,0,128,67,15,3,4,7,1,99,88,11,2,4,4,6,0,2,9,Monroe County,precinct
-Monroe County,Chili 8,136,189,36,0,8,7,1,3,151,167,36,13,8,3,3,110,184,38,3,5,4,3,5,6,19,Monroe County,precinct
-Monroe County,Chili 9,157,138,28,0,4,10,3,3,167,125,27,7,12,3,2,130,141,28,8,2,6,3,4,1,15,Monroe County,precinct
-Monroe County,Clarkson 02,24,39,9,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,precinct
-Monroe County,Clarkson 1,166,286,68,0,3,7,4,2,181,257,69,7,10,4,0,129,282,67,3,2,5,2,5,5,24,Monroe County,precinct
-Monroe County,Clarkson 2,0,0,0,0,0,0,0,0,22,41,10,1,0,1,0,18,36,11,0,0,0,0,1,2,6,Monroe County,precinct
-Monroe County,Clarkson 3,175,178,43,0,0,4,1,2,180,165,39,5,9,3,1,147,170,47,3,2,4,2,1,5,17,Monroe County,precinct
-Monroe County,Clarkson 4,164,336,68,0,5,10,1,6,184,307,67,4,14,5,5,120,331,67,2,3,7,3,5,7,43,Monroe County,precinct
-Monroe County,Clarkson 5,248,390,101,0,5,18,3,3,276,353,92,15,22,6,4,224,369,90,8,4,10,3,3,9,52,Monroe County,precinct
-Monroe County,Clarkson 6,134,158,40,0,6,7,1,2,140,142,37,10,5,5,0,107,168,39,2,2,3,1,2,5,20,Monroe County,precinct
-Monroe County,East Rochester 1,183,143,14,0,7,9,3,8,199,121,15,5,13,5,4,144,147,18,7,6,3,4,3,3,26,Monroe County,precinct
-Monroe County,East Rochester 2,164,116,14,0,8,11,3,0,173,104,11,7,12,3,1,127,131,10,10,8,8,1,1,5,9,Monroe County,precinct
-Monroe County,East Rochester 3,142,116,27,0,6,4,1,2,157,98,26,3,8,4,0,124,103,27,6,3,4,3,0,6,24,Monroe County,precinct
-Monroe County,East Rochester 4,160,119,11,0,11,3,3,4,184,95,10,12,7,3,1,137,113,8,10,10,2,4,3,5,19,Monroe County,precinct
-Monroe County,East Rochester 5,148,97,24,0,4,10,5,3,156,86,22,7,13,3,3,122,101,25,0,6,3,3,1,8,17,Monroe County,precinct
-Monroe County,East Rochester 6,217,125,20,0,8,7,2,5,235,98,21,7,12,7,3,187,140,22,7,4,5,3,5,4,10,Monroe County,precinct
-Monroe County,East Rochester 7,153,108,25,0,12,8,2,3,162,99,24,7,10,5,2,119,125,23,3,5,8,2,1,6,16,Monroe County,precinct
-Monroe County,Gates 1,120,58,20,0,4,4,0,2,125,51,19,6,5,1,0,108,60,22,1,4,2,1,1,3,7,Monroe County,precinct
-Monroe County,Gates 10,112,62,17,0,2,0,1,0,105,65,18,3,1,1,0,98,63,18,3,0,0,1,1,0,5,Monroe County,precinct
-Monroe County,Gates 11,112,89,16,0,8,8,3,2,116,84,17,7,5,4,2,98,94,14,3,5,4,0,2,4,9,Monroe County,precinct
-Monroe County,Gates 12,119,78,14,0,4,1,1,0,115,74,14,7,3,2,1,98,86,12,3,4,2,0,3,5,9,Monroe County,precinct
-Monroe County,Gates 13,150,141,21,0,4,4,0,3,151,119,21,11,9,1,0,138,119,21,2,2,7,1,2,1,28,Monroe County,precinct
-Monroe County,Gates 14,112,102,13,0,2,6,3,1,113,94,9,4,6,4,1,108,100,11,1,3,4,3,1,1,10,Monroe County,precinct
-Monroe County,Gates 15,245,169,25,0,9,14,1,2,257,160,26,5,10,1,0,226,165,28,6,4,7,1,0,4,15,Monroe County,precinct
-Monroe County,Gates 16,143,85,22,0,2,2,1,0,154,76,18,6,1,2,1,131,98,17,1,2,2,0,0,3,6,Monroe County,precinct
-Monroe County,Gates 17,160,97,23,0,7,3,2,1,159,95,22,5,5,1,1,133,107,18,4,3,2,0,1,3,18,Monroe County,precinct
-Monroe County,Gates 18,147,148,44,0,5,3,1,2,159,135,46,5,2,2,2,123,163,39,1,1,1,1,3,1,19,Monroe County,precinct
-Monroe County,Gates 19,142,123,25,0,5,6,2,2,154,104,28,4,9,6,0,122,118,26,4,5,3,2,4,3,12,Monroe County,precinct
-Monroe County,Gates 2,141,102,20,0,4,7,0,2,150,92,17,5,6,2,1,123,100,14,3,4,2,2,3,3,22,Monroe County,precinct
-Monroe County,Gates 20,149,118,25,0,1,6,2,5,164,104,22,2,7,3,2,125,117,23,6,0,4,2,2,5,19,Monroe County,precinct
-Monroe County,Gates 21,128,124,13,0,8,4,3,2,145,104,13,5,7,2,1,116,124,15,1,3,5,1,3,2,12,Monroe County,precinct
-Monroe County,Gates 22,111,91,25,0,2,4,2,3,116,88,24,4,3,1,1,93,95,22,1,2,1,4,1,7,9,Monroe County,precinct
-Monroe County,Gates 23,126,144,38,0,4,2,1,3,149,113,33,5,5,4,0,128,125,26,3,2,8,1,1,2,23,Monroe County,precinct
-Monroe County,Gates 24,335,222,48,0,13,7,3,5,361,197,44,19,8,3,0,304,222,43,5,8,7,4,5,7,29,Monroe County,precinct
-Monroe County,Gates 25,106,105,14,0,1,5,2,1,114,92,13,3,6,5,0,100,104,13,3,1,4,0,0,1,7,Monroe County,precinct
-Monroe County,Gates 26,159,196,33,0,4,6,2,2,178,176,31,5,9,3,0,124,202,36,4,2,2,3,2,5,24,Monroe County,precinct
-Monroe County,Gates 27,211,153,26,0,3,4,2,3,218,141,24,7,7,2,1,191,165,24,0,1,3,0,1,4,14,Monroe County,precinct
-Monroe County,Gates 28,114,105,11,0,4,3,1,1,123,95,10,2,3,1,1,100,101,14,4,1,2,1,2,2,9,Monroe County,precinct
-Monroe County,Gates 29,159,107,14,0,6,4,2,4,168,94,14,3,7,6,0,139,110,16,5,2,5,2,0,2,20,Monroe County,precinct
-Monroe County,Gates 3,150,107,23,0,5,4,1,1,154,100,21,6,6,1,0,137,106,22,3,4,4,0,0,2,11,Monroe County,precinct
-Monroe County,Gates 30,108,79,13,0,0,1,0,0,107,69,13,4,0,2,2,85,82,19,1,0,0,0,1,2,11,Monroe County,precinct
-Monroe County,Gates 31,116,125,15,0,2,4,2,2,115,122,13,4,5,4,1,108,120,15,1,0,6,4,2,3,11,Monroe County,precinct
-Monroe County,Gates 32,160,130,27,0,4,10,3,5,178,109,29,6,12,3,1,131,133,28,9,2,7,2,2,7,18,Monroe County,precinct
-Monroe County,Gates 33,90,37,8,0,3,0,1,3,98,33,8,2,2,2,1,79,45,9,2,2,2,0,0,6,2,Monroe County,precinct
-Monroe County,Gates 34,139,132,21,0,8,3,2,3,144,119,23,8,4,2,2,115,129,22,5,5,0,2,6,4,16,Monroe County,precinct
-Monroe County,Gates 35,102,88,16,0,2,6,0,2,109,76,15,4,8,1,2,89,90,15,2,1,4,0,0,1,12,Monroe County,precinct
-Monroe County,Gates 4,135,142,24,0,2,3,3,0,152,121,22,4,3,5,0,132,127,21,4,3,3,2,1,2,18,Monroe County,precinct
-Monroe County,Gates 5,183,149,25,0,4,10,3,0,211,119,23,3,13,4,3,175,148,28,6,1,11,2,1,3,2,Monroe County,precinct
-Monroe County,Gates 6,191,100,23,0,4,6,3,2,196,90,22,5,11,5,1,158,113,21,8,3,7,2,2,4,11,Monroe County,precinct
-Monroe County,Gates 7,290,265,48,0,9,13,2,3,291,248,49,15,12,5,2,226,303,50,4,4,7,2,6,5,25,Monroe County,precinct
-Monroe County,Gates 8,102,127,11,0,3,3,2,2,113,111,12,5,5,2,1,99,124,13,2,1,1,1,0,1,8,Monroe County,precinct
-Monroe County,Gates 9,214,125,16,0,2,7,4,1,213,108,16,4,11,6,3,200,131,18,5,0,3,3,1,1,7,Monroe County,precinct
-Monroe County,Greece 1,113,135,29,0,4,6,3,1,123,114,30,9,6,1,0,102,127,33,1,5,3,2,1,5,5,Monroe County,precinct
-Monroe County,Greece 10,130,98,22,0,7,2,2,4,136,89,19,7,5,3,4,112,101,17,4,5,1,1,2,4,19,Monroe County,precinct
-Monroe County,Greece 100,205,233,46,0,8,10,2,3,232,212,37,3,15,2,1,187,247,41,0,3,5,3,3,3,16,Monroe County,precinct
-Monroe County,Greece 101,86,120,19,0,4,2,2,1,96,104,15,5,6,4,0,74,113,23,2,1,1,0,1,2,14,Monroe County,precinct
-Monroe County,Greece 102,237,253,38,0,6,3,1,2,240,232,33,11,4,5,3,192,262,49,3,2,3,3,1,8,16,Monroe County,precinct
-Monroe County,Greece 103,147,205,51,0,5,6,1,3,168,172,49,6,11,2,2,136,197,48,2,5,8,3,0,0,12,Monroe County,precinct
-Monroe County,Greece 104,129,130,18,0,2,11,3,2,143,108,15,4,15,3,1,105,135,27,2,1,7,1,4,2,6,Monroe County,precinct
-Monroe County,Greece 105,170,222,47,0,3,9,3,1,195,190,45,6,11,2,1,147,227,41,0,4,9,6,2,2,12,Monroe County,precinct
-Monroe County,Greece 106,110,178,33,0,1,4,0,1,123,152,33,3,5,0,1,93,178,34,8,0,4,1,2,2,6,Monroe County,precinct
-Monroe County,Greece 107,100,156,26,0,1,5,1,2,113,145,28,0,5,2,0,84,165,23,1,2,2,1,1,3,11,Monroe County,precinct
-Monroe County,Greece 108,100,138,32,0,0,1,0,3,102,120,33,2,2,2,1,90,133,31,1,1,1,1,4,0,7,Monroe County,precinct
-Monroe County,Greece 109,221,207,49,0,5,13,0,6,231,193,45,6,9,1,6,201,221,45,7,1,5,0,7,3,12,Monroe County,precinct
-Monroe County,Greece 11,73,49,8,0,5,6,1,2,76,46,5,6,7,0,1,57,52,6,1,3,2,0,2,2,18,Monroe County,precinct
-Monroe County,Greece 12,91,70,15,0,4,5,0,2,95,59,15,4,10,2,0,77,67,16,3,3,2,1,1,2,11,Monroe County,precinct
-Monroe County,Greece 13,135,93,22,0,4,4,1,3,146,76,21,7,6,5,0,125,89,23,2,1,4,0,4,3,10,Monroe County,precinct
-Monroe County,Greece 14,101,76,19,0,4,5,3,3,108,64,18,5,7,5,2,88,77,16,1,3,3,2,1,4,15,Monroe County,precinct
-Monroe County,Greece 15,103,142,19,0,2,7,1,3,117,125,21,4,7,2,0,102,132,21,5,1,3,1,2,3,9,Monroe County,precinct
-Monroe County,Greece 16,91,89,13,0,4,1,1,2,94,81,12,3,4,2,2,66,99,13,1,3,2,0,0,4,13,Monroe County,precinct
-Monroe County,Greece 17,179,213,33,0,3,1,1,3,181,194,35,5,2,4,2,150,215,35,4,3,1,1,2,3,13,Monroe County,precinct
-Monroe County,Greece 18,160,148,36,0,4,11,5,2,172,133,33,7,11,2,0,125,172,32,4,3,7,3,3,3,13,Monroe County,precinct
-Monroe County,Greece 19,107,104,13,0,5,7,1,3,119,90,10,7,9,2,2,94,94,13,1,3,5,1,1,2,22,Monroe County,precinct
-Monroe County,Greece 2,128,188,54,0,9,9,3,5,136,178,48,13,9,4,2,112,184,45,3,11,7,0,6,3,25,Monroe County,precinct
-Monroe County,Greece 20,135,99,26,0,4,8,4,4,147,88,24,7,6,3,3,103,104,28,8,5,4,2,1,3,21,Monroe County,precinct
-Monroe County,Greece 21,106,102,37,0,10,5,1,3,107,96,33,11,11,2,2,77,111,34,3,10,5,1,1,3,17,Monroe County,precinct
-Monroe County,Greece 22,116,98,19,0,5,5,1,2,119,89,13,10,7,3,2,86,113,20,4,2,5,3,3,1,13,Monroe County,precinct
-Monroe County,Greece 23,213,176,31,0,8,12,1,1,227,156,31,8,12,1,0,190,175,29,3,8,5,0,2,5,16,Monroe County,precinct
-Monroe County,Greece 24,166,223,43,0,6,3,3,1,170,202,40,9,8,4,1,145,230,32,7,5,8,2,1,1,9,Monroe County,precinct
-Monroe County,Greece 25,150,119,24,0,7,8,4,3,165,106,18,10,10,5,1,127,118,24,12,4,4,4,2,1,17,Monroe County,precinct
-Monroe County,Greece 26,116,91,24,0,4,0,2,0,117,83,25,7,0,5,0,99,89,24,3,3,1,1,1,2,14,Monroe County,precinct
-Monroe County,Greece 27,252,205,55,0,12,3,1,2,275,175,55,12,6,1,3,221,199,56,3,8,1,3,3,4,19,Monroe County,precinct
-Monroe County,Greece 28,140,201,41,0,5,5,3,2,152,174,38,7,11,6,0,119,205,41,7,3,2,2,1,1,15,Monroe County,precinct
-Monroe County,Greece 29,150,136,28,0,3,6,1,2,161,129,25,1,9,1,0,137,134,27,5,1,4,0,1,1,14,Monroe County,precinct
-Monroe County,Greece 3,117,121,15,0,2,3,1,3,120,113,14,4,5,2,1,95,119,16,2,2,2,2,0,7,13,Monroe County,precinct
-Monroe County,Greece 30,92,95,24,0,3,6,3,0,104,81,18,6,5,4,2,81,96,21,2,3,5,1,0,2,14,Monroe County,precinct
-Monroe County,Greece 31,105,113,24,0,8,8,1,2,114,105,24,10,5,1,2,99,106,24,4,4,4,0,2,2,14,Monroe County,precinct
-Monroe County,Greece 32,143,118,20,0,6,8,3,3,155,104,19,6,9,4,3,117,120,21,6,4,6,0,2,4,20,Monroe County,precinct
-Monroe County,Greece 33,153,181,42,0,7,8,1,2,173,155,39,7,9,1,0,117,186,42,6,4,4,3,1,1,15,Monroe County,precinct
-Monroe County,Greece 34,132,177,35,0,6,6,1,3,159,147,30,4,9,2,0,116,175,32,3,3,7,0,2,7,16,Monroe County,precinct
-Monroe County,Greece 35,128,133,36,0,5,6,1,3,135,120,35,8,7,2,1,112,128,35,2,9,3,2,2,1,10,Monroe County,precinct
-Monroe County,Greece 36,185,202,33,0,5,9,2,2,217,168,33,8,6,4,1,190,184,32,4,5,6,1,2,4,11,Monroe County,precinct
-Monroe County,Greece 37,94,100,28,0,2,5,1,2,105,90,25,4,4,4,2,92,102,23,1,1,3,2,4,0,9,Monroe County,precinct
-Monroe County,Greece 38,205,219,32,0,9,7,4,1,215,198,30,8,12,6,2,195,210,28,8,6,8,4,1,4,16,Monroe County,precinct
-Monroe County,Greece 39,102,89,21,0,4,2,0,0,107,80,18,4,2,0,0,90,94,21,2,3,2,2,0,0,5,Monroe County,precinct
-Monroe County,Greece 4,110,116,19,0,4,4,0,2,122,101,19,7,3,0,2,98,110,21,0,3,1,0,0,5,9,Monroe County,precinct
-Monroe County,Greece 40,126,96,22,0,1,3,0,2,131,87,18,5,3,0,1,110,97,18,2,1,2,0,1,4,10,Monroe County,precinct
-Monroe County,Greece 41,152,157,36,0,5,5,3,1,165,136,31,7,8,5,2,126,151,37,10,4,2,5,1,3,12,Monroe County,precinct
-Monroe County,Greece 42,127,74,22,0,6,9,7,3,139,73,18,5,11,5,1,119,82,19,6,3,6,4,0,3,8,Monroe County,precinct
-Monroe County,Greece 43,125,176,43,0,2,7,2,4,138,161,42,4,9,2,1,111,180,47,2,3,3,1,0,1,10,Monroe County,precinct
-Monroe County,Greece 44,195,212,34,0,7,8,3,3,211,199,31,3,11,6,0,160,220,34,4,5,6,1,4,7,15,Monroe County,precinct
-Monroe County,Greece 45,186,266,56,0,4,7,2,4,197,249,51,6,8,4,1,148,286,52,7,2,5,1,4,6,18,Monroe County,precinct
-Monroe County,Greece 46,121,61,22,0,6,3,0,1,122,65,19,5,4,1,0,109,62,22,1,4,0,0,6,1,10,Monroe County,precinct
-Monroe County,Greece 47,152,115,35,0,6,6,3,2,163,105,33,5,6,3,1,121,118,30,5,7,4,1,3,5,22,Monroe County,precinct
-Monroe County,Greece 48,113,98,15,0,2,3,0,2,111,90,12,2,5,0,0,89,108,12,2,0,2,0,1,1,8,Monroe County,precinct
-Monroe County,Greece 49,97,108,17,0,0,4,1,1,104,96,19,2,3,1,0,84,104,19,0,0,6,0,1,1,3,Monroe County,precinct
-Monroe County,Greece 5,128,94,19,0,1,2,2,2,139,81,18,0,4,2,3,114,85,17,5,1,1,3,3,3,17,Monroe County,precinct
-Monroe County,Greece 50,135,129,29,0,4,9,0,1,141,110,28,4,15,0,0,123,130,31,1,2,7,1,3,3,7,Monroe County,precinct
-Monroe County,Greece 51,77,105,21,0,0,2,2,1,95,86,17,2,2,3,2,72,100,21,2,1,0,0,2,2,7,Monroe County,precinct
-Monroe County,Greece 52,189,181,29,0,9,6,2,1,203,161,31,7,7,5,2,150,196,29,5,1,3,5,5,6,20,Monroe County,precinct
-Monroe County,Greece 53,152,106,16,0,0,6,1,2,158,94,14,3,8,3,1,146,108,15,0,1,2,1,1,4,3,Monroe County,precinct
-Monroe County,Greece 54,160,179,33,0,3,6,2,2,166,159,35,7,8,0,3,117,196,44,3,0,8,0,0,4,11,Monroe County,precinct
-Monroe County,Greece 55,93,108,34,0,1,7,0,0,108,85,33,1,8,1,0,80,109,31,1,2,6,0,0,2,6,Monroe County,precinct
-Monroe County,Greece 56,171,152,35,0,6,5,2,2,193,127,33,9,4,2,2,136,171,28,5,3,2,5,2,3,17,Monroe County,precinct
-Monroe County,Greece 57,130,140,23,0,0,5,3,3,141,125,25,3,6,3,0,106,149,23,4,3,5,2,0,1,7,Monroe County,precinct
-Monroe County,Greece 58,182,185,32,0,6,6,2,1,191,173,33,4,9,3,1,165,196,32,5,1,4,2,2,3,11,Monroe County,precinct
-Monroe County,Greece 59,154,47,16,0,8,4,1,0,163,35,17,8,5,0,0,145,43,15,4,8,2,5,0,0,6,Monroe County,precinct
-Monroe County,Greece 6,114,83,21,0,3,2,1,1,121,71,19,7,4,1,1,96,87,20,4,1,1,0,2,2,12,Monroe County,precinct
-Monroe County,Greece 60,125,106,18,0,1,6,3,3,139,95,16,5,5,3,1,113,105,21,1,1,3,1,1,3,12,Monroe County,precinct
-Monroe County,Greece 61,155,115,19,0,6,8,3,1,173,94,20,7,7,4,0,148,105,15,1,3,5,1,1,3,23,Monroe County,precinct
-Monroe County,Greece 62,214,148,45,0,4,5,0,4,218,139,38,9,11,1,4,190,154,42,7,2,6,0,4,1,12,Monroe County,precinct
-Monroe County,Greece 63,164,122,39,0,4,5,5,2,184,102,32,6,6,2,3,142,115,33,3,4,3,2,5,3,29,Monroe County,precinct
-Monroe County,Greece 64,129,114,21,0,1,4,1,2,135,104,16,2,1,3,1,110,118,16,2,0,4,0,1,6,10,Monroe County,precinct
-Monroe County,Greece 65,142,124,22,0,4,4,2,1,163,101,21,3,5,2,1,144,111,26,1,2,3,1,3,2,4,Monroe County,precinct
-Monroe County,Greece 66,94,79,13,0,0,1,2,0,103,64,13,2,2,3,1,81,77,14,1,0,3,2,1,0,11,Monroe County,precinct
-Monroe County,Greece 67,101,142,30,0,2,4,1,1,112,130,31,0,7,3,0,84,145,28,2,3,4,2,0,2,10,Monroe County,precinct
-Monroe County,Greece 68,149,169,44,0,5,6,1,6,168,141,45,10,7,3,2,123,172,48,2,2,4,0,4,3,16,Monroe County,precinct
-Monroe County,Greece 69,75,113,21,0,4,3,2,1,87,105,18,4,3,2,0,68,113,17,3,1,1,1,2,1,9,Monroe County,precinct
-Monroe County,Greece 7,158,120,19,0,7,4,3,3,162,106,21,11,6,6,1,122,122,21,5,3,2,2,2,5,23,Monroe County,precinct
-Monroe County,Greece 70,337,480,78,0,6,12,2,4,360,427,70,11,19,7,1,282,482,76,9,3,10,3,5,10,30,Monroe County,precinct
-Monroe County,Greece 71,183,169,34,0,3,11,1,1,195,155,29,8,9,1,0,154,180,29,5,2,10,0,1,5,16,Monroe County,precinct
-Monroe County,Greece 72,203,219,42,0,4,3,1,3,226,194,36,5,6,3,2,186,212,44,4,4,6,1,1,4,9,Monroe County,precinct
-Monroe County,Greece 73,91,69,21,0,3,1,1,1,92,61,21,6,4,1,1,76,75,19,1,3,2,1,0,4,5,Monroe County,precinct
-Monroe County,Greece 74,164,104,25,0,3,10,1,3,177,90,22,4,10,3,0,154,101,14,4,3,3,3,5,5,17,Monroe County,precinct
-Monroe County,Greece 75,128,114,19,0,8,6,1,0,132,109,16,6,5,4,0,112,120,27,5,3,4,2,1,1,5,Monroe County,precinct
-Monroe County,Greece 76,82,161,24,0,4,3,1,2,96,148,24,5,2,1,2,75,157,28,0,3,3,3,2,3,7,Monroe County,precinct
-Monroe County,Greece 77,194,172,20,0,7,3,1,0,203,154,16,7,6,1,0,183,161,17,3,7,1,1,0,2,12,Monroe County,precinct
-Monroe County,Greece 78,83,106,18,0,6,3,1,2,101,95,15,6,3,1,2,81,106,18,1,3,0,0,0,2,8,Monroe County,precinct
-Monroe County,Greece 79,232,334,64,0,8,9,3,5,269,280,63,12,15,1,5,215,310,73,2,7,8,0,6,5,25,Monroe County,precinct
-Monroe County,Greece 8,124,129,16,0,5,5,4,2,135,108,17,5,6,2,1,105,128,16,3,5,3,3,0,1,21,Monroe County,precinct
-Monroe County,Greece 80,188,211,38,0,4,5,0,2,205,185,40,7,10,1,0,158,228,33,2,1,6,1,3,1,18,Monroe County,precinct
-Monroe County,Greece 81,98,105,18,0,3,1,1,0,107,97,16,4,0,2,0,88,102,9,3,2,0,0,0,1,15,Monroe County,precinct
-Monroe County,Greece 82,200,114,30,0,10,8,7,2,216,93,26,10,10,8,5,181,126,20,9,7,2,3,2,4,17,Monroe County,precinct
-Monroe County,Greece 83,88,64,19,0,3,5,1,1,92,65,16,2,3,2,1,86,68,14,2,0,0,1,1,4,8,Monroe County,precinct
-Monroe County,Greece 84,165,176,32,0,4,7,0,3,191,148,29,6,6,0,4,148,176,32,4,2,3,0,4,2,10,Monroe County,precinct
-Monroe County,Greece 85,186,169,44,0,9,6,4,3,192,158,41,11,8,4,6,158,181,44,4,3,6,2,3,4,19,Monroe County,precinct
-Monroe County,Greece 86,171,204,39,0,4,1,0,2,183,190,38,1,4,0,2,139,215,42,0,1,1,0,2,2,10,Monroe County,precinct
-Monroe County,Greece 87,149,119,27,0,4,5,1,2,150,108,26,6,8,4,1,135,111,27,4,4,4,2,0,3,13,Monroe County,precinct
-Monroe County,Greece 88,192,161,30,0,4,4,1,4,201,142,27,6,6,1,3,164,158,31,4,4,4,0,1,2,15,Monroe County,precinct
-Monroe County,Greece 89,119,139,25,0,1,5,0,1,126,117,23,3,10,1,3,104,145,24,2,0,6,0,0,0,6,Monroe County,precinct
-Monroe County,Greece 9,155,122,18,0,6,7,3,3,164,109,16,7,6,4,4,119,126,16,7,1,1,3,1,12,22,Monroe County,precinct
-Monroe County,Greece 90,157,200,48,0,4,6,2,4,175,173,49,6,9,1,0,133,201,41,3,0,5,2,1,3,23,Monroe County,precinct
-Monroe County,Greece 91,236,312,57,0,4,7,3,4,254,277,55,4,11,9,0,215,308,54,3,2,6,3,1,4,19,Monroe County,precinct
-Monroe County,Greece 92,256,209,39,0,5,6,4,2,278,178,38,5,7,4,2,219,203,41,4,7,4,2,3,9,23,Monroe County,precinct
-Monroe County,Greece 93,211,182,28,0,5,6,3,1,233,162,24,9,7,5,1,199,183,25,1,4,5,4,1,4,16,Monroe County,precinct
-Monroe County,Greece 94,163,171,35,0,6,10,1,0,179,150,32,8,9,5,3,141,180,36,2,2,4,2,1,2,13,Monroe County,precinct
-Monroe County,Greece 95,129,92,12,0,4,5,2,2,132,82,17,4,5,2,1,110,109,9,1,2,3,2,1,3,10,Monroe County,precinct
-Monroe County,Greece 96,225,148,40,0,2,6,4,2,244,116,41,4,8,4,3,186,160,40,7,2,5,1,3,3,10,Monroe County,precinct
-Monroe County,Greece 97,275,316,64,0,6,9,0,1,304,275,64,4,17,2,0,242,300,63,7,1,11,1,4,7,21,Monroe County,precinct
-Monroe County,Greece 98,263,243,35,0,9,13,3,1,279,202,38,19,16,4,2,227,252,41,3,9,9,3,2,4,12,Monroe County,precinct
-Monroe County,Greece 99,133,184,34,0,5,7,1,1,138,173,32,7,10,1,0,109,187,37,1,3,4,1,3,0,14,Monroe County,precinct
-Monroe County,Hamlin 01,152,134,29,0,5,5,1,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,precinct
-Monroe County,Hamlin 02,126,191,42,0,8,5,6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,precinct
-Monroe County,Hamlin 03,123,202,34,0,3,7,2,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,precinct
-Monroe County,Hamlin 04,80,135,27,0,11,2,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,precinct
-Monroe County,Hamlin 05,102,166,33,0,12,4,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,precinct
-Monroe County,Hamlin 06,111,122,29,0,8,1,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,precinct
-Monroe County,Hamlin 07,168,208,47,0,14,6,4,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,precinct
-Monroe County,Hamlin 08,88,92,26,0,10,5,3,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,precinct
-Monroe County,Hamlin 09,72,110,15,0,5,6,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,precinct
-Monroe County,Hamlin 1,0,0,0,0,0,0,0,0,140,143,36,5,9,4,4,108,146,31,10,2,6,3,1,1,39,Monroe County,precinct
-Monroe County,Hamlin 10,147,198,34,0,11,5,2,4,134,208,36,13,9,3,0,92,229,37,7,1,4,3,2,10,24,Monroe County,precinct
-Monroe County,Hamlin 2,0,0,0,0,0,0,0,0,123,197,47,5,12,3,3,89,211,44,6,3,7,0,4,4,23,Monroe County,precinct
-Monroe County,Hamlin 3,0,0,0,0,0,0,0,0,117,206,38,2,8,4,2,81,221,37,0,4,3,2,1,1,30,Monroe County,precinct
-Monroe County,Hamlin 4,0,0,0,0,0,0,0,0,72,141,30,8,5,1,3,54,151,27,3,4,2,0,2,0,26,Monroe County,precinct
-Monroe County,Hamlin 5,0,0,0,0,0,0,0,0,104,165,40,7,13,4,2,83,174,33,5,2,6,1,2,3,25,Monroe County,precinct
-Monroe County,Hamlin 6,0,0,0,0,0,0,0,0,109,125,31,5,3,5,1,90,131,28,3,2,1,1,2,0,23,Monroe County,precinct
-Monroe County,Hamlin 7,0,0,0,0,0,0,0,0,173,221,46,7,10,5,4,127,255,45,2,5,4,0,5,7,22,Monroe County,precinct
-Monroe County,Hamlin 8,0,0,0,0,0,0,0,0,84,97,26,7,11,1,2,59,108,26,3,2,6,0,7,2,21,Monroe County,precinct
-Monroe County,Hamlin 9,0,0,0,0,0,0,0,0,77,109,15,3,3,2,5,52,112,17,2,1,0,1,3,2,21,Monroe County,precinct
-Monroe County,Henrietta 1,215,195,23,0,9,7,2,0,237,160,24,10,8,6,1,183,213,22,5,4,5,3,2,2,13,Monroe County,precinct
-Monroe County,Henrietta 10,180,133,27,0,6,5,3,0,185,121,28,9,9,1,2,153,128,30,6,7,7,1,3,5,14,Monroe County,precinct
-Monroe County,Henrietta 11,197,94,11,0,6,2,2,0,206,78,11,10,2,0,0,177,87,13,5,5,0,0,2,1,14,Monroe County,precinct
-Monroe County,Henrietta 12,149,131,27,0,5,10,3,1,162,117,24,2,14,7,1,123,126,21,11,2,12,5,1,7,16,Monroe County,precinct
-Monroe County,Henrietta 13,391,168,36,0,11,9,7,3,407,154,39,9,7,7,2,354,168,35,11,6,11,1,6,7,23,Monroe County,precinct
-Monroe County,Henrietta 14,179,100,22,0,6,5,0,1,184,91,17,4,7,5,1,151,110,17,5,7,0,0,1,4,15,Monroe County,precinct
-Monroe County,Henrietta 15,279,160,28,0,6,4,1,6,299,133,26,10,8,5,1,225,159,32,8,3,7,1,3,13,24,Monroe County,precinct
-Monroe County,Henrietta 16,139,82,14,0,2,3,4,0,140,70,15,6,5,4,0,117,86,13,1,3,2,2,3,3,10,Monroe County,precinct
-Monroe County,Henrietta 17,213,129,36,0,11,7,1,4,217,122,31,11,13,4,0,182,130,35,6,8,6,4,2,8,19,Monroe County,precinct
-Monroe County,Henrietta 18,243,151,35,0,3,11,3,2,253,137,33,0,10,7,3,224,146,38,5,0,8,3,4,8,18,Monroe County,precinct
-Monroe County,Henrietta 19,155,130,17,0,9,2,4,2,165,113,18,12,3,4,3,130,128,16,2,6,3,1,1,4,24,Monroe County,precinct
-Monroe County,Henrietta 2,161,129,29,0,9,5,6,3,172,108,29,12,8,7,1,136,129,29,10,9,2,2,0,3,25,Monroe County,precinct
-Monroe County,Henrietta 20,315,214,33,0,4,16,2,2,336,182,34,9,15,5,0,281,212,29,10,4,13,1,1,12,24,Monroe County,precinct
-Monroe County,Henrietta 21,141,93,24,0,10,4,0,0,148,81,27,7,6,4,1,120,90,28,4,6,5,0,1,8,9,Monroe County,precinct
-Monroe County,Henrietta 22,305,185,40,0,9,6,3,1,315,163,40,8,8,5,1,270,187,41,3,3,7,1,5,9,13,Monroe County,precinct
-Monroe County,Henrietta 23,201,103,22,0,9,12,1,4,203,99,19,9,10,2,2,168,105,17,8,8,8,4,0,6,18,Monroe County,precinct
-Monroe County,Henrietta 24,245,127,19,0,10,8,2,2,255,108,21,9,7,4,1,211,135,17,9,4,5,2,2,6,17,Monroe County,precinct
-Monroe County,Henrietta 25,150,129,35,0,3,3,3,3,164,105,32,5,5,6,4,134,128,27,4,3,5,3,3,7,15,Monroe County,precinct
-Monroe County,Henrietta 26,345,284,60,0,10,12,3,3,361,262,57,8,18,6,2,287,312,58,5,4,7,1,5,9,15,Monroe County,precinct
-Monroe County,Henrietta 27,305,224,41,0,2,10,4,4,328,184,42,4,14,5,2,249,230,36,9,3,15,3,4,8,22,Monroe County,precinct
-Monroe County,Henrietta 28,214,183,44,0,4,8,4,2,227,163,44,4,8,5,3,172,182,45,13,1,3,4,1,12,19,Monroe County,precinct
-Monroe County,Henrietta 29,687,388,72,0,18,17,1,4,723,350,70,21,17,7,2,609,387,73,13,15,14,4,6,13,60,Monroe County,precinct
-Monroe County,Henrietta 3,134,41,7,0,4,2,5,2,137,36,6,5,3,7,1,110,43,9,9,4,1,2,1,7,7,Monroe County,precinct
-Monroe County,Henrietta 30,506,230,54,0,13,18,2,4,524,202,54,15,21,3,4,439,238,55,14,11,13,5,6,15,24,Monroe County,precinct
-Monroe County,Henrietta 31,137,60,19,0,4,4,1,1,149,46,20,1,5,3,1,118,52,15,7,0,4,0,2,1,19,Monroe County,precinct
-Monroe County,Henrietta 32,348,162,33,0,4,12,1,0,365,147,30,2,19,2,1,321,169,31,7,3,10,0,3,3,12,Monroe County,precinct
-Monroe County,Henrietta 33,128,100,15,0,6,7,1,0,133,93,15,10,4,1,1,116,100,15,2,4,1,1,4,2,8,Monroe County,precinct
-Monroe County,Henrietta 34,129,72,13,0,5,3,1,1,138,66,11,5,4,1,0,107,86,15,3,5,3,0,0,0,7,Monroe County,precinct
-Monroe County,Henrietta 35,248,191,36,0,8,12,5,3,247,185,38,6,13,6,3,198,208,32,2,8,13,4,5,3,30,Monroe County,precinct
-Monroe County,Henrietta 4,268,114,18,0,3,6,1,3,278,104,15,3,10,3,2,234,125,14,8,4,5,2,1,11,15,Monroe County,precinct
-Monroe County,Henrietta 5,179,127,30,0,5,6,0,5,196,110,34,4,7,1,1,166,125,33,4,5,4,0,1,4,11,Monroe County,precinct
-Monroe County,Henrietta 6,150,123,34,0,5,8,2,6,156,114,30,6,10,3,5,128,128,29,7,4,5,2,4,3,17,Monroe County,precinct
-Monroe County,Henrietta 7,151,112,31,0,2,8,2,1,160,101,34,4,8,3,1,127,113,27,1,2,7,1,2,3,16,Monroe County,precinct
-Monroe County,Henrietta 8,167,135,17,0,7,12,3,2,179,120,19,9,9,5,0,143,140,17,8,3,5,4,2,6,16,Monroe County,precinct
-Monroe County,Henrietta 9,173,86,13,0,1,0,1,0,184,72,14,3,1,0,0,155,81,13,5,0,1,1,0,4,13,Monroe County,precinct
-Monroe County,Irondequoit 1,317,146,26,0,10,13,5,5,328,136,23,12,12,5,3,254,167,31,16,3,11,3,6,7,17,Monroe County,precinct
-Monroe County,Irondequoit 10,188,114,32,0,0,7,4,0,190,98,34,0,11,3,2,160,117,33,2,0,7,5,1,5,7,Monroe County,precinct
-Monroe County,Irondequoit 11,115,63,14,0,1,5,2,1,110,60,13,3,4,3,1,98,68,16,2,2,1,3,0,3,5,Monroe County,precinct
-Monroe County,Irondequoit 12,207,66,18,0,10,4,3,3,204,56,18,15,7,6,1,159,78,15,6,7,4,0,7,7,30,Monroe County,precinct
-Monroe County,Irondequoit 13,311,108,22,0,10,12,5,0,318,98,18,12,13,4,1,266,115,21,13,10,10,5,2,2,15,Monroe County,precinct
-Monroe County,Irondequoit 14,240,163,44,0,8,6,5,2,253,146,43,8,13,5,2,198,170,44,15,2,6,5,1,8,23,Monroe County,precinct
-Monroe County,Irondequoit 15,229,172,26,0,2,8,5,1,240,144,25,3,13,7,1,196,179,29,6,5,6,4,0,4,9,Monroe County,precinct
-Monroe County,Irondequoit 16,336,194,35,0,12,13,5,2,348,178,30,13,16,5,2,292,201,32,10,6,5,2,4,10,32,Monroe County,precinct
-Monroe County,Irondequoit 17,137,68,13,0,4,5,3,4,146,53,14,8,5,3,3,113,75,15,2,4,3,2,3,5,11,Monroe County,precinct
-Monroe County,Irondequoit 18,201,125,22,0,6,5,6,2,211,107,20,4,8,9,4,176,131,20,3,2,2,5,2,6,14,Monroe County,precinct
-Monroe County,Irondequoit 19,311,82,19,0,9,13,7,3,320,68,21,9,13,7,0,266,108,22,7,7,7,4,2,8,8,Monroe County,precinct
-Monroe County,Irondequoit 2,147,86,18,0,6,5,2,1,153,74,24,6,5,3,1,132,87,21,2,5,3,0,1,1,13,Monroe County,precinct
-Monroe County,Irondequoit 20,180,111,23,0,4,7,3,3,186,97,19,6,9,5,1,156,120,24,5,6,6,2,1,4,3,Monroe County,precinct
-Monroe County,Irondequoit 21,226,88,31,0,7,12,1,2,243,74,27,6,8,3,4,175,108,24,9,4,8,1,5,8,19,Monroe County,precinct
-Monroe County,Irondequoit 22,222,111,30,0,7,7,6,5,226,110,25,10,7,5,5,188,127,29,7,4,2,6,7,4,9,Monroe County,precinct
-Monroe County,Irondequoit 23,222,75,16,0,9,4,2,0,222,76,13,6,8,5,1,182,95,16,10,5,2,5,2,7,10,Monroe County,precinct
-Monroe County,Irondequoit 24,193,81,35,0,5,1,5,1,192,72,33,8,7,6,0,152,95,34,8,4,3,4,4,3,14,Monroe County,precinct
-Monroe County,Irondequoit 25,185,123,20,0,6,8,3,2,190,105,23,6,10,2,2,158,130,23,4,7,9,1,2,3,3,Monroe County,precinct
-Monroe County,Irondequoit 26,158,70,8,0,3,4,0,2,162,57,10,6,3,0,1,150,63,10,2,3,3,0,1,3,5,Monroe County,precinct
-Monroe County,Irondequoit 27,120,87,16,0,4,7,4,2,128,80,13,4,5,3,1,95,89,15,1,4,4,4,0,9,9,Monroe County,precinct
-Monroe County,Irondequoit 28,133,125,2,0,2,5,2,1,133,115,20,5,4,3,2,106,135,20,3,1,6,2,1,5,8,Monroe County,precinct
-Monroe County,Irondequoit 29,176,85,16,0,5,2,4,1,170,85,13,6,3,5,2,144,102,15,5,3,2,2,2,5,9,Monroe County,precinct
-Monroe County,Irondequoit 3,209,140,26,0,5,14,7,4,217,130,20,10,18,5,1,154,148,33,9,6,12,3,3,5,18,Monroe County,precinct
-Monroe County,Irondequoit 30,168,121,18,0,5,5,3,3,183,102,17,7,5,3,2,146,122,14,5,4,7,2,1,2,14,Monroe County,precinct
-Monroe County,Irondequoit 31,280,136,25,0,11,10,6,3,294,120,20,8,17,9,1,241,137,25,6,8,14,5,4,6,20,Monroe County,precinct
-Monroe County,Irondequoit 32,242,96,18,0,9,8,1,0,244,83,20,10,9,4,1,202,98,18,10,9,8,4,4,7,5,Monroe County,precinct
-Monroe County,Irondequoit 33,134,84,24,0,6,3,2,0,135,80,26,6,4,3,1,104,88,21,5,4,3,2,0,6,14,Monroe County,precinct
-Monroe County,Irondequoit 34,262,207,28,0,6,5,2,2,268,191,29,6,9,2,1,216,212,27,11,3,6,2,2,9,14,Monroe County,precinct
-Monroe County,Irondequoit 35,158,63,14,0,9,10,7,1,157,55,13,11,11,13,1,126,78,13,5,7,4,7,4,4,15,Monroe County,precinct
-Monroe County,Irondequoit 36,139,46,14,0,7,2,2,0,135,41,11,9,6,5,0,127,41,12,7,1,5,2,1,1,7,Monroe County,precinct
-Monroe County,Irondequoit 37,133,99,14,0,2,4,0,4,134,92,11,5,5,2,2,120,102,14,3,2,3,1,1,1,7,Monroe County,precinct
-Monroe County,Irondequoit 38,122,57,6,0,10,4,1,0,121,55,6,9,2,2,1,106,60,7,2,7,1,2,1,2,5,Monroe County,precinct
-Monroe County,Irondequoit 39,50,32,2,0,2,0,0,1,49,33,1,1,1,0,1,45,37,3,0,1,1,0,0,1,0,Monroe County,precinct
-Monroe County,Irondequoit 4,84,67,10,0,4,8,2,1,89,60,10,4,10,4,0,68,70,11,3,2,7,2,1,2,8,Monroe County,precinct
-Monroe County,Irondequoit 40,111,54,16,0,4,6,0,2,118,50,18,3,8,0,1,97,61,16,0,3,4,1,1,1,10,Monroe County,precinct
-Monroe County,Irondequoit 41,204,86,25,0,2,8,2,4,209,76,24,3,9,3,2,170,99,22,6,6,6,1,5,5,16,Monroe County,precinct
-Monroe County,Irondequoit 42,186,141,19,0,8,7,1,4,190,127,22,9,7,4,1,148,133,18,7,8,4,2,4,10,24,Monroe County,precinct
-Monroe County,Irondequoit 43,186,74,22,0,9,3,2,0,184,71,21,8,3,6,1,160,82,20,4,7,2,6,1,1,14,Monroe County,precinct
-Monroe County,Irondequoit 44,318,207,35,0,10,16,5,3,309,206,31,14,17,6,2,249,231,40,9,11,10,1,2,16,10,Monroe County,precinct
-Monroe County,Irondequoit 45,144,76,18,0,2,8,0,1,147,64,17,5,4,3,3,125,80,17,1,3,4,0,2,3,9,Monroe County,precinct
-Monroe County,Irondequoit 46,164,123,15,0,6,10,1,2,176,110,13,9,2,1,1,137,126,16,6,4,5,1,2,7,13,Monroe County,precinct
-Monroe County,Irondequoit 47,75,50,3,0,3,1,2,0,80,44,4,3,8,2,0,58,59,2,0,2,1,2,0,2,6,Monroe County,precinct
-Monroe County,Irondequoit 48,171,110,19,0,7,9,1,2,180,98,20,6,12,2,2,135,124,16,2,6,9,2,4,4,14,Monroe County,precinct
-Monroe County,Irondequoit 49,234,168,31,0,6,9,3,4,244,153,27,6,14,5,3,202,178,31,7,7,9,2,2,4,6,Monroe County,precinct
-Monroe County,Irondequoit 5,213,79,15,0,9,6,5,3,209,83,13,7,9,6,4,169,96,13,8,6,4,4,4,2,25,Monroe County,precinct
-Monroe County,Irondequoit 50,171,68,11,0,3,4,2,0,161,64,13,5,6,3,0,145,71,11,3,4,4,0,2,0,5,Monroe County,precinct
-Monroe County,Irondequoit 51,232,130,35,0,6,8,8,3,234,117,28,8,17,7,1,187,139,26,5,7,4,7,2,9,21,Monroe County,precinct
-Monroe County,Irondequoit 52,261,105,11,0,9,8,0,4,257,96,11,10,12,1,3,228,101,17,6,7,9,0,4,2,16,Monroe County,precinct
-Monroe County,Irondequoit 53,173,100,11,0,5,5,3,2,175,89,9,5,8,5,2,151,113,12,3,3,6,1,3,3,8,Monroe County,precinct
-Monroe County,Irondequoit 54,60,36,8,0,1,1,0,0,63,34,5,1,1,1,1,50,42,8,0,2,0,0,0,1,2,Monroe County,precinct
-Monroe County,Irondequoit 55,255,92,24,0,7,7,6,5,264,76,23,11,8,9,0,219,100,18,11,3,6,8,3,6,16,Monroe County,precinct
-Monroe County,Irondequoit 56,170,82,5,0,4,5,0,2,176,74,5,5,6,1,2,153,84,7,5,4,2,1,3,4,8,Monroe County,precinct
-Monroe County,Irondequoit 57,288,149,23,0,6,9,1,0,284,136,22,8,9,3,1,246,160,25,4,8,7,3,0,5,11,Monroe County,precinct
-Monroe County,Irondequoit 58,235,108,34,0,6,7,4,2,229,100,32,9,9,5,2,202,129,36,4,7,4,5,0,7,8,Monroe County,precinct
-Monroe County,Irondequoit 59,166,100,17,0,5,6,6,2,171,90,17,6,9,6,2,122,112,24,5,3,6,5,4,5,16,Monroe County,precinct
-Monroe County,Irondequoit 6,340,150,29,0,14,15,7,5,343,135,32,20,15,10,3,278,168,30,13,15,7,11,2,13,17,Monroe County,precinct
-Monroe County,Irondequoit 60,165,112,29,0,2,13,0,1,169,100,25,6,15,2,1,140,108,23,9,3,6,0,1,5,18,Monroe County,precinct
-Monroe County,Irondequoit 61,264,123,31,0,6,12,2,4,254,125,30,6,17,2,3,224,140,24,5,3,8,1,3,8,21,Monroe County,precinct
-Monroe County,Irondequoit 62,205,104,26,0,8,9,5,3,206,101,25,8,13,3,1,175,104,23,2,8,9,1,1,8,15,Monroe County,precinct
-Monroe County,Irondequoit 63,155,104,19,0,3,5,6,2,169,85,19,8,5,5,1,139,102,20,3,3,1,3,1,9,10,Monroe County,precinct
-Monroe County,Irondequoit 64,107,17,5,0,3,0,0,1,107,15,1,5,2,1,0,105,17,3,2,3,0,0,0,0,4,Monroe County,precinct
-Monroe County,Irondequoit 65,159,69,12,0,2,9,2,1,166,55,13,3,11,2,0,144,65,9,6,1,6,3,3,6,2,Monroe County,precinct
-Monroe County,Irondequoit 66,136,33,2,0,3,2,0,0,141,26,2,1,2,0,0,124,35,5,2,1,0,1,0,1,4,Monroe County,precinct
-Monroe County,Irondequoit 67,146,87,8,0,4,5,1,1,141,79,7,6,6,3,1,119,94,9,5,3,2,1,1,4,8,Monroe County,precinct
-Monroe County,Irondequoit 68,171,94,12,0,7,6,0,0,176,82,12,7,5,0,0,154,99,10,1,6,2,1,1,2,8,Monroe County,precinct
-Monroe County,Irondequoit 7,270,145,32,0,9,16,3,0,287,128,31,8,16,4,0,236,153,37,5,7,11,3,1,9,11,Monroe County,precinct
-Monroe County,Irondequoit 8,191,139,23,0,7,6,4,3,195,120,24,8,12,4,2,138,152,27,10,4,12,2,3,4,14,Monroe County,precinct
-Monroe County,Irondequoit 9,171,136,18,0,1,7,1,2,177,114,19,4,9,1,1,154,134,19,2,3,5,0,0,5,8,Monroe County,precinct
-Monroe County,Leg. Dist. 07 1,409,307,48,0,28,13,8,8,216,145,28,13,13,7,2,181,157,29,10,7,8,6,3,10,19,Monroe County,precinct
-Monroe County,Leg. Dist. 07 2,298,124,33,0,19,6,6,11,148,63,14,15,5,7,2,149,57,16,4,5,4,5,2,5,12,Monroe County,precinct
-Monroe County,Leg. Dist. 16 1,19,4,0,0,0,0,0,0,11,1,0,0,0,0,0,8,3,0,0,0,0,0,0,0,0,Monroe County,precinct
-Monroe County,Leg. Dist. 21 1,399,104,27,0,25,12,19,6,205,47,12,19,6,9,2,162,51,17,12,11,2,9,2,14,17,Monroe County,precinct
-Monroe County,Leg. Dist. 21 10,658,134,24,0,19,13,10,6,343,63,13,12,7,7,2,302,70,11,10,11,5,3,5,19,6,Monroe County,precinct
-Monroe County,Leg. Dist. 21 11,360,36,8,0,10,6,4,2,194,14,4,4,4,2,1,183,20,3,1,3,4,0,0,0,3,Monroe County,precinct
-Monroe County,Leg. Dist. 21 12,859,196,40,0,57,11,13,10,460,79,19,29,11,9,3,387,95,16,27,15,5,6,3,20,35,Monroe County,precinct
-Monroe County,Leg. Dist. 21 13,332,24,8,0,33,2,8,4,164,8,2,18,2,7,2,156,7,5,13,10,2,3,4,6,4,Monroe County,precinct
-Monroe County,Leg. Dist. 21 14,250,32,11,0,11,1,2,0,125,16,5,6,2,3,0,113,16,6,4,3,0,1,0,2,5,Monroe County,precinct
-Monroe County,Leg. Dist. 21 15,529,94,33,0,22,18,2,2,281,34,12,14,12,0,2,260,45,15,7,3,9,2,2,3,9,Monroe County,precinct
-Monroe County,Leg. Dist. 21 16,162,37,7,0,2,3,2,0,84,17,4,1,3,1,0,81,18,4,2,1,1,1,0,0,4,Monroe County,precinct
-Monroe County,Leg. Dist. 21 17/26,557,66,20,0,31,22,7,1,288,27,7,20,10,6,2,275,31,10,11,9,10,6,1,7,6,Monroe County,precinct
-Monroe County,Leg. Dist. 21 18,305,29,7,0,5,4,6,0,154,13,6,2,1,6,2,154,15,4,2,1,1,1,0,1,3,Monroe County,precinct
-Monroe County,Leg. Dist. 21 19,187,12,4,0,4,6,1,0,97,3,3,2,3,1,0,101,6,3,2,0,2,1,0,0,0,Monroe County,precinct
-Monroe County,Leg. Dist. 21 2,378,97,25,0,23,7,13,8,198,41,10,13,5,7,1,162,50,13,13,8,3,7,2,8,8,Monroe County,precinct
-Monroe County,Leg. Dist. 21 20,261,40,14,0,20,8,4,0,132,17,6,12,4,3,0,120,22,6,5,8,3,1,1,1,3,Monroe County,precinct
-Monroe County,Leg. Dist. 21 21,330,44,5,0,9,1,2,2,178,21,4,5,1,3,0,166,27,3,6,3,0,1,0,3,3,Monroe County,precinct
-Monroe County,Leg. Dist. 21 22,396,34,8,0,3,7,1,1,198,19,2,1,2,3,1,199,19,2,5,0,1,3,2,2,6,Monroe County,precinct
-Monroe County,Leg. Dist. 21 23,346,46,12,0,19,9,3,1,182,19,7,11,9,9,4,175,25,4,1,11,3,1,1,4,3,Monroe County,precinct
-Monroe County,Leg. Dist. 21 24,549,153,36,0,35,17,12,9,288,69,21,13,1,4,1,251,76,18,18,8,4,7,1,9,26,Monroe County,precinct
-Monroe County,Leg. Dist. 21 25,317,25,3,0,6,5,3,6,168,9,4,6,3,2,1,166,7,1,5,2,2,1,0,3,4,Monroe County,precinct
-Monroe County,Leg. Dist. 21 27,224,24,2,0,6,2,0,4,118,9,2,4,2,0,1,118,12,1,3,1,0,0,0,1,2,Monroe County,precinct
-Monroe County,Leg. Dist. 21 3,212,60,18,0,2,6,1,0,112,29,8,2,4,0,0,113,30,6,0,0,2,0,0,2,3,Monroe County,precinct
-Monroe County,Leg. Dist. 21 4,261,32,4,0,8,6,0,3,132,18,1,5,3,2,0,132,17,1,1,6,3,0,1,2,2,Monroe County,precinct
-Monroe County,Leg. Dist. 21 5,277,48,10,0,30,5,10,2,143,21,5,12,6,7,0,130,26,4,7,10,5,4,1,3,6,Monroe County,precinct
-Monroe County,Leg. Dist. 21 6,488,52,15,0,31,14,12,7,258,22,6,17,6,8,3,221,26,7,26,13,3,5,2,6,13,Monroe County,precinct
-Monroe County,Leg. Dist. 21 7,661,144,21,0,24,14,13,6,334,59,13,14,11,8,1,297,77,12,14,8,5,5,2,11,17,Monroe County,precinct
-Monroe County,Leg. Dist. 21 8,220,19,11,0,16,0,3,1,109,9,5,11,2,1,2,98,16,3,5,7,2,1,2,3,2,Monroe County,precinct
-Monroe County,Leg. Dist. 21 9,608,134,20,0,39,19,19,0,320,62,12,17,6,9,1,255,59,9,27,13,8,5,0,13,23,Monroe County,precinct
-Monroe County,Leg. Dist. 22 1,442,55,2,0,2,1,2,0,241,23,1,4,0,2,0,235,29,2,1,2,1,1,0,1,0,Monroe County,precinct
-Monroe County,Leg. Dist. 22 10,232,8,1,0,4,0,0,0,126,4,0,1,0,0,0,116,4,0,1,0,1,0,0,0,0,Monroe County,precinct
-Monroe County,Leg. Dist. 22 11,405,22,2,0,9,0,8,1,213,8,2,4,3,4,2,207,15,1,7,3,0,5,1,5,3,Monroe County,precinct
-Monroe County,Leg. Dist. 22 12,208,9,1,0,0,0,1,0,106,3,0,0,0,4,0,106,5,0,0,0,1,1,1,1,0,Monroe County,precinct
-Monroe County,Leg. Dist. 22 14,244,31,3,0,3,5,1,0,126,13,2,3,1,1,0,130,14,1,1,0,2,0,0,1,0,Monroe County,precinct
-Monroe County,Leg. Dist. 22 15,299,11,5,0,8,2,5,1,153,4,2,5,0,0,2,153,7,2,1,6,0,0,0,0,1,Monroe County,precinct
-Monroe County,Leg. Dist. 22 16,114,3,0,0,4,2,1,0,56,3,0,2,1,0,0,60,1,0,1,1,0,0,0,0,0,Monroe County,precinct
-Monroe County,Leg. Dist. 22 17,126,3,2,0,0,0,0,0,66,1,1,0,0,0,1,68,2,1,0,0,0,0,0,1,0,Monroe County,precinct
-Monroe County,Leg. Dist. 22 18,167,10,0,0,0,2,2,0,90,2,0,2,1,0,0,93,3,1,1,0,1,0,0,2,0,Monroe County,precinct
-Monroe County,Leg. Dist. 22 19,179,8,0,0,2,0,0,2,83,5,0,0,1,1,0,84,4,0,0,2,0,0,0,1,1,Monroe County,precinct
-Monroe County,Leg. Dist. 22 2/13,243,5,2,0,2,5,0,2,133,1,0,3,2,0,0,139,4,1,0,3,2,0,0,0,1,Monroe County,precinct
-Monroe County,Leg. Dist. 22 20,321,20,7,0,0,4,0,0,166,8,2,1,3,0,0,169,10,4,1,0,2,0,0,1,0,Monroe County,precinct
-Monroe County,Leg. Dist. 22 21,160,15,1,0,7,0,3,0,89,5,0,0,0,2,0,87,9,0,2,0,0,1,0,1,0,Monroe County,precinct
-Monroe County,Leg. Dist. 22 22,335,10,5,0,7,5,5,1,172,3,2,4,3,4,1,180,6,2,0,0,3,1,1,0,1,Monroe County,precinct
-Monroe County,Leg. Dist. 22 23,201,6,1,0,0,0,0,0,103,2,1,1,1,0,0,102,2,1,0,3,2,0,0,0,0,Monroe County,precinct
-Monroe County,Leg. Dist. 22 24,119,17,0,0,4,0,4,1,59,7,0,2,1,3,0,66,6,0,0,0,1,2,0,0,0,Monroe County,precinct
-Monroe County,Leg. Dist. 22 25,647,124,32,0,12,10,9,3,347,57,15,10,4,5,0,337,61,16,3,2,6,4,2,7,6,Monroe County,precinct
-Monroe County,Leg. Dist. 22 26/25-19,395,85,9,0,7,4,8,4,210,34,6,6,5,3,1,172,44,4,10,4,4,5,1,10,6,Monroe County,precinct
-Monroe County,Leg. Dist. 22 27,323,13,4,0,10,2,5,2,174,4,2,8,2,2,0,166,6,3,7,4,1,4,0,1,1,Monroe County,precinct
-Monroe County,Leg. Dist. 22 3,207,19,3,0,3,5,2,0,100,10,2,0,2,3,0,143,9,2,0,1,2,0,0,1,0,Monroe County,precinct
-Monroe County,Leg. Dist. 22 4,177,7,1,0,1,2,0,1,90,4,0,1,1,0,0,91,3,1,1,0,1,0,0,1,1,Monroe County,precinct
-Monroe County,Leg. Dist. 22 5,234,6,2,0,2,0,0,0,126,1,0,1,0,0,0,121,3,0,0,0,1,0,0,3,1,Monroe County,precinct
-Monroe County,Leg. Dist. 22 6,307,14,2,0,2,3,1,0,158,7,1,0,0,1,1,166,6,2,1,0,1,1,0,0,0,Monroe County,precinct
-Monroe County,Leg. Dist. 22 7,138,0,1,0,3,0,0,0,68,0,0,3,0,0,0,82,0,0,0,3,0,0,0,0,0,Monroe County,precinct
-Monroe County,Leg. Dist. 22 8,295,34,2,0,6,3,1,0,154,16,1,2,1,2,0,153,17,2,5,4,1,0,0,0,0,Monroe County,precinct
-Monroe County,Leg. Dist. 22 9,179,10,0,0,4,0,0,0,95,6,0,1,0,0,0,93,5,0,0,2,0,0,0,1,0,Monroe County,precinct
-Monroe County,Leg. Dist. 23 1,215,86,6,0,7,7,7,4,117,32,4,3,6,4,1,91,36,6,5,3,7,3,1,4,9,Monroe County,precinct
-Monroe County,Leg. Dist. 23 10,417,69,26,0,24,1,10,0,211,34,9,13,1,6,0,170,41,10,6,9,3,5,1,6,10,Monroe County,precinct
-Monroe County,Leg. Dist. 23 11,461,86,10,0,33,10,4,7,241,34,4,16,5,5,5,200,46,5,10,12,2,2,1,19,10,Monroe County,precinct
-Monroe County,Leg. Dist. 23 12,539,126,29,0,29,10,7,0,276,55,13,20,5,7,1,244,65,16,8,13,5,2,2,8,5,Monroe County,precinct
-Monroe County,Leg. Dist. 23 13,453,123,10,0,20,10,6,3,236,56,6,8,4,2,1,201,66,6,5,7,4,4,3,9,6,Monroe County,precinct
-Monroe County,Leg. Dist. 23 14,480,83,14,0,22,3,10,1,249,41,6,13,2,4,1,198,41,7,20,8,0,2,1,10,17,Monroe County,precinct
-Monroe County,Leg. Dist. 23 15,358,72,10,0,12,7,8,6,180,31,9,7,4,7,2,155,42,5,8,6,4,4,3,2,8,Monroe County,precinct
-Monroe County,Leg. Dist. 23 16,192,51,17,0,16,6,1,4,109,21,9,4,6,1,2,90,29,8,1,3,4,1,0,8,6,Monroe County,precinct
-Monroe County,Leg. Dist. 23 17,539,128,24,0,36,18,17,5,289,55,12,19,11,9,3,248,65,13,13,18,10,4,4,8,21,Monroe County,precinct
-Monroe County,Leg. Dist. 23 18,797,224,59,0,32,32,10,15,434,92,22,21,18,9,6,350,135,31,24,11,7,5,6,14,23,Monroe County,precinct
-Monroe County,Leg. Dist. 23 19,385,161,16,0,21,20,14,3,210,67,9,15,14,2,3,162,87,8,14,13,5,1,1,6,23,Monroe County,precinct
-Monroe County,Leg. Dist. 23 2,420,76,16,0,25,14,14,4,217,34,7,13,9,11,2,178,36,4,20,11,2,3,0,15,21,Monroe County,precinct
-Monroe County,Leg. Dist. 23 20,527,102,17,0,33,12,12,8,277,43,8,17,9,5,2,227,54,9,14,13,5,8,1,11,12,Monroe County,precinct
-Monroe County,Leg. Dist. 23 21,408,107,17,0,25,12,4,3,211,49,6,12,8,3,1,191,53,9,8,9,6,2,0,5,9,Monroe County,precinct
-Monroe County,Leg. Dist. 23 22,371,113,8,0,15,13,10,0,188,53,6,7,6,8,1,168,59,6,4,8,4,3,1,10,3,Monroe County,precinct
-Monroe County,Leg. Dist. 23 23,304,33,1,0,20,2,6,8,158,15,0,6,4,5,2,139,17,0,7,8,2,6,4,6,2,Monroe County,precinct
-Monroe County,Leg. Dist. 23 24,353,124,13,0,21,17,15,12,194,58,7,10,8,8,5,169,66,11,14,9,4,3,1,6,12,Monroe County,precinct
-Monroe County,Leg. Dist. 23 25,602,167,38,0,27,24,16,10,312,71,21,16,13,7,4,251,87,16,11,15,5,10,4,32,12,Monroe County,precinct
-Monroe County,Leg. Dist. 23 26,681,191,51,0,30,22,10,7,358,75,24,13,15,7,3,299,96,24,6,9,8,5,7,15,12,Monroe County,precinct
-Monroe County,Leg. Dist. 23 27,323,87,29,0,12,19,2,9,170,39,11,6,15,4,1,135,54,17,12,3,6,2,3,8,6,Monroe County,precinct
-Monroe County,Leg. Dist. 23 28,572,72,21,0,33,20,18,3,291,29,9,20,9,12,4,251,41,10,21,11,8,6,0,11,13,Monroe County,precinct
-Monroe County,Leg. Dist. 23 29,69,12,8,0,0,0,3,3,36,5,1,1,1,1,2,32,8,1,1,1,0,1,0,2,2,Monroe County,precinct
-Monroe County,Leg. Dist. 23 3,293,59,8,0,29,8,14,3,154,26,5,15,4,9,0,134,26,0,12,10,3,4,1,5,16,Monroe County,precinct
-Monroe County,Leg. Dist. 23 4,600,135,35,0,22,22,15,4,314,54,17,11,10,11,1,265,68,17,10,9,6,7,0,13,18,Monroe County,precinct
-Monroe County,Leg. Dist. 23 5,313,45,8,0,15,4,9,2,156,20,5,9,0,7,3,127,18,4,10,4,1,5,2,10,16,Monroe County,precinct
-Monroe County,Leg. Dist. 23 6,277,51,6,0,14,5,0,3,139,25,3,6,4,2,1,107,29,7,12,4,3,0,1,10,7,Monroe County,precinct
-Monroe County,Leg. Dist. 23 7,525,83,17,0,48,9,9,0,272,37,9,20,6,6,1,228,49,7,14,18,3,4,3,13,10,Monroe County,precinct
-Monroe County,Leg. Dist. 23 8,496,90,16,0,39,16,13,6,261,38,9,19,11,4,1,222,48,5,19,13,7,3,1,10,10,Monroe County,precinct
-Monroe County,Leg. Dist. 23 9,340,69,18,0,18,10,5,2,175,30,9,10,5,2,0,158,28,10,6,6,3,2,0,1,7,Monroe County,precinct
-Monroe County,Leg. Dist. 24 1,579,77,24,0,49,15,21,1,299,28,11,29,9,13,0,257,38,10,19,26,8,7,2,15,6,Monroe County,precinct
-Monroe County,Leg. Dist. 24 10,591,80,15,0,80,7,39,6,306,33,6,44,6,17,4,264,43,7,29,25,1,14,1,24,11,Monroe County,precinct
-Monroe County,Leg. Dist. 24 11/12,269,67,11,0,2,6,9,2,147,28,3,3,2,4,1,149,27,4,2,3,4,2,1,1,1,Monroe County,precinct
-Monroe County,Leg. Dist. 24 13,533,58,10,0,54,11,21,3,277,30,6,25,6,14,1,234,35,4,24,18,5,11,2,9,11,Monroe County,precinct
-Monroe County,Leg. Dist. 24 14/21,674,98,10,0,48,20,24,9,345,43,6,30,10,11,5,280,53,7,38,26,8,5,3,16,21,Monroe County,precinct
-Monroe County,Leg. Dist. 24 15,522,100,12,0,30,13,10,3,271,37,8,18,7,6,1,244,48,4,26,10,6,2,2,13,4,Monroe County,precinct
-Monroe County,Leg. Dist. 24 16,517,128,16,0,26,10,10,6,270,50,9,18,6,8,1,225,64,9,20,11,5,5,1,6,15,Monroe County,precinct
-Monroe County,Leg. Dist. 24 17,113,36,2,0,0,5,2,4,61,15,0,0,2,2,0,57,17,1,0,0,3,0,0,0,0,Monroe County,precinct
-Monroe County,Leg. Dist. 24 18,501,107,8,0,30,7,13,2,262,46,5,15,5,7,1,206,50,3,25,10,5,5,1,13,22,Monroe County,precinct
-Monroe County,Leg. Dist. 24 2/22,465,63,17,0,37,12,10,1,243,27,8,21,5,6,0,202,31,8,15,16,5,3,3,9,12,Monroe County,precinct
-Monroe County,Leg. Dist. 24 20,107,6,6,0,8,2,4,1,54,3,3,6,1,2,0,52,3,2,2,4,0,3,0,2,2,Monroe County,precinct
-Monroe County,Leg. Dist. 24 3/23,440,62,16,0,42,8,8,7,228,27,6,25,6,5,2,183,37,5,16,19,2,1,2,20,13,Monroe County,precinct
-Monroe County,Leg. Dist. 24 4,658,85,13,0,37,12,25,11,338,45,6,21,11,13,5,277,52,6,29,15,7,9,3,13,23,Monroe County,precinct
-Monroe County,Leg. Dist. 24 5/24,472,103,22,0,19,14,2,12,253,42,7,10,7,6,6,209,55,13,13,7,4,1,4,15,7,Monroe County,precinct
-Monroe County,Leg. Dist. 24 6,366,70,5,0,20,8,8,6,189,32,4,13,3,6,1,165,33,3,17,9,2,3,1,10,4,Monroe County,precinct
-Monroe County,Leg. Dist. 24 7/19,327,78,14,0,14,6,5,8,172,32,6,6,6,4,3,151,39,6,7,6,2,1,2,8,5,Monroe County,precinct
-Monroe County,Leg. Dist. 24 8,398,77,14,0,20,3,8,8,204,38,8,9,5,5,2,179,43,4,12,5,5,2,3,8,8,Monroe County,precinct
-Monroe County,Leg. Dist. 24 9,265,82,13,0,16,10,12,1,138,39,6,7,5,6,1,121,39,8,10,4,3,3,1,8,4,Monroe County,precinct
-Monroe County,Leg. Dist. 25 1,603,102,14,0,18,14,3,1,314,46,8,8,6,3,2,270,54,8,18,4,4,3,0,15,7,Monroe County,precinct
-Monroe County,Leg. Dist. 25 10,442,29,2,0,7,8,13,0,235,12,0,5,5,7,0,230,14,2,6,5,2,7,0,7,4,Monroe County,precinct
-Monroe County,Leg. Dist. 25 11,210,3,3,0,3,0,0,0,113,0,0,1,0,1,0,110,0,2,1,1,0,0,0,0,0,Monroe County,precinct
-Monroe County,Leg. Dist. 25 12/28,426,67,8,0,66,7,17,8,226,27,5,31,3,10,3,176,29,5,26,22,3,8,2,11,25,Monroe County,precinct
-Monroe County,Leg. Dist. 25 13,361,10,0,0,9,6,3,1,191,5,0,4,1,1,1,178,5,0,10,5,2,1,0,1,1,Monroe County,precinct
-Monroe County,Leg. Dist. 25 14,263,22,10,0,23,4,9,1,133,10,6,13,3,3,2,108,17,6,15,8,1,3,1,2,10,Monroe County,precinct
-Monroe County,Leg. Dist. 25 15,291,23,2,0,3,1,1,0,149,8,1,2,0,0,1,153,9,1,1,1,0,2,0,1,1,Monroe County,precinct
-Monroe County,Leg. Dist. 25 16,265,29,7,0,1,2,1,3,136,13,3,5,0,1,0,144,12,3,0,0,1,0,0,1,3,Monroe County,precinct
-Monroe County,Leg. Dist. 25 17,231,6,5,0,6,7,3,0,124,2,2,2,2,2,0,130,3,2,4,2,2,2,1,0,2,Monroe County,precinct
-Monroe County,Leg. Dist. 25 18,444,43,2,0,19,7,4,0,227,24,1,7,3,4,1,238,25,2,4,7,3,2,1,3,2,Monroe County,precinct
-Monroe County,Leg. Dist. 25 2,376,22,3,0,13,9,1,2,198,8,2,6,6,1,0,187,12,2,5,5,2,1,0,3,7,Monroe County,precinct
-Monroe County,Leg. Dist. 25 20,176,51,11,0,8,5,5,2,91,27,4,3,4,2,2,76,28,6,7,1,2,4,1,2,7,Monroe County,precinct
-Monroe County,Leg. Dist. 25 21/28-19,304,21,1,0,5,6,1,0,163,8,1,4,2,1,2,150,9,1,3,5,1,0,0,3,3,Monroe County,precinct
-Monroe County,Leg. Dist. 25 22,332,40,10,0,17,8,5,3,182,11,6,8,4,4,2,161,14,4,10,5,4,4,1,2,9,Monroe County,precinct
-Monroe County,Leg. Dist. 25 23,176,16,0,0,5,4,4,1,89,8,0,2,1,4,0,80,8,0,8,2,1,0,0,3,2,Monroe County,precinct
-Monroe County,Leg. Dist. 25 25,751,108,18,0,27,10,5,6,392,48,10,13,6,6,0,380,56,9,13,8,3,2,2,7,13,Monroe County,precinct
-Monroe County,Leg. Dist. 25 26/27,196,23,0,0,21,3,4,3,104,11,0,13,1,2,0,96,13,1,11,5,0,0,1,2,2,Monroe County,precinct
-Monroe County,Leg. Dist. 25 29/30,377,42,5,0,30,8,6,5,194,20,3,17,6,3,0,168,24,3,20,9,1,7,1,10,4,Monroe County,precinct
-Monroe County,Leg. Dist. 25 3,492,31,10,0,9,8,5,0,253,12,6,7,5,4,0,267,13,3,4,4,5,3,1,1,2,Monroe County,precinct
-Monroe County,Leg. Dist. 25 4/24,255,50,2,0,14,2,0,3,141,16,3,7,1,4,1,131,25,1,8,4,1,1,1,3,2,Monroe County,precinct
-Monroe County,Leg. Dist. 25 5,388,16,6,0,7,1,2,1,205,5,1,4,0,1,0,207,5,2,2,5,1,0,1,0,2,Monroe County,precinct
-Monroe County,Leg. Dist. 25 6,368,34,8,0,29,12,12,2,201,12,5,15,4,6,1,157,22,4,21,11,4,1,3,8,11,Monroe County,precinct
-Monroe County,Leg. Dist. 25 7,476,10,3,0,5,3,0,2,255,4,0,4,2,1,1,260,5,0,1,3,2,0,0,0,0,Monroe County,precinct
-Monroe County,Leg. Dist. 25 8,441,18,6,0,11,3,0,6,230,6,5,5,2,1,0,227,6,1,1,6,1,1,1,3,2,Monroe County,precinct
-Monroe County,Leg. Dist. 25 9,182,2,0,0,2,4,0,0,96,0,0,0,1,1,0,94,0,0,1,0,1,1,0,1,0,Monroe County,precinct
-Monroe County,Leg. Dist. 26 1,529,289,74,0,14,18,2,10,274,137,33,12,11,2,4,233,159,35,7,7,7,3,3,5,14,Monroe County,precinct
-Monroe County,Leg. Dist. 26 10,378,101,15,0,14,13,2,0,202,47,8,6,6,0,0,179,57,8,3,5,6,0,1,4,7,Monroe County,precinct
-Monroe County,Leg. Dist. 26 11,308,151,22,0,15,5,4,0,167,69,10,9,4,2,1,138,75,14,6,7,2,2,2,3,14,Monroe County,precinct
-Monroe County,Leg. Dist. 26 12,246,210,37,0,11,10,6,2,137,96,17,8,9,3,0,112,110,15,4,4,4,3,2,0,20,Monroe County,precinct
-Monroe County,Leg. Dist. 26 13,333,204,36,0,9,4,2,2,172,89,17,6,7,3,0,141,101,21,2,3,2,1,0,2,15,Monroe County,precinct
-Monroe County,Leg. Dist. 26 14,373,193,56,0,10,10,9,9,201,84,23,12,6,6,1,168,98,33,5,3,2,3,3,8,13,Monroe County,precinct
-Monroe County,Leg. Dist. 26 15,356,80,15,0,7,12,6,10,189,34,8,7,3,5,2,169,40,5,7,4,1,2,3,4,11,Monroe County,precinct
-Monroe County,Leg. Dist. 26 16,257,198,36,0,11,8,5,3,141,85,15,6,8,4,2,117,96,16,8,2,0,2,2,1,19,Monroe County,precinct
-Monroe County,Leg. Dist. 26 17,220,164,16,0,8,9,2,7,118,79,8,10,3,1,2,94,90,10,1,2,6,0,3,5,11,Monroe County,precinct
-Monroe County,Leg. Dist. 26 2,243,122,23,0,13,7,0,6,131,59,14,5,3,0,1,108,67,12,1,1,3,0,2,1,18,Monroe County,precinct
-Monroe County,Leg. Dist. 26 3,154,77,7,0,7,5,2,1,90,32,4,5,2,2,0,72,36,3,2,1,3,2,1,2,9,Monroe County,precinct
-Monroe County,Leg. Dist. 26 4,226,151,41,0,4,12,3,1,128,66,19,4,8,2,2,99,79,20,3,5,2,0,2,1,18,Monroe County,precinct
-Monroe County,Leg. Dist. 26 5,270,127,16,0,6,10,2,7,141,51,12,4,4,2,3,120,56,12,3,4,2,2,0,3,18,Monroe County,precinct
-Monroe County,Leg. Dist. 26 6,293,70,11,0,7,2,5,1,160,29,3,2,2,2,0,162,35,4,3,3,1,1,1,1,0,Monroe County,precinct
-Monroe County,Leg. Dist. 26 7,269,125,20,0,11,7,4,1,139,56,12,5,6,4,0,127,60,9,1,5,4,3,4,2,8,Monroe County,precinct
-Monroe County,Leg. Dist. 26 8,408,66,15,0,5,16,3,0,208,30,5,3,9,2,2,181,40,8,4,4,5,2,3,4,8,Monroe County,precinct
-Monroe County,Leg. Dist. 26 9,309,101,31,0,13,9,9,7,171,41,16,8,5,7,3,148,54,14,4,4,0,6,4,8,5,Monroe County,precinct
-Monroe County,Leg. Dist. 27 1,525,76,32,0,10,3,3,7,272,30,17,8,2,5,1,257,42,16,5,6,2,0,0,5,10,Monroe County,precinct
-Monroe County,Leg. Dist. 27 10,470,76,7,0,22,10,7,2,258,35,5,6,6,3,0,230,41,5,10,4,3,7,0,4,7,Monroe County,precinct
-Monroe County,Leg. Dist. 27 11,613,49,11,0,19,11,7,4,313,26,5,14,5,6,0,302,28,3,6,7,6,5,1,8,9,Monroe County,precinct
-Monroe County,Leg. Dist. 27 12,398,50,13,0,17,7,10,6,213,18,7,12,6,7,2,203,20,6,9,8,4,4,4,2,6,Monroe County,precinct
-Monroe County,Leg. Dist. 27 13,547,23,6,0,7,8,6,0,283,12,3,4,2,2,0,286,12,3,3,5,2,2,0,3,2,Monroe County,precinct
-Monroe County,Leg. Dist. 27 14,396,29,4,0,7,8,1,1,213,12,2,2,4,0,0,217,12,2,1,1,3,1,0,4,0,Monroe County,precinct
-Monroe County,Leg. Dist. 27 15,479,23,4,0,11,10,5,0,252,6,1,6,4,1,0,247,11,1,2,7,3,1,0,5,4,Monroe County,precinct
-Monroe County,Leg. Dist. 27 16,500,33,9,0,10,9,0,0,265,14,5,6,4,0,1,260,16,4,3,4,2,1,0,5,5,Monroe County,precinct
-Monroe County,Leg. Dist. 27 17,533,51,4,0,15,6,5,0,286,23,3,6,3,2,1,275,27,5,4,7,2,1,1,0,6,Monroe County,precinct
-Monroe County,Leg. Dist. 27 18,318,98,18,0,10,8,0,2,162,48,9,7,3,2,2,160,52,7,2,2,2,0,2,1,7,Monroe County,precinct
-Monroe County,Leg. Dist. 27 19,575,22,6,0,14,8,1,0,289,13,2,7,4,2,2,292,12,4,4,7,3,1,0,2,3,Monroe County,precinct
-Monroe County,Leg. Dist. 27 2,542,51,20,0,11,14,3,3,281,23,11,5,7,2,2,269,28,12,6,6,3,1,0,2,7,Monroe County,precinct
-Monroe County,Leg. Dist. 27 20,290,7,3,0,3,3,0,1,156,3,1,1,2,2,0,156,7,1,0,2,3,0,0,0,2,Monroe County,precinct
-Monroe County,Leg. Dist. 27 21,276,19,2,0,2,2,3,1,141,7,2,1,1,4,0,145,7,2,4,1,0,1,0,1,2,Monroe County,precinct
-Monroe County,Leg. Dist. 27 22,268,93,16,0,20,5,0,7,147,44,6,10,3,0,2,139,46,6,2,7,1,1,2,3,6,Monroe County,precinct
-Monroe County,Leg. Dist. 27 23,344,16,0,0,21,2,2,0,172,7,0,12,1,2,0,171,7,1,2,10,2,1,1,2,2,Monroe County,precinct
-Monroe County,Leg. Dist. 27 25,156,45,23,0,0,4,0,0,84,22,7,1,5,1,0,84,22,9,2,0,1,0,1,1,0,Monroe County,precinct
-Monroe County,Leg. Dist. 27 26,232,72,9,0,6,4,2,6,119,36,5,3,5,1,1,118,31,6,2,1,3,1,1,0,5,Monroe County,precinct
-Monroe County,Leg. Dist. 27 3,398,59,18,0,19,9,10,2,208,29,10,11,4,8,1,194,38,8,8,9,4,4,0,4,4,Monroe County,precinct
-Monroe County,Leg. Dist. 27 4,537,57,17,0,18,11,7,2,293,23,7,12,6,3,0,257,27,10,12,7,5,2,0,8,8,Monroe County,precinct
-Monroe County,Leg. Dist. 27 5,553,25,6,0,22,5,7,2,281,12,2,15,4,2,2,281,16,4,8,12,1,1,0,2,5,Monroe County,precinct
-Monroe County,Leg. Dist. 27 6,453,31,10,0,7,11,3,0,244,9,4,5,6,0,1,238,17,3,2,3,1,0,1,2,2,Monroe County,precinct
-Monroe County,Leg. Dist. 27 7,449,61,8,0,21,7,8,1,247,24,3,9,5,4,0,227,33,4,8,5,3,4,1,6,3,Monroe County,precinct
-Monroe County,Leg. Dist. 27 8,765,54,7,0,15,12,8,3,401,26,3,11,7,3,1,414,25,1,1,6,4,1,0,6,6,Monroe County,precinct
-Monroe County,Leg. Dist. 27 9,545,36,1,0,36,9,8,0,280,13,1,21,6,6,0,267,18,3,6,13,5,1,3,9,3,Monroe County,precinct
-Monroe County,Leg. Dist. 28 1,343,59,14,0,2,3,8,0,177,26,5,3,1,4,2,166,32,4,3,2,0,3,1,2,5,Monroe County,precinct
-Monroe County,Leg. Dist. 28 10,128,13,3,0,3,0,1,0,63,6,2,2,0,1,1,66,6,2,0,1,0,0,0,1,0,Monroe County,precinct
-Monroe County,Leg. Dist. 28 11,219,24,12,0,3,1,0,6,113,12,3,2,1,2,3,104,18,2,2,1,0,0,3,2,3,Monroe County,precinct
-Monroe County,Leg. Dist. 28 12,180,40,4,0,4,3,1,0,99,20,3,3,1,2,0,98,16,3,0,1,1,0,0,3,1,Monroe County,precinct
-Monroe County,Leg. Dist. 28 13,319,83,13,0,10,10,3,1,167,35,6,5,6,2,1,159,36,4,1,3,7,0,0,2,8,Monroe County,precinct
-Monroe County,Leg. Dist. 28 14,288,52,16,0,3,2,1,3,151,24,10,3,1,2,1,155,24,8,2,0,1,0,0,1,3,Monroe County,precinct
-Monroe County,Leg. Dist. 28 15,113,15,3,0,0,4,0,2,58,7,1,1,1,0,1,58,8,1,0,0,1,0,1,0,1,Monroe County,precinct
-Monroe County,Leg. Dist. 28 16,291,58,7,0,6,11,0,0,150,30,2,4,5,2,1,140,30,4,3,5,4,1,1,4,3,Monroe County,precinct
-Monroe County,Leg. Dist. 28 17,29,12,1,0,0,0,0,0,16,5,0,0,0,0,0,14,5,2,0,0,0,0,0,0,1,Monroe County,precinct
-Monroe County,Leg. Dist. 28 18,326,59,13,0,10,2,1,1,175,26,4,6,1,1,1,166,30,3,3,1,1,0,0,2,7,Monroe County,precinct
-Monroe County,Leg. Dist. 28 2,210,37,16,0,6,0,3,0,107,16,8,4,1,1,0,96,17,9,3,6,1,0,0,0,1,Monroe County,precinct
-Monroe County,Leg. Dist. 28 20,405,96,17,0,19,7,12,3,213,40,10,11,6,5,1,179,51,12,6,6,4,2,3,8,8,Monroe County,precinct
-Monroe County,Leg. Dist. 28 21,398,90,7,0,12,10,4,6,206,44,6,10,3,1,1,193,48,6,4,8,1,1,2,4,5,Monroe County,precinct
-Monroe County,Leg. Dist. 28 22,193,25,5,0,9,1,0,2,105,12,1,5,2,1,0,101,15,1,1,3,2,0,0,0,2,Monroe County,precinct
-Monroe County,Leg. Dist. 28 3,222,32,3,0,2,8,0,0,113,15,2,4,3,2,1,117,19,2,1,1,2,1,0,0,2,Monroe County,precinct
-Monroe County,Leg. Dist. 28 4,170,58,4,0,5,11,4,3,89,28,3,2,6,2,1,95,31,3,0,3,7,1,2,0,3,Monroe County,precinct
-Monroe County,Leg. Dist. 28 5,158,48,9,0,4,4,4,1,89,26,6,1,2,2,0,85,26,3,1,0,1,3,0,2,7,Monroe County,precinct
-Monroe County,Leg. Dist. 28 6,461,98,25,0,11,8,5,2,237,49,11,7,4,4,3,221,49,15,3,8,1,1,2,7,4,Monroe County,precinct
-Monroe County,Leg. Dist. 28 7,518,134,16,0,20,8,3,4,268,63,13,10,6,2,2,260,72,10,3,4,3,1,2,4,9,Monroe County,precinct
-Monroe County,Leg. Dist. 28 8,223,32,3,0,7,7,5,1,115,13,3,5,2,4,1,132,14,2,1,1,3,2,1,2,0,Monroe County,precinct
-Monroe County,Leg. Dist. 28 9,326,85,12,0,15,5,4,3,168,40,8,11,2,2,1,152,47,5,7,5,2,3,0,4,10,Monroe County,precinct
-Monroe County,Leg. Dist. 29 1,49,11,0,0,0,0,0,0,28,4,0,0,0,0,0,27,5,0,0,0,0,0,0,0,0,Monroe County,precinct
-Monroe County,Leg. Dist. 29 10,449,63,13,0,7,4,3,2,242,25,6,3,4,1,1,230,29,3,1,0,4,1,1,1,6,Monroe County,precinct
-Monroe County,Leg. Dist. 29 11,283,78,25,0,11,6,4,4,151,34,10,7,4,2,4,140,36,12,2,4,3,2,3,3,4,Monroe County,precinct
-Monroe County,Leg. Dist. 29 12,397,70,10,0,12,7,1,0,210,35,5,8,4,0,0,208,33,6,2,7,1,1,0,1,1,Monroe County,precinct
-Monroe County,Leg. Dist. 29 13,248,11,0,0,0,5,1,0,128,5,0,0,3,1,0,122,9,1,1,4,2,0,0,2,3,Monroe County,precinct
-Monroe County,Leg. Dist. 29 14,145,22,4,0,4,0,2,0,76,8,2,2,0,1,0,70,8,5,0,2,0,1,0,0,1,Monroe County,precinct
-Monroe County,Leg. Dist. 29 15,366,36,7,0,4,1,1,0,188,17,3,1,3,0,0,180,21,3,0,0,2,0,0,2,2,Monroe County,precinct
-Monroe County,Leg. Dist. 29 16,158,13,0,0,0,0,0,1,81,6,1,0,0,0,0,80,6,0,0,0,0,0,0,1,2,Monroe County,precinct
-Monroe County,Leg. Dist. 29 17,224,59,26,0,14,9,3,2,118,35,10,8,5,0,0,113,33,12,3,6,0,0,1,3,8,Monroe County,precinct
-Monroe County,Leg. Dist. 29 18,331,105,28,0,26,6,8,4,172,51,13,13,5,4,2,155,58,18,6,7,2,4,2,6,5,Monroe County,precinct
-Monroe County,Leg. Dist. 29 19,218,26,5,0,5,2,2,2,110,13,2,4,2,1,1,103,15,2,4,2,1,0,0,0,1,Monroe County,precinct
-Monroe County,Leg. Dist. 29 2,105,9,5,0,2,0,1,0,56,4,2,1,0,0,0,52,6,3,1,0,0,0,0,0,0,Monroe County,precinct
-Monroe County,Leg. Dist. 29 20,486,55,12,0,16,3,3,4,261,23,3,14,2,2,1,252,28,4,6,5,2,1,1,1,4,Monroe County,precinct
-Monroe County,Leg. Dist. 29 21,408,87,20,0,15,7,10,4,217,41,11,7,5,3,2,195,41,11,7,6,2,2,2,7,11,Monroe County,precinct
-Monroe County,Leg. Dist. 29 22,238,11,5,0,0,3,2,0,116,5,2,0,1,2,0,128,6,1,0,0,1,1,0,0,0,Monroe County,precinct
-Monroe County,Leg. Dist. 29 23,366,60,2,0,3,0,2,0,178,28,2,1,2,0,0,188,31,0,1,2,0,0,1,0,1,Monroe County,precinct
-Monroe County,Leg. Dist. 29 24,508,64,9,0,11,11,6,3,267,31,5,5,6,2,1,257,39,5,2,2,3,1,1,2,2,Monroe County,precinct
-Monroe County,Leg. Dist. 29 25/28,472,82,19,0,9,11,3,1,259,35,9,3,10,4,0,265,35,10,1,3,5,4,2,2,2,Monroe County,precinct
-Monroe County,Leg. Dist. 29 26,177,16,2,0,0,0,0,0,89,8,0,1,0,1,1,93,7,0,0,1,1,0,0,0,0,Monroe County,precinct
-Monroe County,Leg. Dist. 29 3,11,1,0,0,0,1,1,0,8,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,Monroe County,precinct
-Monroe County,Leg. Dist. 29 4,396,104,18,0,5,9,5,4,205,52,9,4,6,4,1,190,53,11,2,1,2,3,2,5,13,Monroe County,precinct
-Monroe County,Leg. Dist. 29 5,367,80,14,0,12,6,0,5,200,28,5,6,3,0,1,190,38,8,3,4,2,1,0,1,7,Monroe County,precinct
-Monroe County,Leg. Dist. 29 6,229,60,4,0,10,5,5,1,122,25,2,8,2,1,0,115,33,2,1,1,4,2,0,2,2,Monroe County,precinct
-Monroe County,Leg. Dist. 29 7,262,79,13,0,11,9,1,3,142,32,6,8,7,5,1,121,42,7,8,4,3,0,2,4,7,Monroe County,precinct
-Monroe County,Leg. Dist. 29 8,93,15,0,0,0,2,2,0,49,8,1,0,1,1,0,43,8,1,3,0,1,2,0,0,2,Monroe County,precinct
-Monroe County,Leg. Dist. 29 9,555,110,19,0,13,9,4,5,293,43,12,7,8,4,1,289,49,14,4,6,3,1,0,3,4,Monroe County,precinct
-Monroe County,Mendon 01,334,207,50,0,14,4,9,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,precinct
-Monroe County,Mendon 02,349,133,38,0,17,5,5,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,precinct
-Monroe County,Mendon 03,319,206,60,0,13,3,4,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,precinct
-Monroe County,Mendon 04,262,130,21,0,17,4,7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,precinct
-Monroe County,Mendon 05,293,185,56,0,12,8,10,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,precinct
-Monroe County,Mendon 06,301,197,49,0,16,2,9,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,precinct
-Monroe County,Mendon 07,304,246,53,0,11,4,2,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,precinct
-Monroe County,Mendon 08,136,74,16,0,6,2,4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,precinct
-Monroe County,Mendon 09,253,156,34,0,12,3,6,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,precinct
-Monroe County,Mendon 1,0,0,0,0,0,0,0,0,324,219,57,5,20,8,2,257,260,52,8,1,14,7,2,12,16,Monroe County,precinct
-Monroe County,Mendon 2,0,0,0,0,0,0,0,0,336,144,43,10,19,4,3,241,205,37,12,6,8,1,9,12,23,Monroe County,precinct
-Monroe County,Mendon 3,0,0,0,0,0,0,0,0,300,226,64,10,11,3,4,228,265,64,10,7,5,2,5,14,19,Monroe County,precinct
-Monroe County,Mendon 4,0,0,0,0,0,0,0,0,239,141,26,17,15,4,2,182,165,30,12,10,12,0,5,12,22,Monroe County,precinct
-Monroe County,Mendon 5,0,0,0,0,0,0,0,0,273,218,59,4,17,10,5,207,243,67,8,2,13,5,4,15,18,Monroe County,precinct
-Monroe County,Mendon 6,0,0,0,0,0,0,0,0,277,223,60,13,12,2,3,215,256,65,9,10,5,4,1,11,16,Monroe County,precinct
-Monroe County,Mendon 7,0,0,0,0,0,0,0,0,278,276,54,7,12,4,5,227,306,61,5,3,8,2,3,4,14,Monroe County,precinct
-Monroe County,Mendon 8,0,0,0,0,0,0,0,0,133,81,17,5,5,4,1,111,87,19,4,5,4,0,2,5,7,Monroe County,precinct
-Monroe County,Mendon 9,0,0,0,0,0,0,0,0,236,175,42,12,7,4,4,185,197,37,6,7,7,2,2,10,19,Monroe County,precinct
-Monroe County,Ogden 1,168,155,44,0,6,6,2,0,179,134,44,8,9,2,0,151,154,40,3,4,3,3,2,4,14,Monroe County,precinct
-Monroe County,Ogden 10,149,185,46,0,10,8,4,1,164,169,43,10,7,6,4,120,196,44,2,5,4,2,2,2,26,Monroe County,precinct
-Monroe County,Ogden 11,153,215,54,0,4,10,2,3,161,193,57,3,12,3,4,123,222,57,5,1,6,0,1,5,20,Monroe County,precinct
-Monroe County,Ogden 12,165,272,53,0,4,8,0,6,172,252,48,9,10,3,1,126,263,52,7,3,6,2,5,7,33,Monroe County,precinct
-Monroe County,Ogden 13,165,191,37,0,4,9,1,1,183,161,38,7,9,3,3,139,202,38,3,3,3,1,1,2,15,Monroe County,precinct
-Monroe County,Ogden 14,132,167,34,0,2,5,1,3,133,166,33,5,5,1,1,94,180,31,0,2,2,1,3,3,17,Monroe County,precinct
-Monroe County,Ogden 15,202,259,52,0,3,6,2,4,215,237,51,3,5,4,0,158,273,54,5,0,6,1,0,9,20,Monroe County,precinct
-Monroe County,Ogden 16,66,156,33,0,1,1,0,1,68,144,34,3,3,2,1,59,163,25,0,0,1,0,1,0,6,Monroe County,precinct
-Monroe County,Ogden 17,133,191,30,0,5,2,3,3,144,177,24,8,5,5,3,108,201,27,3,4,2,1,1,5,14,Monroe County,precinct
-Monroe County,Ogden 18,232,228,47,0,16,10,2,5,257,207,46,13,15,2,2,188,237,43,14,8,7,3,2,10,28,Monroe County,precinct
-Monroe County,Ogden 19,181,221,50,0,2,3,3,2,203,201,49,2,5,3,0,159,224,53,3,2,2,3,2,3,13,Monroe County,precinct
-Monroe County,Ogden 2,148,181,49,0,7,8,4,2,172,159,43,8,10,5,3,116,190,47,6,5,7,4,2,3,11,Monroe County,precinct
-Monroe County,Ogden 20,158,229,75,0,10,8,2,1,172,204,69,9,11,4,2,119,241,66,7,2,3,6,4,3,32,Monroe County,precinct
-Monroe County,Ogden 3,214,316,51,0,8,8,6,2,247,284,45,8,10,6,3,184,319,45,9,2,6,7,2,11,22,Monroe County,precinct
-Monroe County,Ogden 4,129,181,45,0,2,7,2,1,141,162,44,2,6,6,1,107,187,44,1,3,4,2,4,3,14,Monroe County,precinct
-Monroe County,Ogden 5,130,190,35,0,2,8,2,3,144,164,28,7,12,2,2,102,196,32,4,3,6,2,2,5,17,Monroe County,precinct
-Monroe County,Ogden 6,213,215,48,0,3,3,5,1,230,199,43,3,5,5,3,177,232,42,8,0,3,3,4,6,13,Monroe County,precinct
-Monroe County,Ogden 7,82,137,37,0,2,5,2,3,89,125,35,6,4,3,5,65,143,31,2,1,3,0,2,3,19,Monroe County,precinct
-Monroe County,Ogden 8,187,219,41,0,2,6,1,2,187,205,38,10,8,2,4,144,241,34,3,3,3,2,3,8,16,Monroe County,precinct
-Monroe County,Ogden 9,163,156,38,0,5,3,5,3,171,137,33,4,7,6,2,129,165,40,4,2,2,6,3,3,16,Monroe County,precinct
-Monroe County,Parma 1,165,238,57,0,0,9,2,4,173,219,56,2,15,1,3,123,229,56,5,1,7,2,5,8,29,Monroe County,precinct
-Monroe County,Parma 10,116,232,70,0,2,9,1,1,128,206,72,4,8,2,1,92,240,70,6,2,9,0,2,0,8,Monroe County,precinct
-Monroe County,Parma 11,164,243,62,0,4,10,1,2,189,217,56,2,11,2,3,135,229,58,5,2,7,0,1,11,19,Monroe County,precinct
-Monroe County,Parma 12,186,245,31,0,9,8,4,1,204,223,28,6,14,2,2,158,241,30,4,4,5,2,1,4,39,Monroe County,precinct
-Monroe County,Parma 13,208,417,71,0,3,14,4,3,224,389,67,6,15,7,5,170,434,66,3,5,5,3,2,4,29,Monroe County,precinct
-Monroe County,Parma 14,142,155,30,0,4,5,3,2,153,140,30,5,7,4,3,115,161,32,4,2,3,1,2,3,19,Monroe County,precinct
-Monroe County,Parma 15,132,269,56,0,11,7,3,2,158,232,50,16,9,2,2,106,268,49,6,8,7,2,0,1,37,Monroe County,precinct
-Monroe County,Parma 2,175,265,59,0,10,6,2,6,212,227,53,9,11,2,4,141,266,53,2,3,3,3,4,6,30,Monroe County,precinct
-Monroe County,Parma 3,132,213,43,0,7,4,3,2,149,185,42,9,5,3,2,101,216,43,6,4,3,4,3,1,21,Monroe County,precinct
-Monroe County,Parma 4,102,237,46,0,7,2,1,2,114,214,48,8,4,3,1,86,240,40,5,2,2,2,3,4,13,Monroe County,precinct
-Monroe County,Parma 5,81,182,32,0,4,2,1,2,92,166,32,3,5,2,1,72,179,28,1,3,3,1,5,0,11,Monroe County,precinct
-Monroe County,Parma 6,55,113,28,0,2,3,3,0,61,103,25,3,2,2,1,47,110,24,1,1,2,1,0,1,11,Monroe County,precinct
-Monroe County,Parma 7,113,216,54,0,5,8,0,2,134,190,50,5,15,1,2,106,207,48,5,3,7,0,1,2,17,Monroe County,precinct
-Monroe County,Parma 8,191,279,47,0,6,10,6,2,212,250,48,6,10,4,2,168,280,47,4,3,2,1,6,4,21,Monroe County,precinct
-Monroe County,Parma 9,124,249,57,0,3,6,3,5,139,231,60,6,8,5,1,96,253,54,3,2,2,5,6,4,16,Monroe County,precinct
-Monroe County,Penfield 1,109,68,18,0,1,3,0,3,112,69,17,2,3,0,1,91,66,18,3,1,3,1,3,8,4,Monroe County,precinct
-Monroe County,Penfield 10,172,100,24,0,3,11,0,1,182,91,22,6,9,1,0,156,103,25,2,4,7,0,0,8,9,Monroe County,precinct
-Monroe County,Penfield 11,143,104,11,0,3,5,4,1,154,86,8,3,10,6,1,125,92,12,3,5,7,4,1,7,10,Monroe County,precinct
-Monroe County,Penfield 12,233,145,28,0,9,4,6,2,240,134,26,14,2,8,1,204,146,30,5,11,3,2,1,8,10,Monroe County,precinct
-Monroe County,Penfield 13,316,213,40,0,5,7,3,3,328,189,37,10,13,7,3,294,211,36,8,5,8,3,1,7,17,Monroe County,precinct
-Monroe County,Penfield 14,170,262,58,0,7,13,4,1,191,226,61,9,15,6,0,144,264,54,7,0,9,4,3,6,25,Monroe County,precinct
-Monroe County,Penfield 15,325,248,35,0,6,13,0,2,340,222,34,6,18,3,1,289,261,39,7,5,10,1,3,8,5,Monroe County,precinct
-Monroe County,Penfield 16,97,68,12,0,4,5,3,2,98,59,12,6,8,3,1,82,62,15,1,5,3,1,1,7,12,Monroe County,precinct
-Monroe County,Penfield 17,229,154,33,0,7,11,8,4,233,139,30,7,16,5,5,195,160,30,5,5,6,3,5,7,17,Monroe County,precinct
-Monroe County,Penfield 18,168,122,9,0,4,7,3,6,174,114,13,5,9,1,3,143,127,16,6,2,5,1,6,9,4,Monroe County,precinct
-Monroe County,Penfield 19,323,233,37,0,12,10,4,2,352,197,35,13,20,5,0,266,235,35,11,8,13,5,3,19,21,Monroe County,precinct
-Monroe County,Penfield 2,231,135,28,0,3,8,2,3,245,110,31,5,6,5,2,194,130,28,10,2,5,4,2,13,14,Monroe County,precinct
-Monroe County,Penfield 20,231,177,48,0,3,7,3,2,237,158,44,4,12,3,4,196,196,45,6,3,8,2,6,5,8,Monroe County,precinct
-Monroe County,Penfield 21,274,150,22,0,11,13,4,4,294,127,26,10,15,3,3,248,150,21,2,10,11,3,4,10,12,Monroe County,precinct
-Monroe County,Penfield 22,253,125,38,0,3,15,3,0,255,114,33,7,18,4,0,221,120,35,6,7,10,1,6,16,6,Monroe County,precinct
-Monroe County,Penfield 23,289,200,41,0,9,14,0,1,306,184,36,7,16,4,0,243,211,38,3,7,11,3,6,6,7,Monroe County,precinct
-Monroe County,Penfield 24,256,228,46,0,6,11,3,7,273,199,45,5,18,8,2,224,235,41,8,3,3,4,6,4,21,Monroe County,precinct
-Monroe County,Penfield 25,158,147,31,0,4,3,2,3,167,138,31,4,3,4,1,136,161,29,5,3,4,2,1,1,8,Monroe County,precinct
-Monroe County,Penfield 26,121,100,18,0,3,8,2,5,125,94,17,3,7,6,3,93,101,21,4,2,6,3,2,10,8,Monroe County,precinct
-Monroe County,Penfield 27,241,164,34,0,4,12,4,1,251,145,37,6,12,5,0,200,181,30,7,6,11,4,1,7,8,Monroe County,precinct
-Monroe County,Penfield 28,185,108,34,0,9,8,0,2,187,99,31,9,8,4,2,164,116,29,4,7,5,2,1,2,8,Monroe County,precinct
-Monroe County,Penfield 29,301,186,29,0,9,7,7,4,321,161,27,9,11,8,2,255,186,33,10,9,7,6,5,8,16,Monroe County,precinct
-Monroe County,Penfield 3,164,182,26,0,3,7,3,0,177,159,28,3,10,3,2,141,180,20,7,5,5,3,1,4,14,Monroe County,precinct
-Monroe County,Penfield 30,356,326,69,0,3,10,2,3,383,283,65,7,11,7,3,315,329,67,1,5,7,5,2,3,27,Monroe County,precinct
-Monroe County,Penfield 31,134,93,13,0,2,7,2,0,142,79,13,2,5,2,0,120,90,18,1,1,4,3,0,2,5,Monroe County,precinct
-Monroe County,Penfield 32,176,95,11,0,3,1,2,1,185,84,9,4,2,2,1,168,91,11,1,2,1,4,1,3,8,Monroe County,precinct
-Monroe County,Penfield 33,187,131,34,0,6,11,2,7,196,113,35,8,14,3,4,164,138,34,4,4,9,1,3,5,12,Monroe County,precinct
-Monroe County,Penfield 34,185,162,34,0,4,7,2,2,197,143,30,5,9,2,3,157,166,32,4,4,5,3,2,6,9,Monroe County,precinct
-Monroe County,Penfield 35,363,212,32,0,3,16,3,3,364,196,33,2,21,5,1,302,231,33,7,2,15,3,2,12,14,Monroe County,precinct
-Monroe County,Penfield 36,238,147,26,0,7,11,4,2,257,121,22,12,11,8,1,207,153,31,7,10,7,4,1,4,10,Monroe County,precinct
-Monroe County,Penfield 37,328,348,53,0,6,8,1,8,357,310,46,8,12,3,11,275,361,46,6,2,10,1,6,9,32,Monroe County,precinct
-Monroe County,Penfield 38,128,132,22,0,3,3,0,2,133,125,18,4,6,1,0,111,130,21,5,2,4,1,1,2,5,Monroe County,precinct
-Monroe County,Penfield 39,142,144,26,0,5,3,3,1,160,123,23,7,6,5,0,122,148,24,6,3,3,0,0,7,5,Monroe County,precinct
-Monroe County,Penfield 4,213,243,73,0,4,13,5,2,231,229,63,2,22,4,3,170,274,65,7,1,11,3,4,5,19,Monroe County,precinct
-Monroe County,Penfield 40,281,223,37,0,4,6,3,2,289,209,32,5,11,6,0,235,236,32,6,2,4,2,3,14,17,Monroe County,precinct
-Monroe County,Penfield 41,252,274,39,0,1,14,1,1,272,248,34,3,10,2,2,206,292,37,5,3,9,0,5,8,8,Monroe County,precinct
-Monroe County,Penfield 42,173,172,29,0,3,10,2,3,177,157,30,2,15,5,2,141,199,29,1,1,10,2,2,2,7,Monroe County,precinct
-Monroe County,Penfield 5,232,157,38,0,10,6,10,5,235,148,33,12,9,11,4,199,163,35,2,8,8,5,5,9,12,Monroe County,precinct
-Monroe County,Penfield 6,158,148,28,0,3,3,2,4,164,140,22,4,5,3,3,130,160,27,2,3,2,3,3,4,4,Monroe County,precinct
-Monroe County,Penfield 7,216,116,34,0,3,7,4,5,221,106,34,5,13,5,1,183,125,30,4,1,7,1,8,11,14,Monroe County,precinct
-Monroe County,Penfield 8,114,121,17,0,5,4,3,2,118,110,15,7,6,5,3,100,122,18,2,3,3,2,3,4,12,Monroe County,precinct
-Monroe County,Penfield 9,322,138,26,0,8,9,4,1,343,111,29,7,8,5,2,305,128,26,6,5,9,3,2,9,7,Monroe County,precinct
-Monroe County,Perinton 1,334,277,59,0,7,14,2,1,358,243,55,4,20,2,2,300,283,48,4,1,13,2,3,6,18,Monroe County,precinct
-Monroe County,Perinton 10,278,162,37,0,6,14,5,1,297,134,33,8,15,8,2,256,155,36,4,2,11,6,2,7,9,Monroe County,precinct
-Monroe County,Perinton 11,145,103,25,0,4,6,2,2,153,90,21,6,10,3,1,128,108,21,2,5,5,2,0,5,8,Monroe County,precinct
-Monroe County,Perinton 12,236,128,26,0,3,7,5,3,237,126,27,5,7,4,1,196,148,28,5,4,5,2,0,10,5,Monroe County,precinct
-Monroe County,Perinton 13,171,156,30,0,1,1,1,1,173,143,29,1,6,2,1,143,165,26,2,0,6,1,2,3,8,Monroe County,precinct
-Monroe County,Perinton 14,223,158,30,0,4,8,8,2,238,131,29,6,9,7,2,181,164,31,7,2,8,5,3,7,19,Monroe County,precinct
-Monroe County,Perinton 15,216,158,24,0,4,20,3,2,237,130,21,5,21,3,2,175,161,18,8,2,13,2,4,13,22,Monroe County,precinct
-Monroe County,Perinton 16,177,120,16,0,3,3,2,1,186,104,18,5,6,3,0,153,129,19,5,2,3,1,0,3,5,Monroe County,precinct
-Monroe County,Perinton 17,242,147,28,0,5,9,4,3,257,127,29,8,10,7,1,218,145,28,2,5,6,5,0,11,11,Monroe County,precinct
-Monroe County,Perinton 18,223,151,37,0,4,6,2,3,243,136,33,4,7,1,2,179,159,30,5,5,5,1,4,4,21,Monroe County,precinct
-Monroe County,Perinton 19,184,148,27,0,7,6,2,2,204,126,29,7,6,3,2,163,145,27,4,2,4,3,2,4,18,Monroe County,precinct
-Monroe County,Perinton 2,281,191,36,0,8,10,4,6,303,165,36,6,10,6,4,256,179,35,5,4,8,2,4,13,15,Monroe County,precinct
-Monroe County,Perinton 20,194,148,31,0,4,12,3,0,199,144,23,3,13,5,0,175,156,24,8,2,8,2,0,8,7,Monroe County,precinct
-Monroe County,Perinton 21,263,176,31,0,10,12,5,5,273,152,28,14,18,8,3,228,178,35,8,7,11,5,4,10,19,Monroe County,precinct
-Monroe County,Perinton 22,145,116,23,0,4,10,4,2,151,106,20,10,6,6,1,123,131,20,4,4,5,0,4,5,6,Monroe County,precinct
-Monroe County,Perinton 23,329,225,45,0,10,13,4,6,366,193,35,10,13,6,8,280,237,43,9,10,8,5,8,7,19,Monroe County,precinct
-Monroe County,Perinton 24,334,291,37,0,3,7,5,1,357,249,37,10,10,7,1,299,283,38,3,6,10,5,6,7,11,Monroe County,precinct
-Monroe County,Perinton 25,215,87,17,0,11,9,2,3,231,67,17,6,14,6,1,174,100,16,5,5,10,4,2,9,13,Monroe County,precinct
-Monroe County,Perinton 26,222,173,32,0,4,5,2,2,236,152,30,6,6,3,1,185,182,34,1,4,4,2,1,7,16,Monroe County,precinct
-Monroe County,Perinton 27,174,150,28,0,4,4,1,1,188,127,32,4,5,3,0,145,152,29,4,4,4,1,1,4,8,Monroe County,precinct
-Monroe County,Perinton 28,161,129,25,0,7,4,3,4,176,115,23,6,5,6,3,134,136,23,2,9,3,3,2,7,14,Monroe County,precinct
-Monroe County,Perinton 29,146,85,16,0,7,3,3,0,164,71,14,5,2,3,0,135,86,17,3,4,0,2,0,7,5,Monroe County,precinct
-Monroe County,Perinton 3,173,147,25,0,2,8,1,0,190,126,22,2,11,2,0,154,145,23,5,1,5,2,0,4,7,Monroe County,precinct
-Monroe County,Perinton 30,220,157,29,0,7,6,2,4,236,137,24,6,13,4,1,178,167,24,3,4,9,4,4,7,19,Monroe County,precinct
-Monroe County,Perinton 31,249,166,27,0,8,11,0,2,257,151,26,9,12,1,3,204,177,27,4,9,9,1,4,12,12,Monroe County,precinct
-Monroe County,Perinton 32,200,116,25,0,9,5,1,2,211,100,23,7,8,4,2,170,121,20,8,1,3,2,3,5,16,Monroe County,precinct
-Monroe County,Perinton 33,270,147,26,0,10,10,2,6,282,128,25,12,8,3,1,230,149,26,6,9,6,0,3,12,9,Monroe County,precinct
-Monroe County,Perinton 34,274,228,42,0,1,7,2,3,284,210,40,2,13,1,2,239,231,38,4,2,12,2,1,8,9,Monroe County,precinct
-Monroe County,Perinton 35,186,120,31,0,8,6,5,3,198,107,30,9,6,7,1,156,122,32,2,7,3,4,6,6,19,Monroe County,precinct
-Monroe County,Perinton 36,150,90,13,0,2,6,2,3,160,76,11,3,6,4,1,128,87,10,4,4,6,3,4,3,17,Monroe County,precinct
-Monroe County,Perinton 37,235,152,29,0,6,4,6,0,249,131,30,10,5,4,1,200,164,28,4,4,3,4,0,4,17,Monroe County,precinct
-Monroe County,Perinton 38,322,210,36,0,9,12,3,4,338,181,35,9,17,8,5,265,216,34,17,5,7,6,8,10,27,Monroe County,precinct
-Monroe County,Perinton 39,260,229,40,0,3,7,2,2,283,201,37,4,11,3,3,204,257,39,7,4,5,0,2,6,19,Monroe County,precinct
-Monroe County,Perinton 4,223,133,31,0,5,6,1,3,228,121,26,8,8,8,3,186,137,26,4,4,7,3,2,8,19,Monroe County,precinct
-Monroe County,Perinton 40,158,125,22,0,9,3,0,6,170,107,21,11,6,1,3,140,121,19,3,10,4,0,2,4,14,Monroe County,precinct
-Monroe County,Perinton 41,142,93,30,0,3,5,2,3,145,88,28,1,11,3,2,113,110,26,3,1,7,1,1,6,8,Monroe County,precinct
-Monroe County,Perinton 42,223,165,20,0,5,8,3,2,237,141,22,6,16,4,2,188,168,21,8,5,4,3,0,4,19,Monroe County,precinct
-Monroe County,Perinton 43,358,333,45,0,10,12,5,5,388,293,46,10,8,8,3,327,325,51,9,5,7,4,3,8,21,Monroe County,precinct
-Monroe County,Perinton 44,187,138,25,0,2,4,3,6,201,113,27,4,6,4,4,168,134,25,5,1,2,4,4,5,7,Monroe County,precinct
-Monroe County,Perinton 45,384,315,50,0,4,9,1,6,410,279,50,8,18,1,3,336,324,50,4,6,7,2,1,10,18,Monroe County,precinct
-Monroe County,Perinton 46,137,78,17,0,4,3,4,0,144,68,15,8,3,3,0,114,81,18,12,3,4,2,2,2,9,Monroe County,precinct
-Monroe County,Perinton 47,232,189,34,0,2,8,4,5,260,161,33,4,14,3,3,197,208,30,6,3,5,3,1,6,13,Monroe County,precinct
-Monroe County,Perinton 48,170,121,25,0,5,5,1,0,193,98,20,7,5,3,0,147,119,23,6,3,2,3,0,5,14,Monroe County,precinct
-Monroe County,Perinton 49,171,139,31,0,1,3,0,0,184,124,29,1,4,0,1,151,136,36,5,2,5,1,1,2,3,Monroe County,precinct
-Monroe County,Perinton 5,134,78,15,0,2,8,3,4,147,65,14,2,6,5,2,109,85,16,5,2,5,3,3,4,9,Monroe County,precinct
-Monroe County,Perinton 50,90,30,6,0,4,4,3,4,96,28,4,4,6,4,1,92,28,6,1,3,6,2,1,3,5,Monroe County,precinct
-Monroe County,Perinton 51,190,268,51,0,7,7,2,2,214,246,47,6,6,3,2,171,266,46,9,6,5,2,0,3,12,Monroe County,precinct
-Monroe County,Perinton 52,279,175,23,0,4,6,3,0,299,154,22,5,5,4,0,246,179,27,3,4,2,4,0,9,11,Monroe County,precinct
-Monroe County,Perinton 53,193,122,15,0,3,11,2,3,203,104,17,4,13,2,2,159,126,15,12,3,8,1,2,12,6,Monroe County,precinct
-Monroe County,Perinton 54,357,342,41,0,6,13,5,4,381,306,43,8,10,8,2,313,355,48,5,6,11,4,3,6,13,Monroe County,precinct
-Monroe County,Perinton 55,196,207,20,0,5,11,2,2,214,192,19,5,13,2,0,177,210,24,4,4,11,2,1,2,4,Monroe County,precinct
-Monroe County,Perinton 56,323,288,54,0,4,10,1,3,355,247,52,4,18,4,4,261,299,52,6,5,13,3,2,8,26,Monroe County,precinct
-Monroe County,Perinton 6,234,108,23,0,6,7,4,1,244,92,17,6,6,10,4,199,108,19,8,3,3,8,2,7,17,Monroe County,precinct
-Monroe County,Perinton 7,259,161,35,0,3,15,6,2,273,139,31,5,15,10,5,214,167,31,10,4,10,4,1,16,24,Monroe County,precinct
-Monroe County,Perinton 8,218,155,35,0,4,4,1,3,232,133,30,6,8,1,4,182,159,30,7,2,4,2,2,8,11,Monroe County,precinct
-Monroe County,Perinton 9,271,230,40,0,3,10,4,2,287,205,39,7,12,3,3,242,232,43,6,5,8,0,2,5,11,Monroe County,precinct
-Monroe County,Pittsford 1,217,107,17,0,6,4,4,4,226,91,18,5,8,4,2,190,107,14,15,3,4,3,4,9,2,Monroe County,precinct
-Monroe County,Pittsford 10,287,243,32,0,5,12,8,4,307,215,33,7,14,10,2,274,230,34,5,3,8,3,4,9,12,Monroe County,precinct
-Monroe County,Pittsford 11,166,132,24,0,5,3,2,0,177,114,23,8,4,4,1,147,137,21,6,3,3,4,1,3,6,Monroe County,precinct
-Monroe County,Pittsford 12,263,165,18,0,5,4,2,2,266,155,19,3,9,3,1,232,167,23,4,3,1,2,3,6,11,Monroe County,precinct
-Monroe County,Pittsford 13,161,99,20,0,6,5,2,2,176,79,22,7,4,2,0,146,94,17,5,8,5,2,0,3,11,Monroe County,precinct
-Monroe County,Pittsford 14,273,202,28,0,4,7,3,2,291,170,28,7,12,3,2,249,193,27,3,7,12,3,1,7,6,Monroe County,precinct
-Monroe County,Pittsford 15,188,97,11,0,11,9,9,0,195,85,9,11,11,11,0,174,99,11,1,10,6,6,2,3,15,Monroe County,precinct
-Monroe County,Pittsford 16,214,109,17,0,7,9,2,3,225,105,14,5,4,2,4,177,121,14,2,4,3,2,1,15,22,Monroe County,precinct
-Monroe County,Pittsford 17,335,146,25,0,6,8,6,1,355,119,25,6,14,8,1,287,160,24,3,7,8,7,2,16,11,Monroe County,precinct
-Monroe County,Pittsford 18,203,110,12,0,6,6,4,3,222,89,10,7,6,4,2,189,103,13,3,3,2,1,2,13,3,Monroe County,precinct
-Monroe County,Pittsford 19,109,107,33,0,2,2,0,0,122,90,32,2,2,0,1,95,102,35,2,2,1,0,1,4,7,Monroe County,precinct
-Monroe County,Pittsford 2,245,92,17,0,5,10,5,3,263,67,18,7,13,6,2,217,81,13,11,4,9,5,2,10,8,Monroe County,precinct
-Monroe County,Pittsford 20,237,136,26,0,6,9,9,5,257,118,28,6,10,11,3,228,128,34,4,5,6,10,3,9,5,Monroe County,precinct
-Monroe County,Pittsford 21,269,121,23,0,6,6,4,3,283,105,25,6,7,3,1,242,128,23,4,5,9,0,1,14,4,Monroe County,precinct
-Monroe County,Pittsford 22,295,163,29,0,4,5,5,2,312,142,33,5,6,2,0,273,155,27,7,5,4,3,2,8,8,Monroe County,precinct
-Monroe County,Pittsford 23,175,147,32,0,3,8,0,2,187,126,28,8,13,1,0,154,142,29,3,4,6,2,5,8,15,Monroe County,precinct
-Monroe County,Pittsford 24,278,182,27,0,4,1,3,1,296,160,25,3,4,3,0,269,179,24,0,3,2,2,0,5,3,Monroe County,precinct
-Monroe County,Pittsford 25,294,180,36,0,3,7,3,2,314,157,36,5,6,4,2,274,177,37,1,2,7,3,4,5,7,Monroe County,precinct
-Monroe County,Pittsford 26,207,148,28,0,10,5,1,2,220,131,24,11,10,4,1,171,148,24,9,5,8,5,2,6,12,Monroe County,precinct
-Monroe County,Pittsford 27,235,117,20,0,8,3,0,1,246,100,22,8,6,3,0,211,122,23,4,6,3,3,0,4,6,Monroe County,precinct
-Monroe County,Pittsford 28,229,127,13,0,11,5,4,2,246,112,11,10,6,5,1,212,135,15,6,7,3,1,1,4,5,Monroe County,precinct
-Monroe County,Pittsford 29,207,171,23,0,2,6,1,1,218,146,19,3,11,3,1,166,173,20,2,4,7,1,2,11,11,Monroe County,precinct
-Monroe County,Pittsford 3,330,210,27,0,5,11,2,0,354,181,24,7,12,6,0,301,212,23,9,5,8,2,0,9,5,Monroe County,precinct
-Monroe County,Pittsford 30,239,144,14,0,3,5,1,1,251,120,17,3,7,4,1,217,142,18,2,3,3,2,3,4,6,Monroe County,precinct
-Monroe County,Pittsford 31,281,175,17,0,6,8,1,5,296,154,20,7,11,1,2,242,191,23,4,5,8,1,4,4,3,Monroe County,precinct
-Monroe County,Pittsford 32,281,159,18,0,3,6,5,3,289,145,20,5,4,6,2,264,162,21,2,5,5,4,2,4,4,Monroe County,precinct
-Monroe County,Pittsford 33,369,259,35,0,7,10,1,3,393,223,34,9,13,2,2,328,252,39,8,4,7,0,4,10,10,Monroe County,precinct
-Monroe County,Pittsford 34,411,255,22,0,2,12,2,1,436,223,23,2,11,5,1,379,246,30,7,1,7,5,2,9,9,Monroe County,precinct
-Monroe County,Pittsford 4,308,180,26,0,2,8,4,1,327,164,19,4,9,2,2,275,180,27,10,2,9,5,1,8,7,Monroe County,precinct
-Monroe County,Pittsford 5,218,85,17,0,7,2,3,1,229,73,14,7,8,3,1,199,83,16,8,8,3,2,1,4,6,Monroe County,precinct
-Monroe County,Pittsford 6,200,74,4,0,11,3,1,1,217,56,4,12,4,1,2,201,65,4,8,6,4,1,1,7,1,Monroe County,precinct
-Monroe County,Pittsford 7,125,59,9,0,2,7,1,1,136,42,11,3,5,3,1,114,63,10,0,1,4,2,1,3,5,Monroe County,precinct
-Monroe County,Pittsford 8,207,158,28,0,1,2,2,2,219,143,26,1,3,2,1,185,149,28,2,1,2,3,2,6,5,Monroe County,precinct
-Monroe County,Pittsford 9,214,163,23,0,8,10,1,4,236,137,22,6,12,5,4,187,162,21,5,6,10,1,1,11,8,Monroe County,precinct
-Monroe County,Riga 1,232,299,78,0,6,15,3,2,260,266,75,11,15,5,2,183,315,77,11,3,6,3,1,10,26,Monroe County,precinct
-Monroe County,Riga 2,139,259,62,0,8,8,2,3,178,220,62,11,8,3,2,121,257,55,7,6,5,2,3,6,23,Monroe County,precinct
-Monroe County,Riga 3,154,187,32,0,3,6,0,3,181,159,28,4,4,2,2,133,189,30,3,1,3,0,5,5,9,Monroe County,precinct
-Monroe County,Riga 4,109,237,43,0,1,8,3,7,120,219,38,4,17,4,5,90,245,40,0,3,7,1,4,7,18,Monroe County,precinct
-Monroe County,Riga 5,106,266,43,0,7,6,2,1,117,241,44,12,5,4,3,86,250,47,6,5,1,2,2,3,24,Monroe County,precinct
-Monroe County,Riga 6,97,203,69,0,3,6,2,5,103,196,64,4,9,2,2,75,214,63,4,1,2,2,3,4,14,Monroe County,precinct
-Monroe County,Rush 01,250,195,49,0,15,3,6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,precinct
-Monroe County,Rush 02,133,151,36,0,8,4,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,precinct
-Monroe County,Rush 03,271,162,32,0,18,3,5,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,precinct
-Monroe County,Rush 04,223,206,48,0,8,5,7,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,precinct
-Monroe County,Rush 1,0,0,0,0,0,0,0,0,240,204,52,10,14,9,2,185,225,53,7,9,7,6,7,9,17,Monroe County,precinct
-Monroe County,Rush 2,0,0,0,0,0,0,0,0,123,164,39,3,6,1,3,87,184,40,2,1,3,2,2,10,11,Monroe County,precinct
-Monroe County,Rush 3,0,0,0,0,0,0,0,0,270,160,44,9,9,3,3,200,198,47,13,8,3,3,5,10,13,Monroe County,precinct
-Monroe County,Rush 4,0,0,0,0,0,0,0,0,224,213,48,8,8,2,6,172,237,50,10,6,1,3,1,8,21,Monroe County,precinct
-Monroe County,Sweden 1,195,169,29,0,9,3,1,3,209,150,27,6,8,2,1,166,168,27,4,5,2,0,6,5,19,Monroe County,precinct
-Monroe County,Sweden 10,136,309,87,0,5,11,0,6,162,275,85,7,12,3,6,110,291,82,7,5,7,0,5,9,29,Monroe County,precinct
-Monroe County,Sweden 11,79,42,8,0,3,1,0,0,78,42,10,4,2,1,1,70,41,8,2,3,2,0,0,2,10,Monroe County,precinct
-Monroe County,Sweden 12,132,188,47,0,1,2,4,1,141,169,50,2,5,6,1,104,196,50,4,0,2,5,1,0,15,Monroe County,precinct
-Monroe County,Sweden 2,149,61,10,0,5,4,5,2,148,55,9,6,9,6,4,129,61,12,11,3,5,3,1,3,11,Monroe County,precinct
-Monroe County,Sweden 3,230,151,40,0,12,4,7,2,237,139,40,14,7,9,0,188,156,32,14,9,5,8,1,2,28,Monroe County,precinct
-Monroe County,Sweden 4,216,185,37,0,8,6,3,3,222,169,36,8,11,6,2,182,187,34,7,1,6,3,2,6,27,Monroe County,precinct
-Monroe County,Sweden 5,72,28,5,0,1,2,1,0,75,25,4,1,2,1,1,66,24,4,2,1,1,0,0,5,3,Monroe County,precinct
-Monroe County,Sweden 6,175,126,35,0,3,5,3,1,178,121,32,7,5,3,1,140,123,30,9,4,3,4,2,6,20,Monroe County,precinct
-Monroe County,Sweden 7,167,142,38,0,1,8,1,5,179,132,36,3,9,2,2,143,145,28,2,0,5,4,5,5,13,Monroe County,precinct
-Monroe County,Sweden 8,124,182,61,0,2,11,2,1,143,161,58,2,13,1,2,99,173,56,6,2,7,2,2,4,28,Monroe County,precinct
-Monroe County,Sweden 9,186,138,28,0,5,4,2,1,189,128,24,6,6,2,2,153,140,26,12,1,3,0,1,5,19,Monroe County,precinct
-Monroe County,Webster 1,187,161,40,0,8,7,4,0,215,124,40,7,10,2,2,154,165,37,8,3,9,1,1,11,15,Monroe County,precinct
-Monroe County,Webster 10,383,430,73,0,10,13,7,8,430,376,64,15,19,8,10,334,432,81,12,6,11,8,9,13,17,Monroe County,precinct
-Monroe County,Webster 11,207,211,39,0,2,9,3,2,214,195,36,8,10,4,5,166,229,39,8,3,5,2,2,10,9,Monroe County,precinct
-Monroe County,Webster 12,222,265,46,0,0,12,3,6,243,242,40,2,18,5,0,199,261,48,6,1,8,4,2,10,8,Monroe County,precinct
-Monroe County,Webster 13,171,173,43,0,5,7,1,2,193,150,34,6,11,3,1,146,171,33,3,4,5,2,3,8,20,Monroe County,precinct
-Monroe County,Webster 14,197,151,23,0,5,5,2,2,205,127,24,4,5,7,3,148,166,27,5,5,5,2,2,8,14,Monroe County,precinct
-Monroe County,Webster 15,147,126,24,0,6,8,4,2,153,114,24,6,6,7,2,116,142,28,2,6,4,2,3,2,6,Monroe County,precinct
-Monroe County,Webster 16,289,225,36,0,8,6,3,3,303,197,36,11,10,4,2,234,243,42,8,5,2,3,5,9,14,Monroe County,precinct
-Monroe County,Webster 17,155,174,33,0,3,7,2,3,161,164,36,2,9,2,1,124,188,36,4,1,6,1,0,4,7,Monroe County,precinct
-Monroe County,Webster 18,141,127,23,0,3,6,3,3,153,115,17,8,6,1,3,112,137,18,6,4,3,1,2,10,7,Monroe County,precinct
-Monroe County,Webster 19,263,306,52,0,4,14,5,6,274,287,52,5,15,6,3,206,323,62,10,3,10,3,5,7,17,Monroe County,precinct
-Monroe County,Webster 2,327,209,29,0,14,14,7,5,333,185,28,18,16,10,4,286,209,29,13,8,9,5,6,6,26,Monroe County,precinct
-Monroe County,Webster 20,241,318,53,0,11,11,0,3,265,273,55,9,13,2,6,188,325,59,7,2,5,2,3,9,30,Monroe County,precinct
-Monroe County,Webster 21,207,224,42,0,7,13,3,5,235,191,39,8,15,4,2,175,225,47,5,3,4,2,7,3,17,Monroe County,precinct
-Monroe County,Webster 22,193,188,50,0,6,6,4,2,212,167,46,7,3,3,4,146,197,50,4,4,6,2,1,7,21,Monroe County,precinct
-Monroe County,Webster 23,167,137,37,0,3,6,3,8,177,121,29,8,11,4,4,146,139,36,7,3,6,1,2,6,12,Monroe County,precinct
-Monroe County,Webster 24,462,480,112,0,7,14,4,5,508,423,95,11,18,10,7,380,509,111,16,4,12,2,7,9,29,Monroe County,precinct
-Monroe County,Webster 25,105,77,18,0,0,0,1,3,110,70,17,1,2,1,1,86,86,14,4,0,0,1,0,1,6,Monroe County,precinct
-Monroe County,Webster 26,232,154,36,0,5,9,2,2,245,126,37,7,8,2,1,194,160,37,3,7,6,4,1,4,10,Monroe County,precinct
-Monroe County,Webster 27,335,316,52,0,3,10,2,3,359,279,54,7,9,4,2,288,320,55,4,5,8,3,3,6,17,Monroe County,precinct
-Monroe County,Webster 28,184,189,42,0,1,7,2,2,203,165,37,4,9,1,1,152,201,45,2,1,3,1,1,6,11,Monroe County,precinct
-Monroe County,Webster 29,159,91,19,0,1,3,4,4,176,76,18,1,3,1,1,135,100,21,1,4,3,2,2,0,9,Monroe County,precinct
-Monroe County,Webster 3,250,205,44,0,7,7,3,3,266,184,42,5,10,4,2,221,215,38,2,5,8,3,1,3,12,Monroe County,precinct
-Monroe County,Webster 30,165,90,14,0,4,7,1,1,164,86,14,4,8,4,1,149,94,15,5,2,3,2,2,3,5,Monroe County,precinct
-Monroe County,Webster 31,180,231,46,0,8,11,4,0,216,192,47,8,15,4,0,173,235,42,2,5,4,4,2,3,10,Monroe County,precinct
-Monroe County,Webster 32,224,282,56,0,6,10,2,5,240,260,55,8,10,3,1,186,288,55,2,7,8,1,5,8,16,Monroe County,precinct
-Monroe County,Webster 33,182,188,34,0,8,12,3,2,197,177,32,5,9,5,0,167,189,35,4,2,4,2,3,5,13,Monroe County,precinct
-Monroe County,Webster 34,98,110,16,0,3,4,2,3,110,99,17,3,4,1,2,89,110,21,2,1,4,1,1,3,5,Monroe County,precinct
-Monroe County,Webster 35,137,117,42,0,3,3,6,2,142,108,43,5,2,7,2,105,130,38,4,2,2,6,2,4,10,Monroe County,precinct
-Monroe County,Webster 36,179,154,27,0,2,5,0,2,187,143,31,1,4,0,2,152,155,28,1,0,7,1,0,2,17,Monroe County,precinct
-Monroe County,Webster 37,326,343,41,0,9,11,3,3,374,284,38,11,15,4,4,296,334,44,10,8,7,4,3,4,20,Monroe County,precinct
-Monroe County,Webster 38,227,186,32,0,3,9,1,6,248,161,29,2,13,6,5,205,178,33,6,1,8,0,2,6,16,Monroe County,precinct
-Monroe County,Webster 39,211,166,30,0,1,7,0,0,222,151,27,2,7,3,0,191,161,26,5,0,7,4,0,4,10,Monroe County,precinct
-Monroe County,Webster 4,93,93,11,0,7,5,3,1,103,83,12,10,4,3,0,79,88,13,3,6,2,3,1,3,18,Monroe County,precinct
-Monroe County,Webster 40,464,376,47,0,8,17,3,5,487,334,47,13,20,3,3,390,370,51,10,6,12,5,6,4,24,Monroe County,precinct
-Monroe County,Webster 41,264,263,58,0,4,9,6,6,285,230,51,12,11,6,2,223,289,50,8,2,5,2,5,6,11,Monroe County,precinct
-Monroe County,Webster 42,208,205,46,0,5,10,8,3,213,195,45,4,14,7,2,178,214,43,4,2,8,9,3,7,13,Monroe County,precinct
-Monroe County,Webster 43,172,156,23,0,5,7,4,0,180,143,23,9,6,3,1,141,154,23,6,2,4,2,2,7,19,Monroe County,precinct
-Monroe County,Webster 5,209,184,33,0,9,5,2,2,215,170,32,12,8,2,4,172,189,33,12,9,4,1,3,6,16,Monroe County,precinct
-Monroe County,Webster 6,162,135,19,0,5,7,1,2,176,113,20,4,9,2,3,141,132,18,6,2,2,1,3,9,20,Monroe County,precinct
-Monroe County,Webster 7,211,189,36,0,8,6,2,7,219,171,37,9,12,3,2,169,203,36,9,4,6,2,3,9,18,Monroe County,precinct
-Monroe County,Webster 8,172,164,33,0,6,9,6,3,189,146,33,6,8,4,1,144,164,33,8,1,9,3,3,4,14,Monroe County,precinct
-Monroe County,Webster 9,153,204,42,0,3,5,3,2,172,183,39,3,8,5,1,131,206,39,4,1,3,4,3,7,12,Monroe County,precinct
-Monroe County,Wheatland 01,187,141,30,0,19,6,10,3,178,153,35,14,9,10,1,139,169,37,5,8,4,3,7,10,26,Monroe County,precinct
-Monroe County,Wheatland 02,152,177,37,0,8,5,6,6,138,195,40,9,9,6,4,96,216,43,0,6,7,4,4,4,23,Monroe County,precinct
-Monroe County,Wheatland 03,270,148,34,0,15,5,6,8,247,170,39,10,14,7,2,183,197,40,10,11,11,5,6,7,18,Monroe County,precinct
-Monroe County,Wheatland 04,226,130,28,0,6,2,7,11,216,147,31,4,4,6,7,166,165,34,7,1,1,5,6,6,19,Monroe County,precinct
-Monroe County,Wheatland 05,166,215,58,0,7,3,10,9,162,220,65,9,6,5,3,109,239,60,7,6,2,4,4,8,30,Monroe County,precinct
+Monroe County,Brighton 1,345,61,14,0,21,8,3,2,350,51,16,22,11,8,1,300,67,18,19,14,8,5,1,16,8,Monroe County,Brighton 1
+Monroe County,Brighton 10,329,90,18,0,5,8,9,2,331,82,20,8,10,6,1,281,105,16,6,7,9,4,4,13,6,Monroe County,Brighton 10
+Monroe County,Brighton 11,287,95,24,0,17,12,11,5,298,83,23,19,16,14,2,254,105,23,10,11,7,8,4,10,17,Monroe County,Brighton 11
+Monroe County,Brighton 12,367,93,16,0,15,11,8,2,374,76,17,19,14,9,1,313,106,16,13,14,11,14,4,10,5,Monroe County,Brighton 12
+Monroe County,Brighton 13,179,59,5,0,7,4,4,5,196,44,3,8,5,4,1,174,54,4,2,7,6,3,1,4,4,Monroe County,Brighton 13
+Monroe County,Brighton 14,221,40,4,0,11,8,8,1,220,37,3,13,12,8,0,181,47,3,18,13,8,7,3,5,8,Monroe County,Brighton 14
+Monroe County,Brighton 15,222,69,22,0,5,5,6,0,234,64,18,8,3,4,0,199,77,19,10,5,2,3,2,4,10,Monroe County,Brighton 15
+Monroe County,Brighton 16,131,102,22,0,0,5,2,3,132,95,20,1,7,3,0,107,110,20,2,1,5,4,2,5,0,Monroe County,Brighton 16
+Monroe County,Brighton 17,169,47,4,0,4,0,1,1,178,37,4,3,1,3,1,172,38,3,0,2,2,2,3,1,1,Monroe County,Brighton 17
+Monroe County,Brighton 18,270,69,12,0,16,8,8,1,276,57,12,18,9,11,1,232,74,11,7,15,4,12,2,13,9,Monroe County,Brighton 18
+Monroe County,Brighton 19,182,42,11,0,7,8,2,1,187,38,11,8,7,2,1,169,41,11,3,7,6,2,2,3,6,Monroe County,Brighton 19
+Monroe County,Brighton 2,135,93,15,0,5,4,4,1,146,83,18,6,3,2,0,113,93,19,5,7,1,2,0,6,13,Monroe County,Brighton 2
+Monroe County,Brighton 20,194,48,12,0,4,5,3,1,198,43,12,5,5,4,0,167,45,10,13,3,4,3,1,8,9,Monroe County,Brighton 20
+Monroe County,Brighton 21,242,75,12,0,10,6,8,1,243,74,12,8,4,8,1,215,78,11,5,8,4,7,2,9,5,Monroe County,Brighton 21
+Monroe County,Brighton 22,278,83,18,0,7,6,1,2,281,70,19,8,8,5,1,257,77,19,13,7,3,2,2,6,4,Monroe County,Brighton 22
+Monroe County,Brighton 23,224,58,13,0,7,3,4,2,228,52,12,10,3,3,1,200,68,10,7,5,3,5,0,6,4,Monroe County,Brighton 23
+Monroe County,Brighton 24,262,135,14,0,8,6,2,1,286,91,19,11,13,4,2,240,118,20,4,7,7,3,2,8,6,Monroe County,Brighton 24
+Monroe County,Brighton 25,203,53,12,0,13,2,7,3,205,48,12,16,3,7,1,177,56,10,6,16,0,4,4,16,3,Monroe County,Brighton 25
+Monroe County,Brighton 26,150,87,14,0,8,10,4,2,165,74,13,13,7,3,1,131,76,16,4,8,10,5,1,7,12,Monroe County,Brighton 26
+Monroe County,Brighton 27,199,59,8,0,7,6,5,2,201,58,9,6,5,8,0,172,67,5,14,4,2,6,1,6,8,Monroe County,Brighton 27
+Monroe County,Brighton 28,337,112,15,0,16,14,6,2,345,94,10,18,15,9,2,292,120,11,14,18,4,9,2,11,10,Monroe County,Brighton 28
+Monroe County,Brighton 29,170,84,12,0,3,3,4,2,176,71,9,5,5,4,1,165,81,14,1,4,1,2,2,2,4,Monroe County,Brighton 29
+Monroe County,Brighton 3,227,112,15,0,4,5,6,1,239,91,13,6,6,6,1,214,105,9,6,5,3,2,2,5,8,Monroe County,Brighton 3
+Monroe County,Brighton 30,487,143,9,0,5,8,4,4,502,120,8,10,13,7,0,464,126,13,13,4,12,4,3,7,5,Monroe County,Brighton 30
+Monroe County,Brighton 31,240,63,7,0,9,10,12,2,253,49,8,10,6,12,0,216,61,10,5,11,5,11,2,10,4,Monroe County,Brighton 31
+Monroe County,Brighton 32,294,83,13,0,11,10,9,4,310,65,14,12,9,8,4,265,77,14,13,11,9,5,2,12,4,Monroe County,Brighton 32
+Monroe County,Brighton 33,298,104,13,0,8,5,4,0,313,93,13,6,5,5,2,257,124,15,11,6,4,3,1,5,1,Monroe County,Brighton 33
+Monroe County,Brighton 34,260,74,17,0,12,4,8,0,269,61,16,10,9,8,2,211,86,17,7,12,7,6,2,9,12,Monroe County,Brighton 34
+Monroe County,Brighton 35,239,48,8,0,7,3,5,0,233,47,9,10,5,5,0,216,51,7,7,8,2,7,1,5,5,Monroe County,Brighton 35
+Monroe County,Brighton 36,223,46,14,0,6,11,5,2,235,42,14,3,9,5,2,208,53,13,11,0,7,4,1,3,14,Monroe County,Brighton 36
+Monroe County,Brighton 37,234,47,11,0,4,4,3,1,241,40,10,4,7,2,0,211,53,8,5,4,6,1,1,7,2,Monroe County,Brighton 37
+Monroe County,Brighton 38,271,92,19,0,10,5,2,0,279,80,15,12,9,3,0,250,86,19,8,9,5,1,1,7,6,Monroe County,Brighton 38
+Monroe County,Brighton 39,219,70,16,0,5,6,8,6,221,57,16,6,14,9,3,187,71,16,8,4,5,7,3,8,11,Monroe County,Brighton 39
+Monroe County,Brighton 4,293,72,12,0,13,7,4,2,288,66,10,25,8,5,0,252,79,10,10,17,7,5,1,11,6,Monroe County,Brighton 4
+Monroe County,Brighton 40,449,114,13,0,6,9,7,2,458,105,14,8,10,5,1,412,116,13,6,11,5,3,2,15,7,Monroe County,Brighton 40
+Monroe County,Brighton 41,345,100,9,0,6,11,8,5,340,102,6,8,11,13,2,320,101,9,10,3,7,12,2,6,15,Monroe County,Brighton 41
+Monroe County,Brighton 42,103,17,9,0,4,0,1,0,102,16,9,4,2,0,0,86,23,8,1,4,0,2,1,6,0,Monroe County,Brighton 42
+Monroe County,Brighton 43,264,91,8,0,7,9,3,2,277,88,9,6,4,2,4,252,88,9,6,4,4,2,0,8,11,Monroe County,Brighton 43
+Monroe County,Brighton 44,98,42,8,0,0,3,3,0,97,39,7,1,3,2,0,84,42,6,5,2,2,2,2,1,5,Monroe County,Brighton 44
+Monroe County,Brighton 45,182,79,5,0,5,2,4,3,179,73,7,7,6,4,0,155,83,6,7,3,4,3,2,3,8,Monroe County,Brighton 45
+Monroe County,Brighton 46,162,42,6,0,1,3,2,0,168,35,7,1,4,2,0,152,37,10,2,2,3,0,0,5,1,Monroe County,Brighton 46
+Monroe County,Brighton 5,298,59,12,0,14,6,10,2,294,58,13,17,6,11,1,255,64,13,14,17,3,9,2,12,5,Monroe County,Brighton 5
+Monroe County,Brighton 6,352,136,21,0,16,8,7,2,360,114,22,17,12,10,2,310,139,15,13,14,9,7,2,10,13,Monroe County,Brighton 6
+Monroe County,Brighton 7,206,77,11,0,14,15,1,2,217,65,10,15,11,5,1,177,87,8,7,14,5,3,5,4,12,Monroe County,Brighton 7
+Monroe County,Brighton 8,209,168,12,0,1,5,3,4,250,132,11,1,1,3,5,203,157,14,2,2,3,1,2,10,4,Monroe County,Brighton 8
+Monroe County,Brighton 9,244,65,22,0,15,3,2,5,250,60,20,15,4,3,2,217,67,16,8,11,2,1,3,7,12,Monroe County,Brighton 9
+Monroe County,Chili 1,136,114,32,0,3,4,2,4,144,104,30,4,8,2,2,117,121,33,2,2,7,2,0,3,6,Monroe County,Chili 1
+Monroe County,Chili 10,82,109,36,0,4,6,2,2,99,91,35,2,6,2,2,61,110,33,6,4,2,3,0,2,14,Monroe County,Chili 10
+Monroe County,Chili 11,145,183,35,0,4,9,4,5,163,159,36,5,8,2,5,112,183,38,6,4,6,2,3,6,17,Monroe County,Chili 11
+Monroe County,Chili 12,162,142,33,0,3,2,4,1,182,124,29,4,7,3,0,134,155,30,8,3,2,0,1,6,7,Monroe County,Chili 12
+Monroe County,Chili 13,204,227,61,0,6,8,4,4,213,213,51,11,9,3,7,152,239,54,6,5,5,1,5,6,16,Monroe County,Chili 13
+Monroe County,Chili 14,128,161,38,0,4,7,6,4,145,145,37,4,8,7,1,102,165,41,7,4,2,2,4,5,21,Monroe County,Chili 14
+Monroe County,Chili 15,134,132,31,0,0,8,0,4,134,118,30,1,10,3,3,106,132,33,6,0,6,0,1,4,14,Monroe County,Chili 15
+Monroe County,Chili 16,279,312,65,0,9,11,2,4,307,288,61,9,16,2,0,253,320,66,7,8,7,2,5,3,15,Monroe County,Chili 16
+Monroe County,Chili 17,323,389,80,0,9,14,2,9,364,336,82,14,13,3,6,300,390,80,2,6,7,2,4,6,24,Monroe County,Chili 17
+Monroe County,Chili 18,155,178,37,0,3,6,3,4,170,159,36,2,11,3,5,127,191,29,6,1,6,3,1,6,15,Monroe County,Chili 18
+Monroe County,Chili 19,167,140,20,0,4,3,1,2,181,117,22,6,7,1,1,144,142,21,1,2,5,2,3,2,9,Monroe County,Chili 19
+Monroe County,Chili 2,127,251,57,0,12,6,3,0,152,216,50,11,12,3,4,87,250,59,6,8,3,3,2,3,29,Monroe County,Chili 2
+Monroe County,Chili 20,257,175,35,0,8,4,5,2,270,152,36,10,7,3,0,198,202,35,4,6,4,3,1,10,10,Monroe County,Chili 20
+Monroe County,Chili 21,112,114,21,0,3,5,1,0,129,96,19,3,7,1,0,103,105,21,5,2,5,0,0,0,11,Monroe County,Chili 21
+Monroe County,Chili 22,265,103,20,0,7,7,3,3,270,98,17,7,7,4,2,254,106,16,3,6,3,1,0,4,11,Monroe County,Chili 22
+Monroe County,Chili 23,134,114,29,0,3,3,3,1,138,105,27,7,4,3,0,115,117,27,1,2,2,3,0,2,14,Monroe County,Chili 23
+Monroe County,Chili 24,385,284,60,0,7,12,4,7,404,257,58,7,15,6,6,309,313,56,9,4,8,1,7,18,31,Monroe County,Chili 24
+Monroe County,Chili 25,182,94,20,0,3,6,3,3,199,75,15,7,7,4,1,171,91,17,6,3,3,1,3,7,9,Monroe County,Chili 25
+Monroe County,Chili 26,169,205,61,0,5,8,3,4,170,198,63,5,8,3,2,126,211,59,4,5,3,2,5,7,24,Monroe County,Chili 26
+Monroe County,Chili 27,161,133,28,0,3,6,1,2,175,120,28,6,7,2,2,142,142,27,5,3,2,2,1,2,13,Monroe County,Chili 27
+Monroe County,Chili 28,166,97,25,0,3,4,1,1,161,90,26,4,7,3,0,136,99,26,3,3,7,1,1,4,14,Monroe County,Chili 28
+Monroe County,Chili 29,106,92,21,0,6,2,2,5,105,89,22,8,4,3,2,86,95,19,5,4,2,1,1,5,15,Monroe County,Chili 29
+Monroe County,Chili 3,185,165,45,0,5,4,2,7,190,147,48,7,5,7,1,150,167,41,7,4,2,2,3,8,21,Monroe County,Chili 3
+Monroe County,Chili 30,96,80,28,0,7,5,1,1,97,74,29,9,6,0,1,80,74,27,3,3,3,1,2,8,18,Monroe County,Chili 30
+Monroe County,Chili 31,173,127,25,0,6,4,4,1,179,117,23,7,5,2,0,153,130,23,4,3,6,2,2,1,7,Monroe County,Chili 31
+Monroe County,Chili 32,160,183,34,0,6,12,1,2,175,164,35,8,13,3,1,141,175,29,3,8,8,4,1,9,17,Monroe County,Chili 32
+Monroe County,Chili 4,103,130,28,0,5,2,1,1,107,126,27,7,4,1,1,86,135,30,3,2,2,1,2,2,10,Monroe County,Chili 4
+Monroe County,Chili 5,154,136,37,0,2,1,4,4,168,120,36,3,1,4,3,140,134,34,3,2,0,2,2,4,13,Monroe County,Chili 5
+Monroe County,Chili 6,146,152,42,0,5,8,4,3,155,137,41,9,11,4,1,120,168,40,3,5,5,4,2,2,12,Monroe County,Chili 6
+Monroe County,Chili 7,122,80,15,0,1,3,7,0,128,67,15,3,4,7,1,99,88,11,2,4,4,6,0,2,9,Monroe County,Chili 7
+Monroe County,Chili 8,136,189,36,0,8,7,1,3,151,167,36,13,8,3,3,110,184,38,3,5,4,3,5,6,19,Monroe County,Chili 8
+Monroe County,Chili 9,157,138,28,0,4,10,3,3,167,125,27,7,12,3,2,130,141,28,8,2,6,3,4,1,15,Monroe County,Chili 9
+Monroe County,Clarkson 02,24,39,9,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,Clarkson 02
+Monroe County,Clarkson 1,166,286,68,0,3,7,4,2,181,257,69,7,10,4,0,129,282,67,3,2,5,2,5,5,24,Monroe County,Clarkson 1
+Monroe County,Clarkson 2,0,0,0,0,0,0,0,0,22,41,10,1,0,1,0,18,36,11,0,0,0,0,1,2,6,Monroe County,Clarkson 2
+Monroe County,Clarkson 3,175,178,43,0,0,4,1,2,180,165,39,5,9,3,1,147,170,47,3,2,4,2,1,5,17,Monroe County,Clarkson 3
+Monroe County,Clarkson 4,164,336,68,0,5,10,1,6,184,307,67,4,14,5,5,120,331,67,2,3,7,3,5,7,43,Monroe County,Clarkson 4
+Monroe County,Clarkson 5,248,390,101,0,5,18,3,3,276,353,92,15,22,6,4,224,369,90,8,4,10,3,3,9,52,Monroe County,Clarkson 5
+Monroe County,Clarkson 6,134,158,40,0,6,7,1,2,140,142,37,10,5,5,0,107,168,39,2,2,3,1,2,5,20,Monroe County,Clarkson 6
+Monroe County,East Rochester 1,183,143,14,0,7,9,3,8,199,121,15,5,13,5,4,144,147,18,7,6,3,4,3,3,26,Monroe County,East Rochester 1
+Monroe County,East Rochester 2,164,116,14,0,8,11,3,0,173,104,11,7,12,3,1,127,131,10,10,8,8,1,1,5,9,Monroe County,East Rochester 2
+Monroe County,East Rochester 3,142,116,27,0,6,4,1,2,157,98,26,3,8,4,0,124,103,27,6,3,4,3,0,6,24,Monroe County,East Rochester 3
+Monroe County,East Rochester 4,160,119,11,0,11,3,3,4,184,95,10,12,7,3,1,137,113,8,10,10,2,4,3,5,19,Monroe County,East Rochester 4
+Monroe County,East Rochester 5,148,97,24,0,4,10,5,3,156,86,22,7,13,3,3,122,101,25,0,6,3,3,1,8,17,Monroe County,East Rochester 5
+Monroe County,East Rochester 6,217,125,20,0,8,7,2,5,235,98,21,7,12,7,3,187,140,22,7,4,5,3,5,4,10,Monroe County,East Rochester 6
+Monroe County,East Rochester 7,153,108,25,0,12,8,2,3,162,99,24,7,10,5,2,119,125,23,3,5,8,2,1,6,16,Monroe County,East Rochester 7
+Monroe County,Gates 1,120,58,20,0,4,4,0,2,125,51,19,6,5,1,0,108,60,22,1,4,2,1,1,3,7,Monroe County,Gates 1
+Monroe County,Gates 10,112,62,17,0,2,0,1,0,105,65,18,3,1,1,0,98,63,18,3,0,0,1,1,0,5,Monroe County,Gates 10
+Monroe County,Gates 11,112,89,16,0,8,8,3,2,116,84,17,7,5,4,2,98,94,14,3,5,4,0,2,4,9,Monroe County,Gates 11
+Monroe County,Gates 12,119,78,14,0,4,1,1,0,115,74,14,7,3,2,1,98,86,12,3,4,2,0,3,5,9,Monroe County,Gates 12
+Monroe County,Gates 13,150,141,21,0,4,4,0,3,151,119,21,11,9,1,0,138,119,21,2,2,7,1,2,1,28,Monroe County,Gates 13
+Monroe County,Gates 14,112,102,13,0,2,6,3,1,113,94,9,4,6,4,1,108,100,11,1,3,4,3,1,1,10,Monroe County,Gates 14
+Monroe County,Gates 15,245,169,25,0,9,14,1,2,257,160,26,5,10,1,0,226,165,28,6,4,7,1,0,4,15,Monroe County,Gates 15
+Monroe County,Gates 16,143,85,22,0,2,2,1,0,154,76,18,6,1,2,1,131,98,17,1,2,2,0,0,3,6,Monroe County,Gates 16
+Monroe County,Gates 17,160,97,23,0,7,3,2,1,159,95,22,5,5,1,1,133,107,18,4,3,2,0,1,3,18,Monroe County,Gates 17
+Monroe County,Gates 18,147,148,44,0,5,3,1,2,159,135,46,5,2,2,2,123,163,39,1,1,1,1,3,1,19,Monroe County,Gates 18
+Monroe County,Gates 19,142,123,25,0,5,6,2,2,154,104,28,4,9,6,0,122,118,26,4,5,3,2,4,3,12,Monroe County,Gates 19
+Monroe County,Gates 2,141,102,20,0,4,7,0,2,150,92,17,5,6,2,1,123,100,14,3,4,2,2,3,3,22,Monroe County,Gates 2
+Monroe County,Gates 20,149,118,25,0,1,6,2,5,164,104,22,2,7,3,2,125,117,23,6,0,4,2,2,5,19,Monroe County,Gates 20
+Monroe County,Gates 21,128,124,13,0,8,4,3,2,145,104,13,5,7,2,1,116,124,15,1,3,5,1,3,2,12,Monroe County,Gates 21
+Monroe County,Gates 22,111,91,25,0,2,4,2,3,116,88,24,4,3,1,1,93,95,22,1,2,1,4,1,7,9,Monroe County,Gates 22
+Monroe County,Gates 23,126,144,38,0,4,2,1,3,149,113,33,5,5,4,0,128,125,26,3,2,8,1,1,2,23,Monroe County,Gates 23
+Monroe County,Gates 24,335,222,48,0,13,7,3,5,361,197,44,19,8,3,0,304,222,43,5,8,7,4,5,7,29,Monroe County,Gates 24
+Monroe County,Gates 25,106,105,14,0,1,5,2,1,114,92,13,3,6,5,0,100,104,13,3,1,4,0,0,1,7,Monroe County,Gates 25
+Monroe County,Gates 26,159,196,33,0,4,6,2,2,178,176,31,5,9,3,0,124,202,36,4,2,2,3,2,5,24,Monroe County,Gates 26
+Monroe County,Gates 27,211,153,26,0,3,4,2,3,218,141,24,7,7,2,1,191,165,24,0,1,3,0,1,4,14,Monroe County,Gates 27
+Monroe County,Gates 28,114,105,11,0,4,3,1,1,123,95,10,2,3,1,1,100,101,14,4,1,2,1,2,2,9,Monroe County,Gates 28
+Monroe County,Gates 29,159,107,14,0,6,4,2,4,168,94,14,3,7,6,0,139,110,16,5,2,5,2,0,2,20,Monroe County,Gates 29
+Monroe County,Gates 3,150,107,23,0,5,4,1,1,154,100,21,6,6,1,0,137,106,22,3,4,4,0,0,2,11,Monroe County,Gates 3
+Monroe County,Gates 30,108,79,13,0,0,1,0,0,107,69,13,4,0,2,2,85,82,19,1,0,0,0,1,2,11,Monroe County,Gates 30
+Monroe County,Gates 31,116,125,15,0,2,4,2,2,115,122,13,4,5,4,1,108,120,15,1,0,6,4,2,3,11,Monroe County,Gates 31
+Monroe County,Gates 32,160,130,27,0,4,10,3,5,178,109,29,6,12,3,1,131,133,28,9,2,7,2,2,7,18,Monroe County,Gates 32
+Monroe County,Gates 33,90,37,8,0,3,0,1,3,98,33,8,2,2,2,1,79,45,9,2,2,2,0,0,6,2,Monroe County,Gates 33
+Monroe County,Gates 34,139,132,21,0,8,3,2,3,144,119,23,8,4,2,2,115,129,22,5,5,0,2,6,4,16,Monroe County,Gates 34
+Monroe County,Gates 35,102,88,16,0,2,6,0,2,109,76,15,4,8,1,2,89,90,15,2,1,4,0,0,1,12,Monroe County,Gates 35
+Monroe County,Gates 4,135,142,24,0,2,3,3,0,152,121,22,4,3,5,0,132,127,21,4,3,3,2,1,2,18,Monroe County,Gates 4
+Monroe County,Gates 5,183,149,25,0,4,10,3,0,211,119,23,3,13,4,3,175,148,28,6,1,11,2,1,3,2,Monroe County,Gates 5
+Monroe County,Gates 6,191,100,23,0,4,6,3,2,196,90,22,5,11,5,1,158,113,21,8,3,7,2,2,4,11,Monroe County,Gates 6
+Monroe County,Gates 7,290,265,48,0,9,13,2,3,291,248,49,15,12,5,2,226,303,50,4,4,7,2,6,5,25,Monroe County,Gates 7
+Monroe County,Gates 8,102,127,11,0,3,3,2,2,113,111,12,5,5,2,1,99,124,13,2,1,1,1,0,1,8,Monroe County,Gates 8
+Monroe County,Gates 9,214,125,16,0,2,7,4,1,213,108,16,4,11,6,3,200,131,18,5,0,3,3,1,1,7,Monroe County,Gates 9
+Monroe County,Greece 1,113,135,29,0,4,6,3,1,123,114,30,9,6,1,0,102,127,33,1,5,3,2,1,5,5,Monroe County,Greece 1
+Monroe County,Greece 10,130,98,22,0,7,2,2,4,136,89,19,7,5,3,4,112,101,17,4,5,1,1,2,4,19,Monroe County,Greece 10
+Monroe County,Greece 100,205,233,46,0,8,10,2,3,232,212,37,3,15,2,1,187,247,41,0,3,5,3,3,3,16,Monroe County,Greece 100
+Monroe County,Greece 101,86,120,19,0,4,2,2,1,96,104,15,5,6,4,0,74,113,23,2,1,1,0,1,2,14,Monroe County,Greece 101
+Monroe County,Greece 102,237,253,38,0,6,3,1,2,240,232,33,11,4,5,3,192,262,49,3,2,3,3,1,8,16,Monroe County,Greece 102
+Monroe County,Greece 103,147,205,51,0,5,6,1,3,168,172,49,6,11,2,2,136,197,48,2,5,8,3,0,0,12,Monroe County,Greece 103
+Monroe County,Greece 104,129,130,18,0,2,11,3,2,143,108,15,4,15,3,1,105,135,27,2,1,7,1,4,2,6,Monroe County,Greece 104
+Monroe County,Greece 105,170,222,47,0,3,9,3,1,195,190,45,6,11,2,1,147,227,41,0,4,9,6,2,2,12,Monroe County,Greece 105
+Monroe County,Greece 106,110,178,33,0,1,4,0,1,123,152,33,3,5,0,1,93,178,34,8,0,4,1,2,2,6,Monroe County,Greece 106
+Monroe County,Greece 107,100,156,26,0,1,5,1,2,113,145,28,0,5,2,0,84,165,23,1,2,2,1,1,3,11,Monroe County,Greece 107
+Monroe County,Greece 108,100,138,32,0,0,1,0,3,102,120,33,2,2,2,1,90,133,31,1,1,1,1,4,0,7,Monroe County,Greece 108
+Monroe County,Greece 109,221,207,49,0,5,13,0,6,231,193,45,6,9,1,6,201,221,45,7,1,5,0,7,3,12,Monroe County,Greece 109
+Monroe County,Greece 11,73,49,8,0,5,6,1,2,76,46,5,6,7,0,1,57,52,6,1,3,2,0,2,2,18,Monroe County,Greece 11
+Monroe County,Greece 12,91,70,15,0,4,5,0,2,95,59,15,4,10,2,0,77,67,16,3,3,2,1,1,2,11,Monroe County,Greece 12
+Monroe County,Greece 13,135,93,22,0,4,4,1,3,146,76,21,7,6,5,0,125,89,23,2,1,4,0,4,3,10,Monroe County,Greece 13
+Monroe County,Greece 14,101,76,19,0,4,5,3,3,108,64,18,5,7,5,2,88,77,16,1,3,3,2,1,4,15,Monroe County,Greece 14
+Monroe County,Greece 15,103,142,19,0,2,7,1,3,117,125,21,4,7,2,0,102,132,21,5,1,3,1,2,3,9,Monroe County,Greece 15
+Monroe County,Greece 16,91,89,13,0,4,1,1,2,94,81,12,3,4,2,2,66,99,13,1,3,2,0,0,4,13,Monroe County,Greece 16
+Monroe County,Greece 17,179,213,33,0,3,1,1,3,181,194,35,5,2,4,2,150,215,35,4,3,1,1,2,3,13,Monroe County,Greece 17
+Monroe County,Greece 18,160,148,36,0,4,11,5,2,172,133,33,7,11,2,0,125,172,32,4,3,7,3,3,3,13,Monroe County,Greece 18
+Monroe County,Greece 19,107,104,13,0,5,7,1,3,119,90,10,7,9,2,2,94,94,13,1,3,5,1,1,2,22,Monroe County,Greece 19
+Monroe County,Greece 2,128,188,54,0,9,9,3,5,136,178,48,13,9,4,2,112,184,45,3,11,7,0,6,3,25,Monroe County,Greece 2
+Monroe County,Greece 20,135,99,26,0,4,8,4,4,147,88,24,7,6,3,3,103,104,28,8,5,4,2,1,3,21,Monroe County,Greece 20
+Monroe County,Greece 21,106,102,37,0,10,5,1,3,107,96,33,11,11,2,2,77,111,34,3,10,5,1,1,3,17,Monroe County,Greece 21
+Monroe County,Greece 22,116,98,19,0,5,5,1,2,119,89,13,10,7,3,2,86,113,20,4,2,5,3,3,1,13,Monroe County,Greece 22
+Monroe County,Greece 23,213,176,31,0,8,12,1,1,227,156,31,8,12,1,0,190,175,29,3,8,5,0,2,5,16,Monroe County,Greece 23
+Monroe County,Greece 24,166,223,43,0,6,3,3,1,170,202,40,9,8,4,1,145,230,32,7,5,8,2,1,1,9,Monroe County,Greece 24
+Monroe County,Greece 25,150,119,24,0,7,8,4,3,165,106,18,10,10,5,1,127,118,24,12,4,4,4,2,1,17,Monroe County,Greece 25
+Monroe County,Greece 26,116,91,24,0,4,0,2,0,117,83,25,7,0,5,0,99,89,24,3,3,1,1,1,2,14,Monroe County,Greece 26
+Monroe County,Greece 27,252,205,55,0,12,3,1,2,275,175,55,12,6,1,3,221,199,56,3,8,1,3,3,4,19,Monroe County,Greece 27
+Monroe County,Greece 28,140,201,41,0,5,5,3,2,152,174,38,7,11,6,0,119,205,41,7,3,2,2,1,1,15,Monroe County,Greece 28
+Monroe County,Greece 29,150,136,28,0,3,6,1,2,161,129,25,1,9,1,0,137,134,27,5,1,4,0,1,1,14,Monroe County,Greece 29
+Monroe County,Greece 3,117,121,15,0,2,3,1,3,120,113,14,4,5,2,1,95,119,16,2,2,2,2,0,7,13,Monroe County,Greece 3
+Monroe County,Greece 30,92,95,24,0,3,6,3,0,104,81,18,6,5,4,2,81,96,21,2,3,5,1,0,2,14,Monroe County,Greece 30
+Monroe County,Greece 31,105,113,24,0,8,8,1,2,114,105,24,10,5,1,2,99,106,24,4,4,4,0,2,2,14,Monroe County,Greece 31
+Monroe County,Greece 32,143,118,20,0,6,8,3,3,155,104,19,6,9,4,3,117,120,21,6,4,6,0,2,4,20,Monroe County,Greece 32
+Monroe County,Greece 33,153,181,42,0,7,8,1,2,173,155,39,7,9,1,0,117,186,42,6,4,4,3,1,1,15,Monroe County,Greece 33
+Monroe County,Greece 34,132,177,35,0,6,6,1,3,159,147,30,4,9,2,0,116,175,32,3,3,7,0,2,7,16,Monroe County,Greece 34
+Monroe County,Greece 35,128,133,36,0,5,6,1,3,135,120,35,8,7,2,1,112,128,35,2,9,3,2,2,1,10,Monroe County,Greece 35
+Monroe County,Greece 36,185,202,33,0,5,9,2,2,217,168,33,8,6,4,1,190,184,32,4,5,6,1,2,4,11,Monroe County,Greece 36
+Monroe County,Greece 37,94,100,28,0,2,5,1,2,105,90,25,4,4,4,2,92,102,23,1,1,3,2,4,0,9,Monroe County,Greece 37
+Monroe County,Greece 38,205,219,32,0,9,7,4,1,215,198,30,8,12,6,2,195,210,28,8,6,8,4,1,4,16,Monroe County,Greece 38
+Monroe County,Greece 39,102,89,21,0,4,2,0,0,107,80,18,4,2,0,0,90,94,21,2,3,2,2,0,0,5,Monroe County,Greece 39
+Monroe County,Greece 4,110,116,19,0,4,4,0,2,122,101,19,7,3,0,2,98,110,21,0,3,1,0,0,5,9,Monroe County,Greece 4
+Monroe County,Greece 40,126,96,22,0,1,3,0,2,131,87,18,5,3,0,1,110,97,18,2,1,2,0,1,4,10,Monroe County,Greece 40
+Monroe County,Greece 41,152,157,36,0,5,5,3,1,165,136,31,7,8,5,2,126,151,37,10,4,2,5,1,3,12,Monroe County,Greece 41
+Monroe County,Greece 42,127,74,22,0,6,9,7,3,139,73,18,5,11,5,1,119,82,19,6,3,6,4,0,3,8,Monroe County,Greece 42
+Monroe County,Greece 43,125,176,43,0,2,7,2,4,138,161,42,4,9,2,1,111,180,47,2,3,3,1,0,1,10,Monroe County,Greece 43
+Monroe County,Greece 44,195,212,34,0,7,8,3,3,211,199,31,3,11,6,0,160,220,34,4,5,6,1,4,7,15,Monroe County,Greece 44
+Monroe County,Greece 45,186,266,56,0,4,7,2,4,197,249,51,6,8,4,1,148,286,52,7,2,5,1,4,6,18,Monroe County,Greece 45
+Monroe County,Greece 46,121,61,22,0,6,3,0,1,122,65,19,5,4,1,0,109,62,22,1,4,0,0,6,1,10,Monroe County,Greece 46
+Monroe County,Greece 47,152,115,35,0,6,6,3,2,163,105,33,5,6,3,1,121,118,30,5,7,4,1,3,5,22,Monroe County,Greece 47
+Monroe County,Greece 48,113,98,15,0,2,3,0,2,111,90,12,2,5,0,0,89,108,12,2,0,2,0,1,1,8,Monroe County,Greece 48
+Monroe County,Greece 49,97,108,17,0,0,4,1,1,104,96,19,2,3,1,0,84,104,19,0,0,6,0,1,1,3,Monroe County,Greece 49
+Monroe County,Greece 5,128,94,19,0,1,2,2,2,139,81,18,0,4,2,3,114,85,17,5,1,1,3,3,3,17,Monroe County,Greece 5
+Monroe County,Greece 50,135,129,29,0,4,9,0,1,141,110,28,4,15,0,0,123,130,31,1,2,7,1,3,3,7,Monroe County,Greece 50
+Monroe County,Greece 51,77,105,21,0,0,2,2,1,95,86,17,2,2,3,2,72,100,21,2,1,0,0,2,2,7,Monroe County,Greece 51
+Monroe County,Greece 52,189,181,29,0,9,6,2,1,203,161,31,7,7,5,2,150,196,29,5,1,3,5,5,6,20,Monroe County,Greece 52
+Monroe County,Greece 53,152,106,16,0,0,6,1,2,158,94,14,3,8,3,1,146,108,15,0,1,2,1,1,4,3,Monroe County,Greece 53
+Monroe County,Greece 54,160,179,33,0,3,6,2,2,166,159,35,7,8,0,3,117,196,44,3,0,8,0,0,4,11,Monroe County,Greece 54
+Monroe County,Greece 55,93,108,34,0,1,7,0,0,108,85,33,1,8,1,0,80,109,31,1,2,6,0,0,2,6,Monroe County,Greece 55
+Monroe County,Greece 56,171,152,35,0,6,5,2,2,193,127,33,9,4,2,2,136,171,28,5,3,2,5,2,3,17,Monroe County,Greece 56
+Monroe County,Greece 57,130,140,23,0,0,5,3,3,141,125,25,3,6,3,0,106,149,23,4,3,5,2,0,1,7,Monroe County,Greece 57
+Monroe County,Greece 58,182,185,32,0,6,6,2,1,191,173,33,4,9,3,1,165,196,32,5,1,4,2,2,3,11,Monroe County,Greece 58
+Monroe County,Greece 59,154,47,16,0,8,4,1,0,163,35,17,8,5,0,0,145,43,15,4,8,2,5,0,0,6,Monroe County,Greece 59
+Monroe County,Greece 6,114,83,21,0,3,2,1,1,121,71,19,7,4,1,1,96,87,20,4,1,1,0,2,2,12,Monroe County,Greece 6
+Monroe County,Greece 60,125,106,18,0,1,6,3,3,139,95,16,5,5,3,1,113,105,21,1,1,3,1,1,3,12,Monroe County,Greece 60
+Monroe County,Greece 61,155,115,19,0,6,8,3,1,173,94,20,7,7,4,0,148,105,15,1,3,5,1,1,3,23,Monroe County,Greece 61
+Monroe County,Greece 62,214,148,45,0,4,5,0,4,218,139,38,9,11,1,4,190,154,42,7,2,6,0,4,1,12,Monroe County,Greece 62
+Monroe County,Greece 63,164,122,39,0,4,5,5,2,184,102,32,6,6,2,3,142,115,33,3,4,3,2,5,3,29,Monroe County,Greece 63
+Monroe County,Greece 64,129,114,21,0,1,4,1,2,135,104,16,2,1,3,1,110,118,16,2,0,4,0,1,6,10,Monroe County,Greece 64
+Monroe County,Greece 65,142,124,22,0,4,4,2,1,163,101,21,3,5,2,1,144,111,26,1,2,3,1,3,2,4,Monroe County,Greece 65
+Monroe County,Greece 66,94,79,13,0,0,1,2,0,103,64,13,2,2,3,1,81,77,14,1,0,3,2,1,0,11,Monroe County,Greece 66
+Monroe County,Greece 67,101,142,30,0,2,4,1,1,112,130,31,0,7,3,0,84,145,28,2,3,4,2,0,2,10,Monroe County,Greece 67
+Monroe County,Greece 68,149,169,44,0,5,6,1,6,168,141,45,10,7,3,2,123,172,48,2,2,4,0,4,3,16,Monroe County,Greece 68
+Monroe County,Greece 69,75,113,21,0,4,3,2,1,87,105,18,4,3,2,0,68,113,17,3,1,1,1,2,1,9,Monroe County,Greece 69
+Monroe County,Greece 7,158,120,19,0,7,4,3,3,162,106,21,11,6,6,1,122,122,21,5,3,2,2,2,5,23,Monroe County,Greece 7
+Monroe County,Greece 70,337,480,78,0,6,12,2,4,360,427,70,11,19,7,1,282,482,76,9,3,10,3,5,10,30,Monroe County,Greece 70
+Monroe County,Greece 71,183,169,34,0,3,11,1,1,195,155,29,8,9,1,0,154,180,29,5,2,10,0,1,5,16,Monroe County,Greece 71
+Monroe County,Greece 72,203,219,42,0,4,3,1,3,226,194,36,5,6,3,2,186,212,44,4,4,6,1,1,4,9,Monroe County,Greece 72
+Monroe County,Greece 73,91,69,21,0,3,1,1,1,92,61,21,6,4,1,1,76,75,19,1,3,2,1,0,4,5,Monroe County,Greece 73
+Monroe County,Greece 74,164,104,25,0,3,10,1,3,177,90,22,4,10,3,0,154,101,14,4,3,3,3,5,5,17,Monroe County,Greece 74
+Monroe County,Greece 75,128,114,19,0,8,6,1,0,132,109,16,6,5,4,0,112,120,27,5,3,4,2,1,1,5,Monroe County,Greece 75
+Monroe County,Greece 76,82,161,24,0,4,3,1,2,96,148,24,5,2,1,2,75,157,28,0,3,3,3,2,3,7,Monroe County,Greece 76
+Monroe County,Greece 77,194,172,20,0,7,3,1,0,203,154,16,7,6,1,0,183,161,17,3,7,1,1,0,2,12,Monroe County,Greece 77
+Monroe County,Greece 78,83,106,18,0,6,3,1,2,101,95,15,6,3,1,2,81,106,18,1,3,0,0,0,2,8,Monroe County,Greece 78
+Monroe County,Greece 79,232,334,64,0,8,9,3,5,269,280,63,12,15,1,5,215,310,73,2,7,8,0,6,5,25,Monroe County,Greece 79
+Monroe County,Greece 8,124,129,16,0,5,5,4,2,135,108,17,5,6,2,1,105,128,16,3,5,3,3,0,1,21,Monroe County,Greece 8
+Monroe County,Greece 80,188,211,38,0,4,5,0,2,205,185,40,7,10,1,0,158,228,33,2,1,6,1,3,1,18,Monroe County,Greece 80
+Monroe County,Greece 81,98,105,18,0,3,1,1,0,107,97,16,4,0,2,0,88,102,9,3,2,0,0,0,1,15,Monroe County,Greece 81
+Monroe County,Greece 82,200,114,30,0,10,8,7,2,216,93,26,10,10,8,5,181,126,20,9,7,2,3,2,4,17,Monroe County,Greece 82
+Monroe County,Greece 83,88,64,19,0,3,5,1,1,92,65,16,2,3,2,1,86,68,14,2,0,0,1,1,4,8,Monroe County,Greece 83
+Monroe County,Greece 84,165,176,32,0,4,7,0,3,191,148,29,6,6,0,4,148,176,32,4,2,3,0,4,2,10,Monroe County,Greece 84
+Monroe County,Greece 85,186,169,44,0,9,6,4,3,192,158,41,11,8,4,6,158,181,44,4,3,6,2,3,4,19,Monroe County,Greece 85
+Monroe County,Greece 86,171,204,39,0,4,1,0,2,183,190,38,1,4,0,2,139,215,42,0,1,1,0,2,2,10,Monroe County,Greece 86
+Monroe County,Greece 87,149,119,27,0,4,5,1,2,150,108,26,6,8,4,1,135,111,27,4,4,4,2,0,3,13,Monroe County,Greece 87
+Monroe County,Greece 88,192,161,30,0,4,4,1,4,201,142,27,6,6,1,3,164,158,31,4,4,4,0,1,2,15,Monroe County,Greece 88
+Monroe County,Greece 89,119,139,25,0,1,5,0,1,126,117,23,3,10,1,3,104,145,24,2,0,6,0,0,0,6,Monroe County,Greece 89
+Monroe County,Greece 9,155,122,18,0,6,7,3,3,164,109,16,7,6,4,4,119,126,16,7,1,1,3,1,12,22,Monroe County,Greece 9
+Monroe County,Greece 90,157,200,48,0,4,6,2,4,175,173,49,6,9,1,0,133,201,41,3,0,5,2,1,3,23,Monroe County,Greece 90
+Monroe County,Greece 91,236,312,57,0,4,7,3,4,254,277,55,4,11,9,0,215,308,54,3,2,6,3,1,4,19,Monroe County,Greece 91
+Monroe County,Greece 92,256,209,39,0,5,6,4,2,278,178,38,5,7,4,2,219,203,41,4,7,4,2,3,9,23,Monroe County,Greece 92
+Monroe County,Greece 93,211,182,28,0,5,6,3,1,233,162,24,9,7,5,1,199,183,25,1,4,5,4,1,4,16,Monroe County,Greece 93
+Monroe County,Greece 94,163,171,35,0,6,10,1,0,179,150,32,8,9,5,3,141,180,36,2,2,4,2,1,2,13,Monroe County,Greece 94
+Monroe County,Greece 95,129,92,12,0,4,5,2,2,132,82,17,4,5,2,1,110,109,9,1,2,3,2,1,3,10,Monroe County,Greece 95
+Monroe County,Greece 96,225,148,40,0,2,6,4,2,244,116,41,4,8,4,3,186,160,40,7,2,5,1,3,3,10,Monroe County,Greece 96
+Monroe County,Greece 97,275,316,64,0,6,9,0,1,304,275,64,4,17,2,0,242,300,63,7,1,11,1,4,7,21,Monroe County,Greece 97
+Monroe County,Greece 98,263,243,35,0,9,13,3,1,279,202,38,19,16,4,2,227,252,41,3,9,9,3,2,4,12,Monroe County,Greece 98
+Monroe County,Greece 99,133,184,34,0,5,7,1,1,138,173,32,7,10,1,0,109,187,37,1,3,4,1,3,0,14,Monroe County,Greece 99
+Monroe County,Hamlin 01,152,134,29,0,5,5,1,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,Hamlin 01
+Monroe County,Hamlin 02,126,191,42,0,8,5,6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,Hamlin 02
+Monroe County,Hamlin 03,123,202,34,0,3,7,2,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,Hamlin 03
+Monroe County,Hamlin 04,80,135,27,0,11,2,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,Hamlin 04
+Monroe County,Hamlin 05,102,166,33,0,12,4,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,Hamlin 05
+Monroe County,Hamlin 06,111,122,29,0,8,1,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,Hamlin 06
+Monroe County,Hamlin 07,168,208,47,0,14,6,4,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,Hamlin 07
+Monroe County,Hamlin 08,88,92,26,0,10,5,3,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,Hamlin 08
+Monroe County,Hamlin 09,72,110,15,0,5,6,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,Hamlin 09
+Monroe County,Hamlin 1,0,0,0,0,0,0,0,0,140,143,36,5,9,4,4,108,146,31,10,2,6,3,1,1,39,Monroe County,Hamlin 1
+Monroe County,Hamlin 10,147,198,34,0,11,5,2,4,134,208,36,13,9,3,0,92,229,37,7,1,4,3,2,10,24,Monroe County,Hamlin 10
+Monroe County,Hamlin 2,0,0,0,0,0,0,0,0,123,197,47,5,12,3,3,89,211,44,6,3,7,0,4,4,23,Monroe County,Hamlin 2
+Monroe County,Hamlin 3,0,0,0,0,0,0,0,0,117,206,38,2,8,4,2,81,221,37,0,4,3,2,1,1,30,Monroe County,Hamlin 3
+Monroe County,Hamlin 4,0,0,0,0,0,0,0,0,72,141,30,8,5,1,3,54,151,27,3,4,2,0,2,0,26,Monroe County,Hamlin 4
+Monroe County,Hamlin 5,0,0,0,0,0,0,0,0,104,165,40,7,13,4,2,83,174,33,5,2,6,1,2,3,25,Monroe County,Hamlin 5
+Monroe County,Hamlin 6,0,0,0,0,0,0,0,0,109,125,31,5,3,5,1,90,131,28,3,2,1,1,2,0,23,Monroe County,Hamlin 6
+Monroe County,Hamlin 7,0,0,0,0,0,0,0,0,173,221,46,7,10,5,4,127,255,45,2,5,4,0,5,7,22,Monroe County,Hamlin 7
+Monroe County,Hamlin 8,0,0,0,0,0,0,0,0,84,97,26,7,11,1,2,59,108,26,3,2,6,0,7,2,21,Monroe County,Hamlin 8
+Monroe County,Hamlin 9,0,0,0,0,0,0,0,0,77,109,15,3,3,2,5,52,112,17,2,1,0,1,3,2,21,Monroe County,Hamlin 9
+Monroe County,Henrietta 1,215,195,23,0,9,7,2,0,237,160,24,10,8,6,1,183,213,22,5,4,5,3,2,2,13,Monroe County,Henrietta 1
+Monroe County,Henrietta 10,180,133,27,0,6,5,3,0,185,121,28,9,9,1,2,153,128,30,6,7,7,1,3,5,14,Monroe County,Henrietta 10
+Monroe County,Henrietta 11,197,94,11,0,6,2,2,0,206,78,11,10,2,0,0,177,87,13,5,5,0,0,2,1,14,Monroe County,Henrietta 11
+Monroe County,Henrietta 12,149,131,27,0,5,10,3,1,162,117,24,2,14,7,1,123,126,21,11,2,12,5,1,7,16,Monroe County,Henrietta 12
+Monroe County,Henrietta 13,391,168,36,0,11,9,7,3,407,154,39,9,7,7,2,354,168,35,11,6,11,1,6,7,23,Monroe County,Henrietta 13
+Monroe County,Henrietta 14,179,100,22,0,6,5,0,1,184,91,17,4,7,5,1,151,110,17,5,7,0,0,1,4,15,Monroe County,Henrietta 14
+Monroe County,Henrietta 15,279,160,28,0,6,4,1,6,299,133,26,10,8,5,1,225,159,32,8,3,7,1,3,13,24,Monroe County,Henrietta 15
+Monroe County,Henrietta 16,139,82,14,0,2,3,4,0,140,70,15,6,5,4,0,117,86,13,1,3,2,2,3,3,10,Monroe County,Henrietta 16
+Monroe County,Henrietta 17,213,129,36,0,11,7,1,4,217,122,31,11,13,4,0,182,130,35,6,8,6,4,2,8,19,Monroe County,Henrietta 17
+Monroe County,Henrietta 18,243,151,35,0,3,11,3,2,253,137,33,0,10,7,3,224,146,38,5,0,8,3,4,8,18,Monroe County,Henrietta 18
+Monroe County,Henrietta 19,155,130,17,0,9,2,4,2,165,113,18,12,3,4,3,130,128,16,2,6,3,1,1,4,24,Monroe County,Henrietta 19
+Monroe County,Henrietta 2,161,129,29,0,9,5,6,3,172,108,29,12,8,7,1,136,129,29,10,9,2,2,0,3,25,Monroe County,Henrietta 2
+Monroe County,Henrietta 20,315,214,33,0,4,16,2,2,336,182,34,9,15,5,0,281,212,29,10,4,13,1,1,12,24,Monroe County,Henrietta 20
+Monroe County,Henrietta 21,141,93,24,0,10,4,0,0,148,81,27,7,6,4,1,120,90,28,4,6,5,0,1,8,9,Monroe County,Henrietta 21
+Monroe County,Henrietta 22,305,185,40,0,9,6,3,1,315,163,40,8,8,5,1,270,187,41,3,3,7,1,5,9,13,Monroe County,Henrietta 22
+Monroe County,Henrietta 23,201,103,22,0,9,12,1,4,203,99,19,9,10,2,2,168,105,17,8,8,8,4,0,6,18,Monroe County,Henrietta 23
+Monroe County,Henrietta 24,245,127,19,0,10,8,2,2,255,108,21,9,7,4,1,211,135,17,9,4,5,2,2,6,17,Monroe County,Henrietta 24
+Monroe County,Henrietta 25,150,129,35,0,3,3,3,3,164,105,32,5,5,6,4,134,128,27,4,3,5,3,3,7,15,Monroe County,Henrietta 25
+Monroe County,Henrietta 26,345,284,60,0,10,12,3,3,361,262,57,8,18,6,2,287,312,58,5,4,7,1,5,9,15,Monroe County,Henrietta 26
+Monroe County,Henrietta 27,305,224,41,0,2,10,4,4,328,184,42,4,14,5,2,249,230,36,9,3,15,3,4,8,22,Monroe County,Henrietta 27
+Monroe County,Henrietta 28,214,183,44,0,4,8,4,2,227,163,44,4,8,5,3,172,182,45,13,1,3,4,1,12,19,Monroe County,Henrietta 28
+Monroe County,Henrietta 29,687,388,72,0,18,17,1,4,723,350,70,21,17,7,2,609,387,73,13,15,14,4,6,13,60,Monroe County,Henrietta 29
+Monroe County,Henrietta 3,134,41,7,0,4,2,5,2,137,36,6,5,3,7,1,110,43,9,9,4,1,2,1,7,7,Monroe County,Henrietta 3
+Monroe County,Henrietta 30,506,230,54,0,13,18,2,4,524,202,54,15,21,3,4,439,238,55,14,11,13,5,6,15,24,Monroe County,Henrietta 30
+Monroe County,Henrietta 31,137,60,19,0,4,4,1,1,149,46,20,1,5,3,1,118,52,15,7,0,4,0,2,1,19,Monroe County,Henrietta 31
+Monroe County,Henrietta 32,348,162,33,0,4,12,1,0,365,147,30,2,19,2,1,321,169,31,7,3,10,0,3,3,12,Monroe County,Henrietta 32
+Monroe County,Henrietta 33,128,100,15,0,6,7,1,0,133,93,15,10,4,1,1,116,100,15,2,4,1,1,4,2,8,Monroe County,Henrietta 33
+Monroe County,Henrietta 34,129,72,13,0,5,3,1,1,138,66,11,5,4,1,0,107,86,15,3,5,3,0,0,0,7,Monroe County,Henrietta 34
+Monroe County,Henrietta 35,248,191,36,0,8,12,5,3,247,185,38,6,13,6,3,198,208,32,2,8,13,4,5,3,30,Monroe County,Henrietta 35
+Monroe County,Henrietta 4,268,114,18,0,3,6,1,3,278,104,15,3,10,3,2,234,125,14,8,4,5,2,1,11,15,Monroe County,Henrietta 4
+Monroe County,Henrietta 5,179,127,30,0,5,6,0,5,196,110,34,4,7,1,1,166,125,33,4,5,4,0,1,4,11,Monroe County,Henrietta 5
+Monroe County,Henrietta 6,150,123,34,0,5,8,2,6,156,114,30,6,10,3,5,128,128,29,7,4,5,2,4,3,17,Monroe County,Henrietta 6
+Monroe County,Henrietta 7,151,112,31,0,2,8,2,1,160,101,34,4,8,3,1,127,113,27,1,2,7,1,2,3,16,Monroe County,Henrietta 7
+Monroe County,Henrietta 8,167,135,17,0,7,12,3,2,179,120,19,9,9,5,0,143,140,17,8,3,5,4,2,6,16,Monroe County,Henrietta 8
+Monroe County,Henrietta 9,173,86,13,0,1,0,1,0,184,72,14,3,1,0,0,155,81,13,5,0,1,1,0,4,13,Monroe County,Henrietta 9
+Monroe County,Irondequoit 1,317,146,26,0,10,13,5,5,328,136,23,12,12,5,3,254,167,31,16,3,11,3,6,7,17,Monroe County,Irondequoit 1
+Monroe County,Irondequoit 10,188,114,32,0,0,7,4,0,190,98,34,0,11,3,2,160,117,33,2,0,7,5,1,5,7,Monroe County,Irondequoit 10
+Monroe County,Irondequoit 11,115,63,14,0,1,5,2,1,110,60,13,3,4,3,1,98,68,16,2,2,1,3,0,3,5,Monroe County,Irondequoit 11
+Monroe County,Irondequoit 12,207,66,18,0,10,4,3,3,204,56,18,15,7,6,1,159,78,15,6,7,4,0,7,7,30,Monroe County,Irondequoit 12
+Monroe County,Irondequoit 13,311,108,22,0,10,12,5,0,318,98,18,12,13,4,1,266,115,21,13,10,10,5,2,2,15,Monroe County,Irondequoit 13
+Monroe County,Irondequoit 14,240,163,44,0,8,6,5,2,253,146,43,8,13,5,2,198,170,44,15,2,6,5,1,8,23,Monroe County,Irondequoit 14
+Monroe County,Irondequoit 15,229,172,26,0,2,8,5,1,240,144,25,3,13,7,1,196,179,29,6,5,6,4,0,4,9,Monroe County,Irondequoit 15
+Monroe County,Irondequoit 16,336,194,35,0,12,13,5,2,348,178,30,13,16,5,2,292,201,32,10,6,5,2,4,10,32,Monroe County,Irondequoit 16
+Monroe County,Irondequoit 17,137,68,13,0,4,5,3,4,146,53,14,8,5,3,3,113,75,15,2,4,3,2,3,5,11,Monroe County,Irondequoit 17
+Monroe County,Irondequoit 18,201,125,22,0,6,5,6,2,211,107,20,4,8,9,4,176,131,20,3,2,2,5,2,6,14,Monroe County,Irondequoit 18
+Monroe County,Irondequoit 19,311,82,19,0,9,13,7,3,320,68,21,9,13,7,0,266,108,22,7,7,7,4,2,8,8,Monroe County,Irondequoit 19
+Monroe County,Irondequoit 2,147,86,18,0,6,5,2,1,153,74,24,6,5,3,1,132,87,21,2,5,3,0,1,1,13,Monroe County,Irondequoit 2
+Monroe County,Irondequoit 20,180,111,23,0,4,7,3,3,186,97,19,6,9,5,1,156,120,24,5,6,6,2,1,4,3,Monroe County,Irondequoit 20
+Monroe County,Irondequoit 21,226,88,31,0,7,12,1,2,243,74,27,6,8,3,4,175,108,24,9,4,8,1,5,8,19,Monroe County,Irondequoit 21
+Monroe County,Irondequoit 22,222,111,30,0,7,7,6,5,226,110,25,10,7,5,5,188,127,29,7,4,2,6,7,4,9,Monroe County,Irondequoit 22
+Monroe County,Irondequoit 23,222,75,16,0,9,4,2,0,222,76,13,6,8,5,1,182,95,16,10,5,2,5,2,7,10,Monroe County,Irondequoit 23
+Monroe County,Irondequoit 24,193,81,35,0,5,1,5,1,192,72,33,8,7,6,0,152,95,34,8,4,3,4,4,3,14,Monroe County,Irondequoit 24
+Monroe County,Irondequoit 25,185,123,20,0,6,8,3,2,190,105,23,6,10,2,2,158,130,23,4,7,9,1,2,3,3,Monroe County,Irondequoit 25
+Monroe County,Irondequoit 26,158,70,8,0,3,4,0,2,162,57,10,6,3,0,1,150,63,10,2,3,3,0,1,3,5,Monroe County,Irondequoit 26
+Monroe County,Irondequoit 27,120,87,16,0,4,7,4,2,128,80,13,4,5,3,1,95,89,15,1,4,4,4,0,9,9,Monroe County,Irondequoit 27
+Monroe County,Irondequoit 28,133,125,2,0,2,5,2,1,133,115,20,5,4,3,2,106,135,20,3,1,6,2,1,5,8,Monroe County,Irondequoit 28
+Monroe County,Irondequoit 29,176,85,16,0,5,2,4,1,170,85,13,6,3,5,2,144,102,15,5,3,2,2,2,5,9,Monroe County,Irondequoit 29
+Monroe County,Irondequoit 3,209,140,26,0,5,14,7,4,217,130,20,10,18,5,1,154,148,33,9,6,12,3,3,5,18,Monroe County,Irondequoit 3
+Monroe County,Irondequoit 30,168,121,18,0,5,5,3,3,183,102,17,7,5,3,2,146,122,14,5,4,7,2,1,2,14,Monroe County,Irondequoit 30
+Monroe County,Irondequoit 31,280,136,25,0,11,10,6,3,294,120,20,8,17,9,1,241,137,25,6,8,14,5,4,6,20,Monroe County,Irondequoit 31
+Monroe County,Irondequoit 32,242,96,18,0,9,8,1,0,244,83,20,10,9,4,1,202,98,18,10,9,8,4,4,7,5,Monroe County,Irondequoit 32
+Monroe County,Irondequoit 33,134,84,24,0,6,3,2,0,135,80,26,6,4,3,1,104,88,21,5,4,3,2,0,6,14,Monroe County,Irondequoit 33
+Monroe County,Irondequoit 34,262,207,28,0,6,5,2,2,268,191,29,6,9,2,1,216,212,27,11,3,6,2,2,9,14,Monroe County,Irondequoit 34
+Monroe County,Irondequoit 35,158,63,14,0,9,10,7,1,157,55,13,11,11,13,1,126,78,13,5,7,4,7,4,4,15,Monroe County,Irondequoit 35
+Monroe County,Irondequoit 36,139,46,14,0,7,2,2,0,135,41,11,9,6,5,0,127,41,12,7,1,5,2,1,1,7,Monroe County,Irondequoit 36
+Monroe County,Irondequoit 37,133,99,14,0,2,4,0,4,134,92,11,5,5,2,2,120,102,14,3,2,3,1,1,1,7,Monroe County,Irondequoit 37
+Monroe County,Irondequoit 38,122,57,6,0,10,4,1,0,121,55,6,9,2,2,1,106,60,7,2,7,1,2,1,2,5,Monroe County,Irondequoit 38
+Monroe County,Irondequoit 39,50,32,2,0,2,0,0,1,49,33,1,1,1,0,1,45,37,3,0,1,1,0,0,1,0,Monroe County,Irondequoit 39
+Monroe County,Irondequoit 4,84,67,10,0,4,8,2,1,89,60,10,4,10,4,0,68,70,11,3,2,7,2,1,2,8,Monroe County,Irondequoit 4
+Monroe County,Irondequoit 40,111,54,16,0,4,6,0,2,118,50,18,3,8,0,1,97,61,16,0,3,4,1,1,1,10,Monroe County,Irondequoit 40
+Monroe County,Irondequoit 41,204,86,25,0,2,8,2,4,209,76,24,3,9,3,2,170,99,22,6,6,6,1,5,5,16,Monroe County,Irondequoit 41
+Monroe County,Irondequoit 42,186,141,19,0,8,7,1,4,190,127,22,9,7,4,1,148,133,18,7,8,4,2,4,10,24,Monroe County,Irondequoit 42
+Monroe County,Irondequoit 43,186,74,22,0,9,3,2,0,184,71,21,8,3,6,1,160,82,20,4,7,2,6,1,1,14,Monroe County,Irondequoit 43
+Monroe County,Irondequoit 44,318,207,35,0,10,16,5,3,309,206,31,14,17,6,2,249,231,40,9,11,10,1,2,16,10,Monroe County,Irondequoit 44
+Monroe County,Irondequoit 45,144,76,18,0,2,8,0,1,147,64,17,5,4,3,3,125,80,17,1,3,4,0,2,3,9,Monroe County,Irondequoit 45
+Monroe County,Irondequoit 46,164,123,15,0,6,10,1,2,176,110,13,9,2,1,1,137,126,16,6,4,5,1,2,7,13,Monroe County,Irondequoit 46
+Monroe County,Irondequoit 47,75,50,3,0,3,1,2,0,80,44,4,3,8,2,0,58,59,2,0,2,1,2,0,2,6,Monroe County,Irondequoit 47
+Monroe County,Irondequoit 48,171,110,19,0,7,9,1,2,180,98,20,6,12,2,2,135,124,16,2,6,9,2,4,4,14,Monroe County,Irondequoit 48
+Monroe County,Irondequoit 49,234,168,31,0,6,9,3,4,244,153,27,6,14,5,3,202,178,31,7,7,9,2,2,4,6,Monroe County,Irondequoit 49
+Monroe County,Irondequoit 5,213,79,15,0,9,6,5,3,209,83,13,7,9,6,4,169,96,13,8,6,4,4,4,2,25,Monroe County,Irondequoit 5
+Monroe County,Irondequoit 50,171,68,11,0,3,4,2,0,161,64,13,5,6,3,0,145,71,11,3,4,4,0,2,0,5,Monroe County,Irondequoit 50
+Monroe County,Irondequoit 51,232,130,35,0,6,8,8,3,234,117,28,8,17,7,1,187,139,26,5,7,4,7,2,9,21,Monroe County,Irondequoit 51
+Monroe County,Irondequoit 52,261,105,11,0,9,8,0,4,257,96,11,10,12,1,3,228,101,17,6,7,9,0,4,2,16,Monroe County,Irondequoit 52
+Monroe County,Irondequoit 53,173,100,11,0,5,5,3,2,175,89,9,5,8,5,2,151,113,12,3,3,6,1,3,3,8,Monroe County,Irondequoit 53
+Monroe County,Irondequoit 54,60,36,8,0,1,1,0,0,63,34,5,1,1,1,1,50,42,8,0,2,0,0,0,1,2,Monroe County,Irondequoit 54
+Monroe County,Irondequoit 55,255,92,24,0,7,7,6,5,264,76,23,11,8,9,0,219,100,18,11,3,6,8,3,6,16,Monroe County,Irondequoit 55
+Monroe County,Irondequoit 56,170,82,5,0,4,5,0,2,176,74,5,5,6,1,2,153,84,7,5,4,2,1,3,4,8,Monroe County,Irondequoit 56
+Monroe County,Irondequoit 57,288,149,23,0,6,9,1,0,284,136,22,8,9,3,1,246,160,25,4,8,7,3,0,5,11,Monroe County,Irondequoit 57
+Monroe County,Irondequoit 58,235,108,34,0,6,7,4,2,229,100,32,9,9,5,2,202,129,36,4,7,4,5,0,7,8,Monroe County,Irondequoit 58
+Monroe County,Irondequoit 59,166,100,17,0,5,6,6,2,171,90,17,6,9,6,2,122,112,24,5,3,6,5,4,5,16,Monroe County,Irondequoit 59
+Monroe County,Irondequoit 6,340,150,29,0,14,15,7,5,343,135,32,20,15,10,3,278,168,30,13,15,7,11,2,13,17,Monroe County,Irondequoit 6
+Monroe County,Irondequoit 60,165,112,29,0,2,13,0,1,169,100,25,6,15,2,1,140,108,23,9,3,6,0,1,5,18,Monroe County,Irondequoit 60
+Monroe County,Irondequoit 61,264,123,31,0,6,12,2,4,254,125,30,6,17,2,3,224,140,24,5,3,8,1,3,8,21,Monroe County,Irondequoit 61
+Monroe County,Irondequoit 62,205,104,26,0,8,9,5,3,206,101,25,8,13,3,1,175,104,23,2,8,9,1,1,8,15,Monroe County,Irondequoit 62
+Monroe County,Irondequoit 63,155,104,19,0,3,5,6,2,169,85,19,8,5,5,1,139,102,20,3,3,1,3,1,9,10,Monroe County,Irondequoit 63
+Monroe County,Irondequoit 64,107,17,5,0,3,0,0,1,107,15,1,5,2,1,0,105,17,3,2,3,0,0,0,0,4,Monroe County,Irondequoit 64
+Monroe County,Irondequoit 65,159,69,12,0,2,9,2,1,166,55,13,3,11,2,0,144,65,9,6,1,6,3,3,6,2,Monroe County,Irondequoit 65
+Monroe County,Irondequoit 66,136,33,2,0,3,2,0,0,141,26,2,1,2,0,0,124,35,5,2,1,0,1,0,1,4,Monroe County,Irondequoit 66
+Monroe County,Irondequoit 67,146,87,8,0,4,5,1,1,141,79,7,6,6,3,1,119,94,9,5,3,2,1,1,4,8,Monroe County,Irondequoit 67
+Monroe County,Irondequoit 68,171,94,12,0,7,6,0,0,176,82,12,7,5,0,0,154,99,10,1,6,2,1,1,2,8,Monroe County,Irondequoit 68
+Monroe County,Irondequoit 7,270,145,32,0,9,16,3,0,287,128,31,8,16,4,0,236,153,37,5,7,11,3,1,9,11,Monroe County,Irondequoit 7
+Monroe County,Irondequoit 8,191,139,23,0,7,6,4,3,195,120,24,8,12,4,2,138,152,27,10,4,12,2,3,4,14,Monroe County,Irondequoit 8
+Monroe County,Irondequoit 9,171,136,18,0,1,7,1,2,177,114,19,4,9,1,1,154,134,19,2,3,5,0,0,5,8,Monroe County,Irondequoit 9
+Monroe County,Leg. Dist. 07 1,409,307,48,0,28,13,8,8,216,145,28,13,13,7,2,181,157,29,10,7,8,6,3,10,19,Monroe County,Leg. Dist. 07 1
+Monroe County,Leg. Dist. 07 2,298,124,33,0,19,6,6,11,148,63,14,15,5,7,2,149,57,16,4,5,4,5,2,5,12,Monroe County,Leg. Dist. 07 2
+Monroe County,Leg. Dist. 16 1,19,4,0,0,0,0,0,0,11,1,0,0,0,0,0,8,3,0,0,0,0,0,0,0,0,Monroe County,Leg. Dist. 16 1
+Monroe County,Leg. Dist. 21 1,399,104,27,0,25,12,19,6,205,47,12,19,6,9,2,162,51,17,12,11,2,9,2,14,17,Monroe County,Leg. Dist. 21 1
+Monroe County,Leg. Dist. 21 10,658,134,24,0,19,13,10,6,343,63,13,12,7,7,2,302,70,11,10,11,5,3,5,19,6,Monroe County,Leg. Dist. 21 10
+Monroe County,Leg. Dist. 21 11,360,36,8,0,10,6,4,2,194,14,4,4,4,2,1,183,20,3,1,3,4,0,0,0,3,Monroe County,Leg. Dist. 21 11
+Monroe County,Leg. Dist. 21 12,859,196,40,0,57,11,13,10,460,79,19,29,11,9,3,387,95,16,27,15,5,6,3,20,35,Monroe County,Leg. Dist. 21 12
+Monroe County,Leg. Dist. 21 13,332,24,8,0,33,2,8,4,164,8,2,18,2,7,2,156,7,5,13,10,2,3,4,6,4,Monroe County,Leg. Dist. 21 13
+Monroe County,Leg. Dist. 21 14,250,32,11,0,11,1,2,0,125,16,5,6,2,3,0,113,16,6,4,3,0,1,0,2,5,Monroe County,Leg. Dist. 21 14
+Monroe County,Leg. Dist. 21 15,529,94,33,0,22,18,2,2,281,34,12,14,12,0,2,260,45,15,7,3,9,2,2,3,9,Monroe County,Leg. Dist. 21 15
+Monroe County,Leg. Dist. 21 16,162,37,7,0,2,3,2,0,84,17,4,1,3,1,0,81,18,4,2,1,1,1,0,0,4,Monroe County,Leg. Dist. 21 16
+Monroe County,Leg. Dist. 21 17/26,557,66,20,0,31,22,7,1,288,27,7,20,10,6,2,275,31,10,11,9,10,6,1,7,6,Monroe County,Leg. Dist. 21 17/26
+Monroe County,Leg. Dist. 21 18,305,29,7,0,5,4,6,0,154,13,6,2,1,6,2,154,15,4,2,1,1,1,0,1,3,Monroe County,Leg. Dist. 21 18
+Monroe County,Leg. Dist. 21 19,187,12,4,0,4,6,1,0,97,3,3,2,3,1,0,101,6,3,2,0,2,1,0,0,0,Monroe County,Leg. Dist. 21 19
+Monroe County,Leg. Dist. 21 2,378,97,25,0,23,7,13,8,198,41,10,13,5,7,1,162,50,13,13,8,3,7,2,8,8,Monroe County,Leg. Dist. 21 2
+Monroe County,Leg. Dist. 21 20,261,40,14,0,20,8,4,0,132,17,6,12,4,3,0,120,22,6,5,8,3,1,1,1,3,Monroe County,Leg. Dist. 21 20
+Monroe County,Leg. Dist. 21 21,330,44,5,0,9,1,2,2,178,21,4,5,1,3,0,166,27,3,6,3,0,1,0,3,3,Monroe County,Leg. Dist. 21 21
+Monroe County,Leg. Dist. 21 22,396,34,8,0,3,7,1,1,198,19,2,1,2,3,1,199,19,2,5,0,1,3,2,2,6,Monroe County,Leg. Dist. 21 22
+Monroe County,Leg. Dist. 21 23,346,46,12,0,19,9,3,1,182,19,7,11,9,9,4,175,25,4,1,11,3,1,1,4,3,Monroe County,Leg. Dist. 21 23
+Monroe County,Leg. Dist. 21 24,549,153,36,0,35,17,12,9,288,69,21,13,1,4,1,251,76,18,18,8,4,7,1,9,26,Monroe County,Leg. Dist. 21 24
+Monroe County,Leg. Dist. 21 25,317,25,3,0,6,5,3,6,168,9,4,6,3,2,1,166,7,1,5,2,2,1,0,3,4,Monroe County,Leg. Dist. 21 25
+Monroe County,Leg. Dist. 21 27,224,24,2,0,6,2,0,4,118,9,2,4,2,0,1,118,12,1,3,1,0,0,0,1,2,Monroe County,Leg. Dist. 21 27
+Monroe County,Leg. Dist. 21 3,212,60,18,0,2,6,1,0,112,29,8,2,4,0,0,113,30,6,0,0,2,0,0,2,3,Monroe County,Leg. Dist. 21 3
+Monroe County,Leg. Dist. 21 4,261,32,4,0,8,6,0,3,132,18,1,5,3,2,0,132,17,1,1,6,3,0,1,2,2,Monroe County,Leg. Dist. 21 4
+Monroe County,Leg. Dist. 21 5,277,48,10,0,30,5,10,2,143,21,5,12,6,7,0,130,26,4,7,10,5,4,1,3,6,Monroe County,Leg. Dist. 21 5
+Monroe County,Leg. Dist. 21 6,488,52,15,0,31,14,12,7,258,22,6,17,6,8,3,221,26,7,26,13,3,5,2,6,13,Monroe County,Leg. Dist. 21 6
+Monroe County,Leg. Dist. 21 7,661,144,21,0,24,14,13,6,334,59,13,14,11,8,1,297,77,12,14,8,5,5,2,11,17,Monroe County,Leg. Dist. 21 7
+Monroe County,Leg. Dist. 21 8,220,19,11,0,16,0,3,1,109,9,5,11,2,1,2,98,16,3,5,7,2,1,2,3,2,Monroe County,Leg. Dist. 21 8
+Monroe County,Leg. Dist. 21 9,608,134,20,0,39,19,19,0,320,62,12,17,6,9,1,255,59,9,27,13,8,5,0,13,23,Monroe County,Leg. Dist. 21 9
+Monroe County,Leg. Dist. 22 1,442,55,2,0,2,1,2,0,241,23,1,4,0,2,0,235,29,2,1,2,1,1,0,1,0,Monroe County,Leg. Dist. 22 1
+Monroe County,Leg. Dist. 22 10,232,8,1,0,4,0,0,0,126,4,0,1,0,0,0,116,4,0,1,0,1,0,0,0,0,Monroe County,Leg. Dist. 22 10
+Monroe County,Leg. Dist. 22 11,405,22,2,0,9,0,8,1,213,8,2,4,3,4,2,207,15,1,7,3,0,5,1,5,3,Monroe County,Leg. Dist. 22 11
+Monroe County,Leg. Dist. 22 12,208,9,1,0,0,0,1,0,106,3,0,0,0,4,0,106,5,0,0,0,1,1,1,1,0,Monroe County,Leg. Dist. 22 12
+Monroe County,Leg. Dist. 22 14,244,31,3,0,3,5,1,0,126,13,2,3,1,1,0,130,14,1,1,0,2,0,0,1,0,Monroe County,Leg. Dist. 22 14
+Monroe County,Leg. Dist. 22 15,299,11,5,0,8,2,5,1,153,4,2,5,0,0,2,153,7,2,1,6,0,0,0,0,1,Monroe County,Leg. Dist. 22 15
+Monroe County,Leg. Dist. 22 16,114,3,0,0,4,2,1,0,56,3,0,2,1,0,0,60,1,0,1,1,0,0,0,0,0,Monroe County,Leg. Dist. 22 16
+Monroe County,Leg. Dist. 22 17,126,3,2,0,0,0,0,0,66,1,1,0,0,0,1,68,2,1,0,0,0,0,0,1,0,Monroe County,Leg. Dist. 22 17
+Monroe County,Leg. Dist. 22 18,167,10,0,0,0,2,2,0,90,2,0,2,1,0,0,93,3,1,1,0,1,0,0,2,0,Monroe County,Leg. Dist. 22 18
+Monroe County,Leg. Dist. 22 19,179,8,0,0,2,0,0,2,83,5,0,0,1,1,0,84,4,0,0,2,0,0,0,1,1,Monroe County,Leg. Dist. 22 19
+Monroe County,Leg. Dist. 22 2/13,243,5,2,0,2,5,0,2,133,1,0,3,2,0,0,139,4,1,0,3,2,0,0,0,1,Monroe County,Leg. Dist. 22 2/13
+Monroe County,Leg. Dist. 22 20,321,20,7,0,0,4,0,0,166,8,2,1,3,0,0,169,10,4,1,0,2,0,0,1,0,Monroe County,Leg. Dist. 22 20
+Monroe County,Leg. Dist. 22 21,160,15,1,0,7,0,3,0,89,5,0,0,0,2,0,87,9,0,2,0,0,1,0,1,0,Monroe County,Leg. Dist. 22 21
+Monroe County,Leg. Dist. 22 22,335,10,5,0,7,5,5,1,172,3,2,4,3,4,1,180,6,2,0,0,3,1,1,0,1,Monroe County,Leg. Dist. 22 22
+Monroe County,Leg. Dist. 22 23,201,6,1,0,0,0,0,0,103,2,1,1,1,0,0,102,2,1,0,3,2,0,0,0,0,Monroe County,Leg. Dist. 22 23
+Monroe County,Leg. Dist. 22 24,119,17,0,0,4,0,4,1,59,7,0,2,1,3,0,66,6,0,0,0,1,2,0,0,0,Monroe County,Leg. Dist. 22 24
+Monroe County,Leg. Dist. 22 25,647,124,32,0,12,10,9,3,347,57,15,10,4,5,0,337,61,16,3,2,6,4,2,7,6,Monroe County,Leg. Dist. 22 25
+Monroe County,Leg. Dist. 22 26/25-19,395,85,9,0,7,4,8,4,210,34,6,6,5,3,1,172,44,4,10,4,4,5,1,10,6,Monroe County,Leg. Dist. 22 26/25-19
+Monroe County,Leg. Dist. 22 27,323,13,4,0,10,2,5,2,174,4,2,8,2,2,0,166,6,3,7,4,1,4,0,1,1,Monroe County,Leg. Dist. 22 27
+Monroe County,Leg. Dist. 22 3,207,19,3,0,3,5,2,0,100,10,2,0,2,3,0,143,9,2,0,1,2,0,0,1,0,Monroe County,Leg. Dist. 22 3
+Monroe County,Leg. Dist. 22 4,177,7,1,0,1,2,0,1,90,4,0,1,1,0,0,91,3,1,1,0,1,0,0,1,1,Monroe County,Leg. Dist. 22 4
+Monroe County,Leg. Dist. 22 5,234,6,2,0,2,0,0,0,126,1,0,1,0,0,0,121,3,0,0,0,1,0,0,3,1,Monroe County,Leg. Dist. 22 5
+Monroe County,Leg. Dist. 22 6,307,14,2,0,2,3,1,0,158,7,1,0,0,1,1,166,6,2,1,0,1,1,0,0,0,Monroe County,Leg. Dist. 22 6
+Monroe County,Leg. Dist. 22 7,138,0,1,0,3,0,0,0,68,0,0,3,0,0,0,82,0,0,0,3,0,0,0,0,0,Monroe County,Leg. Dist. 22 7
+Monroe County,Leg. Dist. 22 8,295,34,2,0,6,3,1,0,154,16,1,2,1,2,0,153,17,2,5,4,1,0,0,0,0,Monroe County,Leg. Dist. 22 8
+Monroe County,Leg. Dist. 22 9,179,10,0,0,4,0,0,0,95,6,0,1,0,0,0,93,5,0,0,2,0,0,0,1,0,Monroe County,Leg. Dist. 22 9
+Monroe County,Leg. Dist. 23 1,215,86,6,0,7,7,7,4,117,32,4,3,6,4,1,91,36,6,5,3,7,3,1,4,9,Monroe County,Leg. Dist. 23 1
+Monroe County,Leg. Dist. 23 10,417,69,26,0,24,1,10,0,211,34,9,13,1,6,0,170,41,10,6,9,3,5,1,6,10,Monroe County,Leg. Dist. 23 10
+Monroe County,Leg. Dist. 23 11,461,86,10,0,33,10,4,7,241,34,4,16,5,5,5,200,46,5,10,12,2,2,1,19,10,Monroe County,Leg. Dist. 23 11
+Monroe County,Leg. Dist. 23 12,539,126,29,0,29,10,7,0,276,55,13,20,5,7,1,244,65,16,8,13,5,2,2,8,5,Monroe County,Leg. Dist. 23 12
+Monroe County,Leg. Dist. 23 13,453,123,10,0,20,10,6,3,236,56,6,8,4,2,1,201,66,6,5,7,4,4,3,9,6,Monroe County,Leg. Dist. 23 13
+Monroe County,Leg. Dist. 23 14,480,83,14,0,22,3,10,1,249,41,6,13,2,4,1,198,41,7,20,8,0,2,1,10,17,Monroe County,Leg. Dist. 23 14
+Monroe County,Leg. Dist. 23 15,358,72,10,0,12,7,8,6,180,31,9,7,4,7,2,155,42,5,8,6,4,4,3,2,8,Monroe County,Leg. Dist. 23 15
+Monroe County,Leg. Dist. 23 16,192,51,17,0,16,6,1,4,109,21,9,4,6,1,2,90,29,8,1,3,4,1,0,8,6,Monroe County,Leg. Dist. 23 16
+Monroe County,Leg. Dist. 23 17,539,128,24,0,36,18,17,5,289,55,12,19,11,9,3,248,65,13,13,18,10,4,4,8,21,Monroe County,Leg. Dist. 23 17
+Monroe County,Leg. Dist. 23 18,797,224,59,0,32,32,10,15,434,92,22,21,18,9,6,350,135,31,24,11,7,5,6,14,23,Monroe County,Leg. Dist. 23 18
+Monroe County,Leg. Dist. 23 19,385,161,16,0,21,20,14,3,210,67,9,15,14,2,3,162,87,8,14,13,5,1,1,6,23,Monroe County,Leg. Dist. 23 19
+Monroe County,Leg. Dist. 23 2,420,76,16,0,25,14,14,4,217,34,7,13,9,11,2,178,36,4,20,11,2,3,0,15,21,Monroe County,Leg. Dist. 23 2
+Monroe County,Leg. Dist. 23 20,527,102,17,0,33,12,12,8,277,43,8,17,9,5,2,227,54,9,14,13,5,8,1,11,12,Monroe County,Leg. Dist. 23 20
+Monroe County,Leg. Dist. 23 21,408,107,17,0,25,12,4,3,211,49,6,12,8,3,1,191,53,9,8,9,6,2,0,5,9,Monroe County,Leg. Dist. 23 21
+Monroe County,Leg. Dist. 23 22,371,113,8,0,15,13,10,0,188,53,6,7,6,8,1,168,59,6,4,8,4,3,1,10,3,Monroe County,Leg. Dist. 23 22
+Monroe County,Leg. Dist. 23 23,304,33,1,0,20,2,6,8,158,15,0,6,4,5,2,139,17,0,7,8,2,6,4,6,2,Monroe County,Leg. Dist. 23 23
+Monroe County,Leg. Dist. 23 24,353,124,13,0,21,17,15,12,194,58,7,10,8,8,5,169,66,11,14,9,4,3,1,6,12,Monroe County,Leg. Dist. 23 24
+Monroe County,Leg. Dist. 23 25,602,167,38,0,27,24,16,10,312,71,21,16,13,7,4,251,87,16,11,15,5,10,4,32,12,Monroe County,Leg. Dist. 23 25
+Monroe County,Leg. Dist. 23 26,681,191,51,0,30,22,10,7,358,75,24,13,15,7,3,299,96,24,6,9,8,5,7,15,12,Monroe County,Leg. Dist. 23 26
+Monroe County,Leg. Dist. 23 27,323,87,29,0,12,19,2,9,170,39,11,6,15,4,1,135,54,17,12,3,6,2,3,8,6,Monroe County,Leg. Dist. 23 27
+Monroe County,Leg. Dist. 23 28,572,72,21,0,33,20,18,3,291,29,9,20,9,12,4,251,41,10,21,11,8,6,0,11,13,Monroe County,Leg. Dist. 23 28
+Monroe County,Leg. Dist. 23 29,69,12,8,0,0,0,3,3,36,5,1,1,1,1,2,32,8,1,1,1,0,1,0,2,2,Monroe County,Leg. Dist. 23 29
+Monroe County,Leg. Dist. 23 3,293,59,8,0,29,8,14,3,154,26,5,15,4,9,0,134,26,0,12,10,3,4,1,5,16,Monroe County,Leg. Dist. 23 3
+Monroe County,Leg. Dist. 23 4,600,135,35,0,22,22,15,4,314,54,17,11,10,11,1,265,68,17,10,9,6,7,0,13,18,Monroe County,Leg. Dist. 23 4
+Monroe County,Leg. Dist. 23 5,313,45,8,0,15,4,9,2,156,20,5,9,0,7,3,127,18,4,10,4,1,5,2,10,16,Monroe County,Leg. Dist. 23 5
+Monroe County,Leg. Dist. 23 6,277,51,6,0,14,5,0,3,139,25,3,6,4,2,1,107,29,7,12,4,3,0,1,10,7,Monroe County,Leg. Dist. 23 6
+Monroe County,Leg. Dist. 23 7,525,83,17,0,48,9,9,0,272,37,9,20,6,6,1,228,49,7,14,18,3,4,3,13,10,Monroe County,Leg. Dist. 23 7
+Monroe County,Leg. Dist. 23 8,496,90,16,0,39,16,13,6,261,38,9,19,11,4,1,222,48,5,19,13,7,3,1,10,10,Monroe County,Leg. Dist. 23 8
+Monroe County,Leg. Dist. 23 9,340,69,18,0,18,10,5,2,175,30,9,10,5,2,0,158,28,10,6,6,3,2,0,1,7,Monroe County,Leg. Dist. 23 9
+Monroe County,Leg. Dist. 24 1,579,77,24,0,49,15,21,1,299,28,11,29,9,13,0,257,38,10,19,26,8,7,2,15,6,Monroe County,Leg. Dist. 24 1
+Monroe County,Leg. Dist. 24 10,591,80,15,0,80,7,39,6,306,33,6,44,6,17,4,264,43,7,29,25,1,14,1,24,11,Monroe County,Leg. Dist. 24 10
+Monroe County,Leg. Dist. 24 11/12,269,67,11,0,2,6,9,2,147,28,3,3,2,4,1,149,27,4,2,3,4,2,1,1,1,Monroe County,Leg. Dist. 24 11/12
+Monroe County,Leg. Dist. 24 13,533,58,10,0,54,11,21,3,277,30,6,25,6,14,1,234,35,4,24,18,5,11,2,9,11,Monroe County,Leg. Dist. 24 13
+Monroe County,Leg. Dist. 24 14/21,674,98,10,0,48,20,24,9,345,43,6,30,10,11,5,280,53,7,38,26,8,5,3,16,21,Monroe County,Leg. Dist. 24 14/21
+Monroe County,Leg. Dist. 24 15,522,100,12,0,30,13,10,3,271,37,8,18,7,6,1,244,48,4,26,10,6,2,2,13,4,Monroe County,Leg. Dist. 24 15
+Monroe County,Leg. Dist. 24 16,517,128,16,0,26,10,10,6,270,50,9,18,6,8,1,225,64,9,20,11,5,5,1,6,15,Monroe County,Leg. Dist. 24 16
+Monroe County,Leg. Dist. 24 17,113,36,2,0,0,5,2,4,61,15,0,0,2,2,0,57,17,1,0,0,3,0,0,0,0,Monroe County,Leg. Dist. 24 17
+Monroe County,Leg. Dist. 24 18,501,107,8,0,30,7,13,2,262,46,5,15,5,7,1,206,50,3,25,10,5,5,1,13,22,Monroe County,Leg. Dist. 24 18
+Monroe County,Leg. Dist. 24 2/22,465,63,17,0,37,12,10,1,243,27,8,21,5,6,0,202,31,8,15,16,5,3,3,9,12,Monroe County,Leg. Dist. 24 2/22
+Monroe County,Leg. Dist. 24 20,107,6,6,0,8,2,4,1,54,3,3,6,1,2,0,52,3,2,2,4,0,3,0,2,2,Monroe County,Leg. Dist. 24 20
+Monroe County,Leg. Dist. 24 3/23,440,62,16,0,42,8,8,7,228,27,6,25,6,5,2,183,37,5,16,19,2,1,2,20,13,Monroe County,Leg. Dist. 24 3/23
+Monroe County,Leg. Dist. 24 4,658,85,13,0,37,12,25,11,338,45,6,21,11,13,5,277,52,6,29,15,7,9,3,13,23,Monroe County,Leg. Dist. 24 4
+Monroe County,Leg. Dist. 24 5/24,472,103,22,0,19,14,2,12,253,42,7,10,7,6,6,209,55,13,13,7,4,1,4,15,7,Monroe County,Leg. Dist. 24 5/24
+Monroe County,Leg. Dist. 24 6,366,70,5,0,20,8,8,6,189,32,4,13,3,6,1,165,33,3,17,9,2,3,1,10,4,Monroe County,Leg. Dist. 24 6
+Monroe County,Leg. Dist. 24 7/19,327,78,14,0,14,6,5,8,172,32,6,6,6,4,3,151,39,6,7,6,2,1,2,8,5,Monroe County,Leg. Dist. 24 7/19
+Monroe County,Leg. Dist. 24 8,398,77,14,0,20,3,8,8,204,38,8,9,5,5,2,179,43,4,12,5,5,2,3,8,8,Monroe County,Leg. Dist. 24 8
+Monroe County,Leg. Dist. 24 9,265,82,13,0,16,10,12,1,138,39,6,7,5,6,1,121,39,8,10,4,3,3,1,8,4,Monroe County,Leg. Dist. 24 9
+Monroe County,Leg. Dist. 25 1,603,102,14,0,18,14,3,1,314,46,8,8,6,3,2,270,54,8,18,4,4,3,0,15,7,Monroe County,Leg. Dist. 25 1
+Monroe County,Leg. Dist. 25 10,442,29,2,0,7,8,13,0,235,12,0,5,5,7,0,230,14,2,6,5,2,7,0,7,4,Monroe County,Leg. Dist. 25 10
+Monroe County,Leg. Dist. 25 11,210,3,3,0,3,0,0,0,113,0,0,1,0,1,0,110,0,2,1,1,0,0,0,0,0,Monroe County,Leg. Dist. 25 11
+Monroe County,Leg. Dist. 25 12/28,426,67,8,0,66,7,17,8,226,27,5,31,3,10,3,176,29,5,26,22,3,8,2,11,25,Monroe County,Leg. Dist. 25 12/28
+Monroe County,Leg. Dist. 25 13,361,10,0,0,9,6,3,1,191,5,0,4,1,1,1,178,5,0,10,5,2,1,0,1,1,Monroe County,Leg. Dist. 25 13
+Monroe County,Leg. Dist. 25 14,263,22,10,0,23,4,9,1,133,10,6,13,3,3,2,108,17,6,15,8,1,3,1,2,10,Monroe County,Leg. Dist. 25 14
+Monroe County,Leg. Dist. 25 15,291,23,2,0,3,1,1,0,149,8,1,2,0,0,1,153,9,1,1,1,0,2,0,1,1,Monroe County,Leg. Dist. 25 15
+Monroe County,Leg. Dist. 25 16,265,29,7,0,1,2,1,3,136,13,3,5,0,1,0,144,12,3,0,0,1,0,0,1,3,Monroe County,Leg. Dist. 25 16
+Monroe County,Leg. Dist. 25 17,231,6,5,0,6,7,3,0,124,2,2,2,2,2,0,130,3,2,4,2,2,2,1,0,2,Monroe County,Leg. Dist. 25 17
+Monroe County,Leg. Dist. 25 18,444,43,2,0,19,7,4,0,227,24,1,7,3,4,1,238,25,2,4,7,3,2,1,3,2,Monroe County,Leg. Dist. 25 18
+Monroe County,Leg. Dist. 25 2,376,22,3,0,13,9,1,2,198,8,2,6,6,1,0,187,12,2,5,5,2,1,0,3,7,Monroe County,Leg. Dist. 25 2
+Monroe County,Leg. Dist. 25 20,176,51,11,0,8,5,5,2,91,27,4,3,4,2,2,76,28,6,7,1,2,4,1,2,7,Monroe County,Leg. Dist. 25 20
+Monroe County,Leg. Dist. 25 21/28-19,304,21,1,0,5,6,1,0,163,8,1,4,2,1,2,150,9,1,3,5,1,0,0,3,3,Monroe County,Leg. Dist. 25 21/28-19
+Monroe County,Leg. Dist. 25 22,332,40,10,0,17,8,5,3,182,11,6,8,4,4,2,161,14,4,10,5,4,4,1,2,9,Monroe County,Leg. Dist. 25 22
+Monroe County,Leg. Dist. 25 23,176,16,0,0,5,4,4,1,89,8,0,2,1,4,0,80,8,0,8,2,1,0,0,3,2,Monroe County,Leg. Dist. 25 23
+Monroe County,Leg. Dist. 25 25,751,108,18,0,27,10,5,6,392,48,10,13,6,6,0,380,56,9,13,8,3,2,2,7,13,Monroe County,Leg. Dist. 25 25
+Monroe County,Leg. Dist. 25 26/27,196,23,0,0,21,3,4,3,104,11,0,13,1,2,0,96,13,1,11,5,0,0,1,2,2,Monroe County,Leg. Dist. 25 26/27
+Monroe County,Leg. Dist. 25 29/30,377,42,5,0,30,8,6,5,194,20,3,17,6,3,0,168,24,3,20,9,1,7,1,10,4,Monroe County,Leg. Dist. 25 29/30
+Monroe County,Leg. Dist. 25 3,492,31,10,0,9,8,5,0,253,12,6,7,5,4,0,267,13,3,4,4,5,3,1,1,2,Monroe County,Leg. Dist. 25 3
+Monroe County,Leg. Dist. 25 4/24,255,50,2,0,14,2,0,3,141,16,3,7,1,4,1,131,25,1,8,4,1,1,1,3,2,Monroe County,Leg. Dist. 25 4/24
+Monroe County,Leg. Dist. 25 5,388,16,6,0,7,1,2,1,205,5,1,4,0,1,0,207,5,2,2,5,1,0,1,0,2,Monroe County,Leg. Dist. 25 5
+Monroe County,Leg. Dist. 25 6,368,34,8,0,29,12,12,2,201,12,5,15,4,6,1,157,22,4,21,11,4,1,3,8,11,Monroe County,Leg. Dist. 25 6
+Monroe County,Leg. Dist. 25 7,476,10,3,0,5,3,0,2,255,4,0,4,2,1,1,260,5,0,1,3,2,0,0,0,0,Monroe County,Leg. Dist. 25 7
+Monroe County,Leg. Dist. 25 8,441,18,6,0,11,3,0,6,230,6,5,5,2,1,0,227,6,1,1,6,1,1,1,3,2,Monroe County,Leg. Dist. 25 8
+Monroe County,Leg. Dist. 25 9,182,2,0,0,2,4,0,0,96,0,0,0,1,1,0,94,0,0,1,0,1,1,0,1,0,Monroe County,Leg. Dist. 25 9
+Monroe County,Leg. Dist. 26 1,529,289,74,0,14,18,2,10,274,137,33,12,11,2,4,233,159,35,7,7,7,3,3,5,14,Monroe County,Leg. Dist. 26 1
+Monroe County,Leg. Dist. 26 10,378,101,15,0,14,13,2,0,202,47,8,6,6,0,0,179,57,8,3,5,6,0,1,4,7,Monroe County,Leg. Dist. 26 10
+Monroe County,Leg. Dist. 26 11,308,151,22,0,15,5,4,0,167,69,10,9,4,2,1,138,75,14,6,7,2,2,2,3,14,Monroe County,Leg. Dist. 26 11
+Monroe County,Leg. Dist. 26 12,246,210,37,0,11,10,6,2,137,96,17,8,9,3,0,112,110,15,4,4,4,3,2,0,20,Monroe County,Leg. Dist. 26 12
+Monroe County,Leg. Dist. 26 13,333,204,36,0,9,4,2,2,172,89,17,6,7,3,0,141,101,21,2,3,2,1,0,2,15,Monroe County,Leg. Dist. 26 13
+Monroe County,Leg. Dist. 26 14,373,193,56,0,10,10,9,9,201,84,23,12,6,6,1,168,98,33,5,3,2,3,3,8,13,Monroe County,Leg. Dist. 26 14
+Monroe County,Leg. Dist. 26 15,356,80,15,0,7,12,6,10,189,34,8,7,3,5,2,169,40,5,7,4,1,2,3,4,11,Monroe County,Leg. Dist. 26 15
+Monroe County,Leg. Dist. 26 16,257,198,36,0,11,8,5,3,141,85,15,6,8,4,2,117,96,16,8,2,0,2,2,1,19,Monroe County,Leg. Dist. 26 16
+Monroe County,Leg. Dist. 26 17,220,164,16,0,8,9,2,7,118,79,8,10,3,1,2,94,90,10,1,2,6,0,3,5,11,Monroe County,Leg. Dist. 26 17
+Monroe County,Leg. Dist. 26 2,243,122,23,0,13,7,0,6,131,59,14,5,3,0,1,108,67,12,1,1,3,0,2,1,18,Monroe County,Leg. Dist. 26 2
+Monroe County,Leg. Dist. 26 3,154,77,7,0,7,5,2,1,90,32,4,5,2,2,0,72,36,3,2,1,3,2,1,2,9,Monroe County,Leg. Dist. 26 3
+Monroe County,Leg. Dist. 26 4,226,151,41,0,4,12,3,1,128,66,19,4,8,2,2,99,79,20,3,5,2,0,2,1,18,Monroe County,Leg. Dist. 26 4
+Monroe County,Leg. Dist. 26 5,270,127,16,0,6,10,2,7,141,51,12,4,4,2,3,120,56,12,3,4,2,2,0,3,18,Monroe County,Leg. Dist. 26 5
+Monroe County,Leg. Dist. 26 6,293,70,11,0,7,2,5,1,160,29,3,2,2,2,0,162,35,4,3,3,1,1,1,1,0,Monroe County,Leg. Dist. 26 6
+Monroe County,Leg. Dist. 26 7,269,125,20,0,11,7,4,1,139,56,12,5,6,4,0,127,60,9,1,5,4,3,4,2,8,Monroe County,Leg. Dist. 26 7
+Monroe County,Leg. Dist. 26 8,408,66,15,0,5,16,3,0,208,30,5,3,9,2,2,181,40,8,4,4,5,2,3,4,8,Monroe County,Leg. Dist. 26 8
+Monroe County,Leg. Dist. 26 9,309,101,31,0,13,9,9,7,171,41,16,8,5,7,3,148,54,14,4,4,0,6,4,8,5,Monroe County,Leg. Dist. 26 9
+Monroe County,Leg. Dist. 27 1,525,76,32,0,10,3,3,7,272,30,17,8,2,5,1,257,42,16,5,6,2,0,0,5,10,Monroe County,Leg. Dist. 27 1
+Monroe County,Leg. Dist. 27 10,470,76,7,0,22,10,7,2,258,35,5,6,6,3,0,230,41,5,10,4,3,7,0,4,7,Monroe County,Leg. Dist. 27 10
+Monroe County,Leg. Dist. 27 11,613,49,11,0,19,11,7,4,313,26,5,14,5,6,0,302,28,3,6,7,6,5,1,8,9,Monroe County,Leg. Dist. 27 11
+Monroe County,Leg. Dist. 27 12,398,50,13,0,17,7,10,6,213,18,7,12,6,7,2,203,20,6,9,8,4,4,4,2,6,Monroe County,Leg. Dist. 27 12
+Monroe County,Leg. Dist. 27 13,547,23,6,0,7,8,6,0,283,12,3,4,2,2,0,286,12,3,3,5,2,2,0,3,2,Monroe County,Leg. Dist. 27 13
+Monroe County,Leg. Dist. 27 14,396,29,4,0,7,8,1,1,213,12,2,2,4,0,0,217,12,2,1,1,3,1,0,4,0,Monroe County,Leg. Dist. 27 14
+Monroe County,Leg. Dist. 27 15,479,23,4,0,11,10,5,0,252,6,1,6,4,1,0,247,11,1,2,7,3,1,0,5,4,Monroe County,Leg. Dist. 27 15
+Monroe County,Leg. Dist. 27 16,500,33,9,0,10,9,0,0,265,14,5,6,4,0,1,260,16,4,3,4,2,1,0,5,5,Monroe County,Leg. Dist. 27 16
+Monroe County,Leg. Dist. 27 17,533,51,4,0,15,6,5,0,286,23,3,6,3,2,1,275,27,5,4,7,2,1,1,0,6,Monroe County,Leg. Dist. 27 17
+Monroe County,Leg. Dist. 27 18,318,98,18,0,10,8,0,2,162,48,9,7,3,2,2,160,52,7,2,2,2,0,2,1,7,Monroe County,Leg. Dist. 27 18
+Monroe County,Leg. Dist. 27 19,575,22,6,0,14,8,1,0,289,13,2,7,4,2,2,292,12,4,4,7,3,1,0,2,3,Monroe County,Leg. Dist. 27 19
+Monroe County,Leg. Dist. 27 2,542,51,20,0,11,14,3,3,281,23,11,5,7,2,2,269,28,12,6,6,3,1,0,2,7,Monroe County,Leg. Dist. 27 2
+Monroe County,Leg. Dist. 27 20,290,7,3,0,3,3,0,1,156,3,1,1,2,2,0,156,7,1,0,2,3,0,0,0,2,Monroe County,Leg. Dist. 27 20
+Monroe County,Leg. Dist. 27 21,276,19,2,0,2,2,3,1,141,7,2,1,1,4,0,145,7,2,4,1,0,1,0,1,2,Monroe County,Leg. Dist. 27 21
+Monroe County,Leg. Dist. 27 22,268,93,16,0,20,5,0,7,147,44,6,10,3,0,2,139,46,6,2,7,1,1,2,3,6,Monroe County,Leg. Dist. 27 22
+Monroe County,Leg. Dist. 27 23,344,16,0,0,21,2,2,0,172,7,0,12,1,2,0,171,7,1,2,10,2,1,1,2,2,Monroe County,Leg. Dist. 27 23
+Monroe County,Leg. Dist. 27 25,156,45,23,0,0,4,0,0,84,22,7,1,5,1,0,84,22,9,2,0,1,0,1,1,0,Monroe County,Leg. Dist. 27 25
+Monroe County,Leg. Dist. 27 26,232,72,9,0,6,4,2,6,119,36,5,3,5,1,1,118,31,6,2,1,3,1,1,0,5,Monroe County,Leg. Dist. 27 26
+Monroe County,Leg. Dist. 27 3,398,59,18,0,19,9,10,2,208,29,10,11,4,8,1,194,38,8,8,9,4,4,0,4,4,Monroe County,Leg. Dist. 27 3
+Monroe County,Leg. Dist. 27 4,537,57,17,0,18,11,7,2,293,23,7,12,6,3,0,257,27,10,12,7,5,2,0,8,8,Monroe County,Leg. Dist. 27 4
+Monroe County,Leg. Dist. 27 5,553,25,6,0,22,5,7,2,281,12,2,15,4,2,2,281,16,4,8,12,1,1,0,2,5,Monroe County,Leg. Dist. 27 5
+Monroe County,Leg. Dist. 27 6,453,31,10,0,7,11,3,0,244,9,4,5,6,0,1,238,17,3,2,3,1,0,1,2,2,Monroe County,Leg. Dist. 27 6
+Monroe County,Leg. Dist. 27 7,449,61,8,0,21,7,8,1,247,24,3,9,5,4,0,227,33,4,8,5,3,4,1,6,3,Monroe County,Leg. Dist. 27 7
+Monroe County,Leg. Dist. 27 8,765,54,7,0,15,12,8,3,401,26,3,11,7,3,1,414,25,1,1,6,4,1,0,6,6,Monroe County,Leg. Dist. 27 8
+Monroe County,Leg. Dist. 27 9,545,36,1,0,36,9,8,0,280,13,1,21,6,6,0,267,18,3,6,13,5,1,3,9,3,Monroe County,Leg. Dist. 27 9
+Monroe County,Leg. Dist. 28 1,343,59,14,0,2,3,8,0,177,26,5,3,1,4,2,166,32,4,3,2,0,3,1,2,5,Monroe County,Leg. Dist. 28 1
+Monroe County,Leg. Dist. 28 10,128,13,3,0,3,0,1,0,63,6,2,2,0,1,1,66,6,2,0,1,0,0,0,1,0,Monroe County,Leg. Dist. 28 10
+Monroe County,Leg. Dist. 28 11,219,24,12,0,3,1,0,6,113,12,3,2,1,2,3,104,18,2,2,1,0,0,3,2,3,Monroe County,Leg. Dist. 28 11
+Monroe County,Leg. Dist. 28 12,180,40,4,0,4,3,1,0,99,20,3,3,1,2,0,98,16,3,0,1,1,0,0,3,1,Monroe County,Leg. Dist. 28 12
+Monroe County,Leg. Dist. 28 13,319,83,13,0,10,10,3,1,167,35,6,5,6,2,1,159,36,4,1,3,7,0,0,2,8,Monroe County,Leg. Dist. 28 13
+Monroe County,Leg. Dist. 28 14,288,52,16,0,3,2,1,3,151,24,10,3,1,2,1,155,24,8,2,0,1,0,0,1,3,Monroe County,Leg. Dist. 28 14
+Monroe County,Leg. Dist. 28 15,113,15,3,0,0,4,0,2,58,7,1,1,1,0,1,58,8,1,0,0,1,0,1,0,1,Monroe County,Leg. Dist. 28 15
+Monroe County,Leg. Dist. 28 16,291,58,7,0,6,11,0,0,150,30,2,4,5,2,1,140,30,4,3,5,4,1,1,4,3,Monroe County,Leg. Dist. 28 16
+Monroe County,Leg. Dist. 28 17,29,12,1,0,0,0,0,0,16,5,0,0,0,0,0,14,5,2,0,0,0,0,0,0,1,Monroe County,Leg. Dist. 28 17
+Monroe County,Leg. Dist. 28 18,326,59,13,0,10,2,1,1,175,26,4,6,1,1,1,166,30,3,3,1,1,0,0,2,7,Monroe County,Leg. Dist. 28 18
+Monroe County,Leg. Dist. 28 2,210,37,16,0,6,0,3,0,107,16,8,4,1,1,0,96,17,9,3,6,1,0,0,0,1,Monroe County,Leg. Dist. 28 2
+Monroe County,Leg. Dist. 28 20,405,96,17,0,19,7,12,3,213,40,10,11,6,5,1,179,51,12,6,6,4,2,3,8,8,Monroe County,Leg. Dist. 28 20
+Monroe County,Leg. Dist. 28 21,398,90,7,0,12,10,4,6,206,44,6,10,3,1,1,193,48,6,4,8,1,1,2,4,5,Monroe County,Leg. Dist. 28 21
+Monroe County,Leg. Dist. 28 22,193,25,5,0,9,1,0,2,105,12,1,5,2,1,0,101,15,1,1,3,2,0,0,0,2,Monroe County,Leg. Dist. 28 22
+Monroe County,Leg. Dist. 28 3,222,32,3,0,2,8,0,0,113,15,2,4,3,2,1,117,19,2,1,1,2,1,0,0,2,Monroe County,Leg. Dist. 28 3
+Monroe County,Leg. Dist. 28 4,170,58,4,0,5,11,4,3,89,28,3,2,6,2,1,95,31,3,0,3,7,1,2,0,3,Monroe County,Leg. Dist. 28 4
+Monroe County,Leg. Dist. 28 5,158,48,9,0,4,4,4,1,89,26,6,1,2,2,0,85,26,3,1,0,1,3,0,2,7,Monroe County,Leg. Dist. 28 5
+Monroe County,Leg. Dist. 28 6,461,98,25,0,11,8,5,2,237,49,11,7,4,4,3,221,49,15,3,8,1,1,2,7,4,Monroe County,Leg. Dist. 28 6
+Monroe County,Leg. Dist. 28 7,518,134,16,0,20,8,3,4,268,63,13,10,6,2,2,260,72,10,3,4,3,1,2,4,9,Monroe County,Leg. Dist. 28 7
+Monroe County,Leg. Dist. 28 8,223,32,3,0,7,7,5,1,115,13,3,5,2,4,1,132,14,2,1,1,3,2,1,2,0,Monroe County,Leg. Dist. 28 8
+Monroe County,Leg. Dist. 28 9,326,85,12,0,15,5,4,3,168,40,8,11,2,2,1,152,47,5,7,5,2,3,0,4,10,Monroe County,Leg. Dist. 28 9
+Monroe County,Leg. Dist. 29 1,49,11,0,0,0,0,0,0,28,4,0,0,0,0,0,27,5,0,0,0,0,0,0,0,0,Monroe County,Leg. Dist. 29 1
+Monroe County,Leg. Dist. 29 10,449,63,13,0,7,4,3,2,242,25,6,3,4,1,1,230,29,3,1,0,4,1,1,1,6,Monroe County,Leg. Dist. 29 10
+Monroe County,Leg. Dist. 29 11,283,78,25,0,11,6,4,4,151,34,10,7,4,2,4,140,36,12,2,4,3,2,3,3,4,Monroe County,Leg. Dist. 29 11
+Monroe County,Leg. Dist. 29 12,397,70,10,0,12,7,1,0,210,35,5,8,4,0,0,208,33,6,2,7,1,1,0,1,1,Monroe County,Leg. Dist. 29 12
+Monroe County,Leg. Dist. 29 13,248,11,0,0,0,5,1,0,128,5,0,0,3,1,0,122,9,1,1,4,2,0,0,2,3,Monroe County,Leg. Dist. 29 13
+Monroe County,Leg. Dist. 29 14,145,22,4,0,4,0,2,0,76,8,2,2,0,1,0,70,8,5,0,2,0,1,0,0,1,Monroe County,Leg. Dist. 29 14
+Monroe County,Leg. Dist. 29 15,366,36,7,0,4,1,1,0,188,17,3,1,3,0,0,180,21,3,0,0,2,0,0,2,2,Monroe County,Leg. Dist. 29 15
+Monroe County,Leg. Dist. 29 16,158,13,0,0,0,0,0,1,81,6,1,0,0,0,0,80,6,0,0,0,0,0,0,1,2,Monroe County,Leg. Dist. 29 16
+Monroe County,Leg. Dist. 29 17,224,59,26,0,14,9,3,2,118,35,10,8,5,0,0,113,33,12,3,6,0,0,1,3,8,Monroe County,Leg. Dist. 29 17
+Monroe County,Leg. Dist. 29 18,331,105,28,0,26,6,8,4,172,51,13,13,5,4,2,155,58,18,6,7,2,4,2,6,5,Monroe County,Leg. Dist. 29 18
+Monroe County,Leg. Dist. 29 19,218,26,5,0,5,2,2,2,110,13,2,4,2,1,1,103,15,2,4,2,1,0,0,0,1,Monroe County,Leg. Dist. 29 19
+Monroe County,Leg. Dist. 29 2,105,9,5,0,2,0,1,0,56,4,2,1,0,0,0,52,6,3,1,0,0,0,0,0,0,Monroe County,Leg. Dist. 29 2
+Monroe County,Leg. Dist. 29 20,486,55,12,0,16,3,3,4,261,23,3,14,2,2,1,252,28,4,6,5,2,1,1,1,4,Monroe County,Leg. Dist. 29 20
+Monroe County,Leg. Dist. 29 21,408,87,20,0,15,7,10,4,217,41,11,7,5,3,2,195,41,11,7,6,2,2,2,7,11,Monroe County,Leg. Dist. 29 21
+Monroe County,Leg. Dist. 29 22,238,11,5,0,0,3,2,0,116,5,2,0,1,2,0,128,6,1,0,0,1,1,0,0,0,Monroe County,Leg. Dist. 29 22
+Monroe County,Leg. Dist. 29 23,366,60,2,0,3,0,2,0,178,28,2,1,2,0,0,188,31,0,1,2,0,0,1,0,1,Monroe County,Leg. Dist. 29 23
+Monroe County,Leg. Dist. 29 24,508,64,9,0,11,11,6,3,267,31,5,5,6,2,1,257,39,5,2,2,3,1,1,2,2,Monroe County,Leg. Dist. 29 24
+Monroe County,Leg. Dist. 29 25/28,472,82,19,0,9,11,3,1,259,35,9,3,10,4,0,265,35,10,1,3,5,4,2,2,2,Monroe County,Leg. Dist. 29 25/28
+Monroe County,Leg. Dist. 29 26,177,16,2,0,0,0,0,0,89,8,0,1,0,1,1,93,7,0,0,1,1,0,0,0,0,Monroe County,Leg. Dist. 29 26
+Monroe County,Leg. Dist. 29 3,11,1,0,0,0,1,1,0,8,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,Monroe County,Leg. Dist. 29 3
+Monroe County,Leg. Dist. 29 4,396,104,18,0,5,9,5,4,205,52,9,4,6,4,1,190,53,11,2,1,2,3,2,5,13,Monroe County,Leg. Dist. 29 4
+Monroe County,Leg. Dist. 29 5,367,80,14,0,12,6,0,5,200,28,5,6,3,0,1,190,38,8,3,4,2,1,0,1,7,Monroe County,Leg. Dist. 29 5
+Monroe County,Leg. Dist. 29 6,229,60,4,0,10,5,5,1,122,25,2,8,2,1,0,115,33,2,1,1,4,2,0,2,2,Monroe County,Leg. Dist. 29 6
+Monroe County,Leg. Dist. 29 7,262,79,13,0,11,9,1,3,142,32,6,8,7,5,1,121,42,7,8,4,3,0,2,4,7,Monroe County,Leg. Dist. 29 7
+Monroe County,Leg. Dist. 29 8,93,15,0,0,0,2,2,0,49,8,1,0,1,1,0,43,8,1,3,0,1,2,0,0,2,Monroe County,Leg. Dist. 29 8
+Monroe County,Leg. Dist. 29 9,555,110,19,0,13,9,4,5,293,43,12,7,8,4,1,289,49,14,4,6,3,1,0,3,4,Monroe County,Leg. Dist. 29 9
+Monroe County,Mendon 01,334,207,50,0,14,4,9,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,Mendon 01
+Monroe County,Mendon 02,349,133,38,0,17,5,5,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,Mendon 02
+Monroe County,Mendon 03,319,206,60,0,13,3,4,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,Mendon 03
+Monroe County,Mendon 04,262,130,21,0,17,4,7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,Mendon 04
+Monroe County,Mendon 05,293,185,56,0,12,8,10,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,Mendon 05
+Monroe County,Mendon 06,301,197,49,0,16,2,9,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,Mendon 06
+Monroe County,Mendon 07,304,246,53,0,11,4,2,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,Mendon 07
+Monroe County,Mendon 08,136,74,16,0,6,2,4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,Mendon 08
+Monroe County,Mendon 09,253,156,34,0,12,3,6,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,Mendon 09
+Monroe County,Mendon 1,0,0,0,0,0,0,0,0,324,219,57,5,20,8,2,257,260,52,8,1,14,7,2,12,16,Monroe County,Mendon 1
+Monroe County,Mendon 2,0,0,0,0,0,0,0,0,336,144,43,10,19,4,3,241,205,37,12,6,8,1,9,12,23,Monroe County,Mendon 2
+Monroe County,Mendon 3,0,0,0,0,0,0,0,0,300,226,64,10,11,3,4,228,265,64,10,7,5,2,5,14,19,Monroe County,Mendon 3
+Monroe County,Mendon 4,0,0,0,0,0,0,0,0,239,141,26,17,15,4,2,182,165,30,12,10,12,0,5,12,22,Monroe County,Mendon 4
+Monroe County,Mendon 5,0,0,0,0,0,0,0,0,273,218,59,4,17,10,5,207,243,67,8,2,13,5,4,15,18,Monroe County,Mendon 5
+Monroe County,Mendon 6,0,0,0,0,0,0,0,0,277,223,60,13,12,2,3,215,256,65,9,10,5,4,1,11,16,Monroe County,Mendon 6
+Monroe County,Mendon 7,0,0,0,0,0,0,0,0,278,276,54,7,12,4,5,227,306,61,5,3,8,2,3,4,14,Monroe County,Mendon 7
+Monroe County,Mendon 8,0,0,0,0,0,0,0,0,133,81,17,5,5,4,1,111,87,19,4,5,4,0,2,5,7,Monroe County,Mendon 8
+Monroe County,Mendon 9,0,0,0,0,0,0,0,0,236,175,42,12,7,4,4,185,197,37,6,7,7,2,2,10,19,Monroe County,Mendon 9
+Monroe County,Ogden 1,168,155,44,0,6,6,2,0,179,134,44,8,9,2,0,151,154,40,3,4,3,3,2,4,14,Monroe County,Ogden 1
+Monroe County,Ogden 10,149,185,46,0,10,8,4,1,164,169,43,10,7,6,4,120,196,44,2,5,4,2,2,2,26,Monroe County,Ogden 10
+Monroe County,Ogden 11,153,215,54,0,4,10,2,3,161,193,57,3,12,3,4,123,222,57,5,1,6,0,1,5,20,Monroe County,Ogden 11
+Monroe County,Ogden 12,165,272,53,0,4,8,0,6,172,252,48,9,10,3,1,126,263,52,7,3,6,2,5,7,33,Monroe County,Ogden 12
+Monroe County,Ogden 13,165,191,37,0,4,9,1,1,183,161,38,7,9,3,3,139,202,38,3,3,3,1,1,2,15,Monroe County,Ogden 13
+Monroe County,Ogden 14,132,167,34,0,2,5,1,3,133,166,33,5,5,1,1,94,180,31,0,2,2,1,3,3,17,Monroe County,Ogden 14
+Monroe County,Ogden 15,202,259,52,0,3,6,2,4,215,237,51,3,5,4,0,158,273,54,5,0,6,1,0,9,20,Monroe County,Ogden 15
+Monroe County,Ogden 16,66,156,33,0,1,1,0,1,68,144,34,3,3,2,1,59,163,25,0,0,1,0,1,0,6,Monroe County,Ogden 16
+Monroe County,Ogden 17,133,191,30,0,5,2,3,3,144,177,24,8,5,5,3,108,201,27,3,4,2,1,1,5,14,Monroe County,Ogden 17
+Monroe County,Ogden 18,232,228,47,0,16,10,2,5,257,207,46,13,15,2,2,188,237,43,14,8,7,3,2,10,28,Monroe County,Ogden 18
+Monroe County,Ogden 19,181,221,50,0,2,3,3,2,203,201,49,2,5,3,0,159,224,53,3,2,2,3,2,3,13,Monroe County,Ogden 19
+Monroe County,Ogden 2,148,181,49,0,7,8,4,2,172,159,43,8,10,5,3,116,190,47,6,5,7,4,2,3,11,Monroe County,Ogden 2
+Monroe County,Ogden 20,158,229,75,0,10,8,2,1,172,204,69,9,11,4,2,119,241,66,7,2,3,6,4,3,32,Monroe County,Ogden 20
+Monroe County,Ogden 3,214,316,51,0,8,8,6,2,247,284,45,8,10,6,3,184,319,45,9,2,6,7,2,11,22,Monroe County,Ogden 3
+Monroe County,Ogden 4,129,181,45,0,2,7,2,1,141,162,44,2,6,6,1,107,187,44,1,3,4,2,4,3,14,Monroe County,Ogden 4
+Monroe County,Ogden 5,130,190,35,0,2,8,2,3,144,164,28,7,12,2,2,102,196,32,4,3,6,2,2,5,17,Monroe County,Ogden 5
+Monroe County,Ogden 6,213,215,48,0,3,3,5,1,230,199,43,3,5,5,3,177,232,42,8,0,3,3,4,6,13,Monroe County,Ogden 6
+Monroe County,Ogden 7,82,137,37,0,2,5,2,3,89,125,35,6,4,3,5,65,143,31,2,1,3,0,2,3,19,Monroe County,Ogden 7
+Monroe County,Ogden 8,187,219,41,0,2,6,1,2,187,205,38,10,8,2,4,144,241,34,3,3,3,2,3,8,16,Monroe County,Ogden 8
+Monroe County,Ogden 9,163,156,38,0,5,3,5,3,171,137,33,4,7,6,2,129,165,40,4,2,2,6,3,3,16,Monroe County,Ogden 9
+Monroe County,Parma 1,165,238,57,0,0,9,2,4,173,219,56,2,15,1,3,123,229,56,5,1,7,2,5,8,29,Monroe County,Parma 1
+Monroe County,Parma 10,116,232,70,0,2,9,1,1,128,206,72,4,8,2,1,92,240,70,6,2,9,0,2,0,8,Monroe County,Parma 10
+Monroe County,Parma 11,164,243,62,0,4,10,1,2,189,217,56,2,11,2,3,135,229,58,5,2,7,0,1,11,19,Monroe County,Parma 11
+Monroe County,Parma 12,186,245,31,0,9,8,4,1,204,223,28,6,14,2,2,158,241,30,4,4,5,2,1,4,39,Monroe County,Parma 12
+Monroe County,Parma 13,208,417,71,0,3,14,4,3,224,389,67,6,15,7,5,170,434,66,3,5,5,3,2,4,29,Monroe County,Parma 13
+Monroe County,Parma 14,142,155,30,0,4,5,3,2,153,140,30,5,7,4,3,115,161,32,4,2,3,1,2,3,19,Monroe County,Parma 14
+Monroe County,Parma 15,132,269,56,0,11,7,3,2,158,232,50,16,9,2,2,106,268,49,6,8,7,2,0,1,37,Monroe County,Parma 15
+Monroe County,Parma 2,175,265,59,0,10,6,2,6,212,227,53,9,11,2,4,141,266,53,2,3,3,3,4,6,30,Monroe County,Parma 2
+Monroe County,Parma 3,132,213,43,0,7,4,3,2,149,185,42,9,5,3,2,101,216,43,6,4,3,4,3,1,21,Monroe County,Parma 3
+Monroe County,Parma 4,102,237,46,0,7,2,1,2,114,214,48,8,4,3,1,86,240,40,5,2,2,2,3,4,13,Monroe County,Parma 4
+Monroe County,Parma 5,81,182,32,0,4,2,1,2,92,166,32,3,5,2,1,72,179,28,1,3,3,1,5,0,11,Monroe County,Parma 5
+Monroe County,Parma 6,55,113,28,0,2,3,3,0,61,103,25,3,2,2,1,47,110,24,1,1,2,1,0,1,11,Monroe County,Parma 6
+Monroe County,Parma 7,113,216,54,0,5,8,0,2,134,190,50,5,15,1,2,106,207,48,5,3,7,0,1,2,17,Monroe County,Parma 7
+Monroe County,Parma 8,191,279,47,0,6,10,6,2,212,250,48,6,10,4,2,168,280,47,4,3,2,1,6,4,21,Monroe County,Parma 8
+Monroe County,Parma 9,124,249,57,0,3,6,3,5,139,231,60,6,8,5,1,96,253,54,3,2,2,5,6,4,16,Monroe County,Parma 9
+Monroe County,Penfield 1,109,68,18,0,1,3,0,3,112,69,17,2,3,0,1,91,66,18,3,1,3,1,3,8,4,Monroe County,Penfield 1
+Monroe County,Penfield 10,172,100,24,0,3,11,0,1,182,91,22,6,9,1,0,156,103,25,2,4,7,0,0,8,9,Monroe County,Penfield 10
+Monroe County,Penfield 11,143,104,11,0,3,5,4,1,154,86,8,3,10,6,1,125,92,12,3,5,7,4,1,7,10,Monroe County,Penfield 11
+Monroe County,Penfield 12,233,145,28,0,9,4,6,2,240,134,26,14,2,8,1,204,146,30,5,11,3,2,1,8,10,Monroe County,Penfield 12
+Monroe County,Penfield 13,316,213,40,0,5,7,3,3,328,189,37,10,13,7,3,294,211,36,8,5,8,3,1,7,17,Monroe County,Penfield 13
+Monroe County,Penfield 14,170,262,58,0,7,13,4,1,191,226,61,9,15,6,0,144,264,54,7,0,9,4,3,6,25,Monroe County,Penfield 14
+Monroe County,Penfield 15,325,248,35,0,6,13,0,2,340,222,34,6,18,3,1,289,261,39,7,5,10,1,3,8,5,Monroe County,Penfield 15
+Monroe County,Penfield 16,97,68,12,0,4,5,3,2,98,59,12,6,8,3,1,82,62,15,1,5,3,1,1,7,12,Monroe County,Penfield 16
+Monroe County,Penfield 17,229,154,33,0,7,11,8,4,233,139,30,7,16,5,5,195,160,30,5,5,6,3,5,7,17,Monroe County,Penfield 17
+Monroe County,Penfield 18,168,122,9,0,4,7,3,6,174,114,13,5,9,1,3,143,127,16,6,2,5,1,6,9,4,Monroe County,Penfield 18
+Monroe County,Penfield 19,323,233,37,0,12,10,4,2,352,197,35,13,20,5,0,266,235,35,11,8,13,5,3,19,21,Monroe County,Penfield 19
+Monroe County,Penfield 2,231,135,28,0,3,8,2,3,245,110,31,5,6,5,2,194,130,28,10,2,5,4,2,13,14,Monroe County,Penfield 2
+Monroe County,Penfield 20,231,177,48,0,3,7,3,2,237,158,44,4,12,3,4,196,196,45,6,3,8,2,6,5,8,Monroe County,Penfield 20
+Monroe County,Penfield 21,274,150,22,0,11,13,4,4,294,127,26,10,15,3,3,248,150,21,2,10,11,3,4,10,12,Monroe County,Penfield 21
+Monroe County,Penfield 22,253,125,38,0,3,15,3,0,255,114,33,7,18,4,0,221,120,35,6,7,10,1,6,16,6,Monroe County,Penfield 22
+Monroe County,Penfield 23,289,200,41,0,9,14,0,1,306,184,36,7,16,4,0,243,211,38,3,7,11,3,6,6,7,Monroe County,Penfield 23
+Monroe County,Penfield 24,256,228,46,0,6,11,3,7,273,199,45,5,18,8,2,224,235,41,8,3,3,4,6,4,21,Monroe County,Penfield 24
+Monroe County,Penfield 25,158,147,31,0,4,3,2,3,167,138,31,4,3,4,1,136,161,29,5,3,4,2,1,1,8,Monroe County,Penfield 25
+Monroe County,Penfield 26,121,100,18,0,3,8,2,5,125,94,17,3,7,6,3,93,101,21,4,2,6,3,2,10,8,Monroe County,Penfield 26
+Monroe County,Penfield 27,241,164,34,0,4,12,4,1,251,145,37,6,12,5,0,200,181,30,7,6,11,4,1,7,8,Monroe County,Penfield 27
+Monroe County,Penfield 28,185,108,34,0,9,8,0,2,187,99,31,9,8,4,2,164,116,29,4,7,5,2,1,2,8,Monroe County,Penfield 28
+Monroe County,Penfield 29,301,186,29,0,9,7,7,4,321,161,27,9,11,8,2,255,186,33,10,9,7,6,5,8,16,Monroe County,Penfield 29
+Monroe County,Penfield 3,164,182,26,0,3,7,3,0,177,159,28,3,10,3,2,141,180,20,7,5,5,3,1,4,14,Monroe County,Penfield 3
+Monroe County,Penfield 30,356,326,69,0,3,10,2,3,383,283,65,7,11,7,3,315,329,67,1,5,7,5,2,3,27,Monroe County,Penfield 30
+Monroe County,Penfield 31,134,93,13,0,2,7,2,0,142,79,13,2,5,2,0,120,90,18,1,1,4,3,0,2,5,Monroe County,Penfield 31
+Monroe County,Penfield 32,176,95,11,0,3,1,2,1,185,84,9,4,2,2,1,168,91,11,1,2,1,4,1,3,8,Monroe County,Penfield 32
+Monroe County,Penfield 33,187,131,34,0,6,11,2,7,196,113,35,8,14,3,4,164,138,34,4,4,9,1,3,5,12,Monroe County,Penfield 33
+Monroe County,Penfield 34,185,162,34,0,4,7,2,2,197,143,30,5,9,2,3,157,166,32,4,4,5,3,2,6,9,Monroe County,Penfield 34
+Monroe County,Penfield 35,363,212,32,0,3,16,3,3,364,196,33,2,21,5,1,302,231,33,7,2,15,3,2,12,14,Monroe County,Penfield 35
+Monroe County,Penfield 36,238,147,26,0,7,11,4,2,257,121,22,12,11,8,1,207,153,31,7,10,7,4,1,4,10,Monroe County,Penfield 36
+Monroe County,Penfield 37,328,348,53,0,6,8,1,8,357,310,46,8,12,3,11,275,361,46,6,2,10,1,6,9,32,Monroe County,Penfield 37
+Monroe County,Penfield 38,128,132,22,0,3,3,0,2,133,125,18,4,6,1,0,111,130,21,5,2,4,1,1,2,5,Monroe County,Penfield 38
+Monroe County,Penfield 39,142,144,26,0,5,3,3,1,160,123,23,7,6,5,0,122,148,24,6,3,3,0,0,7,5,Monroe County,Penfield 39
+Monroe County,Penfield 4,213,243,73,0,4,13,5,2,231,229,63,2,22,4,3,170,274,65,7,1,11,3,4,5,19,Monroe County,Penfield 4
+Monroe County,Penfield 40,281,223,37,0,4,6,3,2,289,209,32,5,11,6,0,235,236,32,6,2,4,2,3,14,17,Monroe County,Penfield 40
+Monroe County,Penfield 41,252,274,39,0,1,14,1,1,272,248,34,3,10,2,2,206,292,37,5,3,9,0,5,8,8,Monroe County,Penfield 41
+Monroe County,Penfield 42,173,172,29,0,3,10,2,3,177,157,30,2,15,5,2,141,199,29,1,1,10,2,2,2,7,Monroe County,Penfield 42
+Monroe County,Penfield 5,232,157,38,0,10,6,10,5,235,148,33,12,9,11,4,199,163,35,2,8,8,5,5,9,12,Monroe County,Penfield 5
+Monroe County,Penfield 6,158,148,28,0,3,3,2,4,164,140,22,4,5,3,3,130,160,27,2,3,2,3,3,4,4,Monroe County,Penfield 6
+Monroe County,Penfield 7,216,116,34,0,3,7,4,5,221,106,34,5,13,5,1,183,125,30,4,1,7,1,8,11,14,Monroe County,Penfield 7
+Monroe County,Penfield 8,114,121,17,0,5,4,3,2,118,110,15,7,6,5,3,100,122,18,2,3,3,2,3,4,12,Monroe County,Penfield 8
+Monroe County,Penfield 9,322,138,26,0,8,9,4,1,343,111,29,7,8,5,2,305,128,26,6,5,9,3,2,9,7,Monroe County,Penfield 9
+Monroe County,Perinton 1,334,277,59,0,7,14,2,1,358,243,55,4,20,2,2,300,283,48,4,1,13,2,3,6,18,Monroe County,Perinton 1
+Monroe County,Perinton 10,278,162,37,0,6,14,5,1,297,134,33,8,15,8,2,256,155,36,4,2,11,6,2,7,9,Monroe County,Perinton 10
+Monroe County,Perinton 11,145,103,25,0,4,6,2,2,153,90,21,6,10,3,1,128,108,21,2,5,5,2,0,5,8,Monroe County,Perinton 11
+Monroe County,Perinton 12,236,128,26,0,3,7,5,3,237,126,27,5,7,4,1,196,148,28,5,4,5,2,0,10,5,Monroe County,Perinton 12
+Monroe County,Perinton 13,171,156,30,0,1,1,1,1,173,143,29,1,6,2,1,143,165,26,2,0,6,1,2,3,8,Monroe County,Perinton 13
+Monroe County,Perinton 14,223,158,30,0,4,8,8,2,238,131,29,6,9,7,2,181,164,31,7,2,8,5,3,7,19,Monroe County,Perinton 14
+Monroe County,Perinton 15,216,158,24,0,4,20,3,2,237,130,21,5,21,3,2,175,161,18,8,2,13,2,4,13,22,Monroe County,Perinton 15
+Monroe County,Perinton 16,177,120,16,0,3,3,2,1,186,104,18,5,6,3,0,153,129,19,5,2,3,1,0,3,5,Monroe County,Perinton 16
+Monroe County,Perinton 17,242,147,28,0,5,9,4,3,257,127,29,8,10,7,1,218,145,28,2,5,6,5,0,11,11,Monroe County,Perinton 17
+Monroe County,Perinton 18,223,151,37,0,4,6,2,3,243,136,33,4,7,1,2,179,159,30,5,5,5,1,4,4,21,Monroe County,Perinton 18
+Monroe County,Perinton 19,184,148,27,0,7,6,2,2,204,126,29,7,6,3,2,163,145,27,4,2,4,3,2,4,18,Monroe County,Perinton 19
+Monroe County,Perinton 2,281,191,36,0,8,10,4,6,303,165,36,6,10,6,4,256,179,35,5,4,8,2,4,13,15,Monroe County,Perinton 2
+Monroe County,Perinton 20,194,148,31,0,4,12,3,0,199,144,23,3,13,5,0,175,156,24,8,2,8,2,0,8,7,Monroe County,Perinton 20
+Monroe County,Perinton 21,263,176,31,0,10,12,5,5,273,152,28,14,18,8,3,228,178,35,8,7,11,5,4,10,19,Monroe County,Perinton 21
+Monroe County,Perinton 22,145,116,23,0,4,10,4,2,151,106,20,10,6,6,1,123,131,20,4,4,5,0,4,5,6,Monroe County,Perinton 22
+Monroe County,Perinton 23,329,225,45,0,10,13,4,6,366,193,35,10,13,6,8,280,237,43,9,10,8,5,8,7,19,Monroe County,Perinton 23
+Monroe County,Perinton 24,334,291,37,0,3,7,5,1,357,249,37,10,10,7,1,299,283,38,3,6,10,5,6,7,11,Monroe County,Perinton 24
+Monroe County,Perinton 25,215,87,17,0,11,9,2,3,231,67,17,6,14,6,1,174,100,16,5,5,10,4,2,9,13,Monroe County,Perinton 25
+Monroe County,Perinton 26,222,173,32,0,4,5,2,2,236,152,30,6,6,3,1,185,182,34,1,4,4,2,1,7,16,Monroe County,Perinton 26
+Monroe County,Perinton 27,174,150,28,0,4,4,1,1,188,127,32,4,5,3,0,145,152,29,4,4,4,1,1,4,8,Monroe County,Perinton 27
+Monroe County,Perinton 28,161,129,25,0,7,4,3,4,176,115,23,6,5,6,3,134,136,23,2,9,3,3,2,7,14,Monroe County,Perinton 28
+Monroe County,Perinton 29,146,85,16,0,7,3,3,0,164,71,14,5,2,3,0,135,86,17,3,4,0,2,0,7,5,Monroe County,Perinton 29
+Monroe County,Perinton 3,173,147,25,0,2,8,1,0,190,126,22,2,11,2,0,154,145,23,5,1,5,2,0,4,7,Monroe County,Perinton 3
+Monroe County,Perinton 30,220,157,29,0,7,6,2,4,236,137,24,6,13,4,1,178,167,24,3,4,9,4,4,7,19,Monroe County,Perinton 30
+Monroe County,Perinton 31,249,166,27,0,8,11,0,2,257,151,26,9,12,1,3,204,177,27,4,9,9,1,4,12,12,Monroe County,Perinton 31
+Monroe County,Perinton 32,200,116,25,0,9,5,1,2,211,100,23,7,8,4,2,170,121,20,8,1,3,2,3,5,16,Monroe County,Perinton 32
+Monroe County,Perinton 33,270,147,26,0,10,10,2,6,282,128,25,12,8,3,1,230,149,26,6,9,6,0,3,12,9,Monroe County,Perinton 33
+Monroe County,Perinton 34,274,228,42,0,1,7,2,3,284,210,40,2,13,1,2,239,231,38,4,2,12,2,1,8,9,Monroe County,Perinton 34
+Monroe County,Perinton 35,186,120,31,0,8,6,5,3,198,107,30,9,6,7,1,156,122,32,2,7,3,4,6,6,19,Monroe County,Perinton 35
+Monroe County,Perinton 36,150,90,13,0,2,6,2,3,160,76,11,3,6,4,1,128,87,10,4,4,6,3,4,3,17,Monroe County,Perinton 36
+Monroe County,Perinton 37,235,152,29,0,6,4,6,0,249,131,30,10,5,4,1,200,164,28,4,4,3,4,0,4,17,Monroe County,Perinton 37
+Monroe County,Perinton 38,322,210,36,0,9,12,3,4,338,181,35,9,17,8,5,265,216,34,17,5,7,6,8,10,27,Monroe County,Perinton 38
+Monroe County,Perinton 39,260,229,40,0,3,7,2,2,283,201,37,4,11,3,3,204,257,39,7,4,5,0,2,6,19,Monroe County,Perinton 39
+Monroe County,Perinton 4,223,133,31,0,5,6,1,3,228,121,26,8,8,8,3,186,137,26,4,4,7,3,2,8,19,Monroe County,Perinton 4
+Monroe County,Perinton 40,158,125,22,0,9,3,0,6,170,107,21,11,6,1,3,140,121,19,3,10,4,0,2,4,14,Monroe County,Perinton 40
+Monroe County,Perinton 41,142,93,30,0,3,5,2,3,145,88,28,1,11,3,2,113,110,26,3,1,7,1,1,6,8,Monroe County,Perinton 41
+Monroe County,Perinton 42,223,165,20,0,5,8,3,2,237,141,22,6,16,4,2,188,168,21,8,5,4,3,0,4,19,Monroe County,Perinton 42
+Monroe County,Perinton 43,358,333,45,0,10,12,5,5,388,293,46,10,8,8,3,327,325,51,9,5,7,4,3,8,21,Monroe County,Perinton 43
+Monroe County,Perinton 44,187,138,25,0,2,4,3,6,201,113,27,4,6,4,4,168,134,25,5,1,2,4,4,5,7,Monroe County,Perinton 44
+Monroe County,Perinton 45,384,315,50,0,4,9,1,6,410,279,50,8,18,1,3,336,324,50,4,6,7,2,1,10,18,Monroe County,Perinton 45
+Monroe County,Perinton 46,137,78,17,0,4,3,4,0,144,68,15,8,3,3,0,114,81,18,12,3,4,2,2,2,9,Monroe County,Perinton 46
+Monroe County,Perinton 47,232,189,34,0,2,8,4,5,260,161,33,4,14,3,3,197,208,30,6,3,5,3,1,6,13,Monroe County,Perinton 47
+Monroe County,Perinton 48,170,121,25,0,5,5,1,0,193,98,20,7,5,3,0,147,119,23,6,3,2,3,0,5,14,Monroe County,Perinton 48
+Monroe County,Perinton 49,171,139,31,0,1,3,0,0,184,124,29,1,4,0,1,151,136,36,5,2,5,1,1,2,3,Monroe County,Perinton 49
+Monroe County,Perinton 5,134,78,15,0,2,8,3,4,147,65,14,2,6,5,2,109,85,16,5,2,5,3,3,4,9,Monroe County,Perinton 5
+Monroe County,Perinton 50,90,30,6,0,4,4,3,4,96,28,4,4,6,4,1,92,28,6,1,3,6,2,1,3,5,Monroe County,Perinton 50
+Monroe County,Perinton 51,190,268,51,0,7,7,2,2,214,246,47,6,6,3,2,171,266,46,9,6,5,2,0,3,12,Monroe County,Perinton 51
+Monroe County,Perinton 52,279,175,23,0,4,6,3,0,299,154,22,5,5,4,0,246,179,27,3,4,2,4,0,9,11,Monroe County,Perinton 52
+Monroe County,Perinton 53,193,122,15,0,3,11,2,3,203,104,17,4,13,2,2,159,126,15,12,3,8,1,2,12,6,Monroe County,Perinton 53
+Monroe County,Perinton 54,357,342,41,0,6,13,5,4,381,306,43,8,10,8,2,313,355,48,5,6,11,4,3,6,13,Monroe County,Perinton 54
+Monroe County,Perinton 55,196,207,20,0,5,11,2,2,214,192,19,5,13,2,0,177,210,24,4,4,11,2,1,2,4,Monroe County,Perinton 55
+Monroe County,Perinton 56,323,288,54,0,4,10,1,3,355,247,52,4,18,4,4,261,299,52,6,5,13,3,2,8,26,Monroe County,Perinton 56
+Monroe County,Perinton 6,234,108,23,0,6,7,4,1,244,92,17,6,6,10,4,199,108,19,8,3,3,8,2,7,17,Monroe County,Perinton 6
+Monroe County,Perinton 7,259,161,35,0,3,15,6,2,273,139,31,5,15,10,5,214,167,31,10,4,10,4,1,16,24,Monroe County,Perinton 7
+Monroe County,Perinton 8,218,155,35,0,4,4,1,3,232,133,30,6,8,1,4,182,159,30,7,2,4,2,2,8,11,Monroe County,Perinton 8
+Monroe County,Perinton 9,271,230,40,0,3,10,4,2,287,205,39,7,12,3,3,242,232,43,6,5,8,0,2,5,11,Monroe County,Perinton 9
+Monroe County,Pittsford 1,217,107,17,0,6,4,4,4,226,91,18,5,8,4,2,190,107,14,15,3,4,3,4,9,2,Monroe County,Pittsford 1
+Monroe County,Pittsford 10,287,243,32,0,5,12,8,4,307,215,33,7,14,10,2,274,230,34,5,3,8,3,4,9,12,Monroe County,Pittsford 10
+Monroe County,Pittsford 11,166,132,24,0,5,3,2,0,177,114,23,8,4,4,1,147,137,21,6,3,3,4,1,3,6,Monroe County,Pittsford 11
+Monroe County,Pittsford 12,263,165,18,0,5,4,2,2,266,155,19,3,9,3,1,232,167,23,4,3,1,2,3,6,11,Monroe County,Pittsford 12
+Monroe County,Pittsford 13,161,99,20,0,6,5,2,2,176,79,22,7,4,2,0,146,94,17,5,8,5,2,0,3,11,Monroe County,Pittsford 13
+Monroe County,Pittsford 14,273,202,28,0,4,7,3,2,291,170,28,7,12,3,2,249,193,27,3,7,12,3,1,7,6,Monroe County,Pittsford 14
+Monroe County,Pittsford 15,188,97,11,0,11,9,9,0,195,85,9,11,11,11,0,174,99,11,1,10,6,6,2,3,15,Monroe County,Pittsford 15
+Monroe County,Pittsford 16,214,109,17,0,7,9,2,3,225,105,14,5,4,2,4,177,121,14,2,4,3,2,1,15,22,Monroe County,Pittsford 16
+Monroe County,Pittsford 17,335,146,25,0,6,8,6,1,355,119,25,6,14,8,1,287,160,24,3,7,8,7,2,16,11,Monroe County,Pittsford 17
+Monroe County,Pittsford 18,203,110,12,0,6,6,4,3,222,89,10,7,6,4,2,189,103,13,3,3,2,1,2,13,3,Monroe County,Pittsford 18
+Monroe County,Pittsford 19,109,107,33,0,2,2,0,0,122,90,32,2,2,0,1,95,102,35,2,2,1,0,1,4,7,Monroe County,Pittsford 19
+Monroe County,Pittsford 2,245,92,17,0,5,10,5,3,263,67,18,7,13,6,2,217,81,13,11,4,9,5,2,10,8,Monroe County,Pittsford 2
+Monroe County,Pittsford 20,237,136,26,0,6,9,9,5,257,118,28,6,10,11,3,228,128,34,4,5,6,10,3,9,5,Monroe County,Pittsford 20
+Monroe County,Pittsford 21,269,121,23,0,6,6,4,3,283,105,25,6,7,3,1,242,128,23,4,5,9,0,1,14,4,Monroe County,Pittsford 21
+Monroe County,Pittsford 22,295,163,29,0,4,5,5,2,312,142,33,5,6,2,0,273,155,27,7,5,4,3,2,8,8,Monroe County,Pittsford 22
+Monroe County,Pittsford 23,175,147,32,0,3,8,0,2,187,126,28,8,13,1,0,154,142,29,3,4,6,2,5,8,15,Monroe County,Pittsford 23
+Monroe County,Pittsford 24,278,182,27,0,4,1,3,1,296,160,25,3,4,3,0,269,179,24,0,3,2,2,0,5,3,Monroe County,Pittsford 24
+Monroe County,Pittsford 25,294,180,36,0,3,7,3,2,314,157,36,5,6,4,2,274,177,37,1,2,7,3,4,5,7,Monroe County,Pittsford 25
+Monroe County,Pittsford 26,207,148,28,0,10,5,1,2,220,131,24,11,10,4,1,171,148,24,9,5,8,5,2,6,12,Monroe County,Pittsford 26
+Monroe County,Pittsford 27,235,117,20,0,8,3,0,1,246,100,22,8,6,3,0,211,122,23,4,6,3,3,0,4,6,Monroe County,Pittsford 27
+Monroe County,Pittsford 28,229,127,13,0,11,5,4,2,246,112,11,10,6,5,1,212,135,15,6,7,3,1,1,4,5,Monroe County,Pittsford 28
+Monroe County,Pittsford 29,207,171,23,0,2,6,1,1,218,146,19,3,11,3,1,166,173,20,2,4,7,1,2,11,11,Monroe County,Pittsford 29
+Monroe County,Pittsford 3,330,210,27,0,5,11,2,0,354,181,24,7,12,6,0,301,212,23,9,5,8,2,0,9,5,Monroe County,Pittsford 3
+Monroe County,Pittsford 30,239,144,14,0,3,5,1,1,251,120,17,3,7,4,1,217,142,18,2,3,3,2,3,4,6,Monroe County,Pittsford 30
+Monroe County,Pittsford 31,281,175,17,0,6,8,1,5,296,154,20,7,11,1,2,242,191,23,4,5,8,1,4,4,3,Monroe County,Pittsford 31
+Monroe County,Pittsford 32,281,159,18,0,3,6,5,3,289,145,20,5,4,6,2,264,162,21,2,5,5,4,2,4,4,Monroe County,Pittsford 32
+Monroe County,Pittsford 33,369,259,35,0,7,10,1,3,393,223,34,9,13,2,2,328,252,39,8,4,7,0,4,10,10,Monroe County,Pittsford 33
+Monroe County,Pittsford 34,411,255,22,0,2,12,2,1,436,223,23,2,11,5,1,379,246,30,7,1,7,5,2,9,9,Monroe County,Pittsford 34
+Monroe County,Pittsford 4,308,180,26,0,2,8,4,1,327,164,19,4,9,2,2,275,180,27,10,2,9,5,1,8,7,Monroe County,Pittsford 4
+Monroe County,Pittsford 5,218,85,17,0,7,2,3,1,229,73,14,7,8,3,1,199,83,16,8,8,3,2,1,4,6,Monroe County,Pittsford 5
+Monroe County,Pittsford 6,200,74,4,0,11,3,1,1,217,56,4,12,4,1,2,201,65,4,8,6,4,1,1,7,1,Monroe County,Pittsford 6
+Monroe County,Pittsford 7,125,59,9,0,2,7,1,1,136,42,11,3,5,3,1,114,63,10,0,1,4,2,1,3,5,Monroe County,Pittsford 7
+Monroe County,Pittsford 8,207,158,28,0,1,2,2,2,219,143,26,1,3,2,1,185,149,28,2,1,2,3,2,6,5,Monroe County,Pittsford 8
+Monroe County,Pittsford 9,214,163,23,0,8,10,1,4,236,137,22,6,12,5,4,187,162,21,5,6,10,1,1,11,8,Monroe County,Pittsford 9
+Monroe County,Riga 1,232,299,78,0,6,15,3,2,260,266,75,11,15,5,2,183,315,77,11,3,6,3,1,10,26,Monroe County,Riga 1
+Monroe County,Riga 2,139,259,62,0,8,8,2,3,178,220,62,11,8,3,2,121,257,55,7,6,5,2,3,6,23,Monroe County,Riga 2
+Monroe County,Riga 3,154,187,32,0,3,6,0,3,181,159,28,4,4,2,2,133,189,30,3,1,3,0,5,5,9,Monroe County,Riga 3
+Monroe County,Riga 4,109,237,43,0,1,8,3,7,120,219,38,4,17,4,5,90,245,40,0,3,7,1,4,7,18,Monroe County,Riga 4
+Monroe County,Riga 5,106,266,43,0,7,6,2,1,117,241,44,12,5,4,3,86,250,47,6,5,1,2,2,3,24,Monroe County,Riga 5
+Monroe County,Riga 6,97,203,69,0,3,6,2,5,103,196,64,4,9,2,2,75,214,63,4,1,2,2,3,4,14,Monroe County,Riga 6
+Monroe County,Rush 01,250,195,49,0,15,3,6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,Rush 01
+Monroe County,Rush 02,133,151,36,0,8,4,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,Rush 02
+Monroe County,Rush 03,271,162,32,0,18,3,5,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,Rush 03
+Monroe County,Rush 04,223,206,48,0,8,5,7,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Monroe County,Rush 04
+Monroe County,Rush 1,0,0,0,0,0,0,0,0,240,204,52,10,14,9,2,185,225,53,7,9,7,6,7,9,17,Monroe County,Rush 1
+Monroe County,Rush 2,0,0,0,0,0,0,0,0,123,164,39,3,6,1,3,87,184,40,2,1,3,2,2,10,11,Monroe County,Rush 2
+Monroe County,Rush 3,0,0,0,0,0,0,0,0,270,160,44,9,9,3,3,200,198,47,13,8,3,3,5,10,13,Monroe County,Rush 3
+Monroe County,Rush 4,0,0,0,0,0,0,0,0,224,213,48,8,8,2,6,172,237,50,10,6,1,3,1,8,21,Monroe County,Rush 4
+Monroe County,Sweden 1,195,169,29,0,9,3,1,3,209,150,27,6,8,2,1,166,168,27,4,5,2,0,6,5,19,Monroe County,Sweden 1
+Monroe County,Sweden 10,136,309,87,0,5,11,0,6,162,275,85,7,12,3,6,110,291,82,7,5,7,0,5,9,29,Monroe County,Sweden 10
+Monroe County,Sweden 11,79,42,8,0,3,1,0,0,78,42,10,4,2,1,1,70,41,8,2,3,2,0,0,2,10,Monroe County,Sweden 11
+Monroe County,Sweden 12,132,188,47,0,1,2,4,1,141,169,50,2,5,6,1,104,196,50,4,0,2,5,1,0,15,Monroe County,Sweden 12
+Monroe County,Sweden 2,149,61,10,0,5,4,5,2,148,55,9,6,9,6,4,129,61,12,11,3,5,3,1,3,11,Monroe County,Sweden 2
+Monroe County,Sweden 3,230,151,40,0,12,4,7,2,237,139,40,14,7,9,0,188,156,32,14,9,5,8,1,2,28,Monroe County,Sweden 3
+Monroe County,Sweden 4,216,185,37,0,8,6,3,3,222,169,36,8,11,6,2,182,187,34,7,1,6,3,2,6,27,Monroe County,Sweden 4
+Monroe County,Sweden 5,72,28,5,0,1,2,1,0,75,25,4,1,2,1,1,66,24,4,2,1,1,0,0,5,3,Monroe County,Sweden 5
+Monroe County,Sweden 6,175,126,35,0,3,5,3,1,178,121,32,7,5,3,1,140,123,30,9,4,3,4,2,6,20,Monroe County,Sweden 6
+Monroe County,Sweden 7,167,142,38,0,1,8,1,5,179,132,36,3,9,2,2,143,145,28,2,0,5,4,5,5,13,Monroe County,Sweden 7
+Monroe County,Sweden 8,124,182,61,0,2,11,2,1,143,161,58,2,13,1,2,99,173,56,6,2,7,2,2,4,28,Monroe County,Sweden 8
+Monroe County,Sweden 9,186,138,28,0,5,4,2,1,189,128,24,6,6,2,2,153,140,26,12,1,3,0,1,5,19,Monroe County,Sweden 9
+Monroe County,Webster 1,187,161,40,0,8,7,4,0,215,124,40,7,10,2,2,154,165,37,8,3,9,1,1,11,15,Monroe County,Webster 1
+Monroe County,Webster 10,383,430,73,0,10,13,7,8,430,376,64,15,19,8,10,334,432,81,12,6,11,8,9,13,17,Monroe County,Webster 10
+Monroe County,Webster 11,207,211,39,0,2,9,3,2,214,195,36,8,10,4,5,166,229,39,8,3,5,2,2,10,9,Monroe County,Webster 11
+Monroe County,Webster 12,222,265,46,0,0,12,3,6,243,242,40,2,18,5,0,199,261,48,6,1,8,4,2,10,8,Monroe County,Webster 12
+Monroe County,Webster 13,171,173,43,0,5,7,1,2,193,150,34,6,11,3,1,146,171,33,3,4,5,2,3,8,20,Monroe County,Webster 13
+Monroe County,Webster 14,197,151,23,0,5,5,2,2,205,127,24,4,5,7,3,148,166,27,5,5,5,2,2,8,14,Monroe County,Webster 14
+Monroe County,Webster 15,147,126,24,0,6,8,4,2,153,114,24,6,6,7,2,116,142,28,2,6,4,2,3,2,6,Monroe County,Webster 15
+Monroe County,Webster 16,289,225,36,0,8,6,3,3,303,197,36,11,10,4,2,234,243,42,8,5,2,3,5,9,14,Monroe County,Webster 16
+Monroe County,Webster 17,155,174,33,0,3,7,2,3,161,164,36,2,9,2,1,124,188,36,4,1,6,1,0,4,7,Monroe County,Webster 17
+Monroe County,Webster 18,141,127,23,0,3,6,3,3,153,115,17,8,6,1,3,112,137,18,6,4,3,1,2,10,7,Monroe County,Webster 18
+Monroe County,Webster 19,263,306,52,0,4,14,5,6,274,287,52,5,15,6,3,206,323,62,10,3,10,3,5,7,17,Monroe County,Webster 19
+Monroe County,Webster 2,327,209,29,0,14,14,7,5,333,185,28,18,16,10,4,286,209,29,13,8,9,5,6,6,26,Monroe County,Webster 2
+Monroe County,Webster 20,241,318,53,0,11,11,0,3,265,273,55,9,13,2,6,188,325,59,7,2,5,2,3,9,30,Monroe County,Webster 20
+Monroe County,Webster 21,207,224,42,0,7,13,3,5,235,191,39,8,15,4,2,175,225,47,5,3,4,2,7,3,17,Monroe County,Webster 21
+Monroe County,Webster 22,193,188,50,0,6,6,4,2,212,167,46,7,3,3,4,146,197,50,4,4,6,2,1,7,21,Monroe County,Webster 22
+Monroe County,Webster 23,167,137,37,0,3,6,3,8,177,121,29,8,11,4,4,146,139,36,7,3,6,1,2,6,12,Monroe County,Webster 23
+Monroe County,Webster 24,462,480,112,0,7,14,4,5,508,423,95,11,18,10,7,380,509,111,16,4,12,2,7,9,29,Monroe County,Webster 24
+Monroe County,Webster 25,105,77,18,0,0,0,1,3,110,70,17,1,2,1,1,86,86,14,4,0,0,1,0,1,6,Monroe County,Webster 25
+Monroe County,Webster 26,232,154,36,0,5,9,2,2,245,126,37,7,8,2,1,194,160,37,3,7,6,4,1,4,10,Monroe County,Webster 26
+Monroe County,Webster 27,335,316,52,0,3,10,2,3,359,279,54,7,9,4,2,288,320,55,4,5,8,3,3,6,17,Monroe County,Webster 27
+Monroe County,Webster 28,184,189,42,0,1,7,2,2,203,165,37,4,9,1,1,152,201,45,2,1,3,1,1,6,11,Monroe County,Webster 28
+Monroe County,Webster 29,159,91,19,0,1,3,4,4,176,76,18,1,3,1,1,135,100,21,1,4,3,2,2,0,9,Monroe County,Webster 29
+Monroe County,Webster 3,250,205,44,0,7,7,3,3,266,184,42,5,10,4,2,221,215,38,2,5,8,3,1,3,12,Monroe County,Webster 3
+Monroe County,Webster 30,165,90,14,0,4,7,1,1,164,86,14,4,8,4,1,149,94,15,5,2,3,2,2,3,5,Monroe County,Webster 30
+Monroe County,Webster 31,180,231,46,0,8,11,4,0,216,192,47,8,15,4,0,173,235,42,2,5,4,4,2,3,10,Monroe County,Webster 31
+Monroe County,Webster 32,224,282,56,0,6,10,2,5,240,260,55,8,10,3,1,186,288,55,2,7,8,1,5,8,16,Monroe County,Webster 32
+Monroe County,Webster 33,182,188,34,0,8,12,3,2,197,177,32,5,9,5,0,167,189,35,4,2,4,2,3,5,13,Monroe County,Webster 33
+Monroe County,Webster 34,98,110,16,0,3,4,2,3,110,99,17,3,4,1,2,89,110,21,2,1,4,1,1,3,5,Monroe County,Webster 34
+Monroe County,Webster 35,137,117,42,0,3,3,6,2,142,108,43,5,2,7,2,105,130,38,4,2,2,6,2,4,10,Monroe County,Webster 35
+Monroe County,Webster 36,179,154,27,0,2,5,0,2,187,143,31,1,4,0,2,152,155,28,1,0,7,1,0,2,17,Monroe County,Webster 36
+Monroe County,Webster 37,326,343,41,0,9,11,3,3,374,284,38,11,15,4,4,296,334,44,10,8,7,4,3,4,20,Monroe County,Webster 37
+Monroe County,Webster 38,227,186,32,0,3,9,1,6,248,161,29,2,13,6,5,205,178,33,6,1,8,0,2,6,16,Monroe County,Webster 38
+Monroe County,Webster 39,211,166,30,0,1,7,0,0,222,151,27,2,7,3,0,191,161,26,5,0,7,4,0,4,10,Monroe County,Webster 39
+Monroe County,Webster 4,93,93,11,0,7,5,3,1,103,83,12,10,4,3,0,79,88,13,3,6,2,3,1,3,18,Monroe County,Webster 4
+Monroe County,Webster 40,464,376,47,0,8,17,3,5,487,334,47,13,20,3,3,390,370,51,10,6,12,5,6,4,24,Monroe County,Webster 40
+Monroe County,Webster 41,264,263,58,0,4,9,6,6,285,230,51,12,11,6,2,223,289,50,8,2,5,2,5,6,11,Monroe County,Webster 41
+Monroe County,Webster 42,208,205,46,0,5,10,8,3,213,195,45,4,14,7,2,178,214,43,4,2,8,9,3,7,13,Monroe County,Webster 42
+Monroe County,Webster 43,172,156,23,0,5,7,4,0,180,143,23,9,6,3,1,141,154,23,6,2,4,2,2,7,19,Monroe County,Webster 43
+Monroe County,Webster 5,209,184,33,0,9,5,2,2,215,170,32,12,8,2,4,172,189,33,12,9,4,1,3,6,16,Monroe County,Webster 5
+Monroe County,Webster 6,162,135,19,0,5,7,1,2,176,113,20,4,9,2,3,141,132,18,6,2,2,1,3,9,20,Monroe County,Webster 6
+Monroe County,Webster 7,211,189,36,0,8,6,2,7,219,171,37,9,12,3,2,169,203,36,9,4,6,2,3,9,18,Monroe County,Webster 7
+Monroe County,Webster 8,172,164,33,0,6,9,6,3,189,146,33,6,8,4,1,144,164,33,8,1,9,3,3,4,14,Monroe County,Webster 8
+Monroe County,Webster 9,153,204,42,0,3,5,3,2,172,183,39,3,8,5,1,131,206,39,4,1,3,4,3,7,12,Monroe County,Webster 9
+Monroe County,Wheatland 01,187,141,30,0,19,6,10,3,178,153,35,14,9,10,1,139,169,37,5,8,4,3,7,10,26,Monroe County,Wheatland 01
+Monroe County,Wheatland 02,152,177,37,0,8,5,6,6,138,195,40,9,9,6,4,96,216,43,0,6,7,4,4,4,23,Monroe County,Wheatland 02
+Monroe County,Wheatland 03,270,148,34,0,15,5,6,8,247,170,39,10,14,7,2,183,197,40,10,11,11,5,6,7,18,Monroe County,Wheatland 03
+Monroe County,Wheatland 04,226,130,28,0,6,2,7,11,216,147,31,4,4,6,7,166,165,34,7,1,1,5,6,6,19,Monroe County,Wheatland 04
+Monroe County,Wheatland 05,166,215,58,0,7,3,10,9,162,220,65,9,6,5,3,109,239,60,7,6,2,4,4,8,30,Monroe County,Wheatland 05

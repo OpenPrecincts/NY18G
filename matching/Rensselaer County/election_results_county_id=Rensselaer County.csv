@@ -1,119 +1,119 @@
 county,precinct,HOR_DEM,HOR_REP,HOR_CON,HOR_GRE,HOR_WOR,HOR_IND,HOR_WEP,HOR_REF,Sen_DEM,Sen_REP,Sen_CON,Sen_WOR,Sen_IND,Sen_WEP,Sen_REF,Gov_DEM,Gov_REP,Gov_CON,Gov_GRE,Gov_WOR,Gov_IND,Gov_WEP,Gov_REF,Gov_SAM,Gov_LBT,county_id,original_precinct_name
-Rensselaer County,Berlin 1,132,181,37,14,16,0,1,0,153,172,37,14,11,4,0,107,209,39,7,6,2,1,2,3,13,Rensselaer County,precinct
-Rensselaer County,Berlin 2,110,113,17,12,5,0,5,1,112,109,18,11,5,3,3,73,128,16,15,6,1,1,3,6,13,Rensselaer County,precinct
-Rensselaer County,Brunswick 1,353,332,84,25,26,9,16,3,364,316,82,21,34,17,3,251,404,86,26,14,16,6,6,31,10,Rensselaer County,precinct
-Rensselaer County,Brunswick 10,260,164,49,6,12,9,2,2,287,138,52,11,16,1,2,211,191,54,11,5,11,1,5,8,7,Rensselaer County,precinct
-Rensselaer County,Brunswick 2,272,235,44,21,22,8,10,2,301,226,33,15,25,11,4,189,297,47,15,8,13,8,10,9,18,Rensselaer County,precinct
-Rensselaer County,Brunswick 3,270,152,36,6,9,5,6,1,278,142,33,9,14,7,2,181,182,42,34,5,6,3,5,15,9,Rensselaer County,precinct
-Rensselaer County,Brunswick 4,282,310,66,18,16,15,6,4,305,288,73,19,19,5,8,215,350,85,15,11,3,3,8,3,19,Rensselaer County,precinct
-Rensselaer County,Brunswick 5,425,281,73,11,37,13,9,1,431,279,80,35,23,9,0,334,332,82,16,19,11,5,6,18,19,Rensselaer County,precinct
-Rensselaer County,Brunswick 6,230,188,32,7,14,6,8,2,245,172,26,11,18,5,5,180,219,35,14,4,7,2,6,8,9,Rensselaer County,precinct
-Rensselaer County,Brunswick 7,78,71,13,3,7,3,2,0,77,72,12,6,9,1,1,54,94,18,2,3,5,1,2,2,2,Rensselaer County,precinct
-Rensselaer County,Brunswick 8,255,332,66,11,15,10,6,2,289,312,68,13,14,7,3,191,385,67,12,9,7,2,5,12,15,Rensselaer County,precinct
-Rensselaer County,Brunswick 9,314,328,93,16,19,11,7,2,343,303,97,13,18,9,4,223,382,110,13,7,5,3,6,8,21,Rensselaer County,precinct
-Rensselaer County,East Greenbush 1,675,328,0,0,53,0,17,6,636,302,66,34,57,12,9,445,432,71,32,13,30,8,16,30,28,Rensselaer County,precinct
-Rensselaer County,East Greenbush 10,416,210,0,0,26,0,17,7,393,206,37,19,29,14,7,276,267,54,19,13,13,10,4,25,18,Rensselaer County,precinct
-Rensselaer County,East Greenbush 11,419,261,0,0,36,0,16,4,387,240,41,32,37,13,2,267,339,61,16,14,14,3,13,17,11,Rensselaer County,precinct
-Rensselaer County,East Greenbush 12,183,109,0,0,13,0,3,3,173,100,22,7,15,2,3,107,152,23,7,5,5,1,2,9,6,Rensselaer County,precinct
-Rensselaer County,East Greenbush 2,464,370,0,0,33,0,12,11,432,340,66,19,38,6,9,312,421,85,21,11,18,6,11,13,16,Rensselaer County,precinct
-Rensselaer County,East Greenbush 3,266,179,0,0,21,0,7,3,250,160,41,14,21,4,1,182,201,43,11,10,12,3,6,15,19,Rensselaer County,precinct
-Rensselaer County,East Greenbush 4,272,174,0,0,21,0,9,2,265,162,25,11,18,5,1,173,222,33,10,6,10,4,8,14,12,Rensselaer County,precinct
-Rensselaer County,East Greenbush 5,122,85,0,0,9,0,5,1,122,77,15,5,5,7,2,92,101,19,5,3,1,2,1,0,5,Rensselaer County,precinct
-Rensselaer County,East Greenbush 6,469,306,0,0,38,0,7,3,431,303,52,15,38,3,4,326,367,57,14,7,13,2,10,13,23,Rensselaer County,precinct
-Rensselaer County,East Greenbush 7,405,225,0,0,8,0,7,4,378,216,38,4,23,7,1,279,282,41,10,5,14,1,5,18,8,Rensselaer County,precinct
-Rensselaer County,East Greenbush 8,463,237,0,0,12,0,12,4,423,220,44,13,31,7,1,318,292,51,18,9,7,8,4,15,13,Rensselaer County,precinct
-Rensselaer County,East Greenbush 9,245,167,0,0,27,0,6,1,235,148,29,17,19,3,6,166,194,31,11,8,8,2,10,15,13,Rensselaer County,precinct
-Rensselaer County,Grafton 1,161,228,69,9,20,8,4,3,180,210,73,20,10,4,1,107,243,76,18,16,5,4,5,9,16,Rensselaer County,precinct
-Rensselaer County,Grafton 2,175,277,63,7,15,11,3,1,195,257,60,14,12,5,5,128,298,64,14,7,8,2,5,14,15,Rensselaer County,precinct
-Rensselaer County,Hoosick 1,158,113,21,16,6,6,3,1,182,116,18,8,9,1,2,110,143,26,13,4,6,2,2,5,8,Rensselaer County,precinct
-Rensselaer County,Hoosick 2,195,254,39,9,11,6,1,2,203,248,41,13,12,2,3,138,292,47,9,5,2,3,6,8,11,Rensselaer County,precinct
-Rensselaer County,Hoosick 3,86,125,30,6,4,9,1,1,77,129,30,7,16,1,1,46,155,34,7,2,9,0,1,3,8,Rensselaer County,precinct
-Rensselaer County,Hoosick 4,131,115,13,11,6,4,3,0,144,108,17,9,8,1,2,92,139,21,5,2,1,1,5,2,12,Rensselaer County,precinct
-Rensselaer County,Hoosick 5,132,95,15,15,14,8,4,0,150,84,20,8,15,8,2,102,117,21,8,5,2,4,8,2,11,Rensselaer County,precinct
-Rensselaer County,Hoosick 6,138,147,17,7,11,13,3,1,148,142,19,9,13,2,3,87,191,27,5,2,5,1,5,7,8,Rensselaer County,precinct
-Rensselaer County,Hoosick 7,186,125,27,7,7,5,11,0,193,117,27,8,13,8,2,134,162,29,11,1,6,3,4,7,10,Rensselaer County,precinct
-Rensselaer County,Nassau 1,187,167,26,8,9,6,11,0,197,151,27,11,19,6,2,126,193,26,15,6,11,8,3,11,15,Rensselaer County,precinct
-Rensselaer County,Nassau 2,247,348,82,14,26,8,10,1,266,339,84,20,21,10,4,183,389,91,20,12,4,9,8,10,17,Rensselaer County,precinct
-Rensselaer County,Nassau 3,199,189,56,13,30,2,7,1,206,187,56,29,17,3,3,134,228,56,15,19,11,2,5,9,14,Rensselaer County,precinct
-Rensselaer County,Nassau 4,176,164,36,9,17,2,6,2,187,155,40,16,7,6,7,131,185,42,12,6,2,7,6,13,14,Rensselaer County,precinct
-Rensselaer County,North Greenbush 1,167,144,0,0,24,0,6,4,160,122,39,16,18,2,3,98,162,54,10,4,8,1,3,10,11,Rensselaer County,precinct
-Rensselaer County,North Greenbush 2,525,284,0,0,36,0,11,5,501,253,55,27,25,7,4,391,321,50,28,19,7,7,16,10,13,Rensselaer County,precinct
-Rensselaer County,North Greenbush 3,318,254,0,0,33,0,9,4,300,244,50,15,31,8,6,204,304,60,22,3,22,5,10,24,12,Rensselaer County,precinct
-Rensselaer County,North Greenbush 4,496,436,0,0,43,0,18,3,475,371,83,32,32,14,3,315,471,104,31,16,7,12,9,24,17,Rensselaer County,precinct
-Rensselaer County,North Greenbush 5,425,324,0,0,27,0,13,1,402,304,55,15,25,11,1,280,384,62,15,10,10,5,13,18,13,Rensselaer County,precinct
-Rensselaer County,North Greenbush 6,440,269,0,0,19,0,7,6,410,245,47,20,21,6,8,278,334,51,16,15,10,7,7,16,12,Rensselaer County,precinct
-Rensselaer County,North Greenbush 7,261,241,0,0,13,0,6,8,237,237,51,8,17,4,6,155,273,62,17,0,13,5,11,11,6,Rensselaer County,precinct
-Rensselaer County,North Greenbush 8,484,316,0,0,44,0,11,7,416,310,71,26,53,12,3,281,404,83,16,21,32,5,14,15,20,Rensselaer County,precinct
-Rensselaer County,Petersburgh 1,231,271,62,16,15,6,8,2,253,257,60,18,15,8,4,172,296,62,22,4,8,7,4,11,19,Rensselaer County,precinct
-Rensselaer County,Pittstown 1,80,143,41,7,6,4,4,1,97,133,41,8,9,3,3,60,163,40,8,1,2,4,6,4,8,Rensselaer County,precinct
-Rensselaer County,Pittstown 2,92,193,28,7,7,4,2,1,111,181,28,6,11,2,2,67,203,36,5,2,5,1,3,5,12,Rensselaer County,precinct
-Rensselaer County,Pittstown 3,113,262,45,20,11,9,5,0,133,246,50,9,21,2,3,65,310,55,6,0,5,0,7,6,8,Rensselaer County,precinct
-Rensselaer County,Pittstown 4,194,267,50,13,9,7,4,2,225,261,50,10,10,4,2,146,303,58,11,3,4,2,5,10,9,Rensselaer County,precinct
-Rensselaer County,Pittstown 5,111,207,40,12,5,8,5,0,120,199,33,10,13,5,0,71,245,42,6,4,7,1,1,2,13,Rensselaer County,precinct
-Rensselaer County,Pittstown 6,86,141,34,7,7,4,4,0,97,136,35,7,8,5,1,58,170,33,3,2,3,2,1,5,15,Rensselaer County,precinct
-Rensselaer County,Poestenkill 1,131,155,26,15,15,4,5,0,153,146,25,11,10,6,1,96,184,24,10,5,0,1,3,16,1,Rensselaer County,precinct
-Rensselaer County,Poestenkill 2,236,320,81,7,26,5,10,4,248,306,61,25,20,13,5,151,363,88,29,13,8,9,7,11,15,Rensselaer County,precinct
-Rensselaer County,Poestenkill 3,130,117,18,6,6,5,5,1,141,107,24,8,9,4,1,79,146,28,5,3,3,1,1,10,3,Rensselaer County,precinct
-Rensselaer County,Poestenkill 4,336,287,68,22,27,11,5,1,352,268,57,27,27,6,3,215,367,61,21,12,8,5,4,15,27,Rensselaer County,precinct
-Rensselaer County,Rensselaer 1,211,122,0,0,29,0,7,2,203,122,23,16,17,5,1,157,158,33,8,12,8,1,3,5,6,Rensselaer County,precinct
-Rensselaer County,Rensselaer 2,270,109,0,0,18,0,9,5,266,104,14,12,20,4,5,212,132,18,14,6,9,3,4,15,13,Rensselaer County,precinct
-Rensselaer County,Rensselaer 3,217,73,0,0,12,0,6,3,209,76,10,12,14,4,1,158,102,19,15,8,8,1,1,7,8,Rensselaer County,precinct
-Rensselaer County,Rensselaer 4,232,90,0,0,14,0,5,2,216,86,21,7,11,4,2,152,123,21,9,5,8,3,4,7,17,Rensselaer County,precinct
-Rensselaer County,Rensselaer 5,334,148,0,0,14,0,9,1,299,164,28,11,23,4,1,229,191,34,9,7,8,4,3,18,15,Rensselaer County,precinct
-Rensselaer County,Rensselaer 6,378,196,0,0,15,0,15,4,355,193,33,8,21,12,2,275,238,37,14,5,12,10,4,12,12,Rensselaer County,precinct
-Rensselaer County,Sand Lake 1,594,503,121,34,57,19,24,3,625,479,127,46,58,22,8,416,613,146,53,21,27,14,16,36,22,Rensselaer County,precinct
-Rensselaer County,Sand Lake 2,329,257,73,13,29,10,12,4,348,245,74,33,23,8,5,224,308,79,33,18,15,7,9,16,14,Rensselaer County,precinct
-Rensselaer County,Sand Lake 3,414,329,64,17,36,12,11,3,436,318,61,30,42,11,5,304,412,72,22,22,15,3,9,22,12,Rensselaer County,precinct
-Rensselaer County,Sand Lake 4,145,118,32,14,17,4,4,3,147,124,35,14,17,3,5,87,172,40,18,9,4,2,5,4,4,Rensselaer County,precinct
-Rensselaer County,Sand Lake 5,262,185,41,9,23,7,11,2,271,169,48,24,20,8,4,187,223,47,18,11,10,2,5,18,16,Rensselaer County,precinct
-Rensselaer County,Sand Lake 6,165,140,34,8,12,10,3,0,171,134,35,13,13,3,5,122,165,43,14,1,3,1,2,6,10,Rensselaer County,precinct
-Rensselaer County,Schaghticoke 1,206,323,79,19,20,10,11,2,234,305,76,19,21,8,4,146,376,87,14,4,6,2,12,10,14,Rensselaer County,precinct
-Rensselaer County,Schaghticoke 2,76,106,20,7,4,3,1,0,91,88,23,5,7,0,0,52,119,23,7,1,0,1,3,5,6,Rensselaer County,precinct
-Rensselaer County,Schaghticoke 3,176,259,51,10,13,6,5,2,188,235,59,12,18,6,2,107,309,61,8,7,10,3,2,5,11,Rensselaer County,precinct
-Rensselaer County,Schaghticoke 4,127,169,19,11,4,4,5,0,140,156,21,8,9,4,3,87,204,28,8,0,3,2,1,2,9,Rensselaer County,precinct
-Rensselaer County,Schaghticoke 5,158,160,19,9,16,7,9,3,180,148,21,13,21,5,4,115,186,29,12,4,13,4,10,6,7,Rensselaer County,precinct
-Rensselaer County,Schaghticoke 6,216,277,61,19,12,14,5,1,229,274,62,14,23,5,5,154,329,69,12,5,8,1,7,10,15,Rensselaer County,precinct
-Rensselaer County,Schaghticoke 7,176,316,66,18,16,19,11,0,213,295,69,14,29,6,5,118,365,89,12,4,6,2,5,10,17,Rensselaer County,precinct
-Rensselaer County,Schodack 1,343,258,0,0,19,0,11,4,310,253,44,17,25,7,5,221,307,53,13,6,14,4,7,17,6,Rensselaer County,precinct
-Rensselaer County,Schodack 10,268,192,0,0,30,0,3,4,244,172,34,20,29,5,8,151,234,43,23,14,16,2,10,11,10,Rensselaer County,precinct
-Rensselaer County,Schodack 11,330,251,0,0,22,0,10,6,318,220,53,12,25,7,4,234,264,61,17,6,13,2,4,15,23,Rensselaer County,precinct
-Rensselaer County,Schodack 2,138,146,21,7,9,10,9,3,147,140,23,10,11,5,3,110,160,26,8,7,6,3,6,4,10,Rensselaer County,precinct
-Rensselaer County,Schodack 3,294,224,0,0,33,0,13,7,297,188,57,16,34,6,3,191,251,70,14,11,16,5,10,16,9,Rensselaer County,precinct
-Rensselaer County,Schodack 4,263,296,51,19,29,8,14,1,288,286,52,24,27,8,6,178,342,68,19,14,10,4,12,20,18,Rensselaer County,precinct
-Rensselaer County,Schodack 5,216,147,0,0,20,0,6,0,205,149,18,8,15,4,2,138,191,21,15,5,9,2,3,11,6,Rensselaer County,precinct
-Rensselaer County,Schodack 6,338,303,0,0,19,0,12,5,319,278,60,19,21,11,4,215,349,72,11,3,10,3,8,12,29,Rensselaer County,precinct
-Rensselaer County,Schodack 7,289,286,56,15,23,8,9,2,313,266,58,18,18,6,5,212,337,69,18,7,11,3,10,7,8,Rensselaer County,precinct
-Rensselaer County,Schodack 8,241,272,79,8,20,13,9,2,262,261,79,10,23,7,5,167,324,88,16,5,5,6,6,9,17,Rensselaer County,precinct
-Rensselaer County,Schodack 9,157,131,27,8,9,8,1,0,170,131,24,7,11,1,2,113,173,28,9,3,4,1,2,11,4,Rensselaer County,precinct
-Rensselaer County,Stephentown 1,217,229,34,16,17,7,6,3,226,217,33,11,19,6,5,159,258,41,17,4,8,4,4,11,17,Rensselaer County,precinct
-Rensselaer County,Stephentown 2,306,267,61,19,21,3,4,0,320,252,66,17,17,5,4,237,306,65,14,8,10,2,7,11,13,Rensselaer County,precinct
-Rensselaer County,Troy 1,355,206,0,0,16,0,6,4,336,196,44,9,14,5,1,257,255,47,9,6,8,5,4,10,3,Rensselaer County,precinct
-Rensselaer County,Troy 10,248,53,0,0,12,0,10,0,240,41,11,18,6,8,0,237,47,11,15,6,6,4,1,6,1,Rensselaer County,precinct
-Rensselaer County,Troy 11,334,89,0,0,22,0,8,2,329,74,18,18,10,7,4,277,95,17,30,12,9,1,6,10,7,Rensselaer County,precinct
-Rensselaer County,Troy 12,291,80,0,0,18,0,3,2,278,68,23,14,8,5,4,228,89,27,12,12,3,5,3,11,6,Rensselaer County,precinct
-Rensselaer County,Troy 13,297,131,0,0,36,0,11,7,271,138,21,24,21,9,9,211,174,27,17,18,12,7,4,11,11,Rensselaer County,precinct
-Rensselaer County,Troy 14,172,89,0,0,19,0,8,2,160,92,27,9,9,5,0,126,106,28,16,4,9,4,3,2,4,Rensselaer County,precinct
-Rensselaer County,Troy 15,239,70,0,0,19,0,7,6,230,70,14,15,8,7,2,188,81,18,16,12,4,5,2,9,10,Rensselaer County,precinct
-Rensselaer County,Troy 16,235,84,0,0,33,0,9,4,229,76,18,28,9,11,1,191,81,17,28,18,2,10,3,6,13,Rensselaer County,precinct
-Rensselaer County,Troy 17,291,44,0,0,38,0,8,1,283,43,12,34,11,6,1,251,60,14,33,17,6,2,2,4,4,Rensselaer County,precinct
-Rensselaer County,Troy 18,426,64,0,0,41,0,21,1,420,56,10,32,15,13,1,329,77,8,48,19,13,10,1,21,17,Rensselaer County,precinct
-Rensselaer County,Troy 19,374,67,0,0,36,0,12,4,364,66,9,34,10,14,0,286,89,10,38,22,7,9,1,19,7,Rensselaer County,precinct
-Rensselaer County,Troy 2,118,74,0,0,14,0,5,0,107,68,17,9,8,4,1,90,80,19,5,6,5,1,1,3,4,Rensselaer County,precinct
-Rensselaer County,Troy 20,242,71,0,0,25,0,9,1,235,67,15,20,10,10,0,185,93,16,26,10,4,5,1,11,7,Rensselaer County,precinct
-Rensselaer County,Troy 21,257,124,0,0,30,0,5,4,235,126,31,17,12,6,4,182,168,32,11,7,4,3,6,6,12,Rensselaer County,precinct
-Rensselaer County,Troy 22,320,111,0,0,30,0,9,7,307,98,28,26,14,13,5,225,128,33,28,14,9,5,7,17,14,Rensselaer County,precinct
-Rensselaer County,Troy 23,95,41,0,0,15,0,5,2,90,44,6,12,6,4,3,76,45,9,8,7,3,3,0,6,5,Rensselaer County,precinct
-Rensselaer County,Troy 24,326,188,0,0,36,0,8,4,309,166,53,24,19,8,5,242,215,54,14,17,12,6,5,10,12,Rensselaer County,precinct
-Rensselaer County,Troy 25,255,155,0,0,22,0,8,6,232,154,34,13,14,6,3,168,186,42,15,7,2,4,4,14,15,Rensselaer County,precinct
-Rensselaer County,Troy 26,257,129,0,0,17,0,4,3,252,112,18,12,16,5,3,193,152,26,18,5,10,1,4,10,10,Rensselaer County,precinct
-Rensselaer County,Troy 27,191,74,0,0,13,0,2,3,194,69,16,6,4,3,4,163,76,22,4,4,4,3,3,8,5,Rensselaer County,precinct
-Rensselaer County,Troy 28,189,68,0,0,17,0,4,3,174,75,15,14,6,3,2,141,90,13,17,5,4,2,4,4,7,Rensselaer County,precinct
-Rensselaer County,Troy 29,292,80,0,0,28,0,4,1,267,84,21,23,13,4,4,233,100,22,14,15,7,2,3,11,4,Rensselaer County,precinct
-Rensselaer County,Troy 3,204,108,0,0,16,0,5,0,194,94,27,8,11,4,1,126,145,30,8,3,5,2,2,8,15,Rensselaer County,precinct
-Rensselaer County,Troy 30,240,144,0,0,13,0,3,3,220,134,35,8,15,4,2,158,173,38,14,5,6,2,2,5,14,Rensselaer County,precinct
-Rensselaer County,Troy 4,155,126,0,0,17,0,3,2,151,106,22,17,10,4,4,117,131,27,8,6,5,2,4,3,11,Rensselaer County,precinct
-Rensselaer County,Troy 5,208,92,0,0,19,0,12,2,202,91,15,18,7,7,2,145,124,21,10,9,3,3,3,10,11,Rensselaer County,precinct
-Rensselaer County,Troy 6,224,116,0,0,21,0,13,3,216,107,26,15,19,6,4,169,136,38,14,8,7,6,8,5,5,Rensselaer County,precinct
-Rensselaer County,Troy 7,294,199,0,0,27,0,6,4,292,188,44,25,19,4,2,235,232,46,13,13,8,1,3,15,12,Rensselaer County,precinct
-Rensselaer County,Troy 8,212,102,0,0,23,0,9,1,201,93,24,18,11,6,1,161,113,29,20,5,6,2,4,9,7,Rensselaer County,precinct
-Rensselaer County,Troy 9,236,80,0,0,15,0,10,3,231,72,12,12,13,6,2,204,82,20,12,2,6,3,3,7,5,Rensselaer County,precinct
+Rensselaer County,Berlin 1,132,181,37,14,16,0,1,0,153,172,37,14,11,4,0,107,209,39,7,6,2,1,2,3,13,Rensselaer County,Berlin 1
+Rensselaer County,Berlin 2,110,113,17,12,5,0,5,1,112,109,18,11,5,3,3,73,128,16,15,6,1,1,3,6,13,Rensselaer County,Berlin 2
+Rensselaer County,Brunswick 1,353,332,84,25,26,9,16,3,364,316,82,21,34,17,3,251,404,86,26,14,16,6,6,31,10,Rensselaer County,Brunswick 1
+Rensselaer County,Brunswick 10,260,164,49,6,12,9,2,2,287,138,52,11,16,1,2,211,191,54,11,5,11,1,5,8,7,Rensselaer County,Brunswick 10
+Rensselaer County,Brunswick 2,272,235,44,21,22,8,10,2,301,226,33,15,25,11,4,189,297,47,15,8,13,8,10,9,18,Rensselaer County,Brunswick 2
+Rensselaer County,Brunswick 3,270,152,36,6,9,5,6,1,278,142,33,9,14,7,2,181,182,42,34,5,6,3,5,15,9,Rensselaer County,Brunswick 3
+Rensselaer County,Brunswick 4,282,310,66,18,16,15,6,4,305,288,73,19,19,5,8,215,350,85,15,11,3,3,8,3,19,Rensselaer County,Brunswick 4
+Rensselaer County,Brunswick 5,425,281,73,11,37,13,9,1,431,279,80,35,23,9,0,334,332,82,16,19,11,5,6,18,19,Rensselaer County,Brunswick 5
+Rensselaer County,Brunswick 6,230,188,32,7,14,6,8,2,245,172,26,11,18,5,5,180,219,35,14,4,7,2,6,8,9,Rensselaer County,Brunswick 6
+Rensselaer County,Brunswick 7,78,71,13,3,7,3,2,0,77,72,12,6,9,1,1,54,94,18,2,3,5,1,2,2,2,Rensselaer County,Brunswick 7
+Rensselaer County,Brunswick 8,255,332,66,11,15,10,6,2,289,312,68,13,14,7,3,191,385,67,12,9,7,2,5,12,15,Rensselaer County,Brunswick 8
+Rensselaer County,Brunswick 9,314,328,93,16,19,11,7,2,343,303,97,13,18,9,4,223,382,110,13,7,5,3,6,8,21,Rensselaer County,Brunswick 9
+Rensselaer County,East Greenbush 1,675,328,0,0,53,0,17,6,636,302,66,34,57,12,9,445,432,71,32,13,30,8,16,30,28,Rensselaer County,East Greenbush 1
+Rensselaer County,East Greenbush 10,416,210,0,0,26,0,17,7,393,206,37,19,29,14,7,276,267,54,19,13,13,10,4,25,18,Rensselaer County,East Greenbush 10
+Rensselaer County,East Greenbush 11,419,261,0,0,36,0,16,4,387,240,41,32,37,13,2,267,339,61,16,14,14,3,13,17,11,Rensselaer County,East Greenbush 11
+Rensselaer County,East Greenbush 12,183,109,0,0,13,0,3,3,173,100,22,7,15,2,3,107,152,23,7,5,5,1,2,9,6,Rensselaer County,East Greenbush 12
+Rensselaer County,East Greenbush 2,464,370,0,0,33,0,12,11,432,340,66,19,38,6,9,312,421,85,21,11,18,6,11,13,16,Rensselaer County,East Greenbush 2
+Rensselaer County,East Greenbush 3,266,179,0,0,21,0,7,3,250,160,41,14,21,4,1,182,201,43,11,10,12,3,6,15,19,Rensselaer County,East Greenbush 3
+Rensselaer County,East Greenbush 4,272,174,0,0,21,0,9,2,265,162,25,11,18,5,1,173,222,33,10,6,10,4,8,14,12,Rensselaer County,East Greenbush 4
+Rensselaer County,East Greenbush 5,122,85,0,0,9,0,5,1,122,77,15,5,5,7,2,92,101,19,5,3,1,2,1,0,5,Rensselaer County,East Greenbush 5
+Rensselaer County,East Greenbush 6,469,306,0,0,38,0,7,3,431,303,52,15,38,3,4,326,367,57,14,7,13,2,10,13,23,Rensselaer County,East Greenbush 6
+Rensselaer County,East Greenbush 7,405,225,0,0,8,0,7,4,378,216,38,4,23,7,1,279,282,41,10,5,14,1,5,18,8,Rensselaer County,East Greenbush 7
+Rensselaer County,East Greenbush 8,463,237,0,0,12,0,12,4,423,220,44,13,31,7,1,318,292,51,18,9,7,8,4,15,13,Rensselaer County,East Greenbush 8
+Rensselaer County,East Greenbush 9,245,167,0,0,27,0,6,1,235,148,29,17,19,3,6,166,194,31,11,8,8,2,10,15,13,Rensselaer County,East Greenbush 9
+Rensselaer County,Grafton 1,161,228,69,9,20,8,4,3,180,210,73,20,10,4,1,107,243,76,18,16,5,4,5,9,16,Rensselaer County,Grafton 1
+Rensselaer County,Grafton 2,175,277,63,7,15,11,3,1,195,257,60,14,12,5,5,128,298,64,14,7,8,2,5,14,15,Rensselaer County,Grafton 2
+Rensselaer County,Hoosick 1,158,113,21,16,6,6,3,1,182,116,18,8,9,1,2,110,143,26,13,4,6,2,2,5,8,Rensselaer County,Hoosick 1
+Rensselaer County,Hoosick 2,195,254,39,9,11,6,1,2,203,248,41,13,12,2,3,138,292,47,9,5,2,3,6,8,11,Rensselaer County,Hoosick 2
+Rensselaer County,Hoosick 3,86,125,30,6,4,9,1,1,77,129,30,7,16,1,1,46,155,34,7,2,9,0,1,3,8,Rensselaer County,Hoosick 3
+Rensselaer County,Hoosick 4,131,115,13,11,6,4,3,0,144,108,17,9,8,1,2,92,139,21,5,2,1,1,5,2,12,Rensselaer County,Hoosick 4
+Rensselaer County,Hoosick 5,132,95,15,15,14,8,4,0,150,84,20,8,15,8,2,102,117,21,8,5,2,4,8,2,11,Rensselaer County,Hoosick 5
+Rensselaer County,Hoosick 6,138,147,17,7,11,13,3,1,148,142,19,9,13,2,3,87,191,27,5,2,5,1,5,7,8,Rensselaer County,Hoosick 6
+Rensselaer County,Hoosick 7,186,125,27,7,7,5,11,0,193,117,27,8,13,8,2,134,162,29,11,1,6,3,4,7,10,Rensselaer County,Hoosick 7
+Rensselaer County,Nassau 1,187,167,26,8,9,6,11,0,197,151,27,11,19,6,2,126,193,26,15,6,11,8,3,11,15,Rensselaer County,Nassau 1
+Rensselaer County,Nassau 2,247,348,82,14,26,8,10,1,266,339,84,20,21,10,4,183,389,91,20,12,4,9,8,10,17,Rensselaer County,Nassau 2
+Rensselaer County,Nassau 3,199,189,56,13,30,2,7,1,206,187,56,29,17,3,3,134,228,56,15,19,11,2,5,9,14,Rensselaer County,Nassau 3
+Rensselaer County,Nassau 4,176,164,36,9,17,2,6,2,187,155,40,16,7,6,7,131,185,42,12,6,2,7,6,13,14,Rensselaer County,Nassau 4
+Rensselaer County,North Greenbush 1,167,144,0,0,24,0,6,4,160,122,39,16,18,2,3,98,162,54,10,4,8,1,3,10,11,Rensselaer County,North Greenbush 1
+Rensselaer County,North Greenbush 2,525,284,0,0,36,0,11,5,501,253,55,27,25,7,4,391,321,50,28,19,7,7,16,10,13,Rensselaer County,North Greenbush 2
+Rensselaer County,North Greenbush 3,318,254,0,0,33,0,9,4,300,244,50,15,31,8,6,204,304,60,22,3,22,5,10,24,12,Rensselaer County,North Greenbush 3
+Rensselaer County,North Greenbush 4,496,436,0,0,43,0,18,3,475,371,83,32,32,14,3,315,471,104,31,16,7,12,9,24,17,Rensselaer County,North Greenbush 4
+Rensselaer County,North Greenbush 5,425,324,0,0,27,0,13,1,402,304,55,15,25,11,1,280,384,62,15,10,10,5,13,18,13,Rensselaer County,North Greenbush 5
+Rensselaer County,North Greenbush 6,440,269,0,0,19,0,7,6,410,245,47,20,21,6,8,278,334,51,16,15,10,7,7,16,12,Rensselaer County,North Greenbush 6
+Rensselaer County,North Greenbush 7,261,241,0,0,13,0,6,8,237,237,51,8,17,4,6,155,273,62,17,0,13,5,11,11,6,Rensselaer County,North Greenbush 7
+Rensselaer County,North Greenbush 8,484,316,0,0,44,0,11,7,416,310,71,26,53,12,3,281,404,83,16,21,32,5,14,15,20,Rensselaer County,North Greenbush 8
+Rensselaer County,Petersburgh 1,231,271,62,16,15,6,8,2,253,257,60,18,15,8,4,172,296,62,22,4,8,7,4,11,19,Rensselaer County,Petersburgh 1
+Rensselaer County,Pittstown 1,80,143,41,7,6,4,4,1,97,133,41,8,9,3,3,60,163,40,8,1,2,4,6,4,8,Rensselaer County,Pittstown 1
+Rensselaer County,Pittstown 2,92,193,28,7,7,4,2,1,111,181,28,6,11,2,2,67,203,36,5,2,5,1,3,5,12,Rensselaer County,Pittstown 2
+Rensselaer County,Pittstown 3,113,262,45,20,11,9,5,0,133,246,50,9,21,2,3,65,310,55,6,0,5,0,7,6,8,Rensselaer County,Pittstown 3
+Rensselaer County,Pittstown 4,194,267,50,13,9,7,4,2,225,261,50,10,10,4,2,146,303,58,11,3,4,2,5,10,9,Rensselaer County,Pittstown 4
+Rensselaer County,Pittstown 5,111,207,40,12,5,8,5,0,120,199,33,10,13,5,0,71,245,42,6,4,7,1,1,2,13,Rensselaer County,Pittstown 5
+Rensselaer County,Pittstown 6,86,141,34,7,7,4,4,0,97,136,35,7,8,5,1,58,170,33,3,2,3,2,1,5,15,Rensselaer County,Pittstown 6
+Rensselaer County,Poestenkill 1,131,155,26,15,15,4,5,0,153,146,25,11,10,6,1,96,184,24,10,5,0,1,3,16,1,Rensselaer County,Poestenkill 1
+Rensselaer County,Poestenkill 2,236,320,81,7,26,5,10,4,248,306,61,25,20,13,5,151,363,88,29,13,8,9,7,11,15,Rensselaer County,Poestenkill 2
+Rensselaer County,Poestenkill 3,130,117,18,6,6,5,5,1,141,107,24,8,9,4,1,79,146,28,5,3,3,1,1,10,3,Rensselaer County,Poestenkill 3
+Rensselaer County,Poestenkill 4,336,287,68,22,27,11,5,1,352,268,57,27,27,6,3,215,367,61,21,12,8,5,4,15,27,Rensselaer County,Poestenkill 4
+Rensselaer County,Rensselaer 1,211,122,0,0,29,0,7,2,203,122,23,16,17,5,1,157,158,33,8,12,8,1,3,5,6,Rensselaer County,Rensselaer 1
+Rensselaer County,Rensselaer 2,270,109,0,0,18,0,9,5,266,104,14,12,20,4,5,212,132,18,14,6,9,3,4,15,13,Rensselaer County,Rensselaer 2
+Rensselaer County,Rensselaer 3,217,73,0,0,12,0,6,3,209,76,10,12,14,4,1,158,102,19,15,8,8,1,1,7,8,Rensselaer County,Rensselaer 3
+Rensselaer County,Rensselaer 4,232,90,0,0,14,0,5,2,216,86,21,7,11,4,2,152,123,21,9,5,8,3,4,7,17,Rensselaer County,Rensselaer 4
+Rensselaer County,Rensselaer 5,334,148,0,0,14,0,9,1,299,164,28,11,23,4,1,229,191,34,9,7,8,4,3,18,15,Rensselaer County,Rensselaer 5
+Rensselaer County,Rensselaer 6,378,196,0,0,15,0,15,4,355,193,33,8,21,12,2,275,238,37,14,5,12,10,4,12,12,Rensselaer County,Rensselaer 6
+Rensselaer County,Sand Lake 1,594,503,121,34,57,19,24,3,625,479,127,46,58,22,8,416,613,146,53,21,27,14,16,36,22,Rensselaer County,Sand Lake 1
+Rensselaer County,Sand Lake 2,329,257,73,13,29,10,12,4,348,245,74,33,23,8,5,224,308,79,33,18,15,7,9,16,14,Rensselaer County,Sand Lake 2
+Rensselaer County,Sand Lake 3,414,329,64,17,36,12,11,3,436,318,61,30,42,11,5,304,412,72,22,22,15,3,9,22,12,Rensselaer County,Sand Lake 3
+Rensselaer County,Sand Lake 4,145,118,32,14,17,4,4,3,147,124,35,14,17,3,5,87,172,40,18,9,4,2,5,4,4,Rensselaer County,Sand Lake 4
+Rensselaer County,Sand Lake 5,262,185,41,9,23,7,11,2,271,169,48,24,20,8,4,187,223,47,18,11,10,2,5,18,16,Rensselaer County,Sand Lake 5
+Rensselaer County,Sand Lake 6,165,140,34,8,12,10,3,0,171,134,35,13,13,3,5,122,165,43,14,1,3,1,2,6,10,Rensselaer County,Sand Lake 6
+Rensselaer County,Schaghticoke 1,206,323,79,19,20,10,11,2,234,305,76,19,21,8,4,146,376,87,14,4,6,2,12,10,14,Rensselaer County,Schaghticoke 1
+Rensselaer County,Schaghticoke 2,76,106,20,7,4,3,1,0,91,88,23,5,7,0,0,52,119,23,7,1,0,1,3,5,6,Rensselaer County,Schaghticoke 2
+Rensselaer County,Schaghticoke 3,176,259,51,10,13,6,5,2,188,235,59,12,18,6,2,107,309,61,8,7,10,3,2,5,11,Rensselaer County,Schaghticoke 3
+Rensselaer County,Schaghticoke 4,127,169,19,11,4,4,5,0,140,156,21,8,9,4,3,87,204,28,8,0,3,2,1,2,9,Rensselaer County,Schaghticoke 4
+Rensselaer County,Schaghticoke 5,158,160,19,9,16,7,9,3,180,148,21,13,21,5,4,115,186,29,12,4,13,4,10,6,7,Rensselaer County,Schaghticoke 5
+Rensselaer County,Schaghticoke 6,216,277,61,19,12,14,5,1,229,274,62,14,23,5,5,154,329,69,12,5,8,1,7,10,15,Rensselaer County,Schaghticoke 6
+Rensselaer County,Schaghticoke 7,176,316,66,18,16,19,11,0,213,295,69,14,29,6,5,118,365,89,12,4,6,2,5,10,17,Rensselaer County,Schaghticoke 7
+Rensselaer County,Schodack 1,343,258,0,0,19,0,11,4,310,253,44,17,25,7,5,221,307,53,13,6,14,4,7,17,6,Rensselaer County,Schodack 1
+Rensselaer County,Schodack 10,268,192,0,0,30,0,3,4,244,172,34,20,29,5,8,151,234,43,23,14,16,2,10,11,10,Rensselaer County,Schodack 10
+Rensselaer County,Schodack 11,330,251,0,0,22,0,10,6,318,220,53,12,25,7,4,234,264,61,17,6,13,2,4,15,23,Rensselaer County,Schodack 11
+Rensselaer County,Schodack 2,138,146,21,7,9,10,9,3,147,140,23,10,11,5,3,110,160,26,8,7,6,3,6,4,10,Rensselaer County,Schodack 2
+Rensselaer County,Schodack 3,294,224,0,0,33,0,13,7,297,188,57,16,34,6,3,191,251,70,14,11,16,5,10,16,9,Rensselaer County,Schodack 3
+Rensselaer County,Schodack 4,263,296,51,19,29,8,14,1,288,286,52,24,27,8,6,178,342,68,19,14,10,4,12,20,18,Rensselaer County,Schodack 4
+Rensselaer County,Schodack 5,216,147,0,0,20,0,6,0,205,149,18,8,15,4,2,138,191,21,15,5,9,2,3,11,6,Rensselaer County,Schodack 5
+Rensselaer County,Schodack 6,338,303,0,0,19,0,12,5,319,278,60,19,21,11,4,215,349,72,11,3,10,3,8,12,29,Rensselaer County,Schodack 6
+Rensselaer County,Schodack 7,289,286,56,15,23,8,9,2,313,266,58,18,18,6,5,212,337,69,18,7,11,3,10,7,8,Rensselaer County,Schodack 7
+Rensselaer County,Schodack 8,241,272,79,8,20,13,9,2,262,261,79,10,23,7,5,167,324,88,16,5,5,6,6,9,17,Rensselaer County,Schodack 8
+Rensselaer County,Schodack 9,157,131,27,8,9,8,1,0,170,131,24,7,11,1,2,113,173,28,9,3,4,1,2,11,4,Rensselaer County,Schodack 9
+Rensselaer County,Stephentown 1,217,229,34,16,17,7,6,3,226,217,33,11,19,6,5,159,258,41,17,4,8,4,4,11,17,Rensselaer County,Stephentown 1
+Rensselaer County,Stephentown 2,306,267,61,19,21,3,4,0,320,252,66,17,17,5,4,237,306,65,14,8,10,2,7,11,13,Rensselaer County,Stephentown 2
+Rensselaer County,Troy 1,355,206,0,0,16,0,6,4,336,196,44,9,14,5,1,257,255,47,9,6,8,5,4,10,3,Rensselaer County,Troy 1
+Rensselaer County,Troy 10,248,53,0,0,12,0,10,0,240,41,11,18,6,8,0,237,47,11,15,6,6,4,1,6,1,Rensselaer County,Troy 10
+Rensselaer County,Troy 11,334,89,0,0,22,0,8,2,329,74,18,18,10,7,4,277,95,17,30,12,9,1,6,10,7,Rensselaer County,Troy 11
+Rensselaer County,Troy 12,291,80,0,0,18,0,3,2,278,68,23,14,8,5,4,228,89,27,12,12,3,5,3,11,6,Rensselaer County,Troy 12
+Rensselaer County,Troy 13,297,131,0,0,36,0,11,7,271,138,21,24,21,9,9,211,174,27,17,18,12,7,4,11,11,Rensselaer County,Troy 13
+Rensselaer County,Troy 14,172,89,0,0,19,0,8,2,160,92,27,9,9,5,0,126,106,28,16,4,9,4,3,2,4,Rensselaer County,Troy 14
+Rensselaer County,Troy 15,239,70,0,0,19,0,7,6,230,70,14,15,8,7,2,188,81,18,16,12,4,5,2,9,10,Rensselaer County,Troy 15
+Rensselaer County,Troy 16,235,84,0,0,33,0,9,4,229,76,18,28,9,11,1,191,81,17,28,18,2,10,3,6,13,Rensselaer County,Troy 16
+Rensselaer County,Troy 17,291,44,0,0,38,0,8,1,283,43,12,34,11,6,1,251,60,14,33,17,6,2,2,4,4,Rensselaer County,Troy 17
+Rensselaer County,Troy 18,426,64,0,0,41,0,21,1,420,56,10,32,15,13,1,329,77,8,48,19,13,10,1,21,17,Rensselaer County,Troy 18
+Rensselaer County,Troy 19,374,67,0,0,36,0,12,4,364,66,9,34,10,14,0,286,89,10,38,22,7,9,1,19,7,Rensselaer County,Troy 19
+Rensselaer County,Troy 2,118,74,0,0,14,0,5,0,107,68,17,9,8,4,1,90,80,19,5,6,5,1,1,3,4,Rensselaer County,Troy 2
+Rensselaer County,Troy 20,242,71,0,0,25,0,9,1,235,67,15,20,10,10,0,185,93,16,26,10,4,5,1,11,7,Rensselaer County,Troy 20
+Rensselaer County,Troy 21,257,124,0,0,30,0,5,4,235,126,31,17,12,6,4,182,168,32,11,7,4,3,6,6,12,Rensselaer County,Troy 21
+Rensselaer County,Troy 22,320,111,0,0,30,0,9,7,307,98,28,26,14,13,5,225,128,33,28,14,9,5,7,17,14,Rensselaer County,Troy 22
+Rensselaer County,Troy 23,95,41,0,0,15,0,5,2,90,44,6,12,6,4,3,76,45,9,8,7,3,3,0,6,5,Rensselaer County,Troy 23
+Rensselaer County,Troy 24,326,188,0,0,36,0,8,4,309,166,53,24,19,8,5,242,215,54,14,17,12,6,5,10,12,Rensselaer County,Troy 24
+Rensselaer County,Troy 25,255,155,0,0,22,0,8,6,232,154,34,13,14,6,3,168,186,42,15,7,2,4,4,14,15,Rensselaer County,Troy 25
+Rensselaer County,Troy 26,257,129,0,0,17,0,4,3,252,112,18,12,16,5,3,193,152,26,18,5,10,1,4,10,10,Rensselaer County,Troy 26
+Rensselaer County,Troy 27,191,74,0,0,13,0,2,3,194,69,16,6,4,3,4,163,76,22,4,4,4,3,3,8,5,Rensselaer County,Troy 27
+Rensselaer County,Troy 28,189,68,0,0,17,0,4,3,174,75,15,14,6,3,2,141,90,13,17,5,4,2,4,4,7,Rensselaer County,Troy 28
+Rensselaer County,Troy 29,292,80,0,0,28,0,4,1,267,84,21,23,13,4,4,233,100,22,14,15,7,2,3,11,4,Rensselaer County,Troy 29
+Rensselaer County,Troy 3,204,108,0,0,16,0,5,0,194,94,27,8,11,4,1,126,145,30,8,3,5,2,2,8,15,Rensselaer County,Troy 3
+Rensselaer County,Troy 30,240,144,0,0,13,0,3,3,220,134,35,8,15,4,2,158,173,38,14,5,6,2,2,5,14,Rensselaer County,Troy 30
+Rensselaer County,Troy 4,155,126,0,0,17,0,3,2,151,106,22,17,10,4,4,117,131,27,8,6,5,2,4,3,11,Rensselaer County,Troy 4
+Rensselaer County,Troy 5,208,92,0,0,19,0,12,2,202,91,15,18,7,7,2,145,124,21,10,9,3,3,3,10,11,Rensselaer County,Troy 5
+Rensselaer County,Troy 6,224,116,0,0,21,0,13,3,216,107,26,15,19,6,4,169,136,38,14,8,7,6,8,5,5,Rensselaer County,Troy 6
+Rensselaer County,Troy 7,294,199,0,0,27,0,6,4,292,188,44,25,19,4,2,235,232,46,13,13,8,1,3,15,12,Rensselaer County,Troy 7
+Rensselaer County,Troy 8,212,102,0,0,23,0,9,1,201,93,24,18,11,6,1,161,113,29,20,5,6,2,4,9,7,Rensselaer County,Troy 8
+Rensselaer County,Troy 9,236,80,0,0,15,0,10,3,231,72,12,12,13,6,2,204,82,20,12,2,6,3,3,7,5,Rensselaer County,Troy 9

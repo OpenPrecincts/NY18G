@@ -1,53 +1,53 @@
 county,precinct,HOR_DEM,HOR_REP,HOR_CON,HOR_GRE,HOR_WOR,HOR_IND,HOR_WEP,HOR_REF,Sen_DEM,Sen_REP,Sen_CON,Sen_WOR,Sen_IND,Sen_WEP,Sen_REF,Gov_DEM,Gov_REP,Gov_CON,Gov_GRE,Gov_WOR,Gov_IND,Gov_WEP,Gov_REF,Gov_SAM,Gov_LBT,county_id,original_precinct_name
-Madison County,City of Oneida 1,370,381,42,0,11,17,7,2,373,346,47,17,14,9,5,262,420,47,18,8,6,6,6,16,30,Madison County,precinct
-Madison County,City of Oneida 2,334,295,33,0,12,28,2,4,322,295,36,9,22,8,7,233,347,43,6,4,13,2,4,38,22,Madison County,precinct
-Madison County,City of Oneida 3,394,288,40,0,18,24,3,6,389,283,44,17,20,5,6,260,354,50,13,10,14,0,3,33,25,Madison County,precinct
-Madison County,City of Oneida 4,127,113,17,0,10,8,1,1,127,116,20,4,7,3,1,101,125,19,5,3,4,2,1,10,8,Madison County,precinct
-Madison County,City of Oneida 5,177,184,24,0,10,7,4,5,178,173,20,7,9,6,12,145,195,23,1,3,8,4,6,16,14,Madison County,precinct
-Madison County,City of Oneida 6,224,212,42,0,14,19,1,3,209,213,40,13,21,4,5,150,259,47,11,4,8,1,6,9,20,Madison County,precinct
-Madison County,Town of Brookfield 1,84,106,35,0,5,5,3,0,85,105,33,5,6,2,0,50,133,32,0,2,2,1,4,7,9,Madison County,precinct
-Madison County,Town of Brookfield 2,138,203,19,0,11,7,2,3,136,186,16,9,10,6,1,78,230,22,7,1,1,1,6,5,22,Madison County,precinct
-Madison County,Town of Brookfield 3,88,138,23,0,3,7,1,1,91,120,22,6,8,2,4,50,160,21,3,1,3,0,6,6,9,Madison County,precinct
-Madison County,Town of Cazenovia 1,194,217,26,0,12,7,7,2,188,214,28,11,10,8,2,125,232,31,22,6,6,4,2,16,17,Madison County,precinct
-Madison County,Town of Cazenovia 2,282,170,23,0,4,14,6,2,274,168,26,4,14,8,3,212,192,27,15,3,6,4,0,23,13,Madison County,precinct
-Madison County,Town of Cazenovia 3,336,137,21,0,13,11,7,0,331,138,21,14,11,8,1,254,153,23,15,12,7,5,3,23,19,Madison County,precinct
-Madison County,Town of Cazenovia 4,369,237,41,0,7,19,4,2,375,217,48,6,18,6,1,292,251,46,18,4,12,1,3,25,6,Madison County,precinct
-Madison County,Town of Cazenovia 5,388,319,44,0,4,11,4,5,374,320,50,6,14,5,4,293,331,56,16,4,5,4,5,37,13,Madison County,precinct
-Madison County,Town of Cazenovia 6,301,177,27,0,7,5,4,0,296,175,26,1,10,4,1,233,203,26,9,1,8,2,6,21,10,Madison County,precinct
-Madison County,Town of DeRuyter 1,203,303,60,0,12,11,4,3,204,278,57,12,15,4,7,157,305,57,15,5,4,3,4,5,42,Madison County,precinct
-Madison County,Town of Eaton 1,240,243,43,0,11,15,5,2,232,231,39,17,19,12,3,150,275,47,13,10,9,4,4,22,24,Madison County,precinct
-Madison County,Town of Eaton 2,253,289,45,0,7,11,5,5,243,281,51,17,9,2,11,159,320,52,9,2,4,2,8,24,31,Madison County,precinct
-Madison County,Town of Fenner 1,265,330,67,0,19,20,2,2,273,310,68,19,19,6,6,197,345,67,16,11,9,3,4,24,27,Madison County,precinct
-Madison County,Town of Georgetown 1,74,159,22,0,4,2,2,1,69,154,24,5,0,2,0,50,172,20,2,1,0,0,3,3,7,Madison County,precinct
-Madison County,Town of Hamilton 1,312,83,11,0,13,6,4,1,295,80,14,24,6,6,1,246,90,13,15,18,5,8,1,17,16,Madison County,precinct
-Madison County,Town of Hamilton 2,466,118,13,0,17,8,7,2,454,114,11,21,11,10,1,404,125,15,20,15,7,7,1,21,7,Madison County,precinct
-Madison County,Town of Hamilton 3,92,100,11,0,4,4,3,1,93,97,9,3,2,4,0,72,96,16,5,4,1,1,0,7,9,Madison County,precinct
-Madison County,Town of Hamilton 4,265,232,43,0,6,9,3,1,260,214,40,5,10,5,3,184,250,32,18,1,6,3,4,22,24,Madison County,precinct
-Madison County,Town of Lebanon 1,61,108,13,0,5,3,1,0,69,92,9,7,7,1,0,52,102,12,4,3,3,0,0,3,14,Madison County,precinct
-Madison County,Town of Lebanon 2,160,147,12,0,2,9,1,2,160,130,13,8,11,2,0,112,163,17,3,1,7,0,2,9,13,Madison County,precinct
-Madison County,Town of Lenox 1,248,352,35,0,6,7,3,10,230,338,37,14,12,8,9,160,367,46,8,3,7,5,7,14,41,Madison County,precinct
-Madison County,Town of Lenox 2,203,251,33,0,13,11,3,6,194,244,32,14,13,4,7,133,276,35,10,3,5,2,12,14,22,Madison County,precinct
-Madison County,Town of Lenox 3,219,226,39,0,12,15,3,3,211,212,36,13,11,7,5,165,249,35,10,3,6,2,1,20,21,Madison County,precinct
-Madison County,Town of Lenox 4,208,209,25,0,7,8,1,0,199,201,28,6,9,2,0,129,235,25,9,0,2,1,5,16,26,Madison County,precinct
-Madison County,Town of Lenox 5,284,313,46,0,9,20,5,2,269,310,47,15,20,5,4,198,345,50,12,7,12,4,7,28,25,Madison County,precinct
-Madison County,Town of Lenox 6,108,161,15,0,5,9,1,4,108,152,18,6,8,2,3,78,177,14,3,0,4,1,4,6,12,Madison County,precinct
-Madison County,Town of Lincoln 1,120,194,34,0,6,3,3,1,125,181,33,3,8,1,2,78,226,30,1,3,5,1,1,7,9,Madison County,precinct
-Madison County,Town of Lincoln 2,118,223,16,0,6,9,4,3,118,209,22,9,9,7,2,77,227,25,5,5,3,2,3,8,17,Madison County,precinct
-Madison County,Town of Madison 1,305,293,44,0,10,10,5,6,305,283,43,11,14,8,3,239,321,50,8,4,9,3,5,13,19,Madison County,precinct
-Madison County,Town of Madison 2,243,194,32,0,8,11,5,7,237,182,34,6,16,5,3,192,215,38,7,2,6,3,2,10,21,Madison County,precinct
-Madison County,Town of Nelson 1,207,197,38,0,15,13,1,0,218,183,41,9,15,5,1,151,215,43,12,7,7,4,4,18,5,Madison County,precinct
-Madison County,Town of Nelson 2,199,217,24,0,4,11,2,0,202,202,26,7,12,5,2,153,224,33,11,0,3,0,6,22,3,Madison County,precinct
-Madison County,Town of Smithfield 1,129,210,39,0,12,8,1,5,134,185,46,11,10,1,7,92,212,45,8,3,5,3,2,13,18,Madison County,precinct
-Madison County,Town of Stockbridge 1,116,176,15,0,9,6,0,2,120,165,18,8,7,1,4,78,192,17,3,2,1,0,5,2,24,Madison County,precinct
-Madison County,Town of Stockbridge 2,138,205,17,0,15,3,5,3,133,188,15,18,10,2,5,85,215,25,3,8,4,2,1,9,28,Madison County,precinct
-Madison County,Town of Sullivan 1,442,394,64,0,11,23,5,1,445,380,64,14,25,9,4,325,454,66,16,3,13,6,9,27,20,Madison County,precinct
-Madison County,Town of Sullivan 10,193,181,42,0,10,24,1,5,183,185,45,14,19,1,5,144,198,42,11,5,13,1,1,14,29,Madison County,precinct
-Madison County,Town of Sullivan 11,186,202,35,0,8,15,2,3,185,192,41,10,11,2,5,134,203,45,6,4,7,5,5,11,26,Madison County,precinct
-Madison County,Town of Sullivan 2,265,343,63,0,8,17,4,7,265,331,63,13,19,3,5,196,362,64,16,4,6,1,8,15,24,Madison County,precinct
-Madison County,Town of Sullivan 3,207,274,31,0,8,11,3,1,202,264,35,9,14,3,4,127,307,36,11,5,5,5,3,14,23,Madison County,precinct
-Madison County,Town of Sullivan 4,130,131,22,0,0,10,1,1,126,131,23,4,9,0,2,98,135,26,4,0,6,1,0,10,9,Madison County,precinct
-Madison County,Town of Sullivan 5,281,311,50,0,13,14,0,1,284,296,49,12,18,2,4,214,346,53,9,7,15,0,4,10,10,Madison County,precinct
-Madison County,Town of Sullivan 6,283,276,44,0,6,20,5,1,277,278,44,7,22,5,1,184,319,46,16,5,7,5,4,25,21,Madison County,precinct
-Madison County,Town of Sullivan 7,211,293,53,0,6,10,1,2,211,279,53,6,12,2,4,132,312,53,13,5,7,0,4,18,26,Madison County,precinct
-Madison County,Town of Sullivan 8,180,131,15,0,12,12,2,0,184,126,19,5,11,0,0,129,158,22,10,5,5,0,2,7,13,Madison County,precinct
-Madison County,Town of Sullivan 9,164,203,44,0,6,11,2,5,152,203,43,8,14,2,1,111,220,50,9,2,3,2,6,9,18,Madison County,precinct
+Madison County,City of Oneida 1,370,381,42,0,11,17,7,2,373,346,47,17,14,9,5,262,420,47,18,8,6,6,6,16,30,Madison County,City of Oneida 1
+Madison County,City of Oneida 2,334,295,33,0,12,28,2,4,322,295,36,9,22,8,7,233,347,43,6,4,13,2,4,38,22,Madison County,City of Oneida 2
+Madison County,City of Oneida 3,394,288,40,0,18,24,3,6,389,283,44,17,20,5,6,260,354,50,13,10,14,0,3,33,25,Madison County,City of Oneida 3
+Madison County,City of Oneida 4,127,113,17,0,10,8,1,1,127,116,20,4,7,3,1,101,125,19,5,3,4,2,1,10,8,Madison County,City of Oneida 4
+Madison County,City of Oneida 5,177,184,24,0,10,7,4,5,178,173,20,7,9,6,12,145,195,23,1,3,8,4,6,16,14,Madison County,City of Oneida 5
+Madison County,City of Oneida 6,224,212,42,0,14,19,1,3,209,213,40,13,21,4,5,150,259,47,11,4,8,1,6,9,20,Madison County,City of Oneida 6
+Madison County,Town of Brookfield 1,84,106,35,0,5,5,3,0,85,105,33,5,6,2,0,50,133,32,0,2,2,1,4,7,9,Madison County,Town of Brookfield 1
+Madison County,Town of Brookfield 2,138,203,19,0,11,7,2,3,136,186,16,9,10,6,1,78,230,22,7,1,1,1,6,5,22,Madison County,Town of Brookfield 2
+Madison County,Town of Brookfield 3,88,138,23,0,3,7,1,1,91,120,22,6,8,2,4,50,160,21,3,1,3,0,6,6,9,Madison County,Town of Brookfield 3
+Madison County,Town of Cazenovia 1,194,217,26,0,12,7,7,2,188,214,28,11,10,8,2,125,232,31,22,6,6,4,2,16,17,Madison County,Town of Cazenovia 1
+Madison County,Town of Cazenovia 2,282,170,23,0,4,14,6,2,274,168,26,4,14,8,3,212,192,27,15,3,6,4,0,23,13,Madison County,Town of Cazenovia 2
+Madison County,Town of Cazenovia 3,336,137,21,0,13,11,7,0,331,138,21,14,11,8,1,254,153,23,15,12,7,5,3,23,19,Madison County,Town of Cazenovia 3
+Madison County,Town of Cazenovia 4,369,237,41,0,7,19,4,2,375,217,48,6,18,6,1,292,251,46,18,4,12,1,3,25,6,Madison County,Town of Cazenovia 4
+Madison County,Town of Cazenovia 5,388,319,44,0,4,11,4,5,374,320,50,6,14,5,4,293,331,56,16,4,5,4,5,37,13,Madison County,Town of Cazenovia 5
+Madison County,Town of Cazenovia 6,301,177,27,0,7,5,4,0,296,175,26,1,10,4,1,233,203,26,9,1,8,2,6,21,10,Madison County,Town of Cazenovia 6
+Madison County,Town of DeRuyter 1,203,303,60,0,12,11,4,3,204,278,57,12,15,4,7,157,305,57,15,5,4,3,4,5,42,Madison County,Town of DeRuyter 1
+Madison County,Town of Eaton 1,240,243,43,0,11,15,5,2,232,231,39,17,19,12,3,150,275,47,13,10,9,4,4,22,24,Madison County,Town of Eaton 1
+Madison County,Town of Eaton 2,253,289,45,0,7,11,5,5,243,281,51,17,9,2,11,159,320,52,9,2,4,2,8,24,31,Madison County,Town of Eaton 2
+Madison County,Town of Fenner 1,265,330,67,0,19,20,2,2,273,310,68,19,19,6,6,197,345,67,16,11,9,3,4,24,27,Madison County,Town of Fenner 1
+Madison County,Town of Georgetown 1,74,159,22,0,4,2,2,1,69,154,24,5,0,2,0,50,172,20,2,1,0,0,3,3,7,Madison County,Town of Georgetown 1
+Madison County,Town of Hamilton 1,312,83,11,0,13,6,4,1,295,80,14,24,6,6,1,246,90,13,15,18,5,8,1,17,16,Madison County,Town of Hamilton 1
+Madison County,Town of Hamilton 2,466,118,13,0,17,8,7,2,454,114,11,21,11,10,1,404,125,15,20,15,7,7,1,21,7,Madison County,Town of Hamilton 2
+Madison County,Town of Hamilton 3,92,100,11,0,4,4,3,1,93,97,9,3,2,4,0,72,96,16,5,4,1,1,0,7,9,Madison County,Town of Hamilton 3
+Madison County,Town of Hamilton 4,265,232,43,0,6,9,3,1,260,214,40,5,10,5,3,184,250,32,18,1,6,3,4,22,24,Madison County,Town of Hamilton 4
+Madison County,Town of Lebanon 1,61,108,13,0,5,3,1,0,69,92,9,7,7,1,0,52,102,12,4,3,3,0,0,3,14,Madison County,Town of Lebanon 1
+Madison County,Town of Lebanon 2,160,147,12,0,2,9,1,2,160,130,13,8,11,2,0,112,163,17,3,1,7,0,2,9,13,Madison County,Town of Lebanon 2
+Madison County,Town of Lenox 1,248,352,35,0,6,7,3,10,230,338,37,14,12,8,9,160,367,46,8,3,7,5,7,14,41,Madison County,Town of Lenox 1
+Madison County,Town of Lenox 2,203,251,33,0,13,11,3,6,194,244,32,14,13,4,7,133,276,35,10,3,5,2,12,14,22,Madison County,Town of Lenox 2
+Madison County,Town of Lenox 3,219,226,39,0,12,15,3,3,211,212,36,13,11,7,5,165,249,35,10,3,6,2,1,20,21,Madison County,Town of Lenox 3
+Madison County,Town of Lenox 4,208,209,25,0,7,8,1,0,199,201,28,6,9,2,0,129,235,25,9,0,2,1,5,16,26,Madison County,Town of Lenox 4
+Madison County,Town of Lenox 5,284,313,46,0,9,20,5,2,269,310,47,15,20,5,4,198,345,50,12,7,12,4,7,28,25,Madison County,Town of Lenox 5
+Madison County,Town of Lenox 6,108,161,15,0,5,9,1,4,108,152,18,6,8,2,3,78,177,14,3,0,4,1,4,6,12,Madison County,Town of Lenox 6
+Madison County,Town of Lincoln 1,120,194,34,0,6,3,3,1,125,181,33,3,8,1,2,78,226,30,1,3,5,1,1,7,9,Madison County,Town of Lincoln 1
+Madison County,Town of Lincoln 2,118,223,16,0,6,9,4,3,118,209,22,9,9,7,2,77,227,25,5,5,3,2,3,8,17,Madison County,Town of Lincoln 2
+Madison County,Town of Madison 1,305,293,44,0,10,10,5,6,305,283,43,11,14,8,3,239,321,50,8,4,9,3,5,13,19,Madison County,Town of Madison 1
+Madison County,Town of Madison 2,243,194,32,0,8,11,5,7,237,182,34,6,16,5,3,192,215,38,7,2,6,3,2,10,21,Madison County,Town of Madison 2
+Madison County,Town of Nelson 1,207,197,38,0,15,13,1,0,218,183,41,9,15,5,1,151,215,43,12,7,7,4,4,18,5,Madison County,Town of Nelson 1
+Madison County,Town of Nelson 2,199,217,24,0,4,11,2,0,202,202,26,7,12,5,2,153,224,33,11,0,3,0,6,22,3,Madison County,Town of Nelson 2
+Madison County,Town of Smithfield 1,129,210,39,0,12,8,1,5,134,185,46,11,10,1,7,92,212,45,8,3,5,3,2,13,18,Madison County,Town of Smithfield 1
+Madison County,Town of Stockbridge 1,116,176,15,0,9,6,0,2,120,165,18,8,7,1,4,78,192,17,3,2,1,0,5,2,24,Madison County,Town of Stockbridge 1
+Madison County,Town of Stockbridge 2,138,205,17,0,15,3,5,3,133,188,15,18,10,2,5,85,215,25,3,8,4,2,1,9,28,Madison County,Town of Stockbridge 2
+Madison County,Town of Sullivan 1,442,394,64,0,11,23,5,1,445,380,64,14,25,9,4,325,454,66,16,3,13,6,9,27,20,Madison County,Town of Sullivan 1
+Madison County,Town of Sullivan 10,193,181,42,0,10,24,1,5,183,185,45,14,19,1,5,144,198,42,11,5,13,1,1,14,29,Madison County,Town of Sullivan 10
+Madison County,Town of Sullivan 11,186,202,35,0,8,15,2,3,185,192,41,10,11,2,5,134,203,45,6,4,7,5,5,11,26,Madison County,Town of Sullivan 11
+Madison County,Town of Sullivan 2,265,343,63,0,8,17,4,7,265,331,63,13,19,3,5,196,362,64,16,4,6,1,8,15,24,Madison County,Town of Sullivan 2
+Madison County,Town of Sullivan 3,207,274,31,0,8,11,3,1,202,264,35,9,14,3,4,127,307,36,11,5,5,5,3,14,23,Madison County,Town of Sullivan 3
+Madison County,Town of Sullivan 4,130,131,22,0,0,10,1,1,126,131,23,4,9,0,2,98,135,26,4,0,6,1,0,10,9,Madison County,Town of Sullivan 4
+Madison County,Town of Sullivan 5,281,311,50,0,13,14,0,1,284,296,49,12,18,2,4,214,346,53,9,7,15,0,4,10,10,Madison County,Town of Sullivan 5
+Madison County,Town of Sullivan 6,283,276,44,0,6,20,5,1,277,278,44,7,22,5,1,184,319,46,16,5,7,5,4,25,21,Madison County,Town of Sullivan 6
+Madison County,Town of Sullivan 7,211,293,53,0,6,10,1,2,211,279,53,6,12,2,4,132,312,53,13,5,7,0,4,18,26,Madison County,Town of Sullivan 7
+Madison County,Town of Sullivan 8,180,131,15,0,12,12,2,0,184,126,19,5,11,0,0,129,158,22,10,5,5,0,2,7,13,Madison County,Town of Sullivan 8
+Madison County,Town of Sullivan 9,164,203,44,0,6,11,2,5,152,203,43,8,14,2,1,111,220,50,9,2,3,2,6,9,18,Madison County,Town of Sullivan 9

@@ -1,28 +1,28 @@
 county,precinct,HOR_DEM,HOR_REP,HOR_CON,HOR_GRE,HOR_WOR,HOR_IND,HOR_WEP,HOR_REF,Sen_DEM,Sen_REP,Sen_CON,Sen_WOR,Sen_IND,Sen_WEP,Sen_REF,Gov_DEM,Gov_REP,Gov_CON,Gov_GRE,Gov_WOR,Gov_IND,Gov_WEP,Gov_REF,Gov_SAM,Gov_LBT,county_id,original_precinct_name
-Seneca County,Town of Covert 1 LD 1,311,210,25,0,22,7,4,0,303,205,24,17,15,4,4,235,220,26,16,12,11,4,2,20,38,Seneca County,precinct
-Seneca County,Town of Covert 2 LD 1,241,179,16,0,17,2,8,0,250,156,17,20,11,6,1,168,182,17,27,9,5,3,3,15,28,Seneca County,precinct
-Seneca County,Town of Fayette 1 LD 1,179,189,18,0,9,8,2,0,183,168,23,9,12,1,5,130,211,25,9,3,6,0,7,9,9,Seneca County,precinct
-Seneca County,Town of Fayette 2 LD 1,200,281,25,0,14,12,9,0,222,253,20,16,20,6,2,150,309,26,6,6,6,1,7,19,17,Seneca County,precinct
-Seneca County,Town of Fayette 3 LD 1,197,276,32,0,21,17,1,0,235,237,27,18,13,2,6,162,298,39,4,11,6,2,4,16,18,Seneca County,precinct
-Seneca County,Town of Junius 1 LD 1,114,245,32,0,18,7,5,0,116,223,30,18,9,9,2,80,255,31,6,5,3,5,3,12,27,Seneca County,precinct
-Seneca County,Town of Lodi 1 LD 1,293,273,19,0,13,14,11,0,289,256,23,15,14,8,4,196,294,21,11,5,7,6,7,22,43,Seneca County,precinct
-Seneca County,Town of Ovid 1 LD 1,164,176,21,0,8,8,1,0,185,151,19,10,9,2,4,129,185,20,9,3,3,1,2,4,22,Seneca County,precinct
-Seneca County,Town of Ovid 2 LD 1,171,199,23,0,10,5,3,0,167,189,25,12,5,4,4,128,201,24,9,4,3,2,2,9,26,Seneca County,precinct
-Seneca County,Town of Romulus 1 LD 1,79,114,23,0,5,4,2,0,76,108,23,3,9,1,1,56,116,29,5,1,0,0,0,3,18,Seneca County,precinct
-Seneca County,Town of Romulus 2 LD 1,126,115,13,0,10,4,6,0,134,108,15,6,5,3,3,98,120,19,1,1,1,3,4,6,18,Seneca County,precinct
-Seneca County,Town of Romulus 3 LD 1,79,96,9,0,7,4,0,0,83,88,9,5,6,0,1,60,98,9,5,2,3,1,2,4,9,Seneca County,precinct
-Seneca County,Town of Seneca Falls 1 LD 1,207,145,20,0,17,7,5,0,223,136,18,7,9,4,2,177,155,19,10,4,2,4,3,11,16,Seneca County,precinct
-Seneca County,Town of Seneca Falls 2 LD 1,256,175,27,0,20,10,10,0,268,160,23,18,15,6,3,213,197,26,10,2,8,5,1,16,19,Seneca County,precinct
-Seneca County,Town of Seneca Falls 3 LD 1,134,91,5,0,13,8,7,0,140,80,9,8,11,7,2,114,105,15,4,0,4,4,4,7,13,Seneca County,precinct
-Seneca County,Town of Seneca Falls 4 LD 1,234,230,18,0,13,6,3,0,241,208,14,17,13,2,5,193,241,17,5,7,4,3,8,8,21,Seneca County,precinct
-Seneca County,Town of Seneca Falls 5 LD 1,163,144,16,0,7,7,8,0,166,132,12,10,11,8,3,131,154,18,2,3,3,5,2,12,21,Seneca County,precinct
-Seneca County,Town of Seneca Falls 6 LD 1,217,139,16,0,10,4,2,0,228,111,18,11,14,1,3,167,144,16,9,3,11,0,4,12,19,Seneca County,precinct
-Seneca County,Town of Seneca Falls 7 LD 1,131,100,12,0,13,3,7,0,143,85,12,5,12,3,2,107,114,12,9,2,8,1,0,3,8,Seneca County,precinct
-Seneca County,Town of Seneca Falls 8 LD 1,223,275,31,0,10,23,9,0,246,249,31,10,19,6,4,183,280,35,9,2,5,6,5,21,23,Seneca County,precinct
-Seneca County,Town of Tyre 1 LD 1,110,172,21,0,8,7,2,0,116,162,20,7,8,3,1,76,182,21,3,2,5,0,1,12,14,Seneca County,precinct
-Seneca County,Town of Varick 1 LD 1,228,301,37,0,16,8,5,0,225,289,40,13,11,5,2,168,317,41,15,8,4,4,5,11,17,Seneca County,precinct
-Seneca County,Town of Waterloo 1 LD 1,216,240,24,0,16,18,4,0,227,225,18,16,19,9,6,170,252,29,5,5,7,3,2,12,34,Seneca County,precinct
-Seneca County,Town of Waterloo 2 LD 1,183,239,27,0,9,13,5,0,203,202,29,8,12,5,5,143,250,42,5,2,6,0,5,7,20,Seneca County,precinct
-Seneca County,Town of Waterloo 3 LD 1,166,190,24,0,8,7,3,0,164,169,22,14,11,7,2,121,197,34,3,4,4,3,5,8,21,Seneca County,precinct
-Seneca County,Town of Waterloo 4 LD 1,223,370,37,0,19,17,6,0,244,337,36,18,21,4,6,178,383,42,8,6,7,0,7,13,42,Seneca County,precinct
-Seneca County,Town of Waterloo 5 LD 1,128,160,23,0,10,9,6,0,149,139,17,11,15,4,1,108,170,26,4,3,7,3,4,5,12,Seneca County,precinct
+Seneca County,Town of Covert 1 LD 1,311,210,25,0,22,7,4,0,303,205,24,17,15,4,4,235,220,26,16,12,11,4,2,20,38,Seneca County,Town of Covert 1 LD 1
+Seneca County,Town of Covert 2 LD 1,241,179,16,0,17,2,8,0,250,156,17,20,11,6,1,168,182,17,27,9,5,3,3,15,28,Seneca County,Town of Covert 2 LD 1
+Seneca County,Town of Fayette 1 LD 1,179,189,18,0,9,8,2,0,183,168,23,9,12,1,5,130,211,25,9,3,6,0,7,9,9,Seneca County,Town of Fayette 1 LD 1
+Seneca County,Town of Fayette 2 LD 1,200,281,25,0,14,12,9,0,222,253,20,16,20,6,2,150,309,26,6,6,6,1,7,19,17,Seneca County,Town of Fayette 2 LD 1
+Seneca County,Town of Fayette 3 LD 1,197,276,32,0,21,17,1,0,235,237,27,18,13,2,6,162,298,39,4,11,6,2,4,16,18,Seneca County,Town of Fayette 3 LD 1
+Seneca County,Town of Junius 1 LD 1,114,245,32,0,18,7,5,0,116,223,30,18,9,9,2,80,255,31,6,5,3,5,3,12,27,Seneca County,Town of Junius 1 LD 1
+Seneca County,Town of Lodi 1 LD 1,293,273,19,0,13,14,11,0,289,256,23,15,14,8,4,196,294,21,11,5,7,6,7,22,43,Seneca County,Town of Lodi 1 LD 1
+Seneca County,Town of Ovid 1 LD 1,164,176,21,0,8,8,1,0,185,151,19,10,9,2,4,129,185,20,9,3,3,1,2,4,22,Seneca County,Town of Ovid 1 LD 1
+Seneca County,Town of Ovid 2 LD 1,171,199,23,0,10,5,3,0,167,189,25,12,5,4,4,128,201,24,9,4,3,2,2,9,26,Seneca County,Town of Ovid 2 LD 1
+Seneca County,Town of Romulus 1 LD 1,79,114,23,0,5,4,2,0,76,108,23,3,9,1,1,56,116,29,5,1,0,0,0,3,18,Seneca County,Town of Romulus 1 LD 1
+Seneca County,Town of Romulus 2 LD 1,126,115,13,0,10,4,6,0,134,108,15,6,5,3,3,98,120,19,1,1,1,3,4,6,18,Seneca County,Town of Romulus 2 LD 1
+Seneca County,Town of Romulus 3 LD 1,79,96,9,0,7,4,0,0,83,88,9,5,6,0,1,60,98,9,5,2,3,1,2,4,9,Seneca County,Town of Romulus 3 LD 1
+Seneca County,Town of Seneca Falls 1 LD 1,207,145,20,0,17,7,5,0,223,136,18,7,9,4,2,177,155,19,10,4,2,4,3,11,16,Seneca County,Town of Seneca Falls 1 LD 1
+Seneca County,Town of Seneca Falls 2 LD 1,256,175,27,0,20,10,10,0,268,160,23,18,15,6,3,213,197,26,10,2,8,5,1,16,19,Seneca County,Town of Seneca Falls 2 LD 1
+Seneca County,Town of Seneca Falls 3 LD 1,134,91,5,0,13,8,7,0,140,80,9,8,11,7,2,114,105,15,4,0,4,4,4,7,13,Seneca County,Town of Seneca Falls 3 LD 1
+Seneca County,Town of Seneca Falls 4 LD 1,234,230,18,0,13,6,3,0,241,208,14,17,13,2,5,193,241,17,5,7,4,3,8,8,21,Seneca County,Town of Seneca Falls 4 LD 1
+Seneca County,Town of Seneca Falls 5 LD 1,163,144,16,0,7,7,8,0,166,132,12,10,11,8,3,131,154,18,2,3,3,5,2,12,21,Seneca County,Town of Seneca Falls 5 LD 1
+Seneca County,Town of Seneca Falls 6 LD 1,217,139,16,0,10,4,2,0,228,111,18,11,14,1,3,167,144,16,9,3,11,0,4,12,19,Seneca County,Town of Seneca Falls 6 LD 1
+Seneca County,Town of Seneca Falls 7 LD 1,131,100,12,0,13,3,7,0,143,85,12,5,12,3,2,107,114,12,9,2,8,1,0,3,8,Seneca County,Town of Seneca Falls 7 LD 1
+Seneca County,Town of Seneca Falls 8 LD 1,223,275,31,0,10,23,9,0,246,249,31,10,19,6,4,183,280,35,9,2,5,6,5,21,23,Seneca County,Town of Seneca Falls 8 LD 1
+Seneca County,Town of Tyre 1 LD 1,110,172,21,0,8,7,2,0,116,162,20,7,8,3,1,76,182,21,3,2,5,0,1,12,14,Seneca County,Town of Tyre 1 LD 1
+Seneca County,Town of Varick 1 LD 1,228,301,37,0,16,8,5,0,225,289,40,13,11,5,2,168,317,41,15,8,4,4,5,11,17,Seneca County,Town of Varick 1 LD 1
+Seneca County,Town of Waterloo 1 LD 1,216,240,24,0,16,18,4,0,227,225,18,16,19,9,6,170,252,29,5,5,7,3,2,12,34,Seneca County,Town of Waterloo 1 LD 1
+Seneca County,Town of Waterloo 2 LD 1,183,239,27,0,9,13,5,0,203,202,29,8,12,5,5,143,250,42,5,2,6,0,5,7,20,Seneca County,Town of Waterloo 2 LD 1
+Seneca County,Town of Waterloo 3 LD 1,166,190,24,0,8,7,3,0,164,169,22,14,11,7,2,121,197,34,3,4,4,3,5,8,21,Seneca County,Town of Waterloo 3 LD 1
+Seneca County,Town of Waterloo 4 LD 1,223,370,37,0,19,17,6,0,244,337,36,18,21,4,6,178,383,42,8,6,7,0,7,13,42,Seneca County,Town of Waterloo 4 LD 1
+Seneca County,Town of Waterloo 5 LD 1,128,160,23,0,10,9,6,0,149,139,17,11,15,4,1,108,170,26,4,3,7,3,4,5,12,Seneca County,Town of Waterloo 5 LD 1

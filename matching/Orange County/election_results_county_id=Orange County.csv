@@ -1,335 +1,335 @@
 county,precinct,HOR_DEM,HOR_REP,HOR_CON,HOR_GRE,HOR_WOR,HOR_IND,HOR_WEP,HOR_REF,Sen_DEM,Sen_REP,Sen_CON,Sen_WOR,Sen_IND,Sen_WEP,Sen_REF,Gov_DEM,Gov_REP,Gov_CON,Gov_GRE,Gov_WOR,Gov_IND,Gov_WEP,Gov_REF,Gov_SAM,Gov_LBT,county_id,original_precinct_name
-Orange County,Blooming Grove 1-1,117,64,11,0,1,1,0,6,116,68,11,2,1,0,3,99,82,9,0,1,0,0,5,0,0,Orange County,precinct
-Orange County,Blooming Grove 1-2,249,183,21,0,8,10,0,10,260,175,20,10,10,5,6,225,200,25,0,3,12,2,8,0,0,Orange County,precinct
-Orange County,Blooming Grove 1-3,211,150,22,0,5,5,0,10,217,148,20,7,8,0,10,190,173,20,0,1,3,0,17,0,0,Orange County,precinct
-Orange County,Blooming Grove 1-4,24,32,3,0,0,0,0,0,20,32,3,0,0,0,2,17,34,4,0,0,0,0,3,0,0,Orange County,precinct
-Orange County,Blooming Grove 2-1,87,73,13,0,3,2,0,7,87,69,13,3,1,3,5,71,82,16,0,1,1,1,8,0,0,Orange County,precinct
-Orange County,Blooming Grove 2-2,202,189,32,0,5,4,2,4,203,176,31,7,6,5,2,167,210,35,0,1,5,0,4,0,0,Orange County,precinct
-Orange County,Blooming Grove 2-3,160,165,23,0,5,5,1,7,166,153,21,7,7,1,7,128,192,25,0,3,0,1,5,0,0,Orange County,precinct
-Orange County,Blooming Grove 3-1,159,180,32,0,7,8,2,7,166,168,37,9,7,2,10,122,188,36,0,7,2,3,18,0,0,Orange County,precinct
-Orange County,Blooming Grove 3-2,136,105,19,0,3,5,3,4,140,104,15,5,4,2,5,117,118,21,0,2,1,2,5,0,0,Orange County,precinct
-Orange County,Blooming Grove 3-3,123,111,21,0,8,6,2,6,127,109,20,12,6,1,4,103,130,23,0,4,1,0,11,0,0,Orange County,precinct
-Orange County,Blooming Grove 3-4,20,4,2,0,1,1,0,1,19,3,2,2,2,0,2,18,3,2,0,1,0,0,0,0,0,Orange County,precinct
-Orange County,Blooming Grove 4-1,93,110,16,0,2,13,1,14,98,102,14,2,15,0,16,82,123,15,0,1,13,1,17,0,0,Orange County,precinct
-Orange County,Blooming Grove 4-2,152,128,22,0,5,8,4,7,159,120,19,6,9,3,11,127,135,22,0,3,9,1,14,0,0,Orange County,precinct
-Orange County,Blooming Grove 4-3,107,101,21,0,4,4,2,22,107,104,16,7,5,0,20,88,104,22,0,3,2,0,31,0,0,Orange County,precinct
-Orange County,Blooming Grove 5-1,153,171,48,0,5,7,1,4,153,166,46,12,7,1,3,113,195,50,0,7,3,0,8,0,0,Orange County,precinct
-Orange County,Blooming Grove 5-2,13,25,4,0,2,2,0,1,14,25,4,2,3,2,0,12,29,6,0,2,0,0,0,0,0,Orange County,precinct
-Orange County,Blooming Grove 5-3,161,191,29,0,7,7,4,12,170,175,26,9,9,5,13,121,205,29,0,3,6,5,18,0,0,Orange County,precinct
-Orange County,Blooming Grove 5-4,138,151,28,0,3,2,0,4,145,149,22,3,2,0,5,119,169,22,0,3,1,0,7,0,0,Orange County,precinct
-Orange County,Blooming Grove 5-5,27,17,9,0,1,1,0,1,29,16,10,0,1,0,0,23,21,10,0,0,1,0,0,0,0,Orange County,precinct
-Orange County,Blooming Grove 6-1,137,148,23,0,2,4,2,2,132,149,17,5,7,2,3,112,158,21,0,3,5,0,6,0,0,Orange County,precinct
-Orange County,Blooming Grove 6-2,160,191,31,0,4,11,4,8,152,194,34,2,10,7,7,126,216,28,0,0,7,2,8,0,0,Orange County,precinct
-Orange County,Blooming Grove 6-3,197,215,52,0,11,4,6,10,217,197,43,12,4,6,11,150,230,49,0,4,0,1,18,0,0,Orange County,precinct
-Orange County,Blooming Grove 6-4,11,13,5,0,0,0,0,2,11,12,5,0,0,0,1,8,13,5,0,0,0,0,3,0,0,Orange County,precinct
-Orange County,Chester 1,256,195,32,0,12,11,3,8,270,180,29,10,14,3,9,221,231,27,0,6,5,3,12,0,0,Orange County,precinct
-Orange County,Chester 10,165,138,27,0,9,3,3,2,167,133,23,10,8,4,3,127,160,25,0,5,1,2,4,0,0,Orange County,precinct
-Orange County,Chester 11,129,140,13,0,2,4,1,6,124,133,16,4,6,0,8,98,154,22,0,1,2,1,9,0,0,Orange County,precinct
-Orange County,Chester 12,198,218,36,0,6,6,1,2,207,201,34,6,8,1,3,163,233,39,0,3,4,1,4,0,0,Orange County,precinct
-Orange County,Chester 2,160,126,12,0,3,7,3,2,159,117,14,5,7,6,2,125,147,17,0,2,4,4,3,0,0,Orange County,precinct
-Orange County,Chester 3,225,250,29,0,3,13,1,9,220,250,30,7,8,2,10,167,287,32,0,7,6,2,15,0,0,Orange County,precinct
-Orange County,Chester 4,249,244,41,0,7,4,2,6,259,235,35,4,7,4,5,217,259,41,0,3,4,3,15,0,0,Orange County,precinct
-Orange County,Chester 5,165,216,55,0,4,8,1,12,169,200,54,9,10,3,10,134,250,50,0,2,7,2,12,0,0,Orange County,precinct
-Orange County,Chester 6,159,121,29,0,2,3,1,2,162,113,30,4,4,0,1,139,131,27,0,1,1,0,5,0,0,Orange County,precinct
-Orange County,Chester 7,244,231,22,0,9,6,2,9,247,229,24,14,6,1,7,202,253,22,0,4,9,2,14,0,0,Orange County,precinct
-Orange County,Chester 8,226,116,16,0,5,2,3,3,234,111,12,6,4,4,3,198,138,13,0,0,2,6,4,0,0,Orange County,precinct
-Orange County,Chester 9,120,70,3,0,1,1,2,1,130,58,3,2,1,1,1,105,74,4,0,1,0,2,2,0,0,Orange County,precinct
-Orange County,City of Newburgh 1-1,158,7,1,0,5,1,3,0,161,7,1,6,2,2,1,159,12,1,0,7,3,1,0,0,0,Orange County,precinct
-Orange County,City of Newburgh 1-2,319,18,0,0,8,5,3,2,311,22,0,10,6,2,0,309,27,2,0,7,4,2,0,0,0,Orange County,precinct
-Orange County,City of Newburgh 1-3,197,22,4,0,3,3,1,0,193,22,4,2,3,2,1,188,29,4,0,3,1,2,1,0,0,Orange County,precinct
-Orange County,City of Newburgh 1-4,267,89,7,0,15,5,3,5,260,81,10,15,6,3,4,235,96,9,0,15,6,6,6,0,0,Orange County,precinct
-Orange County,City of Newburgh 2-1,311,35,2,0,8,6,3,2,306,35,2,12,6,5,0,315,42,4,0,7,3,2,2,0,0,Orange County,precinct
-Orange County,City of Newburgh 2-2,383,36,2,0,20,4,4,0,379,35,1,19,1,1,0,359,50,4,0,18,1,1,0,0,0,Orange County,precinct
-Orange County,City of Newburgh 3-1,253,109,16,0,6,6,3,2,238,116,15,13,4,3,2,229,134,15,0,4,2,1,4,0,0,Orange County,precinct
-Orange County,City of Newburgh 3-2,317,91,11,0,10,8,2,2,300,88,8,14,8,3,1,285,102,10,0,11,7,3,4,0,0,Orange County,precinct
-Orange County,City of Newburgh 3-3,345,38,2,0,6,5,4,0,346,36,2,6,6,1,1,364,42,2,0,2,4,2,1,0,0,Orange County,precinct
-Orange County,City of Newburgh 3-4,172,85,6,0,5,3,0,0,171,77,6,5,2,1,2,150,93,7,0,4,2,1,1,0,0,Orange County,precinct
-Orange County,City of Newburgh 4-1,44,2,3,0,0,1,0,0,40,1,1,1,1,1,0,46,2,2,0,0,1,0,0,0,0,Orange County,precinct
-Orange County,City of Newburgh 4-2,186,31,7,0,7,2,0,0,181,33,7,6,0,1,1,189,40,5,0,4,0,1,1,0,0,Orange County,precinct
-Orange County,City of Newburgh 4-3,258,65,7,0,8,0,5,0,253,62,6,7,1,6,1,234,68,9,0,6,2,3,1,0,0,Orange County,precinct
-Orange County,City of Newburgh 4-4,250,79,8,0,8,6,3,3,244,77,9,9,7,4,0,239,89,8,0,5,5,3,0,0,0,Orange County,precinct
-Orange County,City of Newburgh 4-5,117,10,0,0,5,3,0,0,113,10,0,5,3,0,0,124,14,0,0,4,1,1,0,0,0,Orange County,precinct
-Orange County,Cornwall 1,259,146,24,0,13,8,3,4,259,147,28,14,8,3,4,222,171,26,0,13,7,3,3,0,0,Orange County,precinct
-Orange County,Cornwall 10,138,161,20,0,3,5,1,1,139,152,26,6,4,1,0,115,168,22,0,4,2,1,0,0,0,Orange County,precinct
-Orange County,Cornwall 11,241,234,27,0,7,11,4,3,254,219,26,9,13,6,2,194,264,34,0,5,7,5,6,0,0,Orange County,precinct
-Orange County,Cornwall 12,221,161,19,0,5,3,2,0,226,155,18,3,3,0,2,196,183,22,0,5,1,0,2,0,0,Orange County,precinct
-Orange County,Cornwall 13,145,98,13,0,6,8,4,4,142,104,9,10,7,5,2,115,123,13,0,4,1,3,4,0,0,Orange County,precinct
-Orange County,Cornwall 14,179,184,27,0,8,12,1,0,183,180,23,9,12,4,1,130,221,25,0,9,7,3,5,0,0,Orange County,precinct
-Orange County,Cornwall 2,172,132,16,0,4,6,2,2,170,129,18,8,5,1,2,145,148,21,0,4,5,1,4,0,0,Orange County,precinct
-Orange County,Cornwall 3,217,155,27,0,7,7,4,2,216,153,23,12,6,4,1,189,177,25,0,5,4,4,2,0,0,Orange County,precinct
-Orange County,Cornwall 4,248,188,39,0,16,13,5,1,239,188,38,16,14,8,2,181,235,43,0,10,6,2,9,0,0,Orange County,precinct
-Orange County,Cornwall 5,135,167,13,0,4,5,3,2,140,156,12,7,4,4,2,110,195,13,0,1,2,2,1,0,0,Orange County,precinct
-Orange County,Cornwall 6,207,160,33,0,5,8,3,1,199,161,30,6,11,8,1,167,182,31,0,5,4,4,4,0,0,Orange County,precinct
-Orange County,Cornwall 7,108,127,16,0,6,3,1,1,106,123,14,7,3,2,1,92,138,15,0,3,1,2,0,0,0,Orange County,precinct
-Orange County,Cornwall 8,291,206,41,0,9,5,3,5,283,199,44,11,6,7,4,239,233,44,0,10,4,5,7,0,0,Orange County,precinct
-Orange County,Cornwall 9,191,130,19,0,13,6,5,1,193,122,19,12,7,6,2,144,154,24,0,5,5,6,2,0,0,Orange County,precinct
-Orange County,Crawford 1,150,209,23,0,2,8,2,1,155,204,23,5,8,1,1,125,222,24,0,3,3,2,5,0,0,Orange County,precinct
-Orange County,Crawford 2,122,206,20,0,0,2,0,2,125,204,17,3,5,0,1,101,222,20,0,2,2,0,0,0,0,Orange County,precinct
-Orange County,Crawford 3,194,297,48,0,9,7,1,3,197,288,50,6,9,1,3,154,322,53,0,3,3,0,5,0,0,Orange County,precinct
-Orange County,Crawford 4,138,238,30,0,8,3,3,1,146,230,32,12,2,3,0,90,255,37,0,5,1,1,1,0,0,Orange County,precinct
-Orange County,Crawford 5,147,213,50,0,3,8,1,4,146,218,46,6,6,1,5,110,240,44,0,5,4,1,5,0,0,Orange County,precinct
-Orange County,Crawford 6,181,279,48,0,6,11,3,2,184,271,40,8,12,3,4,139,312,40,0,6,5,2,9,0,0,Orange County,precinct
-Orange County,Crawford 7,166,195,37,0,1,5,3,0,162,188,33,4,11,2,1,129,228,35,0,1,4,3,1,0,0,Orange County,precinct
-Orange County,Crawford 8,137,172,15,0,3,4,2,1,151,163,15,3,3,2,2,115,193,18,0,5,0,2,3,0,0,Orange County,precinct
-Orange County,Deerpark 1,95,162,30,0,1,7,4,1,96,156,30,0,8,4,2,88,170,30,0,0,5,4,0,0,0,Orange County,precinct
-Orange County,Deerpark 2,105,192,23,0,5,7,2,1,108,185,20,7,6,2,2,86,207,23,0,0,5,2,6,0,0,Orange County,precinct
-Orange County,Deerpark 3,134,198,12,0,2,2,2,4,140,191,12,7,5,1,0,118,209,15,0,1,5,2,2,0,0,Orange County,precinct
-Orange County,Deerpark 4,131,216,40,0,2,4,0,3,138,201,37,4,8,1,2,121,228,44,0,1,5,0,0,0,0,Orange County,precinct
-Orange County,Deerpark 5,96,252,33,0,4,6,1,1,106,241,30,5,6,1,1,86,253,35,0,2,3,0,1,0,0,Orange County,precinct
-Orange County,Deerpark 6,87,113,20,0,3,8,1,0,84,110,20,7,8,0,1,75,119,18,0,3,4,1,3,0,0,Orange County,precinct
-Orange County,Deerpark 7,90,251,17,0,7,9,1,2,95,239,19,8,6,1,3,74,260,26,0,2,3,2,2,0,0,Orange County,precinct
-Orange County,Goshen 1,195,174,23,0,6,6,4,2,228,135,20,7,9,4,2,183,175,21,0,5,7,2,2,0,0,Orange County,precinct
-Orange County,Goshen 10,198,224,39,0,6,5,3,4,209,203,34,9,4,6,4,162,236,40,0,4,4,1,4,0,0,Orange County,precinct
-Orange County,Goshen 11,219,140,26,0,3,5,1,0,232,125,25,6,6,0,1,199,156,26,0,1,3,1,2,0,0,Orange County,precinct
-Orange County,Goshen 12,124,148,19,0,2,2,0,1,126,142,17,6,4,1,0,104,156,20,0,2,2,1,5,0,0,Orange County,precinct
-Orange County,Goshen 13,23,14,3,0,1,1,0,0,22,14,3,1,2,0,0,20,16,2,0,0,2,0,0,0,0,Orange County,precinct
-Orange County,Goshen 2,124,62,16,0,1,4,0,2,126,57,14,3,4,0,1,115,66,16,0,1,2,0,2,0,0,Orange County,precinct
-Orange County,Goshen 3,207,181,29,0,5,8,3,3,216,154,27,5,6,5,3,191,186,26,0,2,2,1,2,0,0,Orange County,precinct
-Orange County,Goshen 4,278,276,35,0,11,4,6,5,296,240,38,13,10,9,1,218,283,41,0,9,6,6,7,0,0,Orange County,precinct
-Orange County,Goshen 5,227,256,30,0,2,4,5,6,255,217,31,4,4,10,3,209,252,30,0,4,4,7,5,0,0,Orange County,precinct
-Orange County,Goshen 6,138,173,23,0,0,2,2,6,153,149,21,1,3,2,3,106,181,25,0,0,1,1,6,0,0,Orange County,precinct
-Orange County,Goshen 7,217,271,31,0,4,7,3,6,228,251,33,8,2,7,2,187,285,29,0,3,2,2,3,0,0,Orange County,precinct
-Orange County,Goshen 8,136,191,28,0,5,5,4,2,157,173,23,6,4,6,3,115,203,23,0,3,4,3,3,0,0,Orange County,precinct
-Orange County,Goshen 9,250,255,55,0,12,7,4,4,264,233,53,11,9,6,2,209,277,51,0,6,4,5,3,0,0,Orange County,precinct
-Orange County,Greenville 1,122,262,37,0,2,7,0,3,118,260,30,6,4,1,4,101,285,33,0,2,2,1,2,0,0,Orange County,precinct
-Orange County,Greenville 2,187,277,31,0,12,6,7,0,196,266,30,13,6,5,0,135,327,36,0,8,2,7,3,0,0,Orange County,precinct
-Orange County,Greenville 3,103,198,24,0,3,2,3,3,109,174,27,10,4,3,1,81,206,30,0,3,2,2,3,0,0,Orange County,precinct
-Orange County,Greenville 4,155,220,39,0,1,3,0,1,157,211,39,1,6,0,2,124,238,33,0,1,4,0,1,0,0,Orange County,precinct
-Orange County,Hamptonburgh 1,186,213,26,0,1,2,3,1,199,190,27,6,4,1,3,161,217,26,0,3,2,3,1,0,0,Orange County,precinct
-Orange County,Hamptonburgh 2,197,302,29,0,6,5,2,5,194,291,27,7,10,3,5,142,316,27,0,0,3,4,14,0,0,Orange County,precinct
-Orange County,Hamptonburgh 3,173,206,36,0,5,5,1,5,175,198,30,8,8,3,2,139,225,31,0,4,2,2,4,0,0,Orange County,precinct
-Orange County,Hamptonburgh 4,167,178,16,0,10,5,3,2,169,164,15,13,8,2,2,136,197,16,0,4,4,2,6,0,0,Orange County,precinct
-Orange County,Hamptonburgh 5,150,239,34,0,8,8,1,7,153,231,36,8,6,3,5,127,256,37,0,7,3,1,3,0,0,Orange County,precinct
-Orange County,Highlands 1,214,154,14,0,2,6,2,3,224,140,15,3,4,4,2,183,181,14,0,4,7,5,5,0,0,Orange County,precinct
-Orange County,Highlands 2,174,52,11,0,8,8,5,2,181,50,8,10,6,3,3,172,63,10,0,8,7,2,4,0,0,Orange County,precinct
-Orange County,Highlands 3,188,118,11,0,8,11,5,1,198,110,11,9,11,3,0,171,128,14,0,9,5,2,3,0,0,Orange County,precinct
-Orange County,Highlands 4,170,172,25,0,6,7,1,1,174,172,19,4,6,2,1,132,213,21,0,6,3,1,2,0,0,Orange County,precinct
-Orange County,Highlands 5,123,114,9,0,8,5,1,0,132,112,6,8,3,1,0,109,123,10,0,6,4,1,0,0,0,Orange County,precinct
-Orange County,Highlands 6,146,124,19,0,7,4,2,1,153,113,18,12,7,3,1,130,128,21,0,6,3,4,2,0,0,Orange County,precinct
-Orange County,Middletown - Ward 1-1,159,67,7,0,6,4,2,1,168,59,7,3,6,2,1,151,72,9,0,3,5,0,1,0,0,Orange County,precinct
-Orange County,Middletown - Ward 1-2,79,34,3,0,1,0,0,0,82,29,3,1,2,0,0,76,32,4,0,1,0,1,0,0,0,Orange County,precinct
-Orange County,Middletown - Ward 1-3,158,47,7,0,3,2,1,2,160,44,5,3,1,0,2,147,64,3,0,3,1,0,2,0,0,Orange County,precinct
-Orange County,Middletown - Ward 1-4,36,19,0,0,2,1,0,0,35,18,0,2,2,0,0,35,20,1,0,0,2,0,0,0,0,Orange County,precinct
-Orange County,Middletown - Ward 1-5,139,53,7,0,6,1,0,1,144,46,7,5,1,0,0,134,59,7,0,0,0,0,2,0,0,Orange County,precinct
-Orange County,Middletown - Ward 1-6,112,41,1,0,3,4,0,0,115,41,1,3,4,0,0,106,48,1,0,2,3,1,0,0,0,Orange County,precinct
-Orange County,Middletown - Ward 2-1,133,53,8,0,3,5,0,1,133,49,9,6,3,1,1,124,61,11,0,2,2,1,1,0,0,Orange County,precinct
-Orange County,Middletown - Ward 2-2,110,48,9,0,6,3,3,0,108,49,8,5,3,3,1,100,55,9,0,3,2,1,1,0,0,Orange County,precinct
-Orange County,Middletown - Ward 2-3,163,63,2,0,5,3,1,4,165,61,1,7,1,3,2,144,66,5,0,1,1,0,1,0,0,Orange County,precinct
-Orange County,Middletown - Ward 2-4,213,50,11,0,1,1,5,2,206,47,10,5,2,4,1,200,54,10,0,4,0,2,2,0,0,Orange County,precinct
-Orange County,Middletown - Ward 2-5,123,50,3,0,0,3,1,1,128,47,5,1,1,2,0,116,58,4,0,1,2,3,0,0,0,Orange County,precinct
-Orange County,Middletown - Ward 2-6,132,48,3,0,2,4,1,3,138,43,4,3,2,1,2,126,56,4,0,3,1,2,2,0,0,Orange County,precinct
-Orange County,Middletown - Ward 2-7,94,34,6,0,0,3,0,0,89,39,5,1,1,0,1,80,47,7,0,0,1,0,2,0,0,Orange County,precinct
-Orange County,Middletown - Ward 3-1,188,91,8,0,6,8,2,1,195,83,9,7,8,1,1,170,106,12,0,1,5,1,2,0,0,Orange County,precinct
-Orange County,Middletown - Ward 3-2,144,62,5,0,7,5,4,3,146,57,10,8,6,4,0,120,75,12,0,3,4,2,4,0,0,Orange County,precinct
-Orange County,Middletown - Ward 3-3,94,30,4,0,4,1,1,1,95,26,5,4,2,2,1,92,34,7,0,3,1,0,1,0,0,Orange County,precinct
-Orange County,Middletown - Ward 3-4,219,72,8,0,6,6,1,1,228,69,7,3,6,2,2,211,79,7,0,4,4,2,1,0,0,Orange County,precinct
-Orange County,Middletown - Ward 3-5,174,38,4,0,2,1,2,1,175,34,5,5,2,2,0,169,51,2,0,1,1,2,1,0,0,Orange County,precinct
-Orange County,Middletown - Ward 3-6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Orange County,precinct
-Orange County,Middletown - Ward 4-1,250,101,1,0,5,6,1,3,256,88,5,4,7,3,2,225,101,9,0,3,6,3,1,0,0,Orange County,precinct
-Orange County,Middletown - Ward 4-2,243,63,7,0,4,1,2,2,250,55,8,4,4,2,0,236,72,9,0,2,3,1,0,0,0,Orange County,precinct
-Orange County,Middletown - Ward 4-3,113,21,0,0,5,1,0,1,119,19,1,5,1,3,2,114,29,2,0,3,0,2,1,0,0,Orange County,precinct
-Orange County,Middletown - Ward 4-4,251,85,10,0,6,3,3,2,250,81,10,10,3,3,1,237,94,11,0,7,2,1,2,0,0,Orange County,precinct
-Orange County,Middletown - Ward 4-5,241,90,18,0,3,5,2,1,250,86,18,4,7,2,0,219,98,14,0,2,4,5,2,0,0,Orange County,precinct
-Orange County,Middletown - Ward 4-6,360,105,13,0,7,4,5,1,370,98,14,13,5,4,0,361,104,17,0,4,4,3,0,0,0,Orange County,precinct
-Orange County,Middletown - Ward 4-7,291,45,1,0,7,5,1,1,288,44,1,6,7,4,2,278,53,4,0,5,5,1,1,0,0,Orange County,precinct
-Orange County,Middletown - Ward 4-8,20,3,0,0,0,2,0,0,20,3,1,0,1,0,0,20,4,0,0,1,1,0,0,0,0,Orange County,precinct
-Orange County,Minisink 1,133,282,36,0,2,7,0,2,133,272,35,5,8,1,2,102,294,36,0,1,5,0,2,0,0,Orange County,precinct
-Orange County,Minisink 2,152,257,38,0,11,8,3,6,164,245,35,12,7,3,2,119,291,37,0,5,4,2,5,0,0,Orange County,precinct
-Orange County,Minisink 3,107,178,26,0,6,1,1,0,107,176,28,6,4,2,0,77,201,28,0,3,1,1,1,0,0,Orange County,precinct
-Orange County,Minisink 4,157,188,20,0,6,9,1,0,148,192,24,3,6,2,2,115,216,28,0,2,3,2,2,0,0,Orange County,precinct
-Orange County,Monroe 1,245,221,28,0,7,6,4,3,255,201,30,7,8,5,0,195,246,35,0,6,2,4,12,0,0,Orange County,precinct
-Orange County,Monroe 10,198,207,35,0,7,4,5,5,206,192,34,10,9,4,5,158,248,36,0,3,7,2,9,0,0,Orange County,precinct
-Orange County,Monroe 11,131,186,18,0,1,1,1,1,134,169,18,2,2,2,3,100,210,16,0,1,0,1,2,0,0,Orange County,precinct
-Orange County,Monroe 12,173,197,32,0,7,5,5,3,184,184,27,6,6,5,2,140,234,30,0,4,5,3,2,0,0,Orange County,precinct
-Orange County,Monroe 13,183,142,24,0,10,2,5,2,181,136,21,11,7,5,0,148,154,22,0,4,5,4,5,0,0,Orange County,precinct
-Orange County,Monroe 14,138,170,26,0,6,7,4,3,141,166,25,7,6,1,2,115,199,24,0,3,2,2,3,0,0,Orange County,precinct
-Orange County,Monroe 15,296,216,37,0,5,9,6,6,300,212,33,9,4,12,5,233,253,34,0,6,3,6,10,0,0,Orange County,precinct
-Orange County,Monroe 16,139,148,17,0,2,5,1,2,141,139,15,9,4,3,2,111,168,15,0,4,2,1,5,0,0,Orange County,precinct
-Orange County,Monroe 17,172,170,32,0,7,6,2,4,174,170,31,7,3,5,2,125,212,30,0,2,3,2,8,0,0,Orange County,precinct
-Orange County,Monroe 18,18,29,3,0,1,17,0,1,22,26,2,1,16,0,0,19,39,2,0,2,11,0,0,0,0,Orange County,precinct
-Orange County,Monroe 19,132,72,4,0,2,0,1,0,136,63,4,4,0,5,0,112,79,7,0,0,1,1,2,0,0,Orange County,precinct
-Orange County,Monroe 2,198,201,25,0,3,4,3,3,203,185,23,5,4,5,5,158,237,27,0,1,3,2,11,0,0,Orange County,precinct
-Orange County,Monroe 20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Orange County,precinct
-Orange County,Monroe 21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Orange County,precinct
-Orange County,Monroe 3,167,141,21,0,1,5,6,2,171,141,21,2,6,6,2,134,169,16,0,1,5,4,6,0,0,Orange County,precinct
-Orange County,Monroe 4,219,193,19,0,10,12,1,7,230,190,16,15,6,1,6,189,228,20,0,6,4,1,13,0,0,Orange County,precinct
-Orange County,Monroe 5,212,185,11,0,4,2,2,3,222,171,11,7,4,2,1,187,205,16,0,3,0,3,3,0,0,Orange County,precinct
-Orange County,Monroe 6,161,162,21,0,3,9,1,6,177,152,23,2,8,1,3,137,182,22,0,1,5,1,8,0,0,Orange County,precinct
-Orange County,Monroe 7,223,240,32,0,7,9,5,1,230,226,32,9,10,7,3,191,275,29,0,4,3,3,6,0,0,Orange County,precinct
-Orange County,Monroe 8,141,107,10,0,6,5,2,2,151,95,11,8,7,3,1,134,114,10,0,3,5,1,5,0,0,Orange County,precinct
-Orange County,Monroe 9,141,81,11,0,4,3,1,1,140,80,9,4,5,1,1,121,98,11,0,0,5,0,2,0,0,Orange County,precinct
-Orange County,Montgomery 1,165,229,43,0,6,4,3,4,173,219,39,8,6,1,6,137,252,40,0,3,4,1,3,0,0,Orange County,precinct
-Orange County,Montgomery 10,129,205,34,0,3,9,0,3,127,199,38,1,12,1,3,102,219,38,0,1,7,2,3,0,0,Orange County,precinct
-Orange County,Montgomery 11,140,206,24,0,7,7,2,3,140,198,27,8,7,3,3,117,219,23,0,6,6,1,2,0,0,Orange County,precinct
-Orange County,Montgomery 12,217,132,27,0,5,6,4,3,221,123,22,6,6,3,3,203,140,21,0,3,3,2,2,0,0,Orange County,precinct
-Orange County,Montgomery 13,197,261,43,0,7,4,3,3,195,258,41,11,4,6,2,149,299,46,0,5,4,1,2,0,0,Orange County,precinct
-Orange County,Montgomery 14,115,148,26,0,7,9,2,0,114,145,29,5,6,0,0,88,173,27,0,4,4,1,0,0,0,Orange County,precinct
-Orange County,Montgomery 15,220,189,25,0,11,9,7,1,225,170,26,12,11,5,0,186,221,26,0,5,3,2,1,0,0,Orange County,precinct
-Orange County,Montgomery 16,213,223,32,0,8,9,0,3,218,210,32,13,8,2,0,176,248,28,0,10,4,0,6,0,0,Orange County,precinct
-Orange County,Montgomery 17,202,194,20,0,4,5,3,1,201,188,20,8,3,2,1,171,221,16,0,4,3,5,0,0,0,Orange County,precinct
-Orange County,Montgomery 18,214,310,39,0,3,8,4,3,231,296,34,5,10,6,2,184,335,36,0,5,3,4,6,0,0,Orange County,precinct
-Orange County,Montgomery 2,307,228,28,0,10,8,2,3,310,213,28,12,10,3,5,265,254,35,0,5,6,2,3,0,0,Orange County,precinct
-Orange County,Montgomery 3,304,211,23,0,5,7,4,0,305,200,21,9,9,2,2,274,235,24,0,2,6,1,1,0,0,Orange County,precinct
-Orange County,Montgomery 4,140,224,30,0,7,6,3,1,140,221,28,10,5,2,2,105,246,33,0,4,5,1,1,0,0,Orange County,precinct
-Orange County,Montgomery 5,215,193,25,0,6,13,7,4,207,193,24,11,9,8,4,164,223,23,0,3,6,4,8,0,0,Orange County,precinct
-Orange County,Montgomery 6,178,149,11,0,10,8,2,4,177,144,9,11,8,5,2,128,171,14,0,6,2,2,4,0,0,Orange County,precinct
-Orange County,Montgomery 7,194,179,31,0,11,10,1,2,196,187,27,5,9,1,2,165,214,19,0,2,6,1,7,0,0,Orange County,precinct
-Orange County,Montgomery 8,220,107,19,0,8,5,2,0,218,113,20,5,4,2,1,192,134,25,0,5,2,0,1,0,0,Orange County,precinct
-Orange County,Montgomery 9,140,180,29,0,5,4,1,3,137,176,27,7,5,0,3,102,217,28,0,2,2,0,4,0,0,Orange County,precinct
-Orange County,Mount Hope 1,152,156,19,0,7,3,4,1,141,158,22,8,5,7,0,106,185,25,0,1,2,2,5,0,0,Orange County,precinct
-Orange County,Mount Hope 2,201,243,47,0,9,10,0,3,190,242,45,15,10,0,6,153,289,50,0,5,5,0,8,0,0,Orange County,precinct
-Orange County,Mount Hope 3,193,264,43,0,9,13,3,7,203,243,46,14,17,5,6,145,305,45,0,7,10,1,6,0,0,Orange County,precinct
-Orange County,Mount Hope 4,187,272,35,0,10,6,2,2,196,261,36,13,7,5,3,159,304,38,0,6,5,0,4,0,0,Orange County,precinct
-Orange County,New Windsor 1,150,94,14,0,3,5,2,0,155,90,15,3,4,3,0,123,108,16,0,1,6,1,0,0,0,Orange County,precinct
-Orange County,New Windsor 10,339,163,25,0,2,11,7,2,342,155,22,5,14,7,3,308,197,26,0,4,10,1,2,0,0,Orange County,precinct
-Orange County,New Windsor 11,237,171,25,0,3,3,4,2,238,165,27,6,5,4,2,207,198,26,0,5,2,1,3,0,0,Orange County,precinct
-Orange County,New Windsor 12,185,79,9,0,2,4,0,0,185,80,8,3,4,2,0,175,88,12,0,1,3,2,0,0,0,Orange County,precinct
-Orange County,New Windsor 13,238,144,20,0,7,6,4,3,243,141,20,6,8,5,2,219,172,19,0,2,6,3,1,0,0,Orange County,precinct
-Orange County,New Windsor 14,239,170,23,0,8,6,2,1,240,159,22,9,5,6,2,218,188,25,0,3,2,1,8,0,0,Orange County,precinct
-Orange County,New Windsor 15,342,216,23,0,8,6,0,3,347,211,23,9,5,2,1,325,235,24,0,5,4,1,2,0,0,Orange County,precinct
-Orange County,New Windsor 16,307,338,46,0,7,14,2,3,305,336,46,13,11,2,0,244,383,41,0,6,9,1,6,0,0,Orange County,precinct
-Orange County,New Windsor 17,136,66,5,0,4,2,4,2,132,73,3,4,3,2,0,126,75,6,0,4,3,1,1,0,0,Orange County,precinct
-Orange County,New Windsor 18,293,171,20,0,5,7,5,2,299,168,17,9,8,3,2,275,189,21,0,5,9,5,3,0,0,Orange County,precinct
-Orange County,New Windsor 19,380,164,31,0,12,6,5,2,379,156,27,16,9,7,2,352,185,27,0,5,6,5,7,0,0,Orange County,precinct
-Orange County,New Windsor 2,163,94,21,0,1,4,4,0,166,86,19,6,5,5,1,148,118,14,0,2,1,5,1,0,0,Orange County,precinct
-Orange County,New Windsor 20,157,151,41,0,10,8,3,4,163,155,32,13,7,3,3,121,199,35,0,7,3,1,6,0,0,Orange County,precinct
-Orange County,New Windsor 21,159,207,30,0,4,5,0,8,157,198,27,6,6,0,5,119,229,31,0,1,2,2,15,0,0,Orange County,precinct
-Orange County,New Windsor 22,103,77,18,0,0,5,0,0,103,72,20,1,3,1,0,88,90,17,0,0,4,0,0,0,0,Orange County,precinct
-Orange County,New Windsor 3,140,132,10,0,6,5,0,1,136,135,10,7,4,2,1,116,152,14,0,4,1,0,2,0,0,Orange County,precinct
-Orange County,New Windsor 4,191,142,23,0,7,7,3,0,190,134,26,7,8,3,1,159,160,24,0,3,6,2,6,0,0,Orange County,precinct
-Orange County,New Windsor 5,225,283,34,0,11,10,4,11,227,272,34,13,14,5,10,192,308,34,0,7,5,3,11,0,0,Orange County,precinct
-Orange County,New Windsor 6,210,116,12,0,3,6,1,4,207,113,13,7,9,3,2,187,138,16,0,3,6,3,5,0,0,Orange County,precinct
-Orange County,New Windsor 7,142,119,10,0,7,6,0,2,147,110,13,2,10,2,1,124,133,15,0,5,6,2,0,0,0,Orange County,precinct
-Orange County,New Windsor 8,210,176,16,0,3,4,3,1,211,173,17,2,6,3,2,180,201,19,0,0,3,0,1,0,0,Orange County,precinct
-Orange County,New Windsor 9,156,102,13,0,5,2,0,1,155,94,13,4,2,1,1,132,120,12,0,3,3,1,0,0,0,Orange County,precinct
-Orange County,Newburgh Town 1,165,107,14,0,2,3,2,0,152,106,13,4,4,4,1,142,119,11,0,6,1,3,1,0,0,Orange County,precinct
-Orange County,Newburgh Town 10,185,122,19,0,6,3,2,0,184,128,17,5,2,2,0,158,147,19,0,3,0,1,1,0,0,Orange County,precinct
-Orange County,Newburgh Town 11,200,173,23,0,8,4,2,1,202,155,26,11,6,2,1,177,195,20,0,5,5,3,3,0,0,Orange County,precinct
-Orange County,Newburgh Town 12,190,172,28,0,7,7,3,0,189,175,29,7,6,3,0,156,203,30,0,5,4,2,2,0,0,Orange County,precinct
-Orange County,Newburgh Town 13,299,195,23,0,7,7,0,1,304,182,21,8,8,2,0,289,211,19,0,6,8,1,3,0,0,Orange County,precinct
-Orange County,Newburgh Town 14,228,238,33,0,6,5,3,2,229,236,30,9,10,3,2,198,260,32,0,4,4,2,2,0,0,Orange County,precinct
-Orange County,Newburgh Town 15,315,190,19,0,7,9,5,1,317,191,19,14,8,6,0,277,230,24,0,8,6,4,3,0,0,Orange County,precinct
-Orange County,Newburgh Town 16,194,182,37,0,6,8,5,3,184,176,36,8,8,7,4,161,220,35,0,2,0,2,4,0,0,Orange County,precinct
-Orange County,Newburgh Town 17,247,288,39,0,6,6,3,2,234,278,49,5,7,5,1,202,321,38,0,6,3,2,7,0,0,Orange County,precinct
-Orange County,Newburgh Town 18,220,211,34,0,2,7,2,3,221,213,34,3,6,2,4,199,235,40,0,1,4,2,5,0,0,Orange County,precinct
-Orange County,Newburgh Town 19,228,276,35,0,12,10,3,4,233,272,36,10,7,3,3,209,299,36,0,6,3,2,2,0,0,Orange County,precinct
-Orange County,Newburgh Town 2,184,148,14,0,3,3,3,1,189,132,16,6,4,4,1,152,160,16,0,4,4,2,3,0,0,Orange County,precinct
-Orange County,Newburgh Town 20,117,76,8,0,6,5,1,0,114,75,13,6,2,2,0,99,94,10,0,2,1,1,2,0,0,Orange County,precinct
-Orange County,Newburgh Town 21,208,285,32,0,7,6,5,0,208,285,31,7,3,5,3,172,306,31,0,4,3,3,3,0,0,Orange County,precinct
-Orange County,Newburgh Town 22,186,157,19,0,7,5,1,2,180,154,19,8,7,3,2,143,187,25,0,4,4,2,5,0,0,Orange County,precinct
-Orange County,Newburgh Town 23,404,114,19,0,9,7,3,1,414,110,16,9,7,4,0,383,132,14,0,7,3,2,3,0,0,Orange County,precinct
-Orange County,Newburgh Town 24,200,193,22,0,7,9,2,2,206,192,23,3,11,1,2,185,215,20,0,2,8,2,2,0,0,Orange County,precinct
-Orange County,Newburgh Town 25,331,189,26,0,12,10,3,4,339,186,26,7,10,7,3,293,226,25,0,10,7,3,4,0,0,Orange County,precinct
-Orange County,Newburgh Town 26,98,134,17,0,2,6,1,0,97,133,15,2,7,3,0,80,155,20,0,1,3,1,0,0,0,Orange County,precinct
-Orange County,Newburgh Town 27,154,34,1,0,3,6,0,0,156,33,0,2,6,1,0,151,38,2,0,1,3,0,0,0,0,Orange County,precinct
-Orange County,Newburgh Town 3,214,173,26,0,6,2,4,1,214,170,24,9,3,5,1,191,204,26,0,4,1,3,3,0,0,Orange County,precinct
-Orange County,Newburgh Town 4,310,156,17,0,11,5,5,2,294,163,19,11,8,3,3,253,205,20,0,13,5,2,2,0,0,Orange County,precinct
-Orange County,Newburgh Town 5,224,207,32,0,5,7,1,1,221,206,33,8,4,1,0,193,242,33,0,4,3,0,2,0,0,Orange County,precinct
-Orange County,Newburgh Town 6,178,73,14,0,5,3,0,1,172,81,9,7,4,0,0,159,92,9,0,6,1,0,3,0,0,Orange County,precinct
-Orange County,Newburgh Town 7,136,138,24,0,4,5,0,1,138,130,20,8,4,6,1,112,155,22,0,3,6,0,3,0,0,Orange County,precinct
-Orange County,Newburgh Town 8,188,216,26,0,4,5,3,3,186,214,24,5,7,4,2,150,250,26,0,5,5,2,2,0,0,Orange County,precinct
-Orange County,Newburgh Town 9,236,136,26,0,7,6,6,1,253,136,23,7,6,4,0,221,153,26,0,5,6,5,0,0,0,Orange County,precinct
-Orange County,Palm Tree 1,4,16,3,0,1,145,0,0,18,14,2,1,147,0,0,20,12,2,0,1,147,1,0,0,0,Orange County,precinct
-Orange County,Palm Tree 10,4,20,1,0,1,192,0,0,39,20,1,4,187,4,0,41,15,0,0,5,186,6,0,0,0,Orange County,precinct
-Orange County,Palm Tree 11,3,13,2,0,0,163,0,1,45,11,2,1,161,0,0,41,12,2,0,2,160,3,0,0,0,Orange County,precinct
-Orange County,Palm Tree 12,2,16,4,0,0,173,0,0,39,14,5,2,167,1,0,37,15,4,0,3,167,4,0,0,0,Orange County,precinct
-Orange County,Palm Tree 13,9,31,1,0,0,252,0,0,73,23,2,1,253,2,0,81,17,2,0,4,254,6,0,0,0,Orange County,precinct
-Orange County,Palm Tree 14,10,13,3,0,0,198,0,0,71,4,4,4,197,1,0,72,11,4,0,4,186,6,0,0,0,Orange County,precinct
-Orange County,Palm Tree 15,6,25,4,0,0,246,0,0,53,21,3,2,249,1,0,60,14,0,0,0,245,5,1,0,0,Orange County,precinct
-Orange County,Palm Tree 16,8,21,4,0,0,183,0,0,43,20,5,2,181,1,0,46,20,5,0,2,173,5,0,0,0,Orange County,precinct
-Orange County,Palm Tree 17,4,34,5,0,0,414,0,2,38,31,4,2,415,1,1,40,28,5,0,2,402,8,1,0,0,Orange County,precinct
-Orange County,Palm Tree 18,0,6,0,0,1,12,0,0,0,6,0,1,12,0,0,2,5,0,0,1,11,0,0,0,0,Orange County,precinct
-Orange County,Palm Tree 19,0,0,0,0,0,7,0,0,3,0,0,0,7,0,0,3,0,0,0,0,7,0,0,0,0,Orange County,precinct
-Orange County,Palm Tree 2,2,26,5,0,0,455,0,1,32,20,7,5,449,0,1,40,15,4,0,7,435,8,1,0,0,Orange County,precinct
-Orange County,Palm Tree 3,1,7,1,0,0,145,0,0,15,6,1,2,144,0,0,15,4,1,0,1,144,1,0,0,0,Orange County,precinct
-Orange County,Palm Tree 4,3,19,3,0,1,190,0,0,40,19,2,2,190,2,0,38,10,3,0,0,191,4,0,0,0,Orange County,precinct
-Orange County,Palm Tree 5,5,21,3,0,1,239,0,0,46,16,1,2,235,2,0,45,18,1,0,2,233,4,0,0,0,Orange County,precinct
-Orange County,Palm Tree 6,0,7,1,0,0,71,0,0,1,5,3,0,68,0,0,1,6,1,0,0,70,0,0,0,0,Orange County,precinct
-Orange County,Palm Tree 7,8,16,1,0,0,262,0,0,38,14,1,2,261,1,1,39,13,2,0,2,252,3,0,0,0,Orange County,precinct
-Orange County,Palm Tree 8,3,23,1,0,0,301,0,0,59,22,1,1,298,1,0,56,16,0,0,0,289,5,0,0,0,Orange County,precinct
-Orange County,Palm Tree 9,4,9,1,0,0,138,0,0,48,9,0,2,137,1,0,48,9,0,0,2,131,6,0,0,0,Orange County,precinct
-Orange County,Port Jervis 1-1,202,152,18,0,3,7,1,5,206,149,16,7,8,0,3,173,182,21,0,2,6,0,2,0,0,Orange County,precinct
-Orange County,Port Jervis 1-2,34,17,5,0,0,4,1,0,37,15,5,1,3,1,0,27,22,4,0,1,4,1,1,0,0,Orange County,precinct
-Orange County,Port Jervis 2-1,119,141,7,0,3,3,1,2,112,136,7,6,6,4,1,101,150,10,0,5,2,2,3,0,0,Orange County,precinct
-Orange County,Port Jervis 2-2,103,93,13,0,6,4,1,2,107,90,11,7,4,2,2,87,108,11,0,4,4,0,1,0,0,Orange County,precinct
-Orange County,Port Jervis 3-1,140,151,12,0,4,5,2,1,139,143,12,7,3,3,0,115,171,12,0,5,3,1,3,0,0,Orange County,precinct
-Orange County,Port Jervis 3-2,142,157,13,0,3,8,3,0,153,143,14,5,12,0,0,121,181,15,0,3,6,0,0,0,0,Orange County,precinct
-Orange County,Port Jervis 4-1,140,90,7,0,2,9,3,4,138,91,9,5,8,5,0,128,105,11,0,1,2,1,2,0,0,Orange County,precinct
-Orange County,Port Jervis 4-2,140,113,13,0,4,11,2,0,142,106,14,8,10,4,0,134,124,11,0,1,5,0,1,0,0,Orange County,precinct
-Orange County,Tuxedo 1,146,126,9,0,4,10,2,4,149,121,11,6,9,1,3,119,145,11,0,2,3,1,2,0,0,Orange County,precinct
-Orange County,Tuxedo 2,202,186,21,0,7,4,2,1,201,177,22,12,4,4,0,166,197,22,0,7,4,2,4,0,0,Orange County,precinct
-Orange County,Tuxedo 3,172,120,11,0,3,3,4,0,165,124,13,1,2,3,3,139,136,11,0,4,3,3,0,0,0,Orange County,precinct
-Orange County,Tuxedo 4,213,240,29,0,2,3,3,2,219,228,25,2,2,4,5,211,240,25,0,2,2,0,7,0,0,Orange County,precinct
-Orange County,Wallkill 1-1,160,141,29,0,5,7,4,1,167,132,29,10,5,6,1,129,174,28,0,6,3,1,4,0,0,Orange County,precinct
-Orange County,Wallkill 1-2,203,213,44,0,8,16,5,4,202,206,45,13,15,6,3,161,247,44,0,4,9,4,6,0,0,Orange County,precinct
-Orange County,Wallkill 1-3,202,57,10,0,12,6,2,1,209,52,9,12,3,2,3,198,61,8,0,8,2,1,1,0,0,Orange County,precinct
-Orange County,Wallkill 1-4,115,94,14,0,4,4,0,1,116,87,17,6,6,1,0,100,111,12,0,3,2,0,3,0,0,Orange County,precinct
-Orange County,Wallkill 1-5,57,86,7,0,2,0,1,3,60,83,5,3,1,5,1,56,88,5,0,2,1,0,2,0,0,Orange County,precinct
-Orange County,Wallkill 1-6,226,67,16,0,2,5,1,0,236,72,13,2,5,1,1,207,94,10,0,2,4,0,1,0,0,Orange County,precinct
-Orange County,Wallkill 1-7,91,110,18,0,2,7,8,0,92,111,17,4,5,7,2,73,123,16,0,1,2,6,2,0,0,Orange County,precinct
-Orange County,Wallkill 2-1,159,117,15,0,1,7,2,1,168,108,17,0,4,1,1,145,136,17,0,0,1,1,3,0,0,Orange County,precinct
-Orange County,Wallkill 2-2,179,115,12,0,4,2,2,2,188,107,9,6,5,1,2,163,128,12,0,4,1,1,3,0,0,Orange County,precinct
-Orange County,Wallkill 2-3,116,75,14,0,2,4,0,1,129,69,11,2,2,1,2,121,77,9,0,1,1,1,1,0,0,Orange County,precinct
-Orange County,Wallkill 2-4,257,65,9,0,3,1,2,0,256,62,8,5,2,1,1,244,78,6,0,2,0,1,2,0,0,Orange County,precinct
-Orange County,Wallkill 2-5,175,56,9,0,2,5,3,0,174,54,9,3,5,3,1,165,67,11,0,2,3,0,0,0,0,Orange County,precinct
-Orange County,Wallkill 2-6,130,73,17,0,2,5,2,1,134,81,15,1,6,0,0,113,96,13,0,1,1,0,1,0,0,Orange County,precinct
-Orange County,Wallkill 2-7,124,70,4,0,5,1,1,1,126,66,4,5,3,2,0,113,82,6,0,2,4,0,1,0,0,Orange County,precinct
-Orange County,Wallkill 3-1,296,152,12,0,6,5,2,0,310,126,15,9,3,3,2,272,168,11,0,4,2,2,3,0,0,Orange County,precinct
-Orange County,Wallkill 3-2,233,113,7,0,3,7,2,0,237,105,7,8,8,3,0,209,131,11,0,6,7,0,0,0,0,Orange County,precinct
-Orange County,Wallkill 3-3,424,171,27,0,7,9,0,0,426,169,25,9,9,2,2,414,194,25,0,5,6,0,0,0,0,Orange County,precinct
-Orange County,Wallkill 3-4,254,82,8,0,3,6,1,0,258,78,8,3,4,1,0,262,77,8,0,3,1,2,0,0,0,Orange County,precinct
-Orange County,Wallkill 3-5,197,104,13,0,5,6,1,2,199,99,11,8,9,2,3,186,122,17,0,5,2,0,3,0,0,Orange County,precinct
-Orange County,Wallkill 3-6,301,175,27,0,10,5,2,2,302,175,24,13,8,2,0,282,188,29,0,5,5,1,3,0,0,Orange County,precinct
-Orange County,Wallkill 3-7,396,116,13,0,9,8,2,0,408,110,13,11,6,2,1,396,122,16,0,7,3,0,1,0,0,Orange County,precinct
-Orange County,Wallkill 4-1,174,221,28,0,9,6,3,3,181,202,30,10,13,5,2,140,236,28,0,5,7,2,3,0,0,Orange County,precinct
-Orange County,Wallkill 4-2,103,76,15,0,7,7,0,0,98,78,16,7,6,1,0,83,97,14,0,3,2,1,1,0,0,Orange County,precinct
-Orange County,Wallkill 4-3,154,84,7,0,4,7,0,0,156,74,7,9,8,4,1,131,103,10,0,4,7,1,1,0,0,Orange County,precinct
-Orange County,Wallkill 4-4,223,211,38,0,9,4,2,4,227,195,35,14,8,4,5,181,237,33,0,4,4,3,4,0,0,Orange County,precinct
-Orange County,Wallkill 4-5,171,215,31,0,10,5,1,1,173,212,29,7,13,2,2,134,245,30,0,4,3,0,3,0,0,Orange County,precinct
-Orange County,Warwick 1,160,173,16,0,8,9,1,2,161,167,16,11,10,0,2,132,186,13,0,8,5,1,5,0,0,Orange County,precinct
-Orange County,Warwick 10,150,199,26,0,7,5,2,2,155,186,26,5,8,3,2,132,220,26,0,1,3,0,5,0,0,Orange County,precinct
-Orange County,Warwick 11,167,187,28,0,7,12,5,3,170,183,28,10,9,6,2,148,197,34,0,4,6,4,7,0,0,Orange County,precinct
-Orange County,Warwick 12,203,208,31,0,6,11,3,2,205,198,31,13,9,4,2,180,212,29,0,6,6,3,2,0,0,Orange County,precinct
-Orange County,Warwick 13,218,166,13,0,10,6,0,3,233,151,14,11,6,2,1,200,169,16,0,5,6,0,2,0,0,Orange County,precinct
-Orange County,Warwick 14,156,176,24,0,11,3,3,5,158,170,18,12,6,1,3,138,189,25,0,4,2,0,4,0,0,Orange County,precinct
-Orange County,Warwick 15,137,150,21,0,6,8,0,3,132,143,18,7,12,2,0,102,178,22,0,3,5,0,3,0,0,Orange County,precinct
-Orange County,Warwick 16,205,233,42,0,6,4,11,1,219,221,41,8,4,9,0,180,233,38,0,6,3,6,0,0,0,Orange County,precinct
-Orange County,Warwick 17,166,167,24,0,6,2,0,1,167,156,23,7,4,0,2,126,190,21,0,1,0,1,3,0,0,Orange County,precinct
-Orange County,Warwick 18,148,154,26,0,4,3,1,1,149,150,24,6,2,2,1,136,165,24,0,1,0,2,2,0,0,Orange County,precinct
-Orange County,Warwick 19,198,207,37,0,7,6,0,1,196,202,40,11,5,0,2,167,216,38,0,9,5,1,2,0,0,Orange County,precinct
-Orange County,Warwick 2,187,258,40,0,1,4,2,5,194,243,37,7,4,6,9,159,275,40,0,1,3,2,5,0,0,Orange County,precinct
-Orange County,Warwick 20,213,225,39,0,12,6,8,3,218,217,43,12,5,5,2,188,245,36,0,9,5,3,2,0,0,Orange County,precinct
-Orange County,Warwick 21,309,241,50,0,2,6,4,0,311,236,49,3,5,3,0,276,266,48,0,2,4,0,0,0,0,Orange County,precinct
-Orange County,Warwick 22,261,117,19,0,7,7,1,2,263,115,19,7,4,0,5,225,131,15,0,5,6,1,4,0,0,Orange County,precinct
-Orange County,Warwick 23,226,202,53,0,5,7,5,1,234,198,48,7,5,5,4,202,211,38,0,4,6,6,3,0,0,Orange County,precinct
-Orange County,Warwick 24,219,242,38,0,7,7,7,2,226,234,38,8,6,7,3,172,267,38,0,3,6,4,6,0,0,Orange County,precinct
-Orange County,Warwick 25,193,148,21,0,6,11,8,5,199,144,20,6,11,6,9,173,154,21,0,9,7,2,10,0,0,Orange County,precinct
-Orange County,Warwick 26,248,198,38,0,1,10,2,4,247,193,38,3,10,2,3,205,212,34,0,4,7,1,4,0,0,Orange County,precinct
-Orange County,Warwick 27,208,220,44,0,11,10,2,5,218,213,44,9,10,4,3,189,228,41,0,4,10,2,7,0,0,Orange County,precinct
-Orange County,Warwick 28,191,179,31,0,4,6,2,4,198,177,30,5,12,3,2,161,196,33,0,2,6,2,6,0,0,Orange County,precinct
-Orange County,Warwick 29,290,61,10,0,9,4,0,0,295,53,10,8,4,2,0,276,62,9,0,5,1,3,2,0,0,Orange County,precinct
-Orange County,Warwick 3,201,146,17,0,7,3,1,2,208,139,18,4,4,1,1,185,165,16,0,2,3,0,1,0,0,Orange County,precinct
-Orange County,Warwick 30,102,155,19,0,7,2,1,1,110,147,20,5,2,2,2,96,158,15,0,1,2,1,1,0,0,Orange County,precinct
-Orange County,Warwick 31,107,126,12,0,4,4,1,2,114,119,12,1,2,1,3,90,127,13,0,1,1,0,1,0,0,Orange County,precinct
-Orange County,Warwick 4,280,216,46,0,19,4,4,1,287,215,40,15,4,4,1,233,239,36,0,8,7,5,5,0,0,Orange County,precinct
-Orange County,Warwick 5,228,134,29,0,4,4,2,5,226,133,30,6,5,4,4,196,141,34,0,3,3,5,5,0,0,Orange County,precinct
-Orange County,Warwick 6,143,127,27,0,5,4,0,1,139,130,23,10,6,2,0,118,136,30,0,3,5,2,1,0,0,Orange County,precinct
-Orange County,Warwick 7,141,166,29,0,3,6,4,0,149,160,28,2,7,4,1,116,178,25,0,2,5,2,0,0,0,Orange County,precinct
-Orange County,Warwick 8,310,179,18,0,3,6,4,2,305,182,20,7,7,9,1,258,198,17,0,7,5,3,1,0,0,Orange County,precinct
-Orange County,Warwick 9,211,218,30,0,1,8,5,1,215,208,27,4,8,4,3,190,230,26,0,1,2,2,4,0,0,Orange County,precinct
-Orange County,Wawayanda 1,172,253,43,0,5,7,3,3,179,236,37,12,12,4,3,154,262,40,0,4,3,2,4,0,0,Orange County,precinct
-Orange County,Wawayanda 2,239,174,21,0,8,7,5,4,235,174,20,13,9,4,1,207,207,19,0,7,2,2,3,0,0,Orange County,precinct
-Orange County,Wawayanda 3,190,218,34,0,2,10,2,2,203,203,29,4,9,3,1,149,248,30,0,1,4,1,5,0,0,Orange County,precinct
-Orange County,Wawayanda 4,176,189,25,0,1,9,2,1,178,177,24,4,9,3,0,139,213,22,0,1,4,2,1,0,0,Orange County,precinct
-Orange County,Wawayanda 5,138,214,21,0,2,9,2,3,143,201,21,5,10,1,4,102,238,22,0,2,6,2,3,0,0,Orange County,precinct
-Orange County,Wawayanda 6,207,293,28,0,4,5,3,4,217,267,31,9,4,7,2,165,319,30,0,6,3,3,3,0,0,Orange County,precinct
-Orange County,Woodbury 1,153,147,32,0,7,7,2,4,159,141,28,10,11,3,4,116,178,31,0,5,5,2,9,0,0,Orange County,precinct
-Orange County,Woodbury 10,321,216,36,0,14,5,3,9,332,199,35,14,3,5,5,263,257,36,0,5,2,2,7,0,0,Orange County,precinct
-Orange County,Woodbury 2,195,162,22,0,5,11,1,1,202,151,21,3,10,5,1,157,192,20,0,1,5,2,4,0,0,Orange County,precinct
-Orange County,Woodbury 3,234,170,16,0,6,9,0,4,235,171,15,5,10,7,3,179,192,23,0,4,10,3,10,0,0,Orange County,precinct
-Orange County,Woodbury 4,168,129,14,0,4,9,3,2,168,123,16,6,9,6,2,128,154,16,0,2,5,4,6,0,0,Orange County,precinct
-Orange County,Woodbury 5,312,196,22,0,5,7,4,4,317,193,22,4,7,4,2,259,247,27,0,4,2,4,9,0,0,Orange County,precinct
-Orange County,Woodbury 6,202,191,27,0,7,6,3,4,208,173,32,10,5,5,2,168,209,32,0,10,4,2,9,0,0,Orange County,precinct
-Orange County,Woodbury 7,192,117,13,0,3,9,2,8,190,120,14,5,9,5,1,160,149,18,0,0,2,2,6,0,0,Orange County,precinct
-Orange County,Woodbury 8,175,211,27,0,3,5,1,2,183,198,23,0,7,3,3,130,251,23,0,1,0,1,5,0,0,Orange County,precinct
-Orange County,Woodbury 9,129,36,7,0,0,1,1,1,128,36,6,2,1,1,0,117,42,5,0,1,1,0,0,0,0,Orange County,precinct
+Orange County,Blooming Grove 1-1,117,64,11,0,1,1,0,6,116,68,11,2,1,0,3,99,82,9,0,1,0,0,5,0,0,Orange County,Blooming Grove 1-1
+Orange County,Blooming Grove 1-2,249,183,21,0,8,10,0,10,260,175,20,10,10,5,6,225,200,25,0,3,12,2,8,0,0,Orange County,Blooming Grove 1-2
+Orange County,Blooming Grove 1-3,211,150,22,0,5,5,0,10,217,148,20,7,8,0,10,190,173,20,0,1,3,0,17,0,0,Orange County,Blooming Grove 1-3
+Orange County,Blooming Grove 1-4,24,32,3,0,0,0,0,0,20,32,3,0,0,0,2,17,34,4,0,0,0,0,3,0,0,Orange County,Blooming Grove 1-4
+Orange County,Blooming Grove 2-1,87,73,13,0,3,2,0,7,87,69,13,3,1,3,5,71,82,16,0,1,1,1,8,0,0,Orange County,Blooming Grove 2-1
+Orange County,Blooming Grove 2-2,202,189,32,0,5,4,2,4,203,176,31,7,6,5,2,167,210,35,0,1,5,0,4,0,0,Orange County,Blooming Grove 2-2
+Orange County,Blooming Grove 2-3,160,165,23,0,5,5,1,7,166,153,21,7,7,1,7,128,192,25,0,3,0,1,5,0,0,Orange County,Blooming Grove 2-3
+Orange County,Blooming Grove 3-1,159,180,32,0,7,8,2,7,166,168,37,9,7,2,10,122,188,36,0,7,2,3,18,0,0,Orange County,Blooming Grove 3-1
+Orange County,Blooming Grove 3-2,136,105,19,0,3,5,3,4,140,104,15,5,4,2,5,117,118,21,0,2,1,2,5,0,0,Orange County,Blooming Grove 3-2
+Orange County,Blooming Grove 3-3,123,111,21,0,8,6,2,6,127,109,20,12,6,1,4,103,130,23,0,4,1,0,11,0,0,Orange County,Blooming Grove 3-3
+Orange County,Blooming Grove 3-4,20,4,2,0,1,1,0,1,19,3,2,2,2,0,2,18,3,2,0,1,0,0,0,0,0,Orange County,Blooming Grove 3-4
+Orange County,Blooming Grove 4-1,93,110,16,0,2,13,1,14,98,102,14,2,15,0,16,82,123,15,0,1,13,1,17,0,0,Orange County,Blooming Grove 4-1
+Orange County,Blooming Grove 4-2,152,128,22,0,5,8,4,7,159,120,19,6,9,3,11,127,135,22,0,3,9,1,14,0,0,Orange County,Blooming Grove 4-2
+Orange County,Blooming Grove 4-3,107,101,21,0,4,4,2,22,107,104,16,7,5,0,20,88,104,22,0,3,2,0,31,0,0,Orange County,Blooming Grove 4-3
+Orange County,Blooming Grove 5-1,153,171,48,0,5,7,1,4,153,166,46,12,7,1,3,113,195,50,0,7,3,0,8,0,0,Orange County,Blooming Grove 5-1
+Orange County,Blooming Grove 5-2,13,25,4,0,2,2,0,1,14,25,4,2,3,2,0,12,29,6,0,2,0,0,0,0,0,Orange County,Blooming Grove 5-2
+Orange County,Blooming Grove 5-3,161,191,29,0,7,7,4,12,170,175,26,9,9,5,13,121,205,29,0,3,6,5,18,0,0,Orange County,Blooming Grove 5-3
+Orange County,Blooming Grove 5-4,138,151,28,0,3,2,0,4,145,149,22,3,2,0,5,119,169,22,0,3,1,0,7,0,0,Orange County,Blooming Grove 5-4
+Orange County,Blooming Grove 5-5,27,17,9,0,1,1,0,1,29,16,10,0,1,0,0,23,21,10,0,0,1,0,0,0,0,Orange County,Blooming Grove 5-5
+Orange County,Blooming Grove 6-1,137,148,23,0,2,4,2,2,132,149,17,5,7,2,3,112,158,21,0,3,5,0,6,0,0,Orange County,Blooming Grove 6-1
+Orange County,Blooming Grove 6-2,160,191,31,0,4,11,4,8,152,194,34,2,10,7,7,126,216,28,0,0,7,2,8,0,0,Orange County,Blooming Grove 6-2
+Orange County,Blooming Grove 6-3,197,215,52,0,11,4,6,10,217,197,43,12,4,6,11,150,230,49,0,4,0,1,18,0,0,Orange County,Blooming Grove 6-3
+Orange County,Blooming Grove 6-4,11,13,5,0,0,0,0,2,11,12,5,0,0,0,1,8,13,5,0,0,0,0,3,0,0,Orange County,Blooming Grove 6-4
+Orange County,Chester 1,256,195,32,0,12,11,3,8,270,180,29,10,14,3,9,221,231,27,0,6,5,3,12,0,0,Orange County,Chester 1
+Orange County,Chester 10,165,138,27,0,9,3,3,2,167,133,23,10,8,4,3,127,160,25,0,5,1,2,4,0,0,Orange County,Chester 10
+Orange County,Chester 11,129,140,13,0,2,4,1,6,124,133,16,4,6,0,8,98,154,22,0,1,2,1,9,0,0,Orange County,Chester 11
+Orange County,Chester 12,198,218,36,0,6,6,1,2,207,201,34,6,8,1,3,163,233,39,0,3,4,1,4,0,0,Orange County,Chester 12
+Orange County,Chester 2,160,126,12,0,3,7,3,2,159,117,14,5,7,6,2,125,147,17,0,2,4,4,3,0,0,Orange County,Chester 2
+Orange County,Chester 3,225,250,29,0,3,13,1,9,220,250,30,7,8,2,10,167,287,32,0,7,6,2,15,0,0,Orange County,Chester 3
+Orange County,Chester 4,249,244,41,0,7,4,2,6,259,235,35,4,7,4,5,217,259,41,0,3,4,3,15,0,0,Orange County,Chester 4
+Orange County,Chester 5,165,216,55,0,4,8,1,12,169,200,54,9,10,3,10,134,250,50,0,2,7,2,12,0,0,Orange County,Chester 5
+Orange County,Chester 6,159,121,29,0,2,3,1,2,162,113,30,4,4,0,1,139,131,27,0,1,1,0,5,0,0,Orange County,Chester 6
+Orange County,Chester 7,244,231,22,0,9,6,2,9,247,229,24,14,6,1,7,202,253,22,0,4,9,2,14,0,0,Orange County,Chester 7
+Orange County,Chester 8,226,116,16,0,5,2,3,3,234,111,12,6,4,4,3,198,138,13,0,0,2,6,4,0,0,Orange County,Chester 8
+Orange County,Chester 9,120,70,3,0,1,1,2,1,130,58,3,2,1,1,1,105,74,4,0,1,0,2,2,0,0,Orange County,Chester 9
+Orange County,City of Newburgh 1-1,158,7,1,0,5,1,3,0,161,7,1,6,2,2,1,159,12,1,0,7,3,1,0,0,0,Orange County,City of Newburgh 1-1
+Orange County,City of Newburgh 1-2,319,18,0,0,8,5,3,2,311,22,0,10,6,2,0,309,27,2,0,7,4,2,0,0,0,Orange County,City of Newburgh 1-2
+Orange County,City of Newburgh 1-3,197,22,4,0,3,3,1,0,193,22,4,2,3,2,1,188,29,4,0,3,1,2,1,0,0,Orange County,City of Newburgh 1-3
+Orange County,City of Newburgh 1-4,267,89,7,0,15,5,3,5,260,81,10,15,6,3,4,235,96,9,0,15,6,6,6,0,0,Orange County,City of Newburgh 1-4
+Orange County,City of Newburgh 2-1,311,35,2,0,8,6,3,2,306,35,2,12,6,5,0,315,42,4,0,7,3,2,2,0,0,Orange County,City of Newburgh 2-1
+Orange County,City of Newburgh 2-2,383,36,2,0,20,4,4,0,379,35,1,19,1,1,0,359,50,4,0,18,1,1,0,0,0,Orange County,City of Newburgh 2-2
+Orange County,City of Newburgh 3-1,253,109,16,0,6,6,3,2,238,116,15,13,4,3,2,229,134,15,0,4,2,1,4,0,0,Orange County,City of Newburgh 3-1
+Orange County,City of Newburgh 3-2,317,91,11,0,10,8,2,2,300,88,8,14,8,3,1,285,102,10,0,11,7,3,4,0,0,Orange County,City of Newburgh 3-2
+Orange County,City of Newburgh 3-3,345,38,2,0,6,5,4,0,346,36,2,6,6,1,1,364,42,2,0,2,4,2,1,0,0,Orange County,City of Newburgh 3-3
+Orange County,City of Newburgh 3-4,172,85,6,0,5,3,0,0,171,77,6,5,2,1,2,150,93,7,0,4,2,1,1,0,0,Orange County,City of Newburgh 3-4
+Orange County,City of Newburgh 4-1,44,2,3,0,0,1,0,0,40,1,1,1,1,1,0,46,2,2,0,0,1,0,0,0,0,Orange County,City of Newburgh 4-1
+Orange County,City of Newburgh 4-2,186,31,7,0,7,2,0,0,181,33,7,6,0,1,1,189,40,5,0,4,0,1,1,0,0,Orange County,City of Newburgh 4-2
+Orange County,City of Newburgh 4-3,258,65,7,0,8,0,5,0,253,62,6,7,1,6,1,234,68,9,0,6,2,3,1,0,0,Orange County,City of Newburgh 4-3
+Orange County,City of Newburgh 4-4,250,79,8,0,8,6,3,3,244,77,9,9,7,4,0,239,89,8,0,5,5,3,0,0,0,Orange County,City of Newburgh 4-4
+Orange County,City of Newburgh 4-5,117,10,0,0,5,3,0,0,113,10,0,5,3,0,0,124,14,0,0,4,1,1,0,0,0,Orange County,City of Newburgh 4-5
+Orange County,Cornwall 1,259,146,24,0,13,8,3,4,259,147,28,14,8,3,4,222,171,26,0,13,7,3,3,0,0,Orange County,Cornwall 1
+Orange County,Cornwall 10,138,161,20,0,3,5,1,1,139,152,26,6,4,1,0,115,168,22,0,4,2,1,0,0,0,Orange County,Cornwall 10
+Orange County,Cornwall 11,241,234,27,0,7,11,4,3,254,219,26,9,13,6,2,194,264,34,0,5,7,5,6,0,0,Orange County,Cornwall 11
+Orange County,Cornwall 12,221,161,19,0,5,3,2,0,226,155,18,3,3,0,2,196,183,22,0,5,1,0,2,0,0,Orange County,Cornwall 12
+Orange County,Cornwall 13,145,98,13,0,6,8,4,4,142,104,9,10,7,5,2,115,123,13,0,4,1,3,4,0,0,Orange County,Cornwall 13
+Orange County,Cornwall 14,179,184,27,0,8,12,1,0,183,180,23,9,12,4,1,130,221,25,0,9,7,3,5,0,0,Orange County,Cornwall 14
+Orange County,Cornwall 2,172,132,16,0,4,6,2,2,170,129,18,8,5,1,2,145,148,21,0,4,5,1,4,0,0,Orange County,Cornwall 2
+Orange County,Cornwall 3,217,155,27,0,7,7,4,2,216,153,23,12,6,4,1,189,177,25,0,5,4,4,2,0,0,Orange County,Cornwall 3
+Orange County,Cornwall 4,248,188,39,0,16,13,5,1,239,188,38,16,14,8,2,181,235,43,0,10,6,2,9,0,0,Orange County,Cornwall 4
+Orange County,Cornwall 5,135,167,13,0,4,5,3,2,140,156,12,7,4,4,2,110,195,13,0,1,2,2,1,0,0,Orange County,Cornwall 5
+Orange County,Cornwall 6,207,160,33,0,5,8,3,1,199,161,30,6,11,8,1,167,182,31,0,5,4,4,4,0,0,Orange County,Cornwall 6
+Orange County,Cornwall 7,108,127,16,0,6,3,1,1,106,123,14,7,3,2,1,92,138,15,0,3,1,2,0,0,0,Orange County,Cornwall 7
+Orange County,Cornwall 8,291,206,41,0,9,5,3,5,283,199,44,11,6,7,4,239,233,44,0,10,4,5,7,0,0,Orange County,Cornwall 8
+Orange County,Cornwall 9,191,130,19,0,13,6,5,1,193,122,19,12,7,6,2,144,154,24,0,5,5,6,2,0,0,Orange County,Cornwall 9
+Orange County,Crawford 1,150,209,23,0,2,8,2,1,155,204,23,5,8,1,1,125,222,24,0,3,3,2,5,0,0,Orange County,Crawford 1
+Orange County,Crawford 2,122,206,20,0,0,2,0,2,125,204,17,3,5,0,1,101,222,20,0,2,2,0,0,0,0,Orange County,Crawford 2
+Orange County,Crawford 3,194,297,48,0,9,7,1,3,197,288,50,6,9,1,3,154,322,53,0,3,3,0,5,0,0,Orange County,Crawford 3
+Orange County,Crawford 4,138,238,30,0,8,3,3,1,146,230,32,12,2,3,0,90,255,37,0,5,1,1,1,0,0,Orange County,Crawford 4
+Orange County,Crawford 5,147,213,50,0,3,8,1,4,146,218,46,6,6,1,5,110,240,44,0,5,4,1,5,0,0,Orange County,Crawford 5
+Orange County,Crawford 6,181,279,48,0,6,11,3,2,184,271,40,8,12,3,4,139,312,40,0,6,5,2,9,0,0,Orange County,Crawford 6
+Orange County,Crawford 7,166,195,37,0,1,5,3,0,162,188,33,4,11,2,1,129,228,35,0,1,4,3,1,0,0,Orange County,Crawford 7
+Orange County,Crawford 8,137,172,15,0,3,4,2,1,151,163,15,3,3,2,2,115,193,18,0,5,0,2,3,0,0,Orange County,Crawford 8
+Orange County,Deerpark 1,95,162,30,0,1,7,4,1,96,156,30,0,8,4,2,88,170,30,0,0,5,4,0,0,0,Orange County,Deerpark 1
+Orange County,Deerpark 2,105,192,23,0,5,7,2,1,108,185,20,7,6,2,2,86,207,23,0,0,5,2,6,0,0,Orange County,Deerpark 2
+Orange County,Deerpark 3,134,198,12,0,2,2,2,4,140,191,12,7,5,1,0,118,209,15,0,1,5,2,2,0,0,Orange County,Deerpark 3
+Orange County,Deerpark 4,131,216,40,0,2,4,0,3,138,201,37,4,8,1,2,121,228,44,0,1,5,0,0,0,0,Orange County,Deerpark 4
+Orange County,Deerpark 5,96,252,33,0,4,6,1,1,106,241,30,5,6,1,1,86,253,35,0,2,3,0,1,0,0,Orange County,Deerpark 5
+Orange County,Deerpark 6,87,113,20,0,3,8,1,0,84,110,20,7,8,0,1,75,119,18,0,3,4,1,3,0,0,Orange County,Deerpark 6
+Orange County,Deerpark 7,90,251,17,0,7,9,1,2,95,239,19,8,6,1,3,74,260,26,0,2,3,2,2,0,0,Orange County,Deerpark 7
+Orange County,Goshen 1,195,174,23,0,6,6,4,2,228,135,20,7,9,4,2,183,175,21,0,5,7,2,2,0,0,Orange County,Goshen 1
+Orange County,Goshen 10,198,224,39,0,6,5,3,4,209,203,34,9,4,6,4,162,236,40,0,4,4,1,4,0,0,Orange County,Goshen 10
+Orange County,Goshen 11,219,140,26,0,3,5,1,0,232,125,25,6,6,0,1,199,156,26,0,1,3,1,2,0,0,Orange County,Goshen 11
+Orange County,Goshen 12,124,148,19,0,2,2,0,1,126,142,17,6,4,1,0,104,156,20,0,2,2,1,5,0,0,Orange County,Goshen 12
+Orange County,Goshen 13,23,14,3,0,1,1,0,0,22,14,3,1,2,0,0,20,16,2,0,0,2,0,0,0,0,Orange County,Goshen 13
+Orange County,Goshen 2,124,62,16,0,1,4,0,2,126,57,14,3,4,0,1,115,66,16,0,1,2,0,2,0,0,Orange County,Goshen 2
+Orange County,Goshen 3,207,181,29,0,5,8,3,3,216,154,27,5,6,5,3,191,186,26,0,2,2,1,2,0,0,Orange County,Goshen 3
+Orange County,Goshen 4,278,276,35,0,11,4,6,5,296,240,38,13,10,9,1,218,283,41,0,9,6,6,7,0,0,Orange County,Goshen 4
+Orange County,Goshen 5,227,256,30,0,2,4,5,6,255,217,31,4,4,10,3,209,252,30,0,4,4,7,5,0,0,Orange County,Goshen 5
+Orange County,Goshen 6,138,173,23,0,0,2,2,6,153,149,21,1,3,2,3,106,181,25,0,0,1,1,6,0,0,Orange County,Goshen 6
+Orange County,Goshen 7,217,271,31,0,4,7,3,6,228,251,33,8,2,7,2,187,285,29,0,3,2,2,3,0,0,Orange County,Goshen 7
+Orange County,Goshen 8,136,191,28,0,5,5,4,2,157,173,23,6,4,6,3,115,203,23,0,3,4,3,3,0,0,Orange County,Goshen 8
+Orange County,Goshen 9,250,255,55,0,12,7,4,4,264,233,53,11,9,6,2,209,277,51,0,6,4,5,3,0,0,Orange County,Goshen 9
+Orange County,Greenville 1,122,262,37,0,2,7,0,3,118,260,30,6,4,1,4,101,285,33,0,2,2,1,2,0,0,Orange County,Greenville 1
+Orange County,Greenville 2,187,277,31,0,12,6,7,0,196,266,30,13,6,5,0,135,327,36,0,8,2,7,3,0,0,Orange County,Greenville 2
+Orange County,Greenville 3,103,198,24,0,3,2,3,3,109,174,27,10,4,3,1,81,206,30,0,3,2,2,3,0,0,Orange County,Greenville 3
+Orange County,Greenville 4,155,220,39,0,1,3,0,1,157,211,39,1,6,0,2,124,238,33,0,1,4,0,1,0,0,Orange County,Greenville 4
+Orange County,Hamptonburgh 1,186,213,26,0,1,2,3,1,199,190,27,6,4,1,3,161,217,26,0,3,2,3,1,0,0,Orange County,Hamptonburgh 1
+Orange County,Hamptonburgh 2,197,302,29,0,6,5,2,5,194,291,27,7,10,3,5,142,316,27,0,0,3,4,14,0,0,Orange County,Hamptonburgh 2
+Orange County,Hamptonburgh 3,173,206,36,0,5,5,1,5,175,198,30,8,8,3,2,139,225,31,0,4,2,2,4,0,0,Orange County,Hamptonburgh 3
+Orange County,Hamptonburgh 4,167,178,16,0,10,5,3,2,169,164,15,13,8,2,2,136,197,16,0,4,4,2,6,0,0,Orange County,Hamptonburgh 4
+Orange County,Hamptonburgh 5,150,239,34,0,8,8,1,7,153,231,36,8,6,3,5,127,256,37,0,7,3,1,3,0,0,Orange County,Hamptonburgh 5
+Orange County,Highlands 1,214,154,14,0,2,6,2,3,224,140,15,3,4,4,2,183,181,14,0,4,7,5,5,0,0,Orange County,Highlands 1
+Orange County,Highlands 2,174,52,11,0,8,8,5,2,181,50,8,10,6,3,3,172,63,10,0,8,7,2,4,0,0,Orange County,Highlands 2
+Orange County,Highlands 3,188,118,11,0,8,11,5,1,198,110,11,9,11,3,0,171,128,14,0,9,5,2,3,0,0,Orange County,Highlands 3
+Orange County,Highlands 4,170,172,25,0,6,7,1,1,174,172,19,4,6,2,1,132,213,21,0,6,3,1,2,0,0,Orange County,Highlands 4
+Orange County,Highlands 5,123,114,9,0,8,5,1,0,132,112,6,8,3,1,0,109,123,10,0,6,4,1,0,0,0,Orange County,Highlands 5
+Orange County,Highlands 6,146,124,19,0,7,4,2,1,153,113,18,12,7,3,1,130,128,21,0,6,3,4,2,0,0,Orange County,Highlands 6
+Orange County,Middletown - Ward 1-1,159,67,7,0,6,4,2,1,168,59,7,3,6,2,1,151,72,9,0,3,5,0,1,0,0,Orange County,Middletown - Ward 1-1
+Orange County,Middletown - Ward 1-2,79,34,3,0,1,0,0,0,82,29,3,1,2,0,0,76,32,4,0,1,0,1,0,0,0,Orange County,Middletown - Ward 1-2
+Orange County,Middletown - Ward 1-3,158,47,7,0,3,2,1,2,160,44,5,3,1,0,2,147,64,3,0,3,1,0,2,0,0,Orange County,Middletown - Ward 1-3
+Orange County,Middletown - Ward 1-4,36,19,0,0,2,1,0,0,35,18,0,2,2,0,0,35,20,1,0,0,2,0,0,0,0,Orange County,Middletown - Ward 1-4
+Orange County,Middletown - Ward 1-5,139,53,7,0,6,1,0,1,144,46,7,5,1,0,0,134,59,7,0,0,0,0,2,0,0,Orange County,Middletown - Ward 1-5
+Orange County,Middletown - Ward 1-6,112,41,1,0,3,4,0,0,115,41,1,3,4,0,0,106,48,1,0,2,3,1,0,0,0,Orange County,Middletown - Ward 1-6
+Orange County,Middletown - Ward 2-1,133,53,8,0,3,5,0,1,133,49,9,6,3,1,1,124,61,11,0,2,2,1,1,0,0,Orange County,Middletown - Ward 2-1
+Orange County,Middletown - Ward 2-2,110,48,9,0,6,3,3,0,108,49,8,5,3,3,1,100,55,9,0,3,2,1,1,0,0,Orange County,Middletown - Ward 2-2
+Orange County,Middletown - Ward 2-3,163,63,2,0,5,3,1,4,165,61,1,7,1,3,2,144,66,5,0,1,1,0,1,0,0,Orange County,Middletown - Ward 2-3
+Orange County,Middletown - Ward 2-4,213,50,11,0,1,1,5,2,206,47,10,5,2,4,1,200,54,10,0,4,0,2,2,0,0,Orange County,Middletown - Ward 2-4
+Orange County,Middletown - Ward 2-5,123,50,3,0,0,3,1,1,128,47,5,1,1,2,0,116,58,4,0,1,2,3,0,0,0,Orange County,Middletown - Ward 2-5
+Orange County,Middletown - Ward 2-6,132,48,3,0,2,4,1,3,138,43,4,3,2,1,2,126,56,4,0,3,1,2,2,0,0,Orange County,Middletown - Ward 2-6
+Orange County,Middletown - Ward 2-7,94,34,6,0,0,3,0,0,89,39,5,1,1,0,1,80,47,7,0,0,1,0,2,0,0,Orange County,Middletown - Ward 2-7
+Orange County,Middletown - Ward 3-1,188,91,8,0,6,8,2,1,195,83,9,7,8,1,1,170,106,12,0,1,5,1,2,0,0,Orange County,Middletown - Ward 3-1
+Orange County,Middletown - Ward 3-2,144,62,5,0,7,5,4,3,146,57,10,8,6,4,0,120,75,12,0,3,4,2,4,0,0,Orange County,Middletown - Ward 3-2
+Orange County,Middletown - Ward 3-3,94,30,4,0,4,1,1,1,95,26,5,4,2,2,1,92,34,7,0,3,1,0,1,0,0,Orange County,Middletown - Ward 3-3
+Orange County,Middletown - Ward 3-4,219,72,8,0,6,6,1,1,228,69,7,3,6,2,2,211,79,7,0,4,4,2,1,0,0,Orange County,Middletown - Ward 3-4
+Orange County,Middletown - Ward 3-5,174,38,4,0,2,1,2,1,175,34,5,5,2,2,0,169,51,2,0,1,1,2,1,0,0,Orange County,Middletown - Ward 3-5
+Orange County,Middletown - Ward 3-6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Orange County,Middletown - Ward 3-6
+Orange County,Middletown - Ward 4-1,250,101,1,0,5,6,1,3,256,88,5,4,7,3,2,225,101,9,0,3,6,3,1,0,0,Orange County,Middletown - Ward 4-1
+Orange County,Middletown - Ward 4-2,243,63,7,0,4,1,2,2,250,55,8,4,4,2,0,236,72,9,0,2,3,1,0,0,0,Orange County,Middletown - Ward 4-2
+Orange County,Middletown - Ward 4-3,113,21,0,0,5,1,0,1,119,19,1,5,1,3,2,114,29,2,0,3,0,2,1,0,0,Orange County,Middletown - Ward 4-3
+Orange County,Middletown - Ward 4-4,251,85,10,0,6,3,3,2,250,81,10,10,3,3,1,237,94,11,0,7,2,1,2,0,0,Orange County,Middletown - Ward 4-4
+Orange County,Middletown - Ward 4-5,241,90,18,0,3,5,2,1,250,86,18,4,7,2,0,219,98,14,0,2,4,5,2,0,0,Orange County,Middletown - Ward 4-5
+Orange County,Middletown - Ward 4-6,360,105,13,0,7,4,5,1,370,98,14,13,5,4,0,361,104,17,0,4,4,3,0,0,0,Orange County,Middletown - Ward 4-6
+Orange County,Middletown - Ward 4-7,291,45,1,0,7,5,1,1,288,44,1,6,7,4,2,278,53,4,0,5,5,1,1,0,0,Orange County,Middletown - Ward 4-7
+Orange County,Middletown - Ward 4-8,20,3,0,0,0,2,0,0,20,3,1,0,1,0,0,20,4,0,0,1,1,0,0,0,0,Orange County,Middletown - Ward 4-8
+Orange County,Minisink 1,133,282,36,0,2,7,0,2,133,272,35,5,8,1,2,102,294,36,0,1,5,0,2,0,0,Orange County,Minisink 1
+Orange County,Minisink 2,152,257,38,0,11,8,3,6,164,245,35,12,7,3,2,119,291,37,0,5,4,2,5,0,0,Orange County,Minisink 2
+Orange County,Minisink 3,107,178,26,0,6,1,1,0,107,176,28,6,4,2,0,77,201,28,0,3,1,1,1,0,0,Orange County,Minisink 3
+Orange County,Minisink 4,157,188,20,0,6,9,1,0,148,192,24,3,6,2,2,115,216,28,0,2,3,2,2,0,0,Orange County,Minisink 4
+Orange County,Monroe 1,245,221,28,0,7,6,4,3,255,201,30,7,8,5,0,195,246,35,0,6,2,4,12,0,0,Orange County,Monroe 1
+Orange County,Monroe 10,198,207,35,0,7,4,5,5,206,192,34,10,9,4,5,158,248,36,0,3,7,2,9,0,0,Orange County,Monroe 10
+Orange County,Monroe 11,131,186,18,0,1,1,1,1,134,169,18,2,2,2,3,100,210,16,0,1,0,1,2,0,0,Orange County,Monroe 11
+Orange County,Monroe 12,173,197,32,0,7,5,5,3,184,184,27,6,6,5,2,140,234,30,0,4,5,3,2,0,0,Orange County,Monroe 12
+Orange County,Monroe 13,183,142,24,0,10,2,5,2,181,136,21,11,7,5,0,148,154,22,0,4,5,4,5,0,0,Orange County,Monroe 13
+Orange County,Monroe 14,138,170,26,0,6,7,4,3,141,166,25,7,6,1,2,115,199,24,0,3,2,2,3,0,0,Orange County,Monroe 14
+Orange County,Monroe 15,296,216,37,0,5,9,6,6,300,212,33,9,4,12,5,233,253,34,0,6,3,6,10,0,0,Orange County,Monroe 15
+Orange County,Monroe 16,139,148,17,0,2,5,1,2,141,139,15,9,4,3,2,111,168,15,0,4,2,1,5,0,0,Orange County,Monroe 16
+Orange County,Monroe 17,172,170,32,0,7,6,2,4,174,170,31,7,3,5,2,125,212,30,0,2,3,2,8,0,0,Orange County,Monroe 17
+Orange County,Monroe 18,18,29,3,0,1,17,0,1,22,26,2,1,16,0,0,19,39,2,0,2,11,0,0,0,0,Orange County,Monroe 18
+Orange County,Monroe 19,132,72,4,0,2,0,1,0,136,63,4,4,0,5,0,112,79,7,0,0,1,1,2,0,0,Orange County,Monroe 19
+Orange County,Monroe 2,198,201,25,0,3,4,3,3,203,185,23,5,4,5,5,158,237,27,0,1,3,2,11,0,0,Orange County,Monroe 2
+Orange County,Monroe 20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Orange County,Monroe 20
+Orange County,Monroe 21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Orange County,Monroe 21
+Orange County,Monroe 3,167,141,21,0,1,5,6,2,171,141,21,2,6,6,2,134,169,16,0,1,5,4,6,0,0,Orange County,Monroe 3
+Orange County,Monroe 4,219,193,19,0,10,12,1,7,230,190,16,15,6,1,6,189,228,20,0,6,4,1,13,0,0,Orange County,Monroe 4
+Orange County,Monroe 5,212,185,11,0,4,2,2,3,222,171,11,7,4,2,1,187,205,16,0,3,0,3,3,0,0,Orange County,Monroe 5
+Orange County,Monroe 6,161,162,21,0,3,9,1,6,177,152,23,2,8,1,3,137,182,22,0,1,5,1,8,0,0,Orange County,Monroe 6
+Orange County,Monroe 7,223,240,32,0,7,9,5,1,230,226,32,9,10,7,3,191,275,29,0,4,3,3,6,0,0,Orange County,Monroe 7
+Orange County,Monroe 8,141,107,10,0,6,5,2,2,151,95,11,8,7,3,1,134,114,10,0,3,5,1,5,0,0,Orange County,Monroe 8
+Orange County,Monroe 9,141,81,11,0,4,3,1,1,140,80,9,4,5,1,1,121,98,11,0,0,5,0,2,0,0,Orange County,Monroe 9
+Orange County,Montgomery 1,165,229,43,0,6,4,3,4,173,219,39,8,6,1,6,137,252,40,0,3,4,1,3,0,0,Orange County,Montgomery 1
+Orange County,Montgomery 10,129,205,34,0,3,9,0,3,127,199,38,1,12,1,3,102,219,38,0,1,7,2,3,0,0,Orange County,Montgomery 10
+Orange County,Montgomery 11,140,206,24,0,7,7,2,3,140,198,27,8,7,3,3,117,219,23,0,6,6,1,2,0,0,Orange County,Montgomery 11
+Orange County,Montgomery 12,217,132,27,0,5,6,4,3,221,123,22,6,6,3,3,203,140,21,0,3,3,2,2,0,0,Orange County,Montgomery 12
+Orange County,Montgomery 13,197,261,43,0,7,4,3,3,195,258,41,11,4,6,2,149,299,46,0,5,4,1,2,0,0,Orange County,Montgomery 13
+Orange County,Montgomery 14,115,148,26,0,7,9,2,0,114,145,29,5,6,0,0,88,173,27,0,4,4,1,0,0,0,Orange County,Montgomery 14
+Orange County,Montgomery 15,220,189,25,0,11,9,7,1,225,170,26,12,11,5,0,186,221,26,0,5,3,2,1,0,0,Orange County,Montgomery 15
+Orange County,Montgomery 16,213,223,32,0,8,9,0,3,218,210,32,13,8,2,0,176,248,28,0,10,4,0,6,0,0,Orange County,Montgomery 16
+Orange County,Montgomery 17,202,194,20,0,4,5,3,1,201,188,20,8,3,2,1,171,221,16,0,4,3,5,0,0,0,Orange County,Montgomery 17
+Orange County,Montgomery 18,214,310,39,0,3,8,4,3,231,296,34,5,10,6,2,184,335,36,0,5,3,4,6,0,0,Orange County,Montgomery 18
+Orange County,Montgomery 2,307,228,28,0,10,8,2,3,310,213,28,12,10,3,5,265,254,35,0,5,6,2,3,0,0,Orange County,Montgomery 2
+Orange County,Montgomery 3,304,211,23,0,5,7,4,0,305,200,21,9,9,2,2,274,235,24,0,2,6,1,1,0,0,Orange County,Montgomery 3
+Orange County,Montgomery 4,140,224,30,0,7,6,3,1,140,221,28,10,5,2,2,105,246,33,0,4,5,1,1,0,0,Orange County,Montgomery 4
+Orange County,Montgomery 5,215,193,25,0,6,13,7,4,207,193,24,11,9,8,4,164,223,23,0,3,6,4,8,0,0,Orange County,Montgomery 5
+Orange County,Montgomery 6,178,149,11,0,10,8,2,4,177,144,9,11,8,5,2,128,171,14,0,6,2,2,4,0,0,Orange County,Montgomery 6
+Orange County,Montgomery 7,194,179,31,0,11,10,1,2,196,187,27,5,9,1,2,165,214,19,0,2,6,1,7,0,0,Orange County,Montgomery 7
+Orange County,Montgomery 8,220,107,19,0,8,5,2,0,218,113,20,5,4,2,1,192,134,25,0,5,2,0,1,0,0,Orange County,Montgomery 8
+Orange County,Montgomery 9,140,180,29,0,5,4,1,3,137,176,27,7,5,0,3,102,217,28,0,2,2,0,4,0,0,Orange County,Montgomery 9
+Orange County,Mount Hope 1,152,156,19,0,7,3,4,1,141,158,22,8,5,7,0,106,185,25,0,1,2,2,5,0,0,Orange County,Mount Hope 1
+Orange County,Mount Hope 2,201,243,47,0,9,10,0,3,190,242,45,15,10,0,6,153,289,50,0,5,5,0,8,0,0,Orange County,Mount Hope 2
+Orange County,Mount Hope 3,193,264,43,0,9,13,3,7,203,243,46,14,17,5,6,145,305,45,0,7,10,1,6,0,0,Orange County,Mount Hope 3
+Orange County,Mount Hope 4,187,272,35,0,10,6,2,2,196,261,36,13,7,5,3,159,304,38,0,6,5,0,4,0,0,Orange County,Mount Hope 4
+Orange County,New Windsor 1,150,94,14,0,3,5,2,0,155,90,15,3,4,3,0,123,108,16,0,1,6,1,0,0,0,Orange County,New Windsor 1
+Orange County,New Windsor 10,339,163,25,0,2,11,7,2,342,155,22,5,14,7,3,308,197,26,0,4,10,1,2,0,0,Orange County,New Windsor 10
+Orange County,New Windsor 11,237,171,25,0,3,3,4,2,238,165,27,6,5,4,2,207,198,26,0,5,2,1,3,0,0,Orange County,New Windsor 11
+Orange County,New Windsor 12,185,79,9,0,2,4,0,0,185,80,8,3,4,2,0,175,88,12,0,1,3,2,0,0,0,Orange County,New Windsor 12
+Orange County,New Windsor 13,238,144,20,0,7,6,4,3,243,141,20,6,8,5,2,219,172,19,0,2,6,3,1,0,0,Orange County,New Windsor 13
+Orange County,New Windsor 14,239,170,23,0,8,6,2,1,240,159,22,9,5,6,2,218,188,25,0,3,2,1,8,0,0,Orange County,New Windsor 14
+Orange County,New Windsor 15,342,216,23,0,8,6,0,3,347,211,23,9,5,2,1,325,235,24,0,5,4,1,2,0,0,Orange County,New Windsor 15
+Orange County,New Windsor 16,307,338,46,0,7,14,2,3,305,336,46,13,11,2,0,244,383,41,0,6,9,1,6,0,0,Orange County,New Windsor 16
+Orange County,New Windsor 17,136,66,5,0,4,2,4,2,132,73,3,4,3,2,0,126,75,6,0,4,3,1,1,0,0,Orange County,New Windsor 17
+Orange County,New Windsor 18,293,171,20,0,5,7,5,2,299,168,17,9,8,3,2,275,189,21,0,5,9,5,3,0,0,Orange County,New Windsor 18
+Orange County,New Windsor 19,380,164,31,0,12,6,5,2,379,156,27,16,9,7,2,352,185,27,0,5,6,5,7,0,0,Orange County,New Windsor 19
+Orange County,New Windsor 2,163,94,21,0,1,4,4,0,166,86,19,6,5,5,1,148,118,14,0,2,1,5,1,0,0,Orange County,New Windsor 2
+Orange County,New Windsor 20,157,151,41,0,10,8,3,4,163,155,32,13,7,3,3,121,199,35,0,7,3,1,6,0,0,Orange County,New Windsor 20
+Orange County,New Windsor 21,159,207,30,0,4,5,0,8,157,198,27,6,6,0,5,119,229,31,0,1,2,2,15,0,0,Orange County,New Windsor 21
+Orange County,New Windsor 22,103,77,18,0,0,5,0,0,103,72,20,1,3,1,0,88,90,17,0,0,4,0,0,0,0,Orange County,New Windsor 22
+Orange County,New Windsor 3,140,132,10,0,6,5,0,1,136,135,10,7,4,2,1,116,152,14,0,4,1,0,2,0,0,Orange County,New Windsor 3
+Orange County,New Windsor 4,191,142,23,0,7,7,3,0,190,134,26,7,8,3,1,159,160,24,0,3,6,2,6,0,0,Orange County,New Windsor 4
+Orange County,New Windsor 5,225,283,34,0,11,10,4,11,227,272,34,13,14,5,10,192,308,34,0,7,5,3,11,0,0,Orange County,New Windsor 5
+Orange County,New Windsor 6,210,116,12,0,3,6,1,4,207,113,13,7,9,3,2,187,138,16,0,3,6,3,5,0,0,Orange County,New Windsor 6
+Orange County,New Windsor 7,142,119,10,0,7,6,0,2,147,110,13,2,10,2,1,124,133,15,0,5,6,2,0,0,0,Orange County,New Windsor 7
+Orange County,New Windsor 8,210,176,16,0,3,4,3,1,211,173,17,2,6,3,2,180,201,19,0,0,3,0,1,0,0,Orange County,New Windsor 8
+Orange County,New Windsor 9,156,102,13,0,5,2,0,1,155,94,13,4,2,1,1,132,120,12,0,3,3,1,0,0,0,Orange County,New Windsor 9
+Orange County,Newburgh Town 1,165,107,14,0,2,3,2,0,152,106,13,4,4,4,1,142,119,11,0,6,1,3,1,0,0,Orange County,Newburgh Town 1
+Orange County,Newburgh Town 10,185,122,19,0,6,3,2,0,184,128,17,5,2,2,0,158,147,19,0,3,0,1,1,0,0,Orange County,Newburgh Town 10
+Orange County,Newburgh Town 11,200,173,23,0,8,4,2,1,202,155,26,11,6,2,1,177,195,20,0,5,5,3,3,0,0,Orange County,Newburgh Town 11
+Orange County,Newburgh Town 12,190,172,28,0,7,7,3,0,189,175,29,7,6,3,0,156,203,30,0,5,4,2,2,0,0,Orange County,Newburgh Town 12
+Orange County,Newburgh Town 13,299,195,23,0,7,7,0,1,304,182,21,8,8,2,0,289,211,19,0,6,8,1,3,0,0,Orange County,Newburgh Town 13
+Orange County,Newburgh Town 14,228,238,33,0,6,5,3,2,229,236,30,9,10,3,2,198,260,32,0,4,4,2,2,0,0,Orange County,Newburgh Town 14
+Orange County,Newburgh Town 15,315,190,19,0,7,9,5,1,317,191,19,14,8,6,0,277,230,24,0,8,6,4,3,0,0,Orange County,Newburgh Town 15
+Orange County,Newburgh Town 16,194,182,37,0,6,8,5,3,184,176,36,8,8,7,4,161,220,35,0,2,0,2,4,0,0,Orange County,Newburgh Town 16
+Orange County,Newburgh Town 17,247,288,39,0,6,6,3,2,234,278,49,5,7,5,1,202,321,38,0,6,3,2,7,0,0,Orange County,Newburgh Town 17
+Orange County,Newburgh Town 18,220,211,34,0,2,7,2,3,221,213,34,3,6,2,4,199,235,40,0,1,4,2,5,0,0,Orange County,Newburgh Town 18
+Orange County,Newburgh Town 19,228,276,35,0,12,10,3,4,233,272,36,10,7,3,3,209,299,36,0,6,3,2,2,0,0,Orange County,Newburgh Town 19
+Orange County,Newburgh Town 2,184,148,14,0,3,3,3,1,189,132,16,6,4,4,1,152,160,16,0,4,4,2,3,0,0,Orange County,Newburgh Town 2
+Orange County,Newburgh Town 20,117,76,8,0,6,5,1,0,114,75,13,6,2,2,0,99,94,10,0,2,1,1,2,0,0,Orange County,Newburgh Town 20
+Orange County,Newburgh Town 21,208,285,32,0,7,6,5,0,208,285,31,7,3,5,3,172,306,31,0,4,3,3,3,0,0,Orange County,Newburgh Town 21
+Orange County,Newburgh Town 22,186,157,19,0,7,5,1,2,180,154,19,8,7,3,2,143,187,25,0,4,4,2,5,0,0,Orange County,Newburgh Town 22
+Orange County,Newburgh Town 23,404,114,19,0,9,7,3,1,414,110,16,9,7,4,0,383,132,14,0,7,3,2,3,0,0,Orange County,Newburgh Town 23
+Orange County,Newburgh Town 24,200,193,22,0,7,9,2,2,206,192,23,3,11,1,2,185,215,20,0,2,8,2,2,0,0,Orange County,Newburgh Town 24
+Orange County,Newburgh Town 25,331,189,26,0,12,10,3,4,339,186,26,7,10,7,3,293,226,25,0,10,7,3,4,0,0,Orange County,Newburgh Town 25
+Orange County,Newburgh Town 26,98,134,17,0,2,6,1,0,97,133,15,2,7,3,0,80,155,20,0,1,3,1,0,0,0,Orange County,Newburgh Town 26
+Orange County,Newburgh Town 27,154,34,1,0,3,6,0,0,156,33,0,2,6,1,0,151,38,2,0,1,3,0,0,0,0,Orange County,Newburgh Town 27
+Orange County,Newburgh Town 3,214,173,26,0,6,2,4,1,214,170,24,9,3,5,1,191,204,26,0,4,1,3,3,0,0,Orange County,Newburgh Town 3
+Orange County,Newburgh Town 4,310,156,17,0,11,5,5,2,294,163,19,11,8,3,3,253,205,20,0,13,5,2,2,0,0,Orange County,Newburgh Town 4
+Orange County,Newburgh Town 5,224,207,32,0,5,7,1,1,221,206,33,8,4,1,0,193,242,33,0,4,3,0,2,0,0,Orange County,Newburgh Town 5
+Orange County,Newburgh Town 6,178,73,14,0,5,3,0,1,172,81,9,7,4,0,0,159,92,9,0,6,1,0,3,0,0,Orange County,Newburgh Town 6
+Orange County,Newburgh Town 7,136,138,24,0,4,5,0,1,138,130,20,8,4,6,1,112,155,22,0,3,6,0,3,0,0,Orange County,Newburgh Town 7
+Orange County,Newburgh Town 8,188,216,26,0,4,5,3,3,186,214,24,5,7,4,2,150,250,26,0,5,5,2,2,0,0,Orange County,Newburgh Town 8
+Orange County,Newburgh Town 9,236,136,26,0,7,6,6,1,253,136,23,7,6,4,0,221,153,26,0,5,6,5,0,0,0,Orange County,Newburgh Town 9
+Orange County,Palm Tree 1,4,16,3,0,1,145,0,0,18,14,2,1,147,0,0,20,12,2,0,1,147,1,0,0,0,Orange County,Palm Tree 1
+Orange County,Palm Tree 10,4,20,1,0,1,192,0,0,39,20,1,4,187,4,0,41,15,0,0,5,186,6,0,0,0,Orange County,Palm Tree 10
+Orange County,Palm Tree 11,3,13,2,0,0,163,0,1,45,11,2,1,161,0,0,41,12,2,0,2,160,3,0,0,0,Orange County,Palm Tree 11
+Orange County,Palm Tree 12,2,16,4,0,0,173,0,0,39,14,5,2,167,1,0,37,15,4,0,3,167,4,0,0,0,Orange County,Palm Tree 12
+Orange County,Palm Tree 13,9,31,1,0,0,252,0,0,73,23,2,1,253,2,0,81,17,2,0,4,254,6,0,0,0,Orange County,Palm Tree 13
+Orange County,Palm Tree 14,10,13,3,0,0,198,0,0,71,4,4,4,197,1,0,72,11,4,0,4,186,6,0,0,0,Orange County,Palm Tree 14
+Orange County,Palm Tree 15,6,25,4,0,0,246,0,0,53,21,3,2,249,1,0,60,14,0,0,0,245,5,1,0,0,Orange County,Palm Tree 15
+Orange County,Palm Tree 16,8,21,4,0,0,183,0,0,43,20,5,2,181,1,0,46,20,5,0,2,173,5,0,0,0,Orange County,Palm Tree 16
+Orange County,Palm Tree 17,4,34,5,0,0,414,0,2,38,31,4,2,415,1,1,40,28,5,0,2,402,8,1,0,0,Orange County,Palm Tree 17
+Orange County,Palm Tree 18,0,6,0,0,1,12,0,0,0,6,0,1,12,0,0,2,5,0,0,1,11,0,0,0,0,Orange County,Palm Tree 18
+Orange County,Palm Tree 19,0,0,0,0,0,7,0,0,3,0,0,0,7,0,0,3,0,0,0,0,7,0,0,0,0,Orange County,Palm Tree 19
+Orange County,Palm Tree 2,2,26,5,0,0,455,0,1,32,20,7,5,449,0,1,40,15,4,0,7,435,8,1,0,0,Orange County,Palm Tree 2
+Orange County,Palm Tree 3,1,7,1,0,0,145,0,0,15,6,1,2,144,0,0,15,4,1,0,1,144,1,0,0,0,Orange County,Palm Tree 3
+Orange County,Palm Tree 4,3,19,3,0,1,190,0,0,40,19,2,2,190,2,0,38,10,3,0,0,191,4,0,0,0,Orange County,Palm Tree 4
+Orange County,Palm Tree 5,5,21,3,0,1,239,0,0,46,16,1,2,235,2,0,45,18,1,0,2,233,4,0,0,0,Orange County,Palm Tree 5
+Orange County,Palm Tree 6,0,7,1,0,0,71,0,0,1,5,3,0,68,0,0,1,6,1,0,0,70,0,0,0,0,Orange County,Palm Tree 6
+Orange County,Palm Tree 7,8,16,1,0,0,262,0,0,38,14,1,2,261,1,1,39,13,2,0,2,252,3,0,0,0,Orange County,Palm Tree 7
+Orange County,Palm Tree 8,3,23,1,0,0,301,0,0,59,22,1,1,298,1,0,56,16,0,0,0,289,5,0,0,0,Orange County,Palm Tree 8
+Orange County,Palm Tree 9,4,9,1,0,0,138,0,0,48,9,0,2,137,1,0,48,9,0,0,2,131,6,0,0,0,Orange County,Palm Tree 9
+Orange County,Port Jervis 1-1,202,152,18,0,3,7,1,5,206,149,16,7,8,0,3,173,182,21,0,2,6,0,2,0,0,Orange County,Port Jervis 1-1
+Orange County,Port Jervis 1-2,34,17,5,0,0,4,1,0,37,15,5,1,3,1,0,27,22,4,0,1,4,1,1,0,0,Orange County,Port Jervis 1-2
+Orange County,Port Jervis 2-1,119,141,7,0,3,3,1,2,112,136,7,6,6,4,1,101,150,10,0,5,2,2,3,0,0,Orange County,Port Jervis 2-1
+Orange County,Port Jervis 2-2,103,93,13,0,6,4,1,2,107,90,11,7,4,2,2,87,108,11,0,4,4,0,1,0,0,Orange County,Port Jervis 2-2
+Orange County,Port Jervis 3-1,140,151,12,0,4,5,2,1,139,143,12,7,3,3,0,115,171,12,0,5,3,1,3,0,0,Orange County,Port Jervis 3-1
+Orange County,Port Jervis 3-2,142,157,13,0,3,8,3,0,153,143,14,5,12,0,0,121,181,15,0,3,6,0,0,0,0,Orange County,Port Jervis 3-2
+Orange County,Port Jervis 4-1,140,90,7,0,2,9,3,4,138,91,9,5,8,5,0,128,105,11,0,1,2,1,2,0,0,Orange County,Port Jervis 4-1
+Orange County,Port Jervis 4-2,140,113,13,0,4,11,2,0,142,106,14,8,10,4,0,134,124,11,0,1,5,0,1,0,0,Orange County,Port Jervis 4-2
+Orange County,Tuxedo 1,146,126,9,0,4,10,2,4,149,121,11,6,9,1,3,119,145,11,0,2,3,1,2,0,0,Orange County,Tuxedo 1
+Orange County,Tuxedo 2,202,186,21,0,7,4,2,1,201,177,22,12,4,4,0,166,197,22,0,7,4,2,4,0,0,Orange County,Tuxedo 2
+Orange County,Tuxedo 3,172,120,11,0,3,3,4,0,165,124,13,1,2,3,3,139,136,11,0,4,3,3,0,0,0,Orange County,Tuxedo 3
+Orange County,Tuxedo 4,213,240,29,0,2,3,3,2,219,228,25,2,2,4,5,211,240,25,0,2,2,0,7,0,0,Orange County,Tuxedo 4
+Orange County,Wallkill 1-1,160,141,29,0,5,7,4,1,167,132,29,10,5,6,1,129,174,28,0,6,3,1,4,0,0,Orange County,Wallkill 1-1
+Orange County,Wallkill 1-2,203,213,44,0,8,16,5,4,202,206,45,13,15,6,3,161,247,44,0,4,9,4,6,0,0,Orange County,Wallkill 1-2
+Orange County,Wallkill 1-3,202,57,10,0,12,6,2,1,209,52,9,12,3,2,3,198,61,8,0,8,2,1,1,0,0,Orange County,Wallkill 1-3
+Orange County,Wallkill 1-4,115,94,14,0,4,4,0,1,116,87,17,6,6,1,0,100,111,12,0,3,2,0,3,0,0,Orange County,Wallkill 1-4
+Orange County,Wallkill 1-5,57,86,7,0,2,0,1,3,60,83,5,3,1,5,1,56,88,5,0,2,1,0,2,0,0,Orange County,Wallkill 1-5
+Orange County,Wallkill 1-6,226,67,16,0,2,5,1,0,236,72,13,2,5,1,1,207,94,10,0,2,4,0,1,0,0,Orange County,Wallkill 1-6
+Orange County,Wallkill 1-7,91,110,18,0,2,7,8,0,92,111,17,4,5,7,2,73,123,16,0,1,2,6,2,0,0,Orange County,Wallkill 1-7
+Orange County,Wallkill 2-1,159,117,15,0,1,7,2,1,168,108,17,0,4,1,1,145,136,17,0,0,1,1,3,0,0,Orange County,Wallkill 2-1
+Orange County,Wallkill 2-2,179,115,12,0,4,2,2,2,188,107,9,6,5,1,2,163,128,12,0,4,1,1,3,0,0,Orange County,Wallkill 2-2
+Orange County,Wallkill 2-3,116,75,14,0,2,4,0,1,129,69,11,2,2,1,2,121,77,9,0,1,1,1,1,0,0,Orange County,Wallkill 2-3
+Orange County,Wallkill 2-4,257,65,9,0,3,1,2,0,256,62,8,5,2,1,1,244,78,6,0,2,0,1,2,0,0,Orange County,Wallkill 2-4
+Orange County,Wallkill 2-5,175,56,9,0,2,5,3,0,174,54,9,3,5,3,1,165,67,11,0,2,3,0,0,0,0,Orange County,Wallkill 2-5
+Orange County,Wallkill 2-6,130,73,17,0,2,5,2,1,134,81,15,1,6,0,0,113,96,13,0,1,1,0,1,0,0,Orange County,Wallkill 2-6
+Orange County,Wallkill 2-7,124,70,4,0,5,1,1,1,126,66,4,5,3,2,0,113,82,6,0,2,4,0,1,0,0,Orange County,Wallkill 2-7
+Orange County,Wallkill 3-1,296,152,12,0,6,5,2,0,310,126,15,9,3,3,2,272,168,11,0,4,2,2,3,0,0,Orange County,Wallkill 3-1
+Orange County,Wallkill 3-2,233,113,7,0,3,7,2,0,237,105,7,8,8,3,0,209,131,11,0,6,7,0,0,0,0,Orange County,Wallkill 3-2
+Orange County,Wallkill 3-3,424,171,27,0,7,9,0,0,426,169,25,9,9,2,2,414,194,25,0,5,6,0,0,0,0,Orange County,Wallkill 3-3
+Orange County,Wallkill 3-4,254,82,8,0,3,6,1,0,258,78,8,3,4,1,0,262,77,8,0,3,1,2,0,0,0,Orange County,Wallkill 3-4
+Orange County,Wallkill 3-5,197,104,13,0,5,6,1,2,199,99,11,8,9,2,3,186,122,17,0,5,2,0,3,0,0,Orange County,Wallkill 3-5
+Orange County,Wallkill 3-6,301,175,27,0,10,5,2,2,302,175,24,13,8,2,0,282,188,29,0,5,5,1,3,0,0,Orange County,Wallkill 3-6
+Orange County,Wallkill 3-7,396,116,13,0,9,8,2,0,408,110,13,11,6,2,1,396,122,16,0,7,3,0,1,0,0,Orange County,Wallkill 3-7
+Orange County,Wallkill 4-1,174,221,28,0,9,6,3,3,181,202,30,10,13,5,2,140,236,28,0,5,7,2,3,0,0,Orange County,Wallkill 4-1
+Orange County,Wallkill 4-2,103,76,15,0,7,7,0,0,98,78,16,7,6,1,0,83,97,14,0,3,2,1,1,0,0,Orange County,Wallkill 4-2
+Orange County,Wallkill 4-3,154,84,7,0,4,7,0,0,156,74,7,9,8,4,1,131,103,10,0,4,7,1,1,0,0,Orange County,Wallkill 4-3
+Orange County,Wallkill 4-4,223,211,38,0,9,4,2,4,227,195,35,14,8,4,5,181,237,33,0,4,4,3,4,0,0,Orange County,Wallkill 4-4
+Orange County,Wallkill 4-5,171,215,31,0,10,5,1,1,173,212,29,7,13,2,2,134,245,30,0,4,3,0,3,0,0,Orange County,Wallkill 4-5
+Orange County,Warwick 1,160,173,16,0,8,9,1,2,161,167,16,11,10,0,2,132,186,13,0,8,5,1,5,0,0,Orange County,Warwick 1
+Orange County,Warwick 10,150,199,26,0,7,5,2,2,155,186,26,5,8,3,2,132,220,26,0,1,3,0,5,0,0,Orange County,Warwick 10
+Orange County,Warwick 11,167,187,28,0,7,12,5,3,170,183,28,10,9,6,2,148,197,34,0,4,6,4,7,0,0,Orange County,Warwick 11
+Orange County,Warwick 12,203,208,31,0,6,11,3,2,205,198,31,13,9,4,2,180,212,29,0,6,6,3,2,0,0,Orange County,Warwick 12
+Orange County,Warwick 13,218,166,13,0,10,6,0,3,233,151,14,11,6,2,1,200,169,16,0,5,6,0,2,0,0,Orange County,Warwick 13
+Orange County,Warwick 14,156,176,24,0,11,3,3,5,158,170,18,12,6,1,3,138,189,25,0,4,2,0,4,0,0,Orange County,Warwick 14
+Orange County,Warwick 15,137,150,21,0,6,8,0,3,132,143,18,7,12,2,0,102,178,22,0,3,5,0,3,0,0,Orange County,Warwick 15
+Orange County,Warwick 16,205,233,42,0,6,4,11,1,219,221,41,8,4,9,0,180,233,38,0,6,3,6,0,0,0,Orange County,Warwick 16
+Orange County,Warwick 17,166,167,24,0,6,2,0,1,167,156,23,7,4,0,2,126,190,21,0,1,0,1,3,0,0,Orange County,Warwick 17
+Orange County,Warwick 18,148,154,26,0,4,3,1,1,149,150,24,6,2,2,1,136,165,24,0,1,0,2,2,0,0,Orange County,Warwick 18
+Orange County,Warwick 19,198,207,37,0,7,6,0,1,196,202,40,11,5,0,2,167,216,38,0,9,5,1,2,0,0,Orange County,Warwick 19
+Orange County,Warwick 2,187,258,40,0,1,4,2,5,194,243,37,7,4,6,9,159,275,40,0,1,3,2,5,0,0,Orange County,Warwick 2
+Orange County,Warwick 20,213,225,39,0,12,6,8,3,218,217,43,12,5,5,2,188,245,36,0,9,5,3,2,0,0,Orange County,Warwick 20
+Orange County,Warwick 21,309,241,50,0,2,6,4,0,311,236,49,3,5,3,0,276,266,48,0,2,4,0,0,0,0,Orange County,Warwick 21
+Orange County,Warwick 22,261,117,19,0,7,7,1,2,263,115,19,7,4,0,5,225,131,15,0,5,6,1,4,0,0,Orange County,Warwick 22
+Orange County,Warwick 23,226,202,53,0,5,7,5,1,234,198,48,7,5,5,4,202,211,38,0,4,6,6,3,0,0,Orange County,Warwick 23
+Orange County,Warwick 24,219,242,38,0,7,7,7,2,226,234,38,8,6,7,3,172,267,38,0,3,6,4,6,0,0,Orange County,Warwick 24
+Orange County,Warwick 25,193,148,21,0,6,11,8,5,199,144,20,6,11,6,9,173,154,21,0,9,7,2,10,0,0,Orange County,Warwick 25
+Orange County,Warwick 26,248,198,38,0,1,10,2,4,247,193,38,3,10,2,3,205,212,34,0,4,7,1,4,0,0,Orange County,Warwick 26
+Orange County,Warwick 27,208,220,44,0,11,10,2,5,218,213,44,9,10,4,3,189,228,41,0,4,10,2,7,0,0,Orange County,Warwick 27
+Orange County,Warwick 28,191,179,31,0,4,6,2,4,198,177,30,5,12,3,2,161,196,33,0,2,6,2,6,0,0,Orange County,Warwick 28
+Orange County,Warwick 29,290,61,10,0,9,4,0,0,295,53,10,8,4,2,0,276,62,9,0,5,1,3,2,0,0,Orange County,Warwick 29
+Orange County,Warwick 3,201,146,17,0,7,3,1,2,208,139,18,4,4,1,1,185,165,16,0,2,3,0,1,0,0,Orange County,Warwick 3
+Orange County,Warwick 30,102,155,19,0,7,2,1,1,110,147,20,5,2,2,2,96,158,15,0,1,2,1,1,0,0,Orange County,Warwick 30
+Orange County,Warwick 31,107,126,12,0,4,4,1,2,114,119,12,1,2,1,3,90,127,13,0,1,1,0,1,0,0,Orange County,Warwick 31
+Orange County,Warwick 4,280,216,46,0,19,4,4,1,287,215,40,15,4,4,1,233,239,36,0,8,7,5,5,0,0,Orange County,Warwick 4
+Orange County,Warwick 5,228,134,29,0,4,4,2,5,226,133,30,6,5,4,4,196,141,34,0,3,3,5,5,0,0,Orange County,Warwick 5
+Orange County,Warwick 6,143,127,27,0,5,4,0,1,139,130,23,10,6,2,0,118,136,30,0,3,5,2,1,0,0,Orange County,Warwick 6
+Orange County,Warwick 7,141,166,29,0,3,6,4,0,149,160,28,2,7,4,1,116,178,25,0,2,5,2,0,0,0,Orange County,Warwick 7
+Orange County,Warwick 8,310,179,18,0,3,6,4,2,305,182,20,7,7,9,1,258,198,17,0,7,5,3,1,0,0,Orange County,Warwick 8
+Orange County,Warwick 9,211,218,30,0,1,8,5,1,215,208,27,4,8,4,3,190,230,26,0,1,2,2,4,0,0,Orange County,Warwick 9
+Orange County,Wawayanda 1,172,253,43,0,5,7,3,3,179,236,37,12,12,4,3,154,262,40,0,4,3,2,4,0,0,Orange County,Wawayanda 1
+Orange County,Wawayanda 2,239,174,21,0,8,7,5,4,235,174,20,13,9,4,1,207,207,19,0,7,2,2,3,0,0,Orange County,Wawayanda 2
+Orange County,Wawayanda 3,190,218,34,0,2,10,2,2,203,203,29,4,9,3,1,149,248,30,0,1,4,1,5,0,0,Orange County,Wawayanda 3
+Orange County,Wawayanda 4,176,189,25,0,1,9,2,1,178,177,24,4,9,3,0,139,213,22,0,1,4,2,1,0,0,Orange County,Wawayanda 4
+Orange County,Wawayanda 5,138,214,21,0,2,9,2,3,143,201,21,5,10,1,4,102,238,22,0,2,6,2,3,0,0,Orange County,Wawayanda 5
+Orange County,Wawayanda 6,207,293,28,0,4,5,3,4,217,267,31,9,4,7,2,165,319,30,0,6,3,3,3,0,0,Orange County,Wawayanda 6
+Orange County,Woodbury 1,153,147,32,0,7,7,2,4,159,141,28,10,11,3,4,116,178,31,0,5,5,2,9,0,0,Orange County,Woodbury 1
+Orange County,Woodbury 10,321,216,36,0,14,5,3,9,332,199,35,14,3,5,5,263,257,36,0,5,2,2,7,0,0,Orange County,Woodbury 10
+Orange County,Woodbury 2,195,162,22,0,5,11,1,1,202,151,21,3,10,5,1,157,192,20,0,1,5,2,4,0,0,Orange County,Woodbury 2
+Orange County,Woodbury 3,234,170,16,0,6,9,0,4,235,171,15,5,10,7,3,179,192,23,0,4,10,3,10,0,0,Orange County,Woodbury 3
+Orange County,Woodbury 4,168,129,14,0,4,9,3,2,168,123,16,6,9,6,2,128,154,16,0,2,5,4,6,0,0,Orange County,Woodbury 4
+Orange County,Woodbury 5,312,196,22,0,5,7,4,4,317,193,22,4,7,4,2,259,247,27,0,4,2,4,9,0,0,Orange County,Woodbury 5
+Orange County,Woodbury 6,202,191,27,0,7,6,3,4,208,173,32,10,5,5,2,168,209,32,0,10,4,2,9,0,0,Orange County,Woodbury 6
+Orange County,Woodbury 7,192,117,13,0,3,9,2,8,190,120,14,5,9,5,1,160,149,18,0,0,2,2,6,0,0,Orange County,Woodbury 7
+Orange County,Woodbury 8,175,211,27,0,3,5,1,2,183,198,23,0,7,3,3,130,251,23,0,1,0,1,5,0,0,Orange County,Woodbury 8
+Orange County,Woodbury 9,129,36,7,0,0,1,1,1,128,36,6,2,1,1,0,117,42,5,0,1,1,0,0,0,0,Orange County,Woodbury 9

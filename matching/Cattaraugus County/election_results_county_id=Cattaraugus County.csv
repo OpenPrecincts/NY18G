@@ -1,56 +1,56 @@
 county,precinct,HOR_DEM,HOR_REP,HOR_CON,HOR_GRE,HOR_WOR,HOR_IND,HOR_WEP,HOR_REF,Sen_DEM,Sen_REP,Sen_CON,Sen_WOR,Sen_IND,Sen_WEP,Sen_REF,Gov_DEM,Gov_REP,Gov_CON,Gov_GRE,Gov_WOR,Gov_IND,Gov_WEP,Gov_REF,Gov_SAM,Gov_LBT,county_id,original_precinct_name
-Cattaraugus County,Allegany 1,285,287,26,0,12,10,3,0,291,259,30,13,8,5,5,222,296,22,7,8,3,0,3,7,36,Cattaraugus County,precinct
-Cattaraugus County,Allegany 2,153,118,12,0,6,5,2,0,162,108,11,4,8,4,0,139,123,11,2,4,6,1,0,3,6,Cattaraugus County,precinct
-Cattaraugus County,Allegany 3,148,244,25,0,13,6,5,0,158,228,27,8,8,3,3,124,244,21,8,5,7,3,2,4,23,Cattaraugus County,precinct
-Cattaraugus County,Allegany 4,202,320,29,0,14,8,5,0,218,286,26,15,24,3,0,137,333,29,11,6,11,3,2,8,34,Cattaraugus County,precinct
-Cattaraugus County,Allegany 5,184,264,25,0,7,6,1,0,211,226,18,10,16,0,2,136,273,28,8,3,9,1,3,5,18,Cattaraugus County,precinct
-Cattaraugus County,Ashford 1,69,144,31,0,7,4,1,0,85,130,31,6,1,2,2,66,143,27,2,2,1,1,2,1,13,Cattaraugus County,precinct
-Cattaraugus County,Ashford 2,153,308,52,0,4,9,5,0,194,260,46,11,10,3,3,133,316,49,9,1,3,2,1,4,10,Cattaraugus County,precinct
-Cattaraugus County,Carrollton,123,246,15,0,4,5,4,0,131,229,15,6,9,2,2,109,227,23,2,4,4,1,3,2,15,Cattaraugus County,precinct
-Cattaraugus County,City of Olean - Ward 1,347,372,37,0,13,10,10,0,382,323,33,15,18,8,2,300,360,38,5,9,11,4,2,4,34,Cattaraugus County,precinct
-Cattaraugus County,City of Olean - Ward 2,320,320,33,0,13,10,8,0,336,277,33,12,20,6,4,265,325,25,16,1,12,1,5,6,39,Cattaraugus County,precinct
-Cattaraugus County,City of Olean - Ward 3,284,222,36,0,8,4,6,0,296,197,27,10,18,5,2,220,237,31,9,7,9,3,1,3,27,Cattaraugus County,precinct
-Cattaraugus County,City of Olean - Ward 4,215,165,24,0,11,8,10,0,218,158,20,5,13,3,6,178,172,16,11,4,9,3,3,3,5,Cattaraugus County,precinct
-Cattaraugus County,City of Olean - Ward 5,270,232,26,0,12,6,8,0,277,203,27,13,14,6,2,224,229,17,7,7,10,5,0,4,40,Cattaraugus County,precinct
-Cattaraugus County,City of Olean - Ward 6,284,232,23,0,12,5,7,0,279,208,29,14,16,4,3,228,246,24,5,4,7,0,10,4,27,Cattaraugus County,precinct
-Cattaraugus County,City of Olean - Ward 7,218,293,24,0,18,9,7,0,236,268,24,14,11,4,1,171,293,28,7,5,7,1,6,11,36,Cattaraugus County,precinct
-Cattaraugus County,City of Salamanca - Ward 1,122,109,7,0,7,1,4,0,137,86,6,5,4,1,0,98,114,12,3,2,1,1,2,5,14,Cattaraugus County,precinct
-Cattaraugus County,City of Salamanca - Ward 2,190,174,17,0,9,5,3,0,211,148,12,7,12,2,4,160,179,14,8,2,6,3,3,5,13,Cattaraugus County,precinct
-Cattaraugus County,City of Salamanca - Ward 3,83,90,7,0,4,1,4,0,93,77,8,3,5,4,0,72,87,10,5,0,1,3,1,1,8,Cattaraugus County,precinct
-Cattaraugus County,City of Salamanca - Ward 4,164,117,10,0,6,5,6,0,190,90,9,3,13,5,1,138,125,16,4,0,5,1,4,2,14,Cattaraugus County,precinct
-Cattaraugus County,City of Salamanca - Ward 5,111,139,7,0,10,4,2,0,139,113,10,5,6,0,2,86,146,13,4,0,3,0,1,4,13,Cattaraugus County,precinct
-Cattaraugus County,Coldspring,67,181,28,0,6,2,0,0,81,163,29,2,3,1,1,47,191,23,2,1,1,0,3,3,9,Cattaraugus County,precinct
-Cattaraugus County,Conewango,89,183,22,0,6,6,5,0,111,154,23,14,5,4,2,69,192,21,9,5,1,2,1,3,18,Cattaraugus County,precinct
-Cattaraugus County,Dayton,89,343,46,0,11,5,1,0,127,298,47,13,8,2,2,80,333,54,4,2,5,2,2,2,9,Cattaraugus County,precinct
-Cattaraugus County,East Otto,99,209,34,0,5,6,6,0,128,181,32,1,7,5,0,80,207,35,7,0,3,1,2,4,11,Cattaraugus County,precinct
-Cattaraugus County,Ellicottville,233,315,37,0,8,6,11,0,282,265,34,12,11,8,1,194,315,36,10,7,10,7,1,6,16,Cattaraugus County,precinct
-Cattaraugus County,Farmersville,66,261,26,0,4,6,5,0,86,236,27,7,4,5,2,66,255,28,4,1,0,0,0,3,7,Cattaraugus County,precinct
-Cattaraugus County,Franklinville 1,113,271,42,0,10,14,6,0,125,248,44,8,25,6,2,90,273,33,4,3,9,2,2,2,36,Cattaraugus County,precinct
-Cattaraugus County,Franklinville 2,102,249,23,0,9,4,2,0,129,216,19,12,4,2,1,82,246,23,5,5,2,0,4,2,17,Cattaraugus County,precinct
-Cattaraugus County,Freedom,148,458,61,0,17,11,5,0,195,417,48,18,16,3,1,116,483,69,5,1,6,0,10,4,17,Cattaraugus County,precinct
-Cattaraugus County,Great Valley 1,103,155,22,0,4,2,3,0,126,124,24,4,7,2,0,84,157,28,3,1,2,1,1,0,16,Cattaraugus County,precinct
-Cattaraugus County,Great Valley 2,188,278,35,0,11,7,6,0,198,245,36,12,12,3,4,125,290,34,5,2,4,2,2,3,29,Cattaraugus County,precinct
-Cattaraugus County,Hinsdale,178,398,52,0,5,10,4,0,188,362,47,13,11,6,2,129,400,52,6,4,6,2,6,6,33,Cattaraugus County,precinct
-Cattaraugus County,Humphrey,81,132,21,0,6,1,2,0,96,110,21,3,5,1,5,52,138,20,4,0,1,1,4,3,15,Cattaraugus County,precinct
-Cattaraugus County,Ischua,75,163,17,0,6,5,1,0,82,147,21,6,5,3,0,55,172,19,3,1,2,0,0,4,3,Cattaraugus County,precinct
-Cattaraugus County,Leon,47,168,18,0,8,4,6,0,60,150,16,8,5,4,2,40,163,26,0,3,2,0,5,2,8,Cattaraugus County,precinct
-Cattaraugus County,Little Valley,152,299,55,0,7,12,7,0,191,262,46,11,18,5,3,110,309,49,9,5,8,2,6,7,22,Cattaraugus County,precinct
-Cattaraugus County,Lyndon,78,145,19,0,4,5,3,0,92,123,21,7,5,1,2,56,139,19,6,2,1,2,2,0,25,Cattaraugus County,precinct
-Cattaraugus County,Machias,173,425,51,0,16,12,10,0,199,385,48,16,23,6,5,145,423,51,14,2,12,3,5,4,16,Cattaraugus County,precinct
-Cattaraugus County,Mansfield,98,171,21,0,5,1,1,0,108,151,22,7,3,2,1,65,178,25,10,0,2,0,2,0,10,Cattaraugus County,precinct
-Cattaraugus County,Napoli,80,259,18,0,8,7,2,0,102,218,20,11,6,2,5,71,248,20,4,2,0,2,5,3,15,Cattaraugus County,precinct
-Cattaraugus County,New Albion,158,379,50,0,8,8,6,0,198,330,47,19,9,3,0,137,382,47,8,2,4,0,2,4,23,Cattaraugus County,precinct
-Cattaraugus County,Otto,78,192,22,0,3,4,0,0,97,163,23,4,5,1,2,77,180,29,0,2,4,2,1,1,2,Cattaraugus County,precinct
-Cattaraugus County,Perrysburg,207,332,52,0,11,12,5,0,243,285,51,10,20,4,0,178,335,53,13,1,8,0,4,5,6,Cattaraugus County,precinct
-Cattaraugus County,Persia,205,372,63,0,8,14,7,0,244,334,60,12,13,4,3,160,391,74,9,3,4,0,6,9,13,Cattaraugus County,precinct
-Cattaraugus County,Portville 1,188,372,35,0,13,9,4,0,220,338,33,8,12,1,5,149,368,31,5,0,6,3,1,1,54,Cattaraugus County,precinct
-Cattaraugus County,Portville 2,172,395,37,0,12,11,4,0,203,344,38,17,16,2,5,151,364,37,0,3,8,1,6,7,43,Cattaraugus County,precinct
-Cattaraugus County,Randolph 1,119,227,33,0,10,5,5,0,148,195,29,5,15,3,2,87,243,23,1,4,5,2,2,1,34,Cattaraugus County,precinct
-Cattaraugus County,Randolph 2,127,276,20,0,5,3,5,0,139,247,21,9,6,5,5,87,257,25,12,1,2,2,4,3,35,Cattaraugus County,precinct
-Cattaraugus County,Red House,5,14,5,0,0,0,0,0,6,12,5,0,0,0,0,5,10,1,0,0,0,0,0,0,6,Cattaraugus County,precinct
-Cattaraugus County,South Valley,38,59,4,0,3,3,1,0,46,44,7,6,2,1,0,35,54,7,0,3,1,0,0,1,1,Cattaraugus County,precinct
-Cattaraugus County,Town of Olean 1,75,135,17,0,2,3,3,0,82,120,14,6,5,1,1,60,116,15,0,2,2,0,2,2,30,Cattaraugus County,precinct
-Cattaraugus County,Town of Olean 2,143,281,20,0,9,10,2,0,166,251,14,11,12,2,2,112,277,18,4,0,9,0,5,3,23,Cattaraugus County,precinct
-Cattaraugus County,Town of Salamanca,127,119,16,0,1,2,1,0,140,96,12,4,4,0,0,96,132,17,4,0,0,1,1,0,9,Cattaraugus County,precinct
-Cattaraugus County,Yorkshire 1,137,281,70,0,4,7,4,0,155,255,68,6,12,7,2,125,276,68,3,0,4,1,3,4,8,Cattaraugus County,precinct
-Cattaraugus County,Yorkshire 2,136,280,65,0,9,11,5,0,162,243,67,16,8,4,2,124,275,65,1,4,6,0,5,4,16,Cattaraugus County,precinct
+Cattaraugus County,Allegany 1,285,287,26,0,12,10,3,0,291,259,30,13,8,5,5,222,296,22,7,8,3,0,3,7,36,Cattaraugus County,Allegany 1
+Cattaraugus County,Allegany 2,153,118,12,0,6,5,2,0,162,108,11,4,8,4,0,139,123,11,2,4,6,1,0,3,6,Cattaraugus County,Allegany 2
+Cattaraugus County,Allegany 3,148,244,25,0,13,6,5,0,158,228,27,8,8,3,3,124,244,21,8,5,7,3,2,4,23,Cattaraugus County,Allegany 3
+Cattaraugus County,Allegany 4,202,320,29,0,14,8,5,0,218,286,26,15,24,3,0,137,333,29,11,6,11,3,2,8,34,Cattaraugus County,Allegany 4
+Cattaraugus County,Allegany 5,184,264,25,0,7,6,1,0,211,226,18,10,16,0,2,136,273,28,8,3,9,1,3,5,18,Cattaraugus County,Allegany 5
+Cattaraugus County,Ashford 1,69,144,31,0,7,4,1,0,85,130,31,6,1,2,2,66,143,27,2,2,1,1,2,1,13,Cattaraugus County,Ashford 1
+Cattaraugus County,Ashford 2,153,308,52,0,4,9,5,0,194,260,46,11,10,3,3,133,316,49,9,1,3,2,1,4,10,Cattaraugus County,Ashford 2
+Cattaraugus County,Carrollton,123,246,15,0,4,5,4,0,131,229,15,6,9,2,2,109,227,23,2,4,4,1,3,2,15,Cattaraugus County,Carrollton
+Cattaraugus County,City of Olean - Ward 1,347,372,37,0,13,10,10,0,382,323,33,15,18,8,2,300,360,38,5,9,11,4,2,4,34,Cattaraugus County,City of Olean - Ward 1
+Cattaraugus County,City of Olean - Ward 2,320,320,33,0,13,10,8,0,336,277,33,12,20,6,4,265,325,25,16,1,12,1,5,6,39,Cattaraugus County,City of Olean - Ward 2
+Cattaraugus County,City of Olean - Ward 3,284,222,36,0,8,4,6,0,296,197,27,10,18,5,2,220,237,31,9,7,9,3,1,3,27,Cattaraugus County,City of Olean - Ward 3
+Cattaraugus County,City of Olean - Ward 4,215,165,24,0,11,8,10,0,218,158,20,5,13,3,6,178,172,16,11,4,9,3,3,3,5,Cattaraugus County,City of Olean - Ward 4
+Cattaraugus County,City of Olean - Ward 5,270,232,26,0,12,6,8,0,277,203,27,13,14,6,2,224,229,17,7,7,10,5,0,4,40,Cattaraugus County,City of Olean - Ward 5
+Cattaraugus County,City of Olean - Ward 6,284,232,23,0,12,5,7,0,279,208,29,14,16,4,3,228,246,24,5,4,7,0,10,4,27,Cattaraugus County,City of Olean - Ward 6
+Cattaraugus County,City of Olean - Ward 7,218,293,24,0,18,9,7,0,236,268,24,14,11,4,1,171,293,28,7,5,7,1,6,11,36,Cattaraugus County,City of Olean - Ward 7
+Cattaraugus County,City of Salamanca - Ward 1,122,109,7,0,7,1,4,0,137,86,6,5,4,1,0,98,114,12,3,2,1,1,2,5,14,Cattaraugus County,City of Salamanca - Ward 1
+Cattaraugus County,City of Salamanca - Ward 2,190,174,17,0,9,5,3,0,211,148,12,7,12,2,4,160,179,14,8,2,6,3,3,5,13,Cattaraugus County,City of Salamanca - Ward 2
+Cattaraugus County,City of Salamanca - Ward 3,83,90,7,0,4,1,4,0,93,77,8,3,5,4,0,72,87,10,5,0,1,3,1,1,8,Cattaraugus County,City of Salamanca - Ward 3
+Cattaraugus County,City of Salamanca - Ward 4,164,117,10,0,6,5,6,0,190,90,9,3,13,5,1,138,125,16,4,0,5,1,4,2,14,Cattaraugus County,City of Salamanca - Ward 4
+Cattaraugus County,City of Salamanca - Ward 5,111,139,7,0,10,4,2,0,139,113,10,5,6,0,2,86,146,13,4,0,3,0,1,4,13,Cattaraugus County,City of Salamanca - Ward 5
+Cattaraugus County,Coldspring,67,181,28,0,6,2,0,0,81,163,29,2,3,1,1,47,191,23,2,1,1,0,3,3,9,Cattaraugus County,Coldspring
+Cattaraugus County,Conewango,89,183,22,0,6,6,5,0,111,154,23,14,5,4,2,69,192,21,9,5,1,2,1,3,18,Cattaraugus County,Conewango
+Cattaraugus County,Dayton,89,343,46,0,11,5,1,0,127,298,47,13,8,2,2,80,333,54,4,2,5,2,2,2,9,Cattaraugus County,Dayton
+Cattaraugus County,East Otto,99,209,34,0,5,6,6,0,128,181,32,1,7,5,0,80,207,35,7,0,3,1,2,4,11,Cattaraugus County,East Otto
+Cattaraugus County,Ellicottville,233,315,37,0,8,6,11,0,282,265,34,12,11,8,1,194,315,36,10,7,10,7,1,6,16,Cattaraugus County,Ellicottville
+Cattaraugus County,Farmersville,66,261,26,0,4,6,5,0,86,236,27,7,4,5,2,66,255,28,4,1,0,0,0,3,7,Cattaraugus County,Farmersville
+Cattaraugus County,Franklinville 1,113,271,42,0,10,14,6,0,125,248,44,8,25,6,2,90,273,33,4,3,9,2,2,2,36,Cattaraugus County,Franklinville 1
+Cattaraugus County,Franklinville 2,102,249,23,0,9,4,2,0,129,216,19,12,4,2,1,82,246,23,5,5,2,0,4,2,17,Cattaraugus County,Franklinville 2
+Cattaraugus County,Freedom,148,458,61,0,17,11,5,0,195,417,48,18,16,3,1,116,483,69,5,1,6,0,10,4,17,Cattaraugus County,Freedom
+Cattaraugus County,Great Valley 1,103,155,22,0,4,2,3,0,126,124,24,4,7,2,0,84,157,28,3,1,2,1,1,0,16,Cattaraugus County,Great Valley 1
+Cattaraugus County,Great Valley 2,188,278,35,0,11,7,6,0,198,245,36,12,12,3,4,125,290,34,5,2,4,2,2,3,29,Cattaraugus County,Great Valley 2
+Cattaraugus County,Hinsdale,178,398,52,0,5,10,4,0,188,362,47,13,11,6,2,129,400,52,6,4,6,2,6,6,33,Cattaraugus County,Hinsdale
+Cattaraugus County,Humphrey,81,132,21,0,6,1,2,0,96,110,21,3,5,1,5,52,138,20,4,0,1,1,4,3,15,Cattaraugus County,Humphrey
+Cattaraugus County,Ischua,75,163,17,0,6,5,1,0,82,147,21,6,5,3,0,55,172,19,3,1,2,0,0,4,3,Cattaraugus County,Ischua
+Cattaraugus County,Leon,47,168,18,0,8,4,6,0,60,150,16,8,5,4,2,40,163,26,0,3,2,0,5,2,8,Cattaraugus County,Leon
+Cattaraugus County,Little Valley,152,299,55,0,7,12,7,0,191,262,46,11,18,5,3,110,309,49,9,5,8,2,6,7,22,Cattaraugus County,Little Valley
+Cattaraugus County,Lyndon,78,145,19,0,4,5,3,0,92,123,21,7,5,1,2,56,139,19,6,2,1,2,2,0,25,Cattaraugus County,Lyndon
+Cattaraugus County,Machias,173,425,51,0,16,12,10,0,199,385,48,16,23,6,5,145,423,51,14,2,12,3,5,4,16,Cattaraugus County,Machias
+Cattaraugus County,Mansfield,98,171,21,0,5,1,1,0,108,151,22,7,3,2,1,65,178,25,10,0,2,0,2,0,10,Cattaraugus County,Mansfield
+Cattaraugus County,Napoli,80,259,18,0,8,7,2,0,102,218,20,11,6,2,5,71,248,20,4,2,0,2,5,3,15,Cattaraugus County,Napoli
+Cattaraugus County,New Albion,158,379,50,0,8,8,6,0,198,330,47,19,9,3,0,137,382,47,8,2,4,0,2,4,23,Cattaraugus County,New Albion
+Cattaraugus County,Otto,78,192,22,0,3,4,0,0,97,163,23,4,5,1,2,77,180,29,0,2,4,2,1,1,2,Cattaraugus County,Otto
+Cattaraugus County,Perrysburg,207,332,52,0,11,12,5,0,243,285,51,10,20,4,0,178,335,53,13,1,8,0,4,5,6,Cattaraugus County,Perrysburg
+Cattaraugus County,Persia,205,372,63,0,8,14,7,0,244,334,60,12,13,4,3,160,391,74,9,3,4,0,6,9,13,Cattaraugus County,Persia
+Cattaraugus County,Portville 1,188,372,35,0,13,9,4,0,220,338,33,8,12,1,5,149,368,31,5,0,6,3,1,1,54,Cattaraugus County,Portville 1
+Cattaraugus County,Portville 2,172,395,37,0,12,11,4,0,203,344,38,17,16,2,5,151,364,37,0,3,8,1,6,7,43,Cattaraugus County,Portville 2
+Cattaraugus County,Randolph 1,119,227,33,0,10,5,5,0,148,195,29,5,15,3,2,87,243,23,1,4,5,2,2,1,34,Cattaraugus County,Randolph 1
+Cattaraugus County,Randolph 2,127,276,20,0,5,3,5,0,139,247,21,9,6,5,5,87,257,25,12,1,2,2,4,3,35,Cattaraugus County,Randolph 2
+Cattaraugus County,Red House,5,14,5,0,0,0,0,0,6,12,5,0,0,0,0,5,10,1,0,0,0,0,0,0,6,Cattaraugus County,Red House
+Cattaraugus County,South Valley,38,59,4,0,3,3,1,0,46,44,7,6,2,1,0,35,54,7,0,3,1,0,0,1,1,Cattaraugus County,South Valley
+Cattaraugus County,Town of Olean 1,75,135,17,0,2,3,3,0,82,120,14,6,5,1,1,60,116,15,0,2,2,0,2,2,30,Cattaraugus County,Town of Olean 1
+Cattaraugus County,Town of Olean 2,143,281,20,0,9,10,2,0,166,251,14,11,12,2,2,112,277,18,4,0,9,0,5,3,23,Cattaraugus County,Town of Olean 2
+Cattaraugus County,Town of Salamanca,127,119,16,0,1,2,1,0,140,96,12,4,4,0,0,96,132,17,4,0,0,1,1,0,9,Cattaraugus County,Town of Salamanca
+Cattaraugus County,Yorkshire 1,137,281,70,0,4,7,4,0,155,255,68,6,12,7,2,125,276,68,3,0,4,1,3,4,8,Cattaraugus County,Yorkshire 1
+Cattaraugus County,Yorkshire 2,136,280,65,0,9,11,5,0,162,243,67,16,8,4,2,124,275,65,1,4,6,0,5,4,16,Cattaraugus County,Yorkshire 2

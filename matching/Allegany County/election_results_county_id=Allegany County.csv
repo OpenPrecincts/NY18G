@@ -1,40 +1,40 @@
 county,precinct,HOR_DEM,HOR_REP,HOR_CON,HOR_GRE,HOR_WOR,HOR_IND,HOR_WEP,HOR_REF,Sen_DEM,Sen_REP,Sen_CON,Sen_WOR,Sen_IND,Sen_WEP,Sen_REF,Gov_DEM,Gov_REP,Gov_CON,Gov_GRE,Gov_WOR,Gov_IND,Gov_WEP,Gov_REF,Gov_SAM,Gov_LBT,county_id,original_precinct_name
-Allegany County,Alfred 1,734,50,36,0,0,0,0,0,290,0,15,16,15,6,0,309,0,11,34,8,6,5,1,11,21,Allegany County,precinct
-Allegany County,Alfred 2,882,98,22,0,0,0,0,0,240,0,35,11,8,6,2,375,0,26,13,4,5,2,2,2,59,Allegany County,precinct
-Allegany County,Allen,258,24,10,0,0,0,0,0,36,73,11,5,2,7,1,119,0,11,1,0,3,0,0,0,11,Allegany County,precinct
-Allegany County,Alma,498,44,6,0,0,0,0,0,65,189,21,6,1,0,1,231,0,15,2,0,0,0,1,4,18,Allegany County,precinct
-Allegany County,Almond,1092,134,32,0,0,0,0,0,201,88,54,19,10,0,2,493,0,43,14,5,2,2,2,3,69,Allegany County,precinct
-Allegany County,Amity 1,852,44,12,0,0,0,0,0,148,176,18,2,6,6,1,396,0,22,4,1,2,0,3,3,18,Allegany County,precinct
-Allegany County,Amity 2,536,24,16,0,0,0,0,0,106,335,14,3,3,0,2,247,0,12,3,0,3,2,1,2,29,Allegany County,precinct
-Allegany County,Andover 1,688,60,26,0,0,0,0,0,125,274,27,6,6,3,0,320,0,23,3,1,3,4,3,2,25,Allegany County,precinct
-Allegany County,Andover 2,538,28,10,0,0,0,0,0,66,153,11,6,3,3,1,242,0,10,2,1,2,1,1,1,23,Allegany County,precinct
-Allegany County,Angelica 1,554,36,10,0,0,0,0,0,90,216,15,7,1,3,1,260,0,12,3,2,1,3,0,1,17,Allegany County,precinct
-Allegany County,Angelica 2,434,28,4,0,0,0,0,0,62,197,11,0,1,3,0,205,0,8,1,0,0,0,0,4,9,Allegany County,precinct
-Allegany County,Belfast,1012,98,26,0,0,0,0,0,178,179,35,10,5,2,4,462,0,27,3,3,3,0,3,3,53,Allegany County,precinct
-Allegany County,Birdsall,144,16,0,0,0,0,0,0,20,153,6,0,0,3,0,72,0,5,0,0,0,0,0,0,4,Allegany County,precinct
-Allegany County,Bolivar,1186,70,22,0,0,0,0,0,209,322,28,14,8,1,2,529,0,32,8,4,4,0,4,3,55,Allegany County,precinct
-Allegany County,Burns,630,88,16,0,0,0,0,0,88,51,33,16,3,2,3,294,0,33,3,2,1,2,1,5,39,Allegany County,precinct
-Allegany County,Caneadea 1,482,58,10,0,0,0,0,0,85,358,20,6,6,3,1,225,0,19,2,3,4,1,1,5,14,Allegany County,precinct
-Allegany County,Caneadea 2,584,58,20,0,0,0,0,0,96,216,24,6,5,1,2,275,0,28,8,0,2,2,1,6,7,Allegany County,precinct
-Allegany County,Centerville,392,46,14,0,0,0,0,0,49,154,28,1,3,2,2,179,0,28,1,1,2,0,1,0,14,Allegany County,precinct
-Allegany County,Clarksville,604,46,8,0,0,0,0,0,107,196,13,9,3,0,3,277,0,14,1,3,2,1,3,3,21,Allegany County,precinct
-Allegany County,Cuba 1,890,52,34,0,0,0,0,0,211,139,18,11,16,1,6,408,0,16,10,6,7,1,8,6,29,Allegany County,precinct
-Allegany County,Cuba 2,1140,72,30,0,0,0,0,0,201,191,24,11,19,6,3,546,0,23,3,4,6,2,3,2,18,Allegany County,precinct
-Allegany County,Friendship,946,84,22,0,0,0,0,0,136,220,41,7,7,2,4,445,0,26,2,3,1,1,5,3,32,Allegany County,precinct
-Allegany County,Genesee,904,90,12,0,0,0,0,0,137,351,35,9,3,3,3,418,0,29,7,3,2,0,1,6,41,Allegany County,precinct
-Allegany County,Granger,344,44,0,0,0,0,0,0,28,311,20,5,5,0,0,158,0,20,1,2,2,0,0,0,8,Allegany County,precinct
-Allegany County,Grove,380,62,4,0,0,0,0,0,63,315,28,3,4,0,1,169,0,30,1,1,0,1,0,0,20,Allegany County,precinct
-Allegany County,Hume,1030,100,6,0,0,0,0,0,147,131,48,8,8,0,3,479,0,44,11,1,4,1,4,9,28,Allegany County,precinct
-Allegany County,Independence,602,42,10,0,0,0,0,0,96,123,15,4,6,3,1,291,0,17,1,2,1,1,0,3,14,Allegany County,precinct
-Allegany County,New Hudson,394,48,14,0,0,0,0,0,49,343,17,4,8,2,1,191,0,23,3,3,4,2,1,1,3,Allegany County,precinct
-Allegany County,Rushford,862,116,18,0,0,0,0,0,109,199,54,6,6,2,1,398,0,44,4,2,3,1,3,5,29,Allegany County,precinct
-Allegany County,Scio,1088,74,8,0,0,0,0,0,177,145,23,13,2,3,4,511,0,30,5,0,1,1,3,3,41,Allegany County,precinct
-Allegany County,Ward,308,20,10,0,0,0,0,0,65,312,6,5,3,6,3,133,0,8,7,2,1,0,1,1,12,Allegany County,precinct
-Allegany County,Wellsville 1,804,60,12,0,0,0,0,0,172,348,20,9,9,4,0,378,0,20,2,1,4,1,2,5,21,Allegany County,precinct
-Allegany County,Wellsville 2,928,36,10,0,0,0,0,0,229,79,11,9,5,1,2,430,0,14,0,2,5,0,2,4,26,Allegany County,precinct
-Allegany County,Wellsville 3,1046,60,28,0,0,0,0,0,251,226,21,9,12,2,3,489,0,22,8,3,7,3,0,2,27,Allegany County,precinct
-Allegany County,Wellsville 4,686,48,12,0,0,0,0,0,125,221,18,8,6,10,0,329,0,17,4,1,4,0,0,2,19,Allegany County,precinct
-Allegany County,Wellsville 5,912,44,16,0,0,0,0,0,159,250,13,13,6,1,0,439,0,18,2,3,3,0,1,2,17,Allegany County,precinct
-Allegany County,West Almond,210,28,2,0,0,0,0,0,33,212,11,1,2,1,0,95,0,12,2,0,0,1,0,0,10,Allegany County,precinct
-Allegany County,Willing,826,58,24,0,0,0,0,0,134,287,24,11,6,1,0,390,0,25,4,1,4,4,1,2,17,Allegany County,precinct
-Allegany County,Wirt,608,64,18,0,0,0,0,0,61,572,26,6,0,0,1,281,0,16,0,2,2,1,2,3,45,Allegany County,precinct
+Allegany County,Alfred 1,734,50,36,0,0,0,0,0,290,0,15,16,15,6,0,309,0,11,34,8,6,5,1,11,21,Allegany County,Alfred 1
+Allegany County,Alfred 2,882,98,22,0,0,0,0,0,240,0,35,11,8,6,2,375,0,26,13,4,5,2,2,2,59,Allegany County,Alfred 2
+Allegany County,Allen,258,24,10,0,0,0,0,0,36,73,11,5,2,7,1,119,0,11,1,0,3,0,0,0,11,Allegany County,Allen
+Allegany County,Alma,498,44,6,0,0,0,0,0,65,189,21,6,1,0,1,231,0,15,2,0,0,0,1,4,18,Allegany County,Alma
+Allegany County,Almond,1092,134,32,0,0,0,0,0,201,88,54,19,10,0,2,493,0,43,14,5,2,2,2,3,69,Allegany County,Almond
+Allegany County,Amity 1,852,44,12,0,0,0,0,0,148,176,18,2,6,6,1,396,0,22,4,1,2,0,3,3,18,Allegany County,Amity 1
+Allegany County,Amity 2,536,24,16,0,0,0,0,0,106,335,14,3,3,0,2,247,0,12,3,0,3,2,1,2,29,Allegany County,Amity 2
+Allegany County,Andover 1,688,60,26,0,0,0,0,0,125,274,27,6,6,3,0,320,0,23,3,1,3,4,3,2,25,Allegany County,Andover 1
+Allegany County,Andover 2,538,28,10,0,0,0,0,0,66,153,11,6,3,3,1,242,0,10,2,1,2,1,1,1,23,Allegany County,Andover 2
+Allegany County,Angelica 1,554,36,10,0,0,0,0,0,90,216,15,7,1,3,1,260,0,12,3,2,1,3,0,1,17,Allegany County,Angelica 1
+Allegany County,Angelica 2,434,28,4,0,0,0,0,0,62,197,11,0,1,3,0,205,0,8,1,0,0,0,0,4,9,Allegany County,Angelica 2
+Allegany County,Belfast,1012,98,26,0,0,0,0,0,178,179,35,10,5,2,4,462,0,27,3,3,3,0,3,3,53,Allegany County,Belfast
+Allegany County,Birdsall,144,16,0,0,0,0,0,0,20,153,6,0,0,3,0,72,0,5,0,0,0,0,0,0,4,Allegany County,Birdsall
+Allegany County,Bolivar,1186,70,22,0,0,0,0,0,209,322,28,14,8,1,2,529,0,32,8,4,4,0,4,3,55,Allegany County,Bolivar
+Allegany County,Burns,630,88,16,0,0,0,0,0,88,51,33,16,3,2,3,294,0,33,3,2,1,2,1,5,39,Allegany County,Burns
+Allegany County,Caneadea 1,482,58,10,0,0,0,0,0,85,358,20,6,6,3,1,225,0,19,2,3,4,1,1,5,14,Allegany County,Caneadea 1
+Allegany County,Caneadea 2,584,58,20,0,0,0,0,0,96,216,24,6,5,1,2,275,0,28,8,0,2,2,1,6,7,Allegany County,Caneadea 2
+Allegany County,Centerville,392,46,14,0,0,0,0,0,49,154,28,1,3,2,2,179,0,28,1,1,2,0,1,0,14,Allegany County,Centerville
+Allegany County,Clarksville,604,46,8,0,0,0,0,0,107,196,13,9,3,0,3,277,0,14,1,3,2,1,3,3,21,Allegany County,Clarksville
+Allegany County,Cuba 1,890,52,34,0,0,0,0,0,211,139,18,11,16,1,6,408,0,16,10,6,7,1,8,6,29,Allegany County,Cuba 1
+Allegany County,Cuba 2,1140,72,30,0,0,0,0,0,201,191,24,11,19,6,3,546,0,23,3,4,6,2,3,2,18,Allegany County,Cuba 2
+Allegany County,Friendship,946,84,22,0,0,0,0,0,136,220,41,7,7,2,4,445,0,26,2,3,1,1,5,3,32,Allegany County,Friendship
+Allegany County,Genesee,904,90,12,0,0,0,0,0,137,351,35,9,3,3,3,418,0,29,7,3,2,0,1,6,41,Allegany County,Genesee
+Allegany County,Granger,344,44,0,0,0,0,0,0,28,311,20,5,5,0,0,158,0,20,1,2,2,0,0,0,8,Allegany County,Granger
+Allegany County,Grove,380,62,4,0,0,0,0,0,63,315,28,3,4,0,1,169,0,30,1,1,0,1,0,0,20,Allegany County,Grove
+Allegany County,Hume,1030,100,6,0,0,0,0,0,147,131,48,8,8,0,3,479,0,44,11,1,4,1,4,9,28,Allegany County,Hume
+Allegany County,Independence,602,42,10,0,0,0,0,0,96,123,15,4,6,3,1,291,0,17,1,2,1,1,0,3,14,Allegany County,Independence
+Allegany County,New Hudson,394,48,14,0,0,0,0,0,49,343,17,4,8,2,1,191,0,23,3,3,4,2,1,1,3,Allegany County,New Hudson
+Allegany County,Rushford,862,116,18,0,0,0,0,0,109,199,54,6,6,2,1,398,0,44,4,2,3,1,3,5,29,Allegany County,Rushford
+Allegany County,Scio,1088,74,8,0,0,0,0,0,177,145,23,13,2,3,4,511,0,30,5,0,1,1,3,3,41,Allegany County,Scio
+Allegany County,Ward,308,20,10,0,0,0,0,0,65,312,6,5,3,6,3,133,0,8,7,2,1,0,1,1,12,Allegany County,Ward
+Allegany County,Wellsville 1,804,60,12,0,0,0,0,0,172,348,20,9,9,4,0,378,0,20,2,1,4,1,2,5,21,Allegany County,Wellsville 1
+Allegany County,Wellsville 2,928,36,10,0,0,0,0,0,229,79,11,9,5,1,2,430,0,14,0,2,5,0,2,4,26,Allegany County,Wellsville 2
+Allegany County,Wellsville 3,1046,60,28,0,0,0,0,0,251,226,21,9,12,2,3,489,0,22,8,3,7,3,0,2,27,Allegany County,Wellsville 3
+Allegany County,Wellsville 4,686,48,12,0,0,0,0,0,125,221,18,8,6,10,0,329,0,17,4,1,4,0,0,2,19,Allegany County,Wellsville 4
+Allegany County,Wellsville 5,912,44,16,0,0,0,0,0,159,250,13,13,6,1,0,439,0,18,2,3,3,0,1,2,17,Allegany County,Wellsville 5
+Allegany County,West Almond,210,28,2,0,0,0,0,0,33,212,11,1,2,1,0,95,0,12,2,0,0,1,0,0,10,Allegany County,West Almond
+Allegany County,Willing,826,58,24,0,0,0,0,0,134,287,24,11,6,1,0,390,0,25,4,1,4,4,1,2,17,Allegany County,Willing
+Allegany County,Wirt,608,64,18,0,0,0,0,0,61,572,26,6,0,0,1,281,0,16,0,2,2,1,2,3,45,Allegany County,Wirt

@@ -1,278 +1,278 @@
 county,precinct,HOR_DEM,HOR_REP,HOR_CON,HOR_GRE,HOR_WOR,HOR_IND,HOR_WEP,HOR_REF,Sen_DEM,Sen_REP,Sen_CON,Sen_WOR,Sen_IND,Sen_WEP,Sen_REF,Gov_DEM,Gov_REP,Gov_CON,Gov_GRE,Gov_WOR,Gov_IND,Gov_WEP,Gov_REF,Gov_SAM,Gov_LBT,county_id,original_precinct_name
-Rockland County,0001 Clarkstown 1 (Ward 1),229,0,0,0,9,0,5,53,220,138,19,2,5,4,7,197,163,18,5,1,4,3,6,5,4,Rockland County,precinct
-Rockland County,0002 Clarkstown 2 (Ward 2),271,0,0,0,18,0,11,85,283,162,30,7,6,4,30,240,199,29,6,7,3,4,32,2,3,Rockland County,precinct
-Rockland County,0003 Clarkstown 3 (Ward 3),127,0,0,0,10,0,7,61,125,118,16,9,2,4,11,107,137,18,3,4,0,5,10,0,2,Rockland County,precinct
-Rockland County,0004 Clarkstown 4 (Ward 2),235,0,0,0,14,0,1,23,231,45,4,14,4,1,5,202,57,5,13,10,2,2,9,2,1,Rockland County,precinct
-Rockland County,0005 Clarkstown 5 (Ward 3),105,0,0,0,8,0,5,60,108,109,20,6,8,2,8,86,132,19,4,2,6,0,14,3,3,Rockland County,precinct
-Rockland County,0006 Clarkstown 6 (Ward 3),159,0,0,0,6,0,3,18,149,46,4,4,2,4,5,138,56,4,2,2,3,2,10,0,1,Rockland County,precinct
-Rockland County,0007 Clarkstown 8 (Ward 2),194,0,0,0,17,0,8,66,181,181,21,7,6,4,14,171,197,22,4,8,5,1,19,1,2,Rockland County,precinct
-Rockland County,0008 Clarkstown 9 (Ward 1),354,0,0,0,7,0,5,119,345,215,30,3,10,0,18,320,234,28,7,0,8,2,23,0,5,Rockland County,precinct
-Rockland County,0009 Clarkstown 10 (Ward 4),340,0,0,0,15,0,4,9,356,19,6,13,1,4,1,377,20,6,2,6,0,3,2,1,0,Rockland County,precinct
-Rockland County,0010 Clarkstown 11 (Ward 4),292,0,0,0,14,0,3,115,292,215,30,9,5,8,15,240,254,26,6,5,8,1,19,5,5,Rockland County,precinct
-Rockland County,0011 Clarkstown 12 (Ward 3),177,0,0,0,12,0,4,93,172,162,22,6,3,3,16,148,183,19,7,3,2,2,20,2,3,Rockland County,precinct
-Rockland County,0012 Clarkstown 13 (Ward 1),200,0,0,0,3,0,4,74,177,138,30,1,7,2,13,169,140,31,4,3,2,3,16,1,0,Rockland County,precinct
-Rockland County,0013 Clarkstown 14 (Ward 2),256,0,0,0,22,0,5,171,249,275,39,11,7,2,60,209,332,42,6,5,1,1,66,2,1,Rockland County,precinct
-Rockland County,0014 Clarkstown 15 (Ward 3),215,0,0,0,17,0,4,46,207,145,9,9,4,2,13,193,160,10,4,4,2,4,15,1,1,Rockland County,precinct
-Rockland County,0015 Clarkstown 16 (Ward 1),172,0,0,0,11,0,9,73,171,98,24,9,2,4,19,161,104,25,4,4,1,3,27,0,2,Rockland County,precinct
-Rockland County,0016 Clarkstown 17 (Ward 2),213,0,0,0,18,0,7,91,220,184,29,9,8,2,20,190,213,32,5,5,7,3,17,5,2,Rockland County,precinct
-Rockland County,0017 Clarkstown 18 (Ward 3),96,0,0,0,6,0,4,41,95,61,13,4,3,0,9,81,72,11,0,3,3,0,15,1,2,Rockland County,precinct
-Rockland County,0018 Clarkstown 19 (Ward 4),265,0,0,0,17,0,5,94,242,188,35,13,4,2,31,218,211,38,4,6,2,1,34,3,4,Rockland County,precinct
-Rockland County,0019 Clarkstown 20 (Ward 3),144,0,0,0,7,0,2,7,148,22,5,6,4,0,1,151,25,8,1,3,2,1,0,0,3,Rockland County,precinct
-Rockland County,0020 Clarkstown 21 (Ward 4),228,0,0,0,6,0,0,5,222,10,2,6,1,2,2,237,13,2,1,5,1,1,0,1,3,Rockland County,precinct
-Rockland County,0021 Clarkstown 22 (Ward 1),393,0,0,0,17,0,8,75,385,163,14,9,11,1,11,354,181,14,11,5,10,5,13,5,4,Rockland County,precinct
-Rockland County,0022 Clarkstown 23 (Ward 2),318,0,0,0,23,0,8,49,315,98,9,25,3,2,10,283,109,12,9,25,3,2,13,3,3,Rockland County,precinct
-Rockland County,0023 Clarkstown 24 (Ward 4),279,0,0,0,8,0,6,117,270,220,28,10,8,6,17,246,230,26,11,6,2,3,31,0,3,Rockland County,precinct
-Rockland County,0024 Clarkstown 25 (Ward 1),155,0,0,0,6,0,5,55,155,105,15,4,2,3,12,145,113,12,4,2,1,2,18,2,3,Rockland County,precinct
-Rockland County,0025 Clarkstown 27 (Ward 4),276,0,0,0,16,0,7,120,256,198,32,7,8,5,30,235,226,27,4,3,5,1,35,1,5,Rockland County,precinct
-Rockland County,0026 Clarkstown 28 (Ward 3),215,0,0,0,16,0,9,66,208,133,23,9,8,9,20,181,154,23,9,11,5,2,16,2,5,Rockland County,precinct
-Rockland County,0027 Clarkstown 29 (Ward 1),279,0,0,0,16,0,2,81,270,169,34,17,6,7,12,250,201,41,7,9,3,5,11,4,0,Rockland County,precinct
-Rockland County,0028 Clarkstown 30 (Ward 4),192,0,0,0,9,0,6,86,197,157,26,4,4,3,17,174,182,23,3,6,3,2,19,1,2,Rockland County,precinct
-Rockland County,0029 Clarkstown 31 (Ward 4),340,0,0,0,9,0,5,81,326,184,25,10,3,4,16,291,206,26,5,8,1,6,24,2,1,Rockland County,precinct
-Rockland County,0030 Clarkstown 32 (Ward 4),278,0,0,0,9,0,4,45,268,107,16,10,7,6,9,246,131,14,2,4,4,0,16,3,4,Rockland County,precinct
-Rockland County,0031 Clarkstown 33 (Ward 3),138,0,0,0,12,0,2,42,133,93,11,7,3,0,9,121,112,11,3,2,1,1,8,1,0,Rockland County,precinct
-Rockland County,0032 Clarkstown 34 (Ward 3),311,0,0,0,23,0,10,91,297,224,27,9,11,9,27,278,247,28,6,7,10,6,29,4,4,Rockland County,precinct
-Rockland County,0033 Clarkstown 35 (Ward 3),423,0,0,0,14,0,3,64,416,167,19,13,9,4,8,398,185,22,7,10,6,2,9,7,6,Rockland County,precinct
-Rockland County,0034 Clarkstown 36 (Ward 1),426,0,0,0,9,0,8,120,395,218,26,7,11,2,33,364,251,26,6,8,10,1,34,1,4,Rockland County,precinct
-Rockland County,0035 Clarkstown 37 (Ward 1),296,0,0,0,11,0,5,82,286,149,15,5,7,2,10,264,163,17,2,5,7,2,10,1,2,Rockland County,precinct
-Rockland County,0036 Clarkstown 38 (Ward 2),264,0,0,0,13,0,9,90,257,153,26,11,8,4,36,230,172,28,8,4,5,7,41,2,3,Rockland County,precinct
-Rockland County,0037 Clarkstown 40 (Ward 1),225,0,0,0,11,0,5,69,221,123,16,7,5,3,10,206,138,13,4,1,3,2,12,1,6,Rockland County,precinct
-Rockland County,0038 Clarkstown 41 (Ward 3),253,0,0,0,12,0,4,45,253,69,7,6,8,2,8,249,71,11,2,5,8,1,14,1,1,Rockland County,precinct
-Rockland County,0039 Clarkstown 42 (Ward 2),200,0,0,0,14,0,9,119,205,173,21,10,10,4,44,174,206,20,9,6,3,3,46,1,4,Rockland County,precinct
-Rockland County,0040 Clarkstown 43 (Ward 2),340,0,0,0,11,0,5,95,336,180,37,7,10,2,22,298,215,33,6,7,7,1,28,3,4,Rockland County,precinct
-Rockland County,0041 Clarkstown 44 (Ward 3),306,0,0,0,26,0,12,83,292,179,44,5,8,9,12,252,216,48,6,6,3,5,18,3,1,Rockland County,precinct
-Rockland County,0042 Clarkstown 45 (Ward 3),195,0,0,0,12,0,2,78,188,167,22,5,7,1,21,151,188,29,5,4,2,2,23,1,5,Rockland County,precinct
-Rockland County,0043 Clarkstown 46 (Ward 1),126,0,0,0,8,0,4,70,134,78,17,6,5,1,17,107,103,18,5,3,1,0,25,0,1,Rockland County,precinct
-Rockland County,0044 Clarkstown 47 (Ward 3),244,0,0,0,9,0,10,89,243,160,20,6,4,7,20,223,180,23,5,6,2,5,22,2,3,Rockland County,precinct
-Rockland County,0045 Clarkstown 48 (Ward 4),138,0,0,0,4,0,5,48,133,117,13,4,7,1,6,114,124,12,4,3,6,0,12,2,3,Rockland County,precinct
-Rockland County,0046 Clarkstown 49 (Ward 3),369,0,0,0,24,0,8,23,375,47,5,21,7,4,7,349,59,7,12,21,5,4,7,3,9,Rockland County,precinct
-Rockland County,0047 Clarkstown 50 (Ward 3),122,0,0,0,9,0,6,66,117,112,19,5,3,3,20,96,133,23,3,1,2,1,17,2,2,Rockland County,precinct
-Rockland County,0048 Clarkstown 51 (Ward 2),280,0,0,0,19,0,3,84,267,196,23,14,6,3,21,236,205,25,13,7,1,2,32,6,4,Rockland County,precinct
-Rockland County,0049 Clarkstown 52 (Ward 1),433,0,0,0,9,0,3,127,405,237,37,5,10,6,21,391,260,27,2,7,8,0,29,2,1,Rockland County,precinct
-Rockland County,0050 Clarkstown 53 (Ward 1),173,0,0,0,8,0,3,38,167,86,9,3,2,3,13,165,82,9,2,4,1,2,16,1,1,Rockland County,precinct
-Rockland County,0051 Clarkstown 54 (Ward 2),272,0,0,0,22,0,6,30,265,62,10,22,8,4,5,250,66,13,10,20,5,4,9,4,0,Rockland County,precinct
-Rockland County,0052 Clarkstown 55 (Ward 2),270,0,0,0,10,0,4,92,262,182,25,5,10,2,12,238,190,26,5,6,6,2,19,0,7,Rockland County,precinct
-Rockland County,0053 Clarkstown 57 (Ward 3),313,0,0,0,15,0,2,70,291,191,23,8,11,2,9,264,213,23,4,5,7,2,16,5,2,Rockland County,precinct
-Rockland County,0054 Clarkstown 58 (Ward 2),184,0,0,0,12,0,2,52,174,100,7,8,3,1,26,162,114,7,3,5,2,0,25,1,2,Rockland County,precinct
-Rockland County,0055 Clarkstown 59 (Ward 1),272,0,0,0,22,0,9,86,264,168,30,11,11,2,18,247,192,27,4,5,8,0,17,4,10,Rockland County,precinct
-Rockland County,0056 Clarkstown 60 (Ward 1),334,0,0,0,13,0,8,60,327,151,17,10,9,3,11,315,153,20,6,5,5,3,13,4,3,Rockland County,precinct
-Rockland County,0057 Clarkstown 61 (Ward 2),220,0,0,0,13,0,7,139,214,220,26,9,6,6,48,182,243,27,4,5,5,3,57,2,4,Rockland County,precinct
-Rockland County,0058 Clarkstown 62 (Ward 3),9,0,0,0,1,0,1,0,12,1,0,0,1,1,0,13,1,0,0,0,1,0,0,0,0,Rockland County,precinct
-Rockland County,0059 Clarkstown 63 (Ward 2),307,0,0,0,22,0,8,123,289,190,27,18,12,4,51,272,221,25,3,15,10,3,50,3,1,Rockland County,precinct
-Rockland County,0060 Clarkstown 64 (Ward 2),218,0,0,0,10,0,5,49,212,121,11,5,4,5,8,192,137,10,6,4,2,3,10,2,7,Rockland County,precinct
-Rockland County,0061 Clarkstown 65 (Ward 4),213,0,0,0,7,0,2,77,199,178,23,5,4,1,8,186,194,16,3,3,2,1,14,1,1,Rockland County,precinct
-Rockland County,0062 Clarkstown 66 (Ward 4),501,0,0,0,18,0,6,58,498,183,28,9,9,2,6,476,209,24,3,10,8,4,7,2,7,Rockland County,precinct
-Rockland County,0063 Clarkstown 67 (Ward 1),285,0,0,0,15,0,12,77,288,165,22,5,7,6,9,264,192,22,5,3,6,4,10,1,0,Rockland County,precinct
-Rockland County,0064 Clarkstown 68 (Ward 1),307,0,0,0,13,0,7,64,308,159,9,6,2,4,8,278,172,15,4,13,3,4,8,3,1,Rockland County,precinct
-Rockland County,0065 Clarkstown 69 (Ward 1),272,0,0,0,13,0,4,56,261,104,11,6,3,3,8,246,123,12,2,7,4,2,7,2,1,Rockland County,precinct
-Rockland County,0066 Clarkstown 70 (Ward 3),167,0,0,0,11,0,1,92,147,187,30,2,7,1,17,132,197,25,3,3,3,2,24,0,3,Rockland County,precinct
-Rockland County,0067 Clarkstown 71 (Ward 4),85,0,0,0,3,0,0,41,80,76,14,0,3,0,16,72,83,13,0,1,2,2,17,0,2,Rockland County,precinct
-Rockland County,0068 Clarkstown 72 (Ward 1),278,0,0,0,13,0,3,88,269,159,24,8,4,1,10,251,166,25,5,5,1,1,17,4,2,Rockland County,precinct
-Rockland County,0069 Clarkstown 73 (Ward 2),524,0,0,0,19,0,8,118,510,239,34,18,9,3,27,445,282,32,10,16,7,3,34,7,4,Rockland County,precinct
-Rockland County,0070 Clarkstown 74 (Ward 1),339,0,0,0,13,0,7,125,348,173,30,10,7,3,17,319,203,29,12,6,5,3,16,1,4,Rockland County,precinct
-Rockland County,0071 Clarkstown 75 (Ward 4),303,0,0,0,17,0,6,75,319,158,25,6,3,7,10,288,187,25,4,3,1,3,17,1,5,Rockland County,precinct
-Rockland County,0072 Clarkstown 76 (Ward 4),215,0,0,0,2,0,2,10,214,33,1,5,5,1,1,210,38,2,4,2,3,1,1,1,3,Rockland County,precinct
-Rockland County,0073 Clarkstown 77 (Ward 2),125,0,0,0,7,0,3,71,127,97,19,6,6,1,15,106,114,17,1,2,5,0,15,4,4,Rockland County,precinct
-Rockland County,0074 Clarkstown 79 (Ward 4),387,0,0,0,7,0,6,36,376,71,9,6,8,2,3,372,80,6,4,4,4,1,2,1,4,Rockland County,precinct
-Rockland County,0075 Clarkstown 80 (Ward 4),213,0,0,0,7,0,1,24,208,72,9,3,3,2,3,202,72,13,1,2,2,2,4,0,3,Rockland County,precinct
-Rockland County,0076 Clarkstown 81 (Ward 3),286,0,0,0,17,0,7,69,275,178,22,13,12,2,15,253,208,17,7,6,10,3,13,4,7,Rockland County,precinct
-Rockland County,0077 Clarkstown 82 (Ward 2),355,0,0,0,9,0,8,123,339,224,29,6,5,9,54,309,255,32,6,2,4,4,61,0,1,Rockland County,precinct
-Rockland County,0078 Haverstraw 1,202,0,0,0,8,0,5,59,180,165,41,3,6,3,6,146,200,42,5,1,1,1,9,6,7,Rockland County,precinct
-Rockland County,0079 Haverstraw 2,278,0,0,0,15,0,6,42,281,118,21,8,8,2,2,263,130,19,5,6,4,1,9,5,1,Rockland County,precinct
-Rockland County,0080 Haverstraw 3,328,0,0,0,8,0,8,56,318,146,23,3,8,4,1,286,175,27,5,5,6,0,1,2,9,Rockland County,precinct
-Rockland County,0081 Haverstraw 4,354,0,0,0,11,0,6,35,338,120,16,7,7,5,2,323,142,13,8,5,4,3,3,4,4,Rockland County,precinct
-Rockland County,0082 Haverstraw 6,232,0,0,0,9,0,5,23,222,43,12,7,3,5,0,222,63,8,3,5,4,4,1,3,2,Rockland County,precinct
-Rockland County,0083 Haverstraw 7,279,0,0,0,6,0,1,18,270,41,5,6,2,1,2,264,51,11,5,2,1,1,0,3,6,Rockland County,precinct
-Rockland County,0084 Haverstraw 8,128,0,0,0,1,0,0,3,127,9,2,1,1,0,2,133,10,1,2,2,0,0,1,0,2,Rockland County,precinct
-Rockland County,0085 Haverstraw 9,401,0,0,0,11,0,6,31,377,83,17,11,4,4,2,378,119,14,3,6,2,2,2,4,2,Rockland County,precinct
-Rockland County,0086 Haverstraw 10,399,0,0,0,12,0,5,42,388,131,13,13,4,4,6,370,154,13,7,7,4,1,9,0,2,Rockland County,precinct
-Rockland County,0087 Haverstraw 11,154,0,0,0,3,0,7,11,157,42,14,1,4,1,3,143,62,12,3,0,3,3,5,0,1,Rockland County,precinct
-Rockland County,0088 Haverstraw 12,76,0,0,0,0,0,2,2,74,33,3,1,1,1,0,70,41,2,0,1,1,0,0,0,0,Rockland County,precinct
-Rockland County,0089 Haverstraw 13,314,0,0,0,7,0,6,39,305,76,13,8,8,6,6,281,93,13,6,3,7,3,9,2,7,Rockland County,precinct
-Rockland County,0090 Haverstraw 14,273,0,0,0,11,0,4,19,270,65,14,10,3,1,0,272,75,13,3,5,1,1,3,1,6,Rockland County,precinct
-Rockland County,0091 Haverstraw 15,214,0,0,0,12,0,3,41,203,116,14,5,5,5,2,178,143,15,3,1,3,2,3,2,4,Rockland County,precinct
-Rockland County,0092 Haverstraw 16,423,0,0,0,14,0,2,32,416,77,9,13,7,3,4,421,93,14,4,8,4,0,5,3,7,Rockland County,precinct
-Rockland County,0093 Haverstraw 17,249,0,0,0,12,0,10,27,248,107,16,5,2,5,2,245,106,14,3,5,3,2,2,8,1,Rockland County,precinct
-Rockland County,0094 Haverstraw 18,358,0,0,0,20,0,4,20,365,48,11,9,7,3,0,375,56,7,1,10,7,3,1,0,2,Rockland County,precinct
-Rockland County,0095 Haverstraw 19,165,0,0,0,9,0,1,40,154,100,19,4,3,2,1,120,125,27,6,2,1,0,4,4,3,Rockland County,precinct
-Rockland County,0096 Haverstraw 20,315,0,0,0,23,0,9,66,311,164,36,7,8,7,7,277,187,32,10,3,6,4,14,3,13,Rockland County,precinct
-Rockland County,0097 Haverstraw 21,442,0,0,0,18,0,10,63,439,150,17,9,7,7,3,401,175,20,6,7,4,5,5,5,15,Rockland County,precinct
-Rockland County,0098 Haverstraw 22,326,0,0,0,15,0,3,72,309,246,18,3,5,0,3,261,304,21,1,1,6,1,6,4,1,Rockland County,precinct
-Rockland County,0099 Haverstraw 23,179,0,0,0,11,0,3,61,165,185,44,4,6,1,4,144,211,42,1,3,3,1,2,4,8,Rockland County,precinct
-Rockland County,0100 Haverstraw 24,117,0,0,0,4,0,2,16,118,50,9,5,1,1,0,115,52,8,2,4,0,1,0,0,1,Rockland County,precinct
-Rockland County,0101 Haverstraw 25,164,0,0,0,11,0,4,46,162,122,13,2,2,2,2,142,137,12,3,3,1,3,5,2,0,Rockland County,precinct
-Rockland County,0102 Haverstraw 26,60,0,0,0,1,0,0,24,56,53,7,1,1,1,0,46,61,9,1,0,1,0,1,0,1,Rockland County,precinct
-Rockland County,0103 Haverstraw 27,14,0,0,0,3,0,0,8,13,20,5,0,1,0,0,9,25,3,1,0,0,1,0,1,0,Rockland County,precinct
-Rockland County,0104 Haverstraw 28,120,0,0,0,8,0,2,13,111,52,8,3,4,2,3,98,76,5,3,2,0,1,7,2,3,Rockland County,precinct
-Rockland County,0105 Haverstraw 29,156,0,0,0,6,0,2,27,158,80,16,0,4,2,1,146,86,15,2,0,4,1,2,0,4,Rockland County,precinct
-Rockland County,0106 Haverstraw 30,235,0,0,0,5,0,1,14,228,67,5,5,3,4,4,213,82,5,3,3,3,3,3,0,4,Rockland County,precinct
-Rockland County,0107 Orangetown 1,529,0,0,0,25,0,9,39,528,151,12,22,10,4,8,479,165,15,11,19,6,2,12,8,6,Rockland County,precinct
-Rockland County,0108 Orangetown 2,343,0,0,0,16,0,6,16,354,45,3,17,4,4,4,340,59,4,8,15,4,3,5,2,2,Rockland County,precinct
-Rockland County,0109 Orangetown 3,147,0,0,0,15,0,7,67,140,202,43,4,6,3,8,117,226,41,4,3,3,2,10,0,3,Rockland County,precinct
-Rockland County,0110 Orangetown 5,315,0,0,0,26,0,11,19,308,54,10,27,8,9,3,291,63,7,12,25,4,5,3,3,3,Rockland County,precinct
-Rockland County,0111 Orangetown 7,252,0,0,0,17,0,5,18,255,33,7,19,4,5,3,244,38,7,12,16,3,4,1,1,5,Rockland County,precinct
-Rockland County,0112 Orangetown 8,322,0,0,0,17,0,9,16,328,41,4,18,6,4,1,296,58,5,20,11,6,5,3,0,1,Rockland County,precinct
-Rockland County,0113 Orangetown 9,275,0,0,0,16,0,9,113,265,291,57,9,11,7,31,232,316,51,10,2,6,7,40,4,5,Rockland County,precinct
-Rockland County,0114 Orangetown 10,160,0,0,0,12,0,3,79,152,165,27,2,2,3,28,130,172,24,3,1,2,1,31,3,7,Rockland County,precinct
-Rockland County,0115 Orangetown 11,459,0,0,0,29,0,15,33,444,58,11,30,9,14,8,407,69,16,26,23,4,13,8,3,9,Rockland County,precinct
-Rockland County,0116 Orangetown 12,372,0,0,0,20,0,4,41,356,124,18,19,13,1,6,342,128,18,4,23,10,2,6,8,4,Rockland County,precinct
-Rockland County,0117 Orangetown 13,223,0,0,0,10,0,8,34,213,126,24,5,4,6,3,198,143,16,8,3,2,3,6,1,3,Rockland County,precinct
-Rockland County,0118 Orangetown 14,368,0,0,0,5,0,6,19,362,77,6,8,1,4,2,333,87,5,10,8,1,5,5,1,2,Rockland County,precinct
-Rockland County,0119 Orangetown 15,176,0,0,0,14,0,2,19,183,35,5,7,1,3,0,157,37,6,7,13,1,4,1,1,5,Rockland County,precinct
-Rockland County,0120 Orangetown 16,287,0,0,0,7,0,9,27,279,117,18,6,7,4,1,264,126,17,5,3,7,5,3,4,4,Rockland County,precinct
-Rockland County,0121 Orangetown 17,174,0,0,0,18,0,7,106,161,212,34,7,2,6,44,130,239,35,6,7,1,2,45,4,4,Rockland County,precinct
-Rockland County,0122 Orangetown 18,303,0,0,0,25,0,10,27,289,69,10,27,9,8,5,259,80,8,12,30,4,5,5,3,3,Rockland County,precinct
-Rockland County,0123 Orangetown 19,146,0,0,0,9,0,4,75,139,151,47,2,4,6,28,104,179,48,8,2,1,3,29,7,0,Rockland County,precinct
-Rockland County,0124 Orangetown 20,209,0,0,0,26,0,9,122,201,256,54,10,7,6,51,167,271,52,8,9,6,4,63,3,7,Rockland County,precinct
-Rockland County,0125 Orangetown 21,222,0,0,0,9,0,3,42,212,105,22,5,6,1,5,201,120,19,5,2,3,1,7,1,5,Rockland County,precinct
-Rockland County,0126 Orangetown 22,145,0,0,0,13,0,6,76,140,252,31,7,6,3,18,106,273,35,5,5,5,1,22,5,3,Rockland County,precinct
-Rockland County,0127 Orangetown 23,114,0,0,0,7,0,2,75,107,157,40,3,3,4,19,84,182,32,1,2,0,2,27,6,1,Rockland County,precinct
-Rockland County,0128 Orangetown 24,135,0,0,0,14,0,8,88,131,187,37,4,9,4,17,107,210,37,1,2,5,3,30,0,1,Rockland County,precinct
-Rockland County,0129 Orangetown 25,121,0,0,0,6,0,3,70,106,171,30,1,4,2,14,96,180,28,2,1,3,1,16,1,3,Rockland County,precinct
-Rockland County,0130 Orangetown 26,280,0,0,0,11,0,8,75,260,256,47,9,9,6,16,221,286,44,9,6,11,4,22,1,3,Rockland County,precinct
-Rockland County,0131 Orangetown 28,222,0,0,0,14,0,9,109,209,210,37,6,2,9,28,170,241,31,7,6,4,4,39,2,4,Rockland County,precinct
-Rockland County,0132 Orangetown 29,154,0,0,0,16,0,12,96,141,228,38,6,9,3,34,120,243,34,7,2,6,1,38,5,5,Rockland County,precinct
-Rockland County,0133 Orangetown 30,130,0,0,0,14,0,9,78,128,176,22,9,10,0,24,97,201,23,3,3,6,2,30,3,4,Rockland County,precinct
-Rockland County,0134 Orangetown 32,113,0,0,0,8,0,7,8,110,42,6,4,5,4,0,97,46,6,5,2,3,3,1,4,0,Rockland County,precinct
-Rockland County,0135 Orangetown 33,312,0,0,0,7,0,11,27,299,100,18,9,4,7,3,265,122,17,9,5,4,6,6,5,4,Rockland County,precinct
-Rockland County,0136 Orangetown 34,162,0,0,0,9,0,2,74,160,175,38,4,1,1,29,130,204,30,6,2,1,2,29,4,9,Rockland County,precinct
-Rockland County,0137 Orangetown 36,18,0,0,0,0,0,3,4,12,10,0,1,2,1,3,18,6,1,2,0,1,0,1,0,0,Rockland County,precinct
-Rockland County,0138 Orangetown 39,329,0,0,0,18,0,7,79,315,254,42,12,7,6,14,281,292,36,11,8,7,5,13,3,4,Rockland County,precinct
-Rockland County,0139 Orangetown 40,152,0,0,0,10,0,6,38,147,107,18,11,2,6,5,123,124,16,8,9,3,4,10,3,3,Rockland County,precinct
-Rockland County,0140 Orangetown 41,226,0,0,0,30,0,9,88,219,281,45,10,9,5,18,183,319,45,7,7,4,2,21,4,3,Rockland County,precinct
-Rockland County,0141 Orangetown 42,362,0,0,0,33,0,15,91,356,244,64,15,7,8,15,301,294,69,13,11,7,4,19,2,3,Rockland County,precinct
-Rockland County,0142 Orangetown 43,151,0,0,0,9,0,6,83,142,185,28,4,4,1,35,124,198,28,4,3,3,1,37,1,2,Rockland County,precinct
-Rockland County,0143 Orangetown 45,165,0,0,0,12,0,6,135,147,240,50,6,10,5,37,111,277,48,8,5,5,0,43,1,2,Rockland County,precinct
-Rockland County,0144 Orangetown 46,286,0,0,0,9,0,3,10,282,73,9,7,4,3,1,264,77,9,7,9,1,4,1,4,0,Rockland County,precinct
-Rockland County,0145 Orangetown 47,215,0,0,0,16,0,4,66,218,176,29,2,9,2,10,187,207,23,6,4,3,1,11,3,3,Rockland County,precinct
-Rockland County,0146 Orangetown 48,330,0,0,0,22,0,12,33,325,70,14,15,9,11,6,293,88,16,10,16,6,8,3,9,1,Rockland County,precinct
-Rockland County,0147 Orangetown 49,292,0,0,0,20,0,4,74,270,215,22,13,9,3,17,241,241,20,8,9,5,3,11,3,6,Rockland County,precinct
-Rockland County,0148 Orangetown 50,208,0,0,0,11,0,4,29,198,127,19,5,5,2,1,186,138,17,4,5,5,1,1,0,1,Rockland County,precinct
-Rockland County,0149 Orangetown 51,177,0,0,0,7,0,3,38,171,101,16,2,6,1,7,157,113,16,2,1,4,1,8,1,2,Rockland County,precinct
-Rockland County,0150 Orangetown 53,290,0,0,0,15,0,5,142,274,328,71,7,8,2,30,229,363,72,6,4,7,0,35,1,9,Rockland County,precinct
-Rockland County,0151 Orangetown 54,96,0,0,0,7,0,1,77,93,134,30,3,2,0,29,75,146,33,2,2,0,0,29,1,5,Rockland County,precinct
-Rockland County,0152 Orangetown 55,219,0,0,0,11,0,4,60,209,180,24,6,4,2,5,190,199,23,9,3,3,0,11,3,0,Rockland County,precinct
-Rockland County,0153 Orangetown 56,185,0,0,0,16,0,8,44,178,161,23,3,6,5,5,158,182,20,6,1,3,4,9,3,1,Rockland County,precinct
-Rockland County,0154 Orangetown 57,157,0,0,0,12,0,0,17,148,96,14,7,1,2,4,140,106,15,3,3,1,1,4,0,1,Rockland County,precinct
-Rockland County,0155 Ramapo 1,203,0,0,0,7,0,0,39,186,160,13,2,2,0,4,177,156,13,3,2,2,1,4,8,2,Rockland County,precinct
-Rockland County,0156 Ramapo 2,308,0,0,0,14,0,5,77,306,170,16,12,3,5,5,259,206,21,7,6,2,4,6,12,3,Rockland County,precinct
-Rockland County,0157 Ramapo 3,225,0,0,0,12,0,6,16,211,115,10,9,1,6,1,200,117,10,12,9,1,3,2,4,6,Rockland County,precinct
-Rockland County,0158 Ramapo 4,143,0,0,0,19,0,11,50,131,128,34,9,8,4,3,100,151,26,5,4,4,3,9,12,3,Rockland County,precinct
-Rockland County,0159 Ramapo 5,168,0,0,0,9,0,2,22,169,79,6,3,3,3,1,162,94,7,3,3,3,2,4,5,2,Rockland County,precinct
-Rockland County,0160 Ramapo 6,160,0,0,0,4,0,2,2,161,16,1,5,1,1,0,172,18,1,0,5,1,1,1,1,0,Rockland County,precinct
-Rockland County,0161 Ramapo 7,211,0,0,0,13,0,6,41,217,98,14,6,8,3,10,196,121,18,5,9,6,0,7,7,1,Rockland County,precinct
-Rockland County,0162 Ramapo 8,277,0,0,0,6,0,5,8,279,34,8,4,3,6,1,302,35,4,3,2,2,4,1,2,2,Rockland County,precinct
-Rockland County,0163 Ramapo 9,139,0,0,0,10,0,3,37,135,128,10,8,3,3,6,100,142,12,6,4,2,1,10,17,4,Rockland County,precinct
-Rockland County,0164 Ramapo 10,389,0,0,0,11,0,1,12,400,40,7,8,1,0,1,402,48,3,2,8,2,0,3,2,0,Rockland County,precinct
-Rockland County,0165 Ramapo 11,156,0,0,0,8,0,6,49,152,114,15,6,1,1,0,140,126,10,8,3,0,1,0,5,3,Rockland County,precinct
-Rockland County,0166 Ramapo 12,213,0,0,0,4,0,3,3,230,16,0,2,5,1,0,251,12,0,2,3,2,1,0,2,0,Rockland County,precinct
-Rockland County,0167 Ramapo 13,293,0,0,0,5,0,3,4,305,16,3,2,2,3,0,331,16,3,1,0,3,2,1,0,1,Rockland County,precinct
-Rockland County,0168 Ramapo 14,46,0,0,0,4,0,2,12,16,81,17,2,0,0,2,15,76,18,2,1,7,1,1,3,0,Rockland County,precinct
-Rockland County,0169 Ramapo 15,100,0,0,0,19,0,2,40,97,118,22,10,7,1,1,83,142,22,3,4,6,0,3,4,1,Rockland County,precinct
-Rockland County,0170 Ramapo 16,387,0,0,0,22,0,8,57,384,167,17,15,7,6,7,334,198,25,7,12,4,3,14,10,3,Rockland County,precinct
-Rockland County,0171 Ramapo 17,359,0,0,0,28,0,9,85,356,188,23,24,9,7,14,287,230,25,10,11,7,6,23,13,10,Rockland County,precinct
-Rockland County,0172 Ramapo 18,76,0,0,0,3,0,4,18,25,179,15,0,1,1,0,30,170,14,0,0,7,2,1,1,2,Rockland County,precinct
-Rockland County,0173 Ramapo 19,320,0,0,0,21,0,8,64,307,187,33,8,11,6,14,293,210,28,12,2,6,2,14,18,3,Rockland County,precinct
-Rockland County,0174 Ramapo 20,52,0,0,0,7,0,2,28,31,159,20,2,0,0,1,35,150,18,2,0,3,0,1,0,0,Rockland County,precinct
-Rockland County,0175 Ramapo 21,138,0,0,0,5,0,2,13,35,66,16,0,1,0,1,26,61,18,0,1,26,1,1,1,1,Rockland County,precinct
-Rockland County,0176 Ramapo 22,48,0,0,0,3,0,1,11,49,34,4,0,2,0,0,38,40,4,0,1,0,0,0,12,1,Rockland County,precinct
-Rockland County,0177 Ramapo 23,212,0,0,0,6,0,3,8,220,27,1,2,6,2,2,227,29,6,0,1,4,0,0,3,1,Rockland County,precinct
-Rockland County,0178 Ramapo 24,57,0,0,0,7,0,2,24,34,159,15,1,0,2,1,36,153,13,0,2,1,1,1,3,1,Rockland County,precinct
-Rockland County,0179 Ramapo 25,78,0,0,0,7,0,0,18,46,115,21,2,1,1,0,49,115,20,2,2,15,1,0,1,0,Rockland County,precinct
-Rockland County,0180 Ramapo 26,70,0,0,0,1,0,0,5,68,19,1,2,1,1,0,79,19,4,0,2,1,0,0,1,0,Rockland County,precinct
-Rockland County,0181 Ramapo 27,182,0,0,0,16,0,1,24,175,96,17,10,3,0,1,176,101,16,1,8,3,1,1,0,1,Rockland County,precinct
-Rockland County,0182 Ramapo 28,49,0,0,0,3,0,0,14,10,103,19,1,2,0,1,14,103,18,0,0,15,0,1,0,1,Rockland County,precinct
-Rockland County,0183 Ramapo 29,304,0,0,0,13,0,6,61,307,159,27,8,6,4,10,291,169,24,2,11,5,2,9,10,1,Rockland County,precinct
-Rockland County,0184 Ramapo 30,45,0,0,0,0,0,0,9,10,57,7,0,0,0,0,18,55,10,1,1,9,1,0,2,0,Rockland County,precinct
-Rockland County,0185 Ramapo 31,270,0,0,0,21,0,11,70,261,206,20,6,15,9,9,213,241,21,15,6,8,4,12,12,2,Rockland County,precinct
-Rockland County,0186 Ramapo 32,124,0,0,0,3,0,3,21,116,52,6,3,1,2,1,118,54,6,1,1,1,1,5,1,0,Rockland County,precinct
-Rockland County,0187 Ramapo 33,77,0,0,0,0,0,0,12,55,73,10,0,0,0,1,58,71,7,0,0,2,0,1,0,0,Rockland County,precinct
-Rockland County,0188 Ramapo 34,181,0,0,0,6,0,5,32,170,130,16,2,3,2,5,168,134,16,1,1,2,4,4,7,1,Rockland County,precinct
-Rockland County,0189 Ramapo 35,227,0,0,0,3,0,2,3,25,28,8,1,0,0,0,22,31,8,0,1,16,1,0,0,0,Rockland County,precinct
-Rockland County,0190 Ramapo 36,105,0,0,0,7,0,0,19,70,110,14,1,1,0,3,74,110,14,2,1,12,1,5,2,0,Rockland County,precinct
-Rockland County,0191 Ramapo 37,154,0,0,0,11,0,2,46,131,151,34,2,2,2,3,128,161,30,2,2,2,1,1,4,1,Rockland County,precinct
-Rockland County,0192 Ramapo 38,137,0,0,0,1,0,3,38,114,172,18,1,2,3,1,98,183,16,2,0,0,2,3,7,1,Rockland County,precinct
-Rockland County,0193 Ramapo 39,137,0,0,0,15,0,4,59,141,148,29,10,4,3,7,124,159,34,4,5,3,1,10,5,7,Rockland County,precinct
-Rockland County,0194 Ramapo 40,43,0,0,0,3,0,0,18,25,128,21,0,0,0,0,35,128,20,0,0,3,2,0,1,0,Rockland County,precinct
-Rockland County,0195 Ramapo 41,41,0,0,0,2,0,0,23,5,125,16,0,0,0,4,18,112,16,0,0,8,0,2,0,2,Rockland County,precinct
-Rockland County,0196 Ramapo 42,210,0,0,0,5,0,2,3,205,14,3,6,1,1,0,217,16,2,2,5,2,0,0,2,2,Rockland County,precinct
-Rockland County,0197 Ramapo 43,291,0,0,0,15,0,5,30,278,128,14,4,4,5,3,264,136,15,10,2,2,1,8,17,1,Rockland County,precinct
-Rockland County,0198 Ramapo 44,122,0,0,0,11,0,2,28,102,133,13,3,2,3,3,98,132,14,1,4,3,3,2,6,2,Rockland County,precinct
-Rockland County,0199 Ramapo 45,13,0,0,0,0,0,2,0,1,9,0,0,0,0,0,2,7,1,0,0,2,0,0,0,0,Rockland County,precinct
-Rockland County,0200 Ramapo 46,125,0,0,0,6,0,1,29,120,70,12,6,5,0,1,96,86,16,2,3,7,1,7,4,2,Rockland County,precinct
-Rockland County,0201 Ramapo 47,317,0,0,0,9,0,3,9,296,21,3,8,6,5,2,308,24,4,2,7,6,2,1,6,4,Rockland County,precinct
-Rockland County,0202 Ramapo 48,95,0,0,0,11,0,4,34,91,102,23,9,4,4,1,71,123,23,4,5,3,5,3,3,0,Rockland County,precinct
-Rockland County,0203 Ramapo 49,26,0,0,0,2,0,0,4,8,28,3,0,0,0,2,11,33,3,0,0,6,1,1,1,0,Rockland County,precinct
-Rockland County,0204 Ramapo 50,273,0,0,0,6,0,1,8,272,53,13,0,5,0,1,274,58,11,7,0,2,1,2,1,1,Rockland County,precinct
-Rockland County,0205 Ramapo 51,332,0,0,0,9,0,3,15,327,56,5,5,4,4,2,345,59,6,5,4,5,0,3,2,2,Rockland County,precinct
-Rockland County,0206 Ramapo 52,17,0,0,0,1,0,0,1,3,15,2,1,1,0,0,8,10,1,0,0,8,0,1,1,0,Rockland County,precinct
-Rockland County,0207 Ramapo 53,157,0,0,0,2,0,0,7,151,35,2,1,1,2,1,150,38,1,2,1,0,1,1,0,0,Rockland County,precinct
-Rockland County,0208 Ramapo 54,193,0,0,0,7,0,0,33,148,180,16,1,0,0,1,141,180,14,1,1,1,1,0,5,2,Rockland County,precinct
-Rockland County,0209 Ramapo 55,584,0,0,0,1,0,0,1,575,11,0,0,3,0,0,565,13,0,0,0,2,0,0,0,0,Rockland County,precinct
-Rockland County,0210 Ramapo 56,92,0,0,0,11,0,6,39,58,286,21,1,3,2,3,53,294,17,2,0,2,1,3,2,1,Rockland County,precinct
-Rockland County,0211 Ramapo 57,172,0,0,0,10,0,5,28,160,138,14,3,8,2,0,141,155,17,1,1,7,3,2,5,1,Rockland County,precinct
-Rockland County,0212 Ramapo 58,506,0,0,0,2,0,0,2,502,10,1,0,2,0,0,499,9,0,0,1,2,0,0,0,0,Rockland County,precinct
-Rockland County,0213 Ramapo 59,217,0,0,0,19,0,2,65,188,215,21,4,4,3,7,176,218,17,4,5,2,3,3,15,4,Rockland County,precinct
-Rockland County,0214 Ramapo 60,90,0,0,0,7,0,2,46,75,197,28,2,2,2,1,70,195,21,0,2,3,1,2,4,4,Rockland County,precinct
-Rockland County,0215 Ramapo 61,206,0,0,0,7,0,3,40,209,94,16,1,1,1,5,184,110,16,1,3,0,1,6,6,3,Rockland County,precinct
-Rockland County,0216 Ramapo 62,199,0,0,0,9,0,3,33,190,90,14,6,4,3,4,176,100,11,1,4,3,2,6,10,4,Rockland County,precinct
-Rockland County,0217 Ramapo 63,311,0,0,0,9,0,6,5,304,8,0,6,4,4,0,331,8,0,1,5,4,2,3,7,0,Rockland County,precinct
-Rockland County,0218 Ramapo 64,97,0,0,0,6,0,2,14,47,85,5,2,0,1,0,59,77,3,0,2,19,2,0,3,0,Rockland County,precinct
-Rockland County,0219 Ramapo 65,438,0,0,0,10,0,4,12,445,54,4,7,1,2,3,471,60,4,2,5,3,1,2,2,3,Rockland County,precinct
-Rockland County,0220 Ramapo 66,264,0,0,0,8,0,10,34,257,110,11,7,5,6,4,242,117,13,2,4,5,6,10,3,1,Rockland County,precinct
-Rockland County,0221 Ramapo 67,232,0,0,0,14,0,5,20,230,92,11,11,12,7,1,207,93,11,11,8,11,4,1,14,0,Rockland County,precinct
-Rockland County,0222 Ramapo 68,186,0,0,0,10,0,3,17,186,68,9,3,5,2,3,173,82,8,3,2,3,2,5,8,1,Rockland County,precinct
-Rockland County,0223 Ramapo 69,246,0,0,0,11,0,5,54,250,127,15,8,1,2,11,222,140,18,10,4,2,2,11,8,2,Rockland County,precinct
-Rockland County,0224 Ramapo 70,259,0,0,0,6,0,4,5,270,35,1,2,3,1,0,295,38,4,3,1,3,0,0,0,1,Rockland County,precinct
-Rockland County,0225 Ramapo 71,131,0,0,0,1,0,0,4,130,26,0,1,1,1,1,141,29,0,0,2,9,1,2,0,0,Rockland County,precinct
-Rockland County,0226 Ramapo 72,42,0,0,0,0,0,0,12,40,23,2,0,0,0,0,39,22,2,0,0,0,0,0,0,3,Rockland County,precinct
-Rockland County,0227 Ramapo 73,109,0,0,0,7,0,4,34,99,75,12,4,4,1,2,94,80,10,2,1,3,1,3,5,3,Rockland County,precinct
-Rockland County,0228 Ramapo 74,51,0,0,0,5,0,0,9,22,60,13,0,0,0,0,28,61,9,0,1,9,0,0,0,0,Rockland County,precinct
-Rockland County,0229 Ramapo 75,212,0,0,0,11,0,7,42,207,110,16,6,7,6,2,186,121,11,5,3,5,1,5,10,15,Rockland County,precinct
-Rockland County,0230 Ramapo 76,150,0,0,0,9,0,4,55,142,154,22,7,1,1,4,130,175,19,2,4,0,2,4,5,0,Rockland County,precinct
-Rockland County,0231 Ramapo 77,203,0,0,0,7,0,11,55,199,111,16,3,3,4,2,178,124,18,4,1,2,3,5,7,1,Rockland County,precinct
-Rockland County,0232 Ramapo 78,205,0,0,0,3,0,5,38,197,84,11,2,6,3,10,166,98,10,7,2,2,2,11,17,1,Rockland County,precinct
-Rockland County,0233 Ramapo 79,286,0,0,0,8,0,8,56,268,148,20,4,9,2,5,245,154,22,4,3,5,2,13,16,1,Rockland County,precinct
-Rockland County,0234 Ramapo 80,110,0,0,0,3,0,0,7,109,24,1,2,1,0,1,110,26,1,1,0,1,0,1,3,0,Rockland County,precinct
-Rockland County,0235 Ramapo 81,112,0,0,0,8,0,1,7,110,21,1,10,2,3,3,102,22,2,4,7,2,2,3,1,3,Rockland County,precinct
-Rockland County,0236 Ramapo 82,146,0,0,0,6,0,4,27,144,62,5,4,0,4,4,124,81,5,3,2,0,0,7,4,2,Rockland County,precinct
-Rockland County,0237 Ramapo 83,212,0,0,0,13,0,5,40,208,91,14,11,14,5,3,189,120,13,6,3,7,2,7,7,1,Rockland County,precinct
-Rockland County,0238 Ramapo 84,91,0,0,0,6,0,3,31,61,195,25,1,1,0,1,80,200,21,0,2,5,0,0,1,1,Rockland County,precinct
-Rockland County,0239 Ramapo 85,69,0,0,0,2,0,0,18,8,83,23,0,0,0,0,10,83,18,0,0,16,1,0,0,1,Rockland County,precinct
-Rockland County,0240 Ramapo 86,125,0,0,0,12,0,2,52,98,202,30,2,1,3,1,100,198,25,2,1,2,1,5,1,1,Rockland County,precinct
-Rockland County,0241 Ramapo 87,224,0,0,0,6,0,1,6,224,26,5,2,3,1,3,224,36,3,4,1,3,1,1,1,2,Rockland County,precinct
-Rockland County,0242 Ramapo 88,47,0,0,0,1,0,0,10,13,42,10,1,0,0,1,23,36,8,0,0,22,2,1,0,0,Rockland County,precinct
-Rockland County,0243 Ramapo 89,198,0,0,0,2,0,1,0,193,9,1,1,3,0,0,222,8,0,2,3,1,1,0,0,0,Rockland County,precinct
-Rockland County,0244 Ramapo 90,264,0,0,0,18,0,9,44,256,148,19,8,8,4,3,239,163,21,5,5,3,3,6,6,9,Rockland County,precinct
-Rockland County,0245 Ramapo 91,62,0,0,0,2,0,0,5,64,15,0,0,3,0,0,65,17,0,0,2,1,0,0,0,1,Rockland County,precinct
-Rockland County,0246 Ramapo 92,193,0,0,0,2,0,2,28,194,79,10,3,1,1,0,181,87,10,2,1,2,1,2,4,0,Rockland County,precinct
-Rockland County,0247 Ramapo 93,72,0,0,0,0,0,0,9,16,50,9,0,0,0,1,20,46,8,0,1,25,1,2,2,0,Rockland County,precinct
-Rockland County,0248 Ramapo 94,313,0,0,0,6,0,3,6,315,30,2,5,4,2,0,323,28,3,2,3,2,2,1,1,0,Rockland County,precinct
-Rockland County,0249 Ramapo 95,381,0,0,0,0,0,0,1,374,14,1,0,1,0,0,369,13,1,0,0,0,0,0,0,0,Rockland County,precinct
-Rockland County,0250 Ramapo 96,74,0,0,0,6,0,0,11,31,58,8,3,0,0,0,35,52,8,1,4,22,4,1,0,1,Rockland County,precinct
-Rockland County,0251 Ramapo 97,381,0,0,0,7,0,1,8,55,61,3,0,0,0,1,30,65,3,0,0,11,1,2,0,0,Rockland County,precinct
-Rockland County,0252 Ramapo 98,779,0,0,0,2,0,0,0,772,10,1,1,2,1,0,760,12,1,0,2,2,0,0,0,0,Rockland County,precinct
-Rockland County,0253 Ramapo 99,13,0,0,0,0,0,0,0,13,0,0,1,0,0,0,13,0,0,0,0,0,0,0,0,0,Rockland County,precinct
-Rockland County,0254 Ramapo 100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Rockland County,precinct
-Rockland County,0255 Ramapo 101,19,0,0,0,0,0,0,0,9,9,1,0,0,0,0,10,9,1,0,0,4,0,0,0,0,Rockland County,precinct
-Rockland County,0256 Ramapo 102,8,0,0,0,1,0,0,3,1,45,2,0,0,0,0,0,42,2,0,0,4,0,0,0,0,Rockland County,precinct
-Rockland County,0257 Ramapo 103,20,0,0,0,1,0,1,9,14,49,5,0,0,0,0,14,43,9,0,0,0,0,1,0,1,Rockland County,precinct
-Rockland County,0258 Ramapo 104,10,0,0,0,0,0,0,0,11,4,0,1,0,0,0,11,4,0,0,0,0,1,0,0,0,Rockland County,precinct
-Rockland County,0259 Ramapo 105,14,0,0,0,0,0,1,0,14,2,0,0,0,0,0,13,2,0,2,0,0,0,0,0,0,Rockland County,precinct
-Rockland County,0260 Ramapo 106,2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Rockland County,precinct
-Rockland County,0261 Ramapo 107,3,0,0,0,0,0,0,2,3,1,0,0,1,0,0,3,1,0,0,0,1,0,0,0,0,Rockland County,precinct
-Rockland County,0262 Ramapo 108,19,0,0,0,1,0,0,0,23,3,0,1,1,1,0,26,3,1,0,0,2,0,0,0,0,Rockland County,precinct
-Rockland County,0263 Ramapo 109,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Rockland County,precinct
-Rockland County,0264 Ramapo 110,22,0,0,0,5,0,0,9,21,25,4,0,1,0,0,19,22,4,0,1,0,0,0,3,0,Rockland County,precinct
-Rockland County,0265 Stony Point 1,165,0,0,0,13,0,7,53,151,160,33,11,7,5,4,137,195,29,5,2,2,3,10,2,3,Rockland County,precinct
-Rockland County,0266 Stony Point 2,245,0,0,0,17,0,4,59,237,212,44,15,8,2,8,209,254,41,3,10,5,3,9,2,3,Rockland County,precinct
-Rockland County,0267 Stony Point 3,167,0,0,0,13,0,3,62,160,219,43,8,12,4,3,133,240,50,4,5,4,2,5,3,4,Rockland County,precinct
-Rockland County,0268 Stony Point 4,257,0,0,0,25,0,9,61,235,296,53,13,11,3,2,198,349,53,7,9,4,1,5,2,3,Rockland County,precinct
-Rockland County,0269 Stony Point 5,123,0,0,0,7,0,6,39,121,158,20,4,5,3,4,104,178,22,3,1,4,2,5,1,4,Rockland County,precinct
-Rockland County,0270 Stony Point 6,219,0,0,0,20,0,13,53,199,209,35,9,10,3,5,179,249,34,0,4,5,2,10,1,7,Rockland County,precinct
-Rockland County,0271 Stony Point 7,216,0,0,0,20,0,10,62,205,245,56,7,9,4,6,175,282,56,2,7,9,4,8,4,2,Rockland County,precinct
-Rockland County,0272 Stony Point 8,211,0,0,0,16,0,12,77,188,253,46,3,15,8,4,140,285,55,11,4,13,5,8,8,7,Rockland County,precinct
-Rockland County,0273 Stony Point 9,150,0,0,0,5,0,5,35,145,174,24,4,2,0,5,113,196,27,4,5,0,1,8,4,2,Rockland County,precinct
-Rockland County,0274 Stony Point 10,144,0,0,0,9,0,4,46,137,149,22,10,7,1,3,115,175,21,2,7,3,0,6,1,5,Rockland County,precinct
-Rockland County,0275 Stony Point 11,192,0,0,0,11,0,2,61,176,189,38,6,4,1,5,145,213,38,4,3,2,1,5,4,6,Rockland County,precinct
-Rockland County,0276 Stony Point 12,208,0,0,0,19,0,9,53,191,205,33,7,15,6,7,160,249,29,6,8,10,3,8,2,2,Rockland County,precinct
-Rockland County,0277 Stony Point 13,268,0,0,0,16,0,3,84,262,308,47,5,7,5,5,227,340,52,8,5,2,1,9,4,5,Rockland County,precinct
+Rockland County,0001 Clarkstown 1 (Ward 1),229,0,0,0,9,0,5,53,220,138,19,2,5,4,7,197,163,18,5,1,4,3,6,5,4,Rockland County,0001 Clarkstown 1 (Ward 1)
+Rockland County,0002 Clarkstown 2 (Ward 2),271,0,0,0,18,0,11,85,283,162,30,7,6,4,30,240,199,29,6,7,3,4,32,2,3,Rockland County,0002 Clarkstown 2 (Ward 2)
+Rockland County,0003 Clarkstown 3 (Ward 3),127,0,0,0,10,0,7,61,125,118,16,9,2,4,11,107,137,18,3,4,0,5,10,0,2,Rockland County,0003 Clarkstown 3 (Ward 3)
+Rockland County,0004 Clarkstown 4 (Ward 2),235,0,0,0,14,0,1,23,231,45,4,14,4,1,5,202,57,5,13,10,2,2,9,2,1,Rockland County,0004 Clarkstown 4 (Ward 2)
+Rockland County,0005 Clarkstown 5 (Ward 3),105,0,0,0,8,0,5,60,108,109,20,6,8,2,8,86,132,19,4,2,6,0,14,3,3,Rockland County,0005 Clarkstown 5 (Ward 3)
+Rockland County,0006 Clarkstown 6 (Ward 3),159,0,0,0,6,0,3,18,149,46,4,4,2,4,5,138,56,4,2,2,3,2,10,0,1,Rockland County,0006 Clarkstown 6 (Ward 3)
+Rockland County,0007 Clarkstown 8 (Ward 2),194,0,0,0,17,0,8,66,181,181,21,7,6,4,14,171,197,22,4,8,5,1,19,1,2,Rockland County,0007 Clarkstown 8 (Ward 2)
+Rockland County,0008 Clarkstown 9 (Ward 1),354,0,0,0,7,0,5,119,345,215,30,3,10,0,18,320,234,28,7,0,8,2,23,0,5,Rockland County,0008 Clarkstown 9 (Ward 1)
+Rockland County,0009 Clarkstown 10 (Ward 4),340,0,0,0,15,0,4,9,356,19,6,13,1,4,1,377,20,6,2,6,0,3,2,1,0,Rockland County,0009 Clarkstown 10 (Ward 4)
+Rockland County,0010 Clarkstown 11 (Ward 4),292,0,0,0,14,0,3,115,292,215,30,9,5,8,15,240,254,26,6,5,8,1,19,5,5,Rockland County,0010 Clarkstown 11 (Ward 4)
+Rockland County,0011 Clarkstown 12 (Ward 3),177,0,0,0,12,0,4,93,172,162,22,6,3,3,16,148,183,19,7,3,2,2,20,2,3,Rockland County,0011 Clarkstown 12 (Ward 3)
+Rockland County,0012 Clarkstown 13 (Ward 1),200,0,0,0,3,0,4,74,177,138,30,1,7,2,13,169,140,31,4,3,2,3,16,1,0,Rockland County,0012 Clarkstown 13 (Ward 1)
+Rockland County,0013 Clarkstown 14 (Ward 2),256,0,0,0,22,0,5,171,249,275,39,11,7,2,60,209,332,42,6,5,1,1,66,2,1,Rockland County,0013 Clarkstown 14 (Ward 2)
+Rockland County,0014 Clarkstown 15 (Ward 3),215,0,0,0,17,0,4,46,207,145,9,9,4,2,13,193,160,10,4,4,2,4,15,1,1,Rockland County,0014 Clarkstown 15 (Ward 3)
+Rockland County,0015 Clarkstown 16 (Ward 1),172,0,0,0,11,0,9,73,171,98,24,9,2,4,19,161,104,25,4,4,1,3,27,0,2,Rockland County,0015 Clarkstown 16 (Ward 1)
+Rockland County,0016 Clarkstown 17 (Ward 2),213,0,0,0,18,0,7,91,220,184,29,9,8,2,20,190,213,32,5,5,7,3,17,5,2,Rockland County,0016 Clarkstown 17 (Ward 2)
+Rockland County,0017 Clarkstown 18 (Ward 3),96,0,0,0,6,0,4,41,95,61,13,4,3,0,9,81,72,11,0,3,3,0,15,1,2,Rockland County,0017 Clarkstown 18 (Ward 3)
+Rockland County,0018 Clarkstown 19 (Ward 4),265,0,0,0,17,0,5,94,242,188,35,13,4,2,31,218,211,38,4,6,2,1,34,3,4,Rockland County,0018 Clarkstown 19 (Ward 4)
+Rockland County,0019 Clarkstown 20 (Ward 3),144,0,0,0,7,0,2,7,148,22,5,6,4,0,1,151,25,8,1,3,2,1,0,0,3,Rockland County,0019 Clarkstown 20 (Ward 3)
+Rockland County,0020 Clarkstown 21 (Ward 4),228,0,0,0,6,0,0,5,222,10,2,6,1,2,2,237,13,2,1,5,1,1,0,1,3,Rockland County,0020 Clarkstown 21 (Ward 4)
+Rockland County,0021 Clarkstown 22 (Ward 1),393,0,0,0,17,0,8,75,385,163,14,9,11,1,11,354,181,14,11,5,10,5,13,5,4,Rockland County,0021 Clarkstown 22 (Ward 1)
+Rockland County,0022 Clarkstown 23 (Ward 2),318,0,0,0,23,0,8,49,315,98,9,25,3,2,10,283,109,12,9,25,3,2,13,3,3,Rockland County,0022 Clarkstown 23 (Ward 2)
+Rockland County,0023 Clarkstown 24 (Ward 4),279,0,0,0,8,0,6,117,270,220,28,10,8,6,17,246,230,26,11,6,2,3,31,0,3,Rockland County,0023 Clarkstown 24 (Ward 4)
+Rockland County,0024 Clarkstown 25 (Ward 1),155,0,0,0,6,0,5,55,155,105,15,4,2,3,12,145,113,12,4,2,1,2,18,2,3,Rockland County,0024 Clarkstown 25 (Ward 1)
+Rockland County,0025 Clarkstown 27 (Ward 4),276,0,0,0,16,0,7,120,256,198,32,7,8,5,30,235,226,27,4,3,5,1,35,1,5,Rockland County,0025 Clarkstown 27 (Ward 4)
+Rockland County,0026 Clarkstown 28 (Ward 3),215,0,0,0,16,0,9,66,208,133,23,9,8,9,20,181,154,23,9,11,5,2,16,2,5,Rockland County,0026 Clarkstown 28 (Ward 3)
+Rockland County,0027 Clarkstown 29 (Ward 1),279,0,0,0,16,0,2,81,270,169,34,17,6,7,12,250,201,41,7,9,3,5,11,4,0,Rockland County,0027 Clarkstown 29 (Ward 1)
+Rockland County,0028 Clarkstown 30 (Ward 4),192,0,0,0,9,0,6,86,197,157,26,4,4,3,17,174,182,23,3,6,3,2,19,1,2,Rockland County,0028 Clarkstown 30 (Ward 4)
+Rockland County,0029 Clarkstown 31 (Ward 4),340,0,0,0,9,0,5,81,326,184,25,10,3,4,16,291,206,26,5,8,1,6,24,2,1,Rockland County,0029 Clarkstown 31 (Ward 4)
+Rockland County,0030 Clarkstown 32 (Ward 4),278,0,0,0,9,0,4,45,268,107,16,10,7,6,9,246,131,14,2,4,4,0,16,3,4,Rockland County,0030 Clarkstown 32 (Ward 4)
+Rockland County,0031 Clarkstown 33 (Ward 3),138,0,0,0,12,0,2,42,133,93,11,7,3,0,9,121,112,11,3,2,1,1,8,1,0,Rockland County,0031 Clarkstown 33 (Ward 3)
+Rockland County,0032 Clarkstown 34 (Ward 3),311,0,0,0,23,0,10,91,297,224,27,9,11,9,27,278,247,28,6,7,10,6,29,4,4,Rockland County,0032 Clarkstown 34 (Ward 3)
+Rockland County,0033 Clarkstown 35 (Ward 3),423,0,0,0,14,0,3,64,416,167,19,13,9,4,8,398,185,22,7,10,6,2,9,7,6,Rockland County,0033 Clarkstown 35 (Ward 3)
+Rockland County,0034 Clarkstown 36 (Ward 1),426,0,0,0,9,0,8,120,395,218,26,7,11,2,33,364,251,26,6,8,10,1,34,1,4,Rockland County,0034 Clarkstown 36 (Ward 1)
+Rockland County,0035 Clarkstown 37 (Ward 1),296,0,0,0,11,0,5,82,286,149,15,5,7,2,10,264,163,17,2,5,7,2,10,1,2,Rockland County,0035 Clarkstown 37 (Ward 1)
+Rockland County,0036 Clarkstown 38 (Ward 2),264,0,0,0,13,0,9,90,257,153,26,11,8,4,36,230,172,28,8,4,5,7,41,2,3,Rockland County,0036 Clarkstown 38 (Ward 2)
+Rockland County,0037 Clarkstown 40 (Ward 1),225,0,0,0,11,0,5,69,221,123,16,7,5,3,10,206,138,13,4,1,3,2,12,1,6,Rockland County,0037 Clarkstown 40 (Ward 1)
+Rockland County,0038 Clarkstown 41 (Ward 3),253,0,0,0,12,0,4,45,253,69,7,6,8,2,8,249,71,11,2,5,8,1,14,1,1,Rockland County,0038 Clarkstown 41 (Ward 3)
+Rockland County,0039 Clarkstown 42 (Ward 2),200,0,0,0,14,0,9,119,205,173,21,10,10,4,44,174,206,20,9,6,3,3,46,1,4,Rockland County,0039 Clarkstown 42 (Ward 2)
+Rockland County,0040 Clarkstown 43 (Ward 2),340,0,0,0,11,0,5,95,336,180,37,7,10,2,22,298,215,33,6,7,7,1,28,3,4,Rockland County,0040 Clarkstown 43 (Ward 2)
+Rockland County,0041 Clarkstown 44 (Ward 3),306,0,0,0,26,0,12,83,292,179,44,5,8,9,12,252,216,48,6,6,3,5,18,3,1,Rockland County,0041 Clarkstown 44 (Ward 3)
+Rockland County,0042 Clarkstown 45 (Ward 3),195,0,0,0,12,0,2,78,188,167,22,5,7,1,21,151,188,29,5,4,2,2,23,1,5,Rockland County,0042 Clarkstown 45 (Ward 3)
+Rockland County,0043 Clarkstown 46 (Ward 1),126,0,0,0,8,0,4,70,134,78,17,6,5,1,17,107,103,18,5,3,1,0,25,0,1,Rockland County,0043 Clarkstown 46 (Ward 1)
+Rockland County,0044 Clarkstown 47 (Ward 3),244,0,0,0,9,0,10,89,243,160,20,6,4,7,20,223,180,23,5,6,2,5,22,2,3,Rockland County,0044 Clarkstown 47 (Ward 3)
+Rockland County,0045 Clarkstown 48 (Ward 4),138,0,0,0,4,0,5,48,133,117,13,4,7,1,6,114,124,12,4,3,6,0,12,2,3,Rockland County,0045 Clarkstown 48 (Ward 4)
+Rockland County,0046 Clarkstown 49 (Ward 3),369,0,0,0,24,0,8,23,375,47,5,21,7,4,7,349,59,7,12,21,5,4,7,3,9,Rockland County,0046 Clarkstown 49 (Ward 3)
+Rockland County,0047 Clarkstown 50 (Ward 3),122,0,0,0,9,0,6,66,117,112,19,5,3,3,20,96,133,23,3,1,2,1,17,2,2,Rockland County,0047 Clarkstown 50 (Ward 3)
+Rockland County,0048 Clarkstown 51 (Ward 2),280,0,0,0,19,0,3,84,267,196,23,14,6,3,21,236,205,25,13,7,1,2,32,6,4,Rockland County,0048 Clarkstown 51 (Ward 2)
+Rockland County,0049 Clarkstown 52 (Ward 1),433,0,0,0,9,0,3,127,405,237,37,5,10,6,21,391,260,27,2,7,8,0,29,2,1,Rockland County,0049 Clarkstown 52 (Ward 1)
+Rockland County,0050 Clarkstown 53 (Ward 1),173,0,0,0,8,0,3,38,167,86,9,3,2,3,13,165,82,9,2,4,1,2,16,1,1,Rockland County,0050 Clarkstown 53 (Ward 1)
+Rockland County,0051 Clarkstown 54 (Ward 2),272,0,0,0,22,0,6,30,265,62,10,22,8,4,5,250,66,13,10,20,5,4,9,4,0,Rockland County,0051 Clarkstown 54 (Ward 2)
+Rockland County,0052 Clarkstown 55 (Ward 2),270,0,0,0,10,0,4,92,262,182,25,5,10,2,12,238,190,26,5,6,6,2,19,0,7,Rockland County,0052 Clarkstown 55 (Ward 2)
+Rockland County,0053 Clarkstown 57 (Ward 3),313,0,0,0,15,0,2,70,291,191,23,8,11,2,9,264,213,23,4,5,7,2,16,5,2,Rockland County,0053 Clarkstown 57 (Ward 3)
+Rockland County,0054 Clarkstown 58 (Ward 2),184,0,0,0,12,0,2,52,174,100,7,8,3,1,26,162,114,7,3,5,2,0,25,1,2,Rockland County,0054 Clarkstown 58 (Ward 2)
+Rockland County,0055 Clarkstown 59 (Ward 1),272,0,0,0,22,0,9,86,264,168,30,11,11,2,18,247,192,27,4,5,8,0,17,4,10,Rockland County,0055 Clarkstown 59 (Ward 1)
+Rockland County,0056 Clarkstown 60 (Ward 1),334,0,0,0,13,0,8,60,327,151,17,10,9,3,11,315,153,20,6,5,5,3,13,4,3,Rockland County,0056 Clarkstown 60 (Ward 1)
+Rockland County,0057 Clarkstown 61 (Ward 2),220,0,0,0,13,0,7,139,214,220,26,9,6,6,48,182,243,27,4,5,5,3,57,2,4,Rockland County,0057 Clarkstown 61 (Ward 2)
+Rockland County,0058 Clarkstown 62 (Ward 3),9,0,0,0,1,0,1,0,12,1,0,0,1,1,0,13,1,0,0,0,1,0,0,0,0,Rockland County,0058 Clarkstown 62 (Ward 3)
+Rockland County,0059 Clarkstown 63 (Ward 2),307,0,0,0,22,0,8,123,289,190,27,18,12,4,51,272,221,25,3,15,10,3,50,3,1,Rockland County,0059 Clarkstown 63 (Ward 2)
+Rockland County,0060 Clarkstown 64 (Ward 2),218,0,0,0,10,0,5,49,212,121,11,5,4,5,8,192,137,10,6,4,2,3,10,2,7,Rockland County,0060 Clarkstown 64 (Ward 2)
+Rockland County,0061 Clarkstown 65 (Ward 4),213,0,0,0,7,0,2,77,199,178,23,5,4,1,8,186,194,16,3,3,2,1,14,1,1,Rockland County,0061 Clarkstown 65 (Ward 4)
+Rockland County,0062 Clarkstown 66 (Ward 4),501,0,0,0,18,0,6,58,498,183,28,9,9,2,6,476,209,24,3,10,8,4,7,2,7,Rockland County,0062 Clarkstown 66 (Ward 4)
+Rockland County,0063 Clarkstown 67 (Ward 1),285,0,0,0,15,0,12,77,288,165,22,5,7,6,9,264,192,22,5,3,6,4,10,1,0,Rockland County,0063 Clarkstown 67 (Ward 1)
+Rockland County,0064 Clarkstown 68 (Ward 1),307,0,0,0,13,0,7,64,308,159,9,6,2,4,8,278,172,15,4,13,3,4,8,3,1,Rockland County,0064 Clarkstown 68 (Ward 1)
+Rockland County,0065 Clarkstown 69 (Ward 1),272,0,0,0,13,0,4,56,261,104,11,6,3,3,8,246,123,12,2,7,4,2,7,2,1,Rockland County,0065 Clarkstown 69 (Ward 1)
+Rockland County,0066 Clarkstown 70 (Ward 3),167,0,0,0,11,0,1,92,147,187,30,2,7,1,17,132,197,25,3,3,3,2,24,0,3,Rockland County,0066 Clarkstown 70 (Ward 3)
+Rockland County,0067 Clarkstown 71 (Ward 4),85,0,0,0,3,0,0,41,80,76,14,0,3,0,16,72,83,13,0,1,2,2,17,0,2,Rockland County,0067 Clarkstown 71 (Ward 4)
+Rockland County,0068 Clarkstown 72 (Ward 1),278,0,0,0,13,0,3,88,269,159,24,8,4,1,10,251,166,25,5,5,1,1,17,4,2,Rockland County,0068 Clarkstown 72 (Ward 1)
+Rockland County,0069 Clarkstown 73 (Ward 2),524,0,0,0,19,0,8,118,510,239,34,18,9,3,27,445,282,32,10,16,7,3,34,7,4,Rockland County,0069 Clarkstown 73 (Ward 2)
+Rockland County,0070 Clarkstown 74 (Ward 1),339,0,0,0,13,0,7,125,348,173,30,10,7,3,17,319,203,29,12,6,5,3,16,1,4,Rockland County,0070 Clarkstown 74 (Ward 1)
+Rockland County,0071 Clarkstown 75 (Ward 4),303,0,0,0,17,0,6,75,319,158,25,6,3,7,10,288,187,25,4,3,1,3,17,1,5,Rockland County,0071 Clarkstown 75 (Ward 4)
+Rockland County,0072 Clarkstown 76 (Ward 4),215,0,0,0,2,0,2,10,214,33,1,5,5,1,1,210,38,2,4,2,3,1,1,1,3,Rockland County,0072 Clarkstown 76 (Ward 4)
+Rockland County,0073 Clarkstown 77 (Ward 2),125,0,0,0,7,0,3,71,127,97,19,6,6,1,15,106,114,17,1,2,5,0,15,4,4,Rockland County,0073 Clarkstown 77 (Ward 2)
+Rockland County,0074 Clarkstown 79 (Ward 4),387,0,0,0,7,0,6,36,376,71,9,6,8,2,3,372,80,6,4,4,4,1,2,1,4,Rockland County,0074 Clarkstown 79 (Ward 4)
+Rockland County,0075 Clarkstown 80 (Ward 4),213,0,0,0,7,0,1,24,208,72,9,3,3,2,3,202,72,13,1,2,2,2,4,0,3,Rockland County,0075 Clarkstown 80 (Ward 4)
+Rockland County,0076 Clarkstown 81 (Ward 3),286,0,0,0,17,0,7,69,275,178,22,13,12,2,15,253,208,17,7,6,10,3,13,4,7,Rockland County,0076 Clarkstown 81 (Ward 3)
+Rockland County,0077 Clarkstown 82 (Ward 2),355,0,0,0,9,0,8,123,339,224,29,6,5,9,54,309,255,32,6,2,4,4,61,0,1,Rockland County,0077 Clarkstown 82 (Ward 2)
+Rockland County,0078 Haverstraw 1,202,0,0,0,8,0,5,59,180,165,41,3,6,3,6,146,200,42,5,1,1,1,9,6,7,Rockland County,0078 Haverstraw 1
+Rockland County,0079 Haverstraw 2,278,0,0,0,15,0,6,42,281,118,21,8,8,2,2,263,130,19,5,6,4,1,9,5,1,Rockland County,0079 Haverstraw 2
+Rockland County,0080 Haverstraw 3,328,0,0,0,8,0,8,56,318,146,23,3,8,4,1,286,175,27,5,5,6,0,1,2,9,Rockland County,0080 Haverstraw 3
+Rockland County,0081 Haverstraw 4,354,0,0,0,11,0,6,35,338,120,16,7,7,5,2,323,142,13,8,5,4,3,3,4,4,Rockland County,0081 Haverstraw 4
+Rockland County,0082 Haverstraw 6,232,0,0,0,9,0,5,23,222,43,12,7,3,5,0,222,63,8,3,5,4,4,1,3,2,Rockland County,0082 Haverstraw 6
+Rockland County,0083 Haverstraw 7,279,0,0,0,6,0,1,18,270,41,5,6,2,1,2,264,51,11,5,2,1,1,0,3,6,Rockland County,0083 Haverstraw 7
+Rockland County,0084 Haverstraw 8,128,0,0,0,1,0,0,3,127,9,2,1,1,0,2,133,10,1,2,2,0,0,1,0,2,Rockland County,0084 Haverstraw 8
+Rockland County,0085 Haverstraw 9,401,0,0,0,11,0,6,31,377,83,17,11,4,4,2,378,119,14,3,6,2,2,2,4,2,Rockland County,0085 Haverstraw 9
+Rockland County,0086 Haverstraw 10,399,0,0,0,12,0,5,42,388,131,13,13,4,4,6,370,154,13,7,7,4,1,9,0,2,Rockland County,0086 Haverstraw 10
+Rockland County,0087 Haverstraw 11,154,0,0,0,3,0,7,11,157,42,14,1,4,1,3,143,62,12,3,0,3,3,5,0,1,Rockland County,0087 Haverstraw 11
+Rockland County,0088 Haverstraw 12,76,0,0,0,0,0,2,2,74,33,3,1,1,1,0,70,41,2,0,1,1,0,0,0,0,Rockland County,0088 Haverstraw 12
+Rockland County,0089 Haverstraw 13,314,0,0,0,7,0,6,39,305,76,13,8,8,6,6,281,93,13,6,3,7,3,9,2,7,Rockland County,0089 Haverstraw 13
+Rockland County,0090 Haverstraw 14,273,0,0,0,11,0,4,19,270,65,14,10,3,1,0,272,75,13,3,5,1,1,3,1,6,Rockland County,0090 Haverstraw 14
+Rockland County,0091 Haverstraw 15,214,0,0,0,12,0,3,41,203,116,14,5,5,5,2,178,143,15,3,1,3,2,3,2,4,Rockland County,0091 Haverstraw 15
+Rockland County,0092 Haverstraw 16,423,0,0,0,14,0,2,32,416,77,9,13,7,3,4,421,93,14,4,8,4,0,5,3,7,Rockland County,0092 Haverstraw 16
+Rockland County,0093 Haverstraw 17,249,0,0,0,12,0,10,27,248,107,16,5,2,5,2,245,106,14,3,5,3,2,2,8,1,Rockland County,0093 Haverstraw 17
+Rockland County,0094 Haverstraw 18,358,0,0,0,20,0,4,20,365,48,11,9,7,3,0,375,56,7,1,10,7,3,1,0,2,Rockland County,0094 Haverstraw 18
+Rockland County,0095 Haverstraw 19,165,0,0,0,9,0,1,40,154,100,19,4,3,2,1,120,125,27,6,2,1,0,4,4,3,Rockland County,0095 Haverstraw 19
+Rockland County,0096 Haverstraw 20,315,0,0,0,23,0,9,66,311,164,36,7,8,7,7,277,187,32,10,3,6,4,14,3,13,Rockland County,0096 Haverstraw 20
+Rockland County,0097 Haverstraw 21,442,0,0,0,18,0,10,63,439,150,17,9,7,7,3,401,175,20,6,7,4,5,5,5,15,Rockland County,0097 Haverstraw 21
+Rockland County,0098 Haverstraw 22,326,0,0,0,15,0,3,72,309,246,18,3,5,0,3,261,304,21,1,1,6,1,6,4,1,Rockland County,0098 Haverstraw 22
+Rockland County,0099 Haverstraw 23,179,0,0,0,11,0,3,61,165,185,44,4,6,1,4,144,211,42,1,3,3,1,2,4,8,Rockland County,0099 Haverstraw 23
+Rockland County,0100 Haverstraw 24,117,0,0,0,4,0,2,16,118,50,9,5,1,1,0,115,52,8,2,4,0,1,0,0,1,Rockland County,0100 Haverstraw 24
+Rockland County,0101 Haverstraw 25,164,0,0,0,11,0,4,46,162,122,13,2,2,2,2,142,137,12,3,3,1,3,5,2,0,Rockland County,0101 Haverstraw 25
+Rockland County,0102 Haverstraw 26,60,0,0,0,1,0,0,24,56,53,7,1,1,1,0,46,61,9,1,0,1,0,1,0,1,Rockland County,0102 Haverstraw 26
+Rockland County,0103 Haverstraw 27,14,0,0,0,3,0,0,8,13,20,5,0,1,0,0,9,25,3,1,0,0,1,0,1,0,Rockland County,0103 Haverstraw 27
+Rockland County,0104 Haverstraw 28,120,0,0,0,8,0,2,13,111,52,8,3,4,2,3,98,76,5,3,2,0,1,7,2,3,Rockland County,0104 Haverstraw 28
+Rockland County,0105 Haverstraw 29,156,0,0,0,6,0,2,27,158,80,16,0,4,2,1,146,86,15,2,0,4,1,2,0,4,Rockland County,0105 Haverstraw 29
+Rockland County,0106 Haverstraw 30,235,0,0,0,5,0,1,14,228,67,5,5,3,4,4,213,82,5,3,3,3,3,3,0,4,Rockland County,0106 Haverstraw 30
+Rockland County,0107 Orangetown 1,529,0,0,0,25,0,9,39,528,151,12,22,10,4,8,479,165,15,11,19,6,2,12,8,6,Rockland County,0107 Orangetown 1
+Rockland County,0108 Orangetown 2,343,0,0,0,16,0,6,16,354,45,3,17,4,4,4,340,59,4,8,15,4,3,5,2,2,Rockland County,0108 Orangetown 2
+Rockland County,0109 Orangetown 3,147,0,0,0,15,0,7,67,140,202,43,4,6,3,8,117,226,41,4,3,3,2,10,0,3,Rockland County,0109 Orangetown 3
+Rockland County,0110 Orangetown 5,315,0,0,0,26,0,11,19,308,54,10,27,8,9,3,291,63,7,12,25,4,5,3,3,3,Rockland County,0110 Orangetown 5
+Rockland County,0111 Orangetown 7,252,0,0,0,17,0,5,18,255,33,7,19,4,5,3,244,38,7,12,16,3,4,1,1,5,Rockland County,0111 Orangetown 7
+Rockland County,0112 Orangetown 8,322,0,0,0,17,0,9,16,328,41,4,18,6,4,1,296,58,5,20,11,6,5,3,0,1,Rockland County,0112 Orangetown 8
+Rockland County,0113 Orangetown 9,275,0,0,0,16,0,9,113,265,291,57,9,11,7,31,232,316,51,10,2,6,7,40,4,5,Rockland County,0113 Orangetown 9
+Rockland County,0114 Orangetown 10,160,0,0,0,12,0,3,79,152,165,27,2,2,3,28,130,172,24,3,1,2,1,31,3,7,Rockland County,0114 Orangetown 10
+Rockland County,0115 Orangetown 11,459,0,0,0,29,0,15,33,444,58,11,30,9,14,8,407,69,16,26,23,4,13,8,3,9,Rockland County,0115 Orangetown 11
+Rockland County,0116 Orangetown 12,372,0,0,0,20,0,4,41,356,124,18,19,13,1,6,342,128,18,4,23,10,2,6,8,4,Rockland County,0116 Orangetown 12
+Rockland County,0117 Orangetown 13,223,0,0,0,10,0,8,34,213,126,24,5,4,6,3,198,143,16,8,3,2,3,6,1,3,Rockland County,0117 Orangetown 13
+Rockland County,0118 Orangetown 14,368,0,0,0,5,0,6,19,362,77,6,8,1,4,2,333,87,5,10,8,1,5,5,1,2,Rockland County,0118 Orangetown 14
+Rockland County,0119 Orangetown 15,176,0,0,0,14,0,2,19,183,35,5,7,1,3,0,157,37,6,7,13,1,4,1,1,5,Rockland County,0119 Orangetown 15
+Rockland County,0120 Orangetown 16,287,0,0,0,7,0,9,27,279,117,18,6,7,4,1,264,126,17,5,3,7,5,3,4,4,Rockland County,0120 Orangetown 16
+Rockland County,0121 Orangetown 17,174,0,0,0,18,0,7,106,161,212,34,7,2,6,44,130,239,35,6,7,1,2,45,4,4,Rockland County,0121 Orangetown 17
+Rockland County,0122 Orangetown 18,303,0,0,0,25,0,10,27,289,69,10,27,9,8,5,259,80,8,12,30,4,5,5,3,3,Rockland County,0122 Orangetown 18
+Rockland County,0123 Orangetown 19,146,0,0,0,9,0,4,75,139,151,47,2,4,6,28,104,179,48,8,2,1,3,29,7,0,Rockland County,0123 Orangetown 19
+Rockland County,0124 Orangetown 20,209,0,0,0,26,0,9,122,201,256,54,10,7,6,51,167,271,52,8,9,6,4,63,3,7,Rockland County,0124 Orangetown 20
+Rockland County,0125 Orangetown 21,222,0,0,0,9,0,3,42,212,105,22,5,6,1,5,201,120,19,5,2,3,1,7,1,5,Rockland County,0125 Orangetown 21
+Rockland County,0126 Orangetown 22,145,0,0,0,13,0,6,76,140,252,31,7,6,3,18,106,273,35,5,5,5,1,22,5,3,Rockland County,0126 Orangetown 22
+Rockland County,0127 Orangetown 23,114,0,0,0,7,0,2,75,107,157,40,3,3,4,19,84,182,32,1,2,0,2,27,6,1,Rockland County,0127 Orangetown 23
+Rockland County,0128 Orangetown 24,135,0,0,0,14,0,8,88,131,187,37,4,9,4,17,107,210,37,1,2,5,3,30,0,1,Rockland County,0128 Orangetown 24
+Rockland County,0129 Orangetown 25,121,0,0,0,6,0,3,70,106,171,30,1,4,2,14,96,180,28,2,1,3,1,16,1,3,Rockland County,0129 Orangetown 25
+Rockland County,0130 Orangetown 26,280,0,0,0,11,0,8,75,260,256,47,9,9,6,16,221,286,44,9,6,11,4,22,1,3,Rockland County,0130 Orangetown 26
+Rockland County,0131 Orangetown 28,222,0,0,0,14,0,9,109,209,210,37,6,2,9,28,170,241,31,7,6,4,4,39,2,4,Rockland County,0131 Orangetown 28
+Rockland County,0132 Orangetown 29,154,0,0,0,16,0,12,96,141,228,38,6,9,3,34,120,243,34,7,2,6,1,38,5,5,Rockland County,0132 Orangetown 29
+Rockland County,0133 Orangetown 30,130,0,0,0,14,0,9,78,128,176,22,9,10,0,24,97,201,23,3,3,6,2,30,3,4,Rockland County,0133 Orangetown 30
+Rockland County,0134 Orangetown 32,113,0,0,0,8,0,7,8,110,42,6,4,5,4,0,97,46,6,5,2,3,3,1,4,0,Rockland County,0134 Orangetown 32
+Rockland County,0135 Orangetown 33,312,0,0,0,7,0,11,27,299,100,18,9,4,7,3,265,122,17,9,5,4,6,6,5,4,Rockland County,0135 Orangetown 33
+Rockland County,0136 Orangetown 34,162,0,0,0,9,0,2,74,160,175,38,4,1,1,29,130,204,30,6,2,1,2,29,4,9,Rockland County,0136 Orangetown 34
+Rockland County,0137 Orangetown 36,18,0,0,0,0,0,3,4,12,10,0,1,2,1,3,18,6,1,2,0,1,0,1,0,0,Rockland County,0137 Orangetown 36
+Rockland County,0138 Orangetown 39,329,0,0,0,18,0,7,79,315,254,42,12,7,6,14,281,292,36,11,8,7,5,13,3,4,Rockland County,0138 Orangetown 39
+Rockland County,0139 Orangetown 40,152,0,0,0,10,0,6,38,147,107,18,11,2,6,5,123,124,16,8,9,3,4,10,3,3,Rockland County,0139 Orangetown 40
+Rockland County,0140 Orangetown 41,226,0,0,0,30,0,9,88,219,281,45,10,9,5,18,183,319,45,7,7,4,2,21,4,3,Rockland County,0140 Orangetown 41
+Rockland County,0141 Orangetown 42,362,0,0,0,33,0,15,91,356,244,64,15,7,8,15,301,294,69,13,11,7,4,19,2,3,Rockland County,0141 Orangetown 42
+Rockland County,0142 Orangetown 43,151,0,0,0,9,0,6,83,142,185,28,4,4,1,35,124,198,28,4,3,3,1,37,1,2,Rockland County,0142 Orangetown 43
+Rockland County,0143 Orangetown 45,165,0,0,0,12,0,6,135,147,240,50,6,10,5,37,111,277,48,8,5,5,0,43,1,2,Rockland County,0143 Orangetown 45
+Rockland County,0144 Orangetown 46,286,0,0,0,9,0,3,10,282,73,9,7,4,3,1,264,77,9,7,9,1,4,1,4,0,Rockland County,0144 Orangetown 46
+Rockland County,0145 Orangetown 47,215,0,0,0,16,0,4,66,218,176,29,2,9,2,10,187,207,23,6,4,3,1,11,3,3,Rockland County,0145 Orangetown 47
+Rockland County,0146 Orangetown 48,330,0,0,0,22,0,12,33,325,70,14,15,9,11,6,293,88,16,10,16,6,8,3,9,1,Rockland County,0146 Orangetown 48
+Rockland County,0147 Orangetown 49,292,0,0,0,20,0,4,74,270,215,22,13,9,3,17,241,241,20,8,9,5,3,11,3,6,Rockland County,0147 Orangetown 49
+Rockland County,0148 Orangetown 50,208,0,0,0,11,0,4,29,198,127,19,5,5,2,1,186,138,17,4,5,5,1,1,0,1,Rockland County,0148 Orangetown 50
+Rockland County,0149 Orangetown 51,177,0,0,0,7,0,3,38,171,101,16,2,6,1,7,157,113,16,2,1,4,1,8,1,2,Rockland County,0149 Orangetown 51
+Rockland County,0150 Orangetown 53,290,0,0,0,15,0,5,142,274,328,71,7,8,2,30,229,363,72,6,4,7,0,35,1,9,Rockland County,0150 Orangetown 53
+Rockland County,0151 Orangetown 54,96,0,0,0,7,0,1,77,93,134,30,3,2,0,29,75,146,33,2,2,0,0,29,1,5,Rockland County,0151 Orangetown 54
+Rockland County,0152 Orangetown 55,219,0,0,0,11,0,4,60,209,180,24,6,4,2,5,190,199,23,9,3,3,0,11,3,0,Rockland County,0152 Orangetown 55
+Rockland County,0153 Orangetown 56,185,0,0,0,16,0,8,44,178,161,23,3,6,5,5,158,182,20,6,1,3,4,9,3,1,Rockland County,0153 Orangetown 56
+Rockland County,0154 Orangetown 57,157,0,0,0,12,0,0,17,148,96,14,7,1,2,4,140,106,15,3,3,1,1,4,0,1,Rockland County,0154 Orangetown 57
+Rockland County,0155 Ramapo 1,203,0,0,0,7,0,0,39,186,160,13,2,2,0,4,177,156,13,3,2,2,1,4,8,2,Rockland County,0155 Ramapo 1
+Rockland County,0156 Ramapo 2,308,0,0,0,14,0,5,77,306,170,16,12,3,5,5,259,206,21,7,6,2,4,6,12,3,Rockland County,0156 Ramapo 2
+Rockland County,0157 Ramapo 3,225,0,0,0,12,0,6,16,211,115,10,9,1,6,1,200,117,10,12,9,1,3,2,4,6,Rockland County,0157 Ramapo 3
+Rockland County,0158 Ramapo 4,143,0,0,0,19,0,11,50,131,128,34,9,8,4,3,100,151,26,5,4,4,3,9,12,3,Rockland County,0158 Ramapo 4
+Rockland County,0159 Ramapo 5,168,0,0,0,9,0,2,22,169,79,6,3,3,3,1,162,94,7,3,3,3,2,4,5,2,Rockland County,0159 Ramapo 5
+Rockland County,0160 Ramapo 6,160,0,0,0,4,0,2,2,161,16,1,5,1,1,0,172,18,1,0,5,1,1,1,1,0,Rockland County,0160 Ramapo 6
+Rockland County,0161 Ramapo 7,211,0,0,0,13,0,6,41,217,98,14,6,8,3,10,196,121,18,5,9,6,0,7,7,1,Rockland County,0161 Ramapo 7
+Rockland County,0162 Ramapo 8,277,0,0,0,6,0,5,8,279,34,8,4,3,6,1,302,35,4,3,2,2,4,1,2,2,Rockland County,0162 Ramapo 8
+Rockland County,0163 Ramapo 9,139,0,0,0,10,0,3,37,135,128,10,8,3,3,6,100,142,12,6,4,2,1,10,17,4,Rockland County,0163 Ramapo 9
+Rockland County,0164 Ramapo 10,389,0,0,0,11,0,1,12,400,40,7,8,1,0,1,402,48,3,2,8,2,0,3,2,0,Rockland County,0164 Ramapo 10
+Rockland County,0165 Ramapo 11,156,0,0,0,8,0,6,49,152,114,15,6,1,1,0,140,126,10,8,3,0,1,0,5,3,Rockland County,0165 Ramapo 11
+Rockland County,0166 Ramapo 12,213,0,0,0,4,0,3,3,230,16,0,2,5,1,0,251,12,0,2,3,2,1,0,2,0,Rockland County,0166 Ramapo 12
+Rockland County,0167 Ramapo 13,293,0,0,0,5,0,3,4,305,16,3,2,2,3,0,331,16,3,1,0,3,2,1,0,1,Rockland County,0167 Ramapo 13
+Rockland County,0168 Ramapo 14,46,0,0,0,4,0,2,12,16,81,17,2,0,0,2,15,76,18,2,1,7,1,1,3,0,Rockland County,0168 Ramapo 14
+Rockland County,0169 Ramapo 15,100,0,0,0,19,0,2,40,97,118,22,10,7,1,1,83,142,22,3,4,6,0,3,4,1,Rockland County,0169 Ramapo 15
+Rockland County,0170 Ramapo 16,387,0,0,0,22,0,8,57,384,167,17,15,7,6,7,334,198,25,7,12,4,3,14,10,3,Rockland County,0170 Ramapo 16
+Rockland County,0171 Ramapo 17,359,0,0,0,28,0,9,85,356,188,23,24,9,7,14,287,230,25,10,11,7,6,23,13,10,Rockland County,0171 Ramapo 17
+Rockland County,0172 Ramapo 18,76,0,0,0,3,0,4,18,25,179,15,0,1,1,0,30,170,14,0,0,7,2,1,1,2,Rockland County,0172 Ramapo 18
+Rockland County,0173 Ramapo 19,320,0,0,0,21,0,8,64,307,187,33,8,11,6,14,293,210,28,12,2,6,2,14,18,3,Rockland County,0173 Ramapo 19
+Rockland County,0174 Ramapo 20,52,0,0,0,7,0,2,28,31,159,20,2,0,0,1,35,150,18,2,0,3,0,1,0,0,Rockland County,0174 Ramapo 20
+Rockland County,0175 Ramapo 21,138,0,0,0,5,0,2,13,35,66,16,0,1,0,1,26,61,18,0,1,26,1,1,1,1,Rockland County,0175 Ramapo 21
+Rockland County,0176 Ramapo 22,48,0,0,0,3,0,1,11,49,34,4,0,2,0,0,38,40,4,0,1,0,0,0,12,1,Rockland County,0176 Ramapo 22
+Rockland County,0177 Ramapo 23,212,0,0,0,6,0,3,8,220,27,1,2,6,2,2,227,29,6,0,1,4,0,0,3,1,Rockland County,0177 Ramapo 23
+Rockland County,0178 Ramapo 24,57,0,0,0,7,0,2,24,34,159,15,1,0,2,1,36,153,13,0,2,1,1,1,3,1,Rockland County,0178 Ramapo 24
+Rockland County,0179 Ramapo 25,78,0,0,0,7,0,0,18,46,115,21,2,1,1,0,49,115,20,2,2,15,1,0,1,0,Rockland County,0179 Ramapo 25
+Rockland County,0180 Ramapo 26,70,0,0,0,1,0,0,5,68,19,1,2,1,1,0,79,19,4,0,2,1,0,0,1,0,Rockland County,0180 Ramapo 26
+Rockland County,0181 Ramapo 27,182,0,0,0,16,0,1,24,175,96,17,10,3,0,1,176,101,16,1,8,3,1,1,0,1,Rockland County,0181 Ramapo 27
+Rockland County,0182 Ramapo 28,49,0,0,0,3,0,0,14,10,103,19,1,2,0,1,14,103,18,0,0,15,0,1,0,1,Rockland County,0182 Ramapo 28
+Rockland County,0183 Ramapo 29,304,0,0,0,13,0,6,61,307,159,27,8,6,4,10,291,169,24,2,11,5,2,9,10,1,Rockland County,0183 Ramapo 29
+Rockland County,0184 Ramapo 30,45,0,0,0,0,0,0,9,10,57,7,0,0,0,0,18,55,10,1,1,9,1,0,2,0,Rockland County,0184 Ramapo 30
+Rockland County,0185 Ramapo 31,270,0,0,0,21,0,11,70,261,206,20,6,15,9,9,213,241,21,15,6,8,4,12,12,2,Rockland County,0185 Ramapo 31
+Rockland County,0186 Ramapo 32,124,0,0,0,3,0,3,21,116,52,6,3,1,2,1,118,54,6,1,1,1,1,5,1,0,Rockland County,0186 Ramapo 32
+Rockland County,0187 Ramapo 33,77,0,0,0,0,0,0,12,55,73,10,0,0,0,1,58,71,7,0,0,2,0,1,0,0,Rockland County,0187 Ramapo 33
+Rockland County,0188 Ramapo 34,181,0,0,0,6,0,5,32,170,130,16,2,3,2,5,168,134,16,1,1,2,4,4,7,1,Rockland County,0188 Ramapo 34
+Rockland County,0189 Ramapo 35,227,0,0,0,3,0,2,3,25,28,8,1,0,0,0,22,31,8,0,1,16,1,0,0,0,Rockland County,0189 Ramapo 35
+Rockland County,0190 Ramapo 36,105,0,0,0,7,0,0,19,70,110,14,1,1,0,3,74,110,14,2,1,12,1,5,2,0,Rockland County,0190 Ramapo 36
+Rockland County,0191 Ramapo 37,154,0,0,0,11,0,2,46,131,151,34,2,2,2,3,128,161,30,2,2,2,1,1,4,1,Rockland County,0191 Ramapo 37
+Rockland County,0192 Ramapo 38,137,0,0,0,1,0,3,38,114,172,18,1,2,3,1,98,183,16,2,0,0,2,3,7,1,Rockland County,0192 Ramapo 38
+Rockland County,0193 Ramapo 39,137,0,0,0,15,0,4,59,141,148,29,10,4,3,7,124,159,34,4,5,3,1,10,5,7,Rockland County,0193 Ramapo 39
+Rockland County,0194 Ramapo 40,43,0,0,0,3,0,0,18,25,128,21,0,0,0,0,35,128,20,0,0,3,2,0,1,0,Rockland County,0194 Ramapo 40
+Rockland County,0195 Ramapo 41,41,0,0,0,2,0,0,23,5,125,16,0,0,0,4,18,112,16,0,0,8,0,2,0,2,Rockland County,0195 Ramapo 41
+Rockland County,0196 Ramapo 42,210,0,0,0,5,0,2,3,205,14,3,6,1,1,0,217,16,2,2,5,2,0,0,2,2,Rockland County,0196 Ramapo 42
+Rockland County,0197 Ramapo 43,291,0,0,0,15,0,5,30,278,128,14,4,4,5,3,264,136,15,10,2,2,1,8,17,1,Rockland County,0197 Ramapo 43
+Rockland County,0198 Ramapo 44,122,0,0,0,11,0,2,28,102,133,13,3,2,3,3,98,132,14,1,4,3,3,2,6,2,Rockland County,0198 Ramapo 44
+Rockland County,0199 Ramapo 45,13,0,0,0,0,0,2,0,1,9,0,0,0,0,0,2,7,1,0,0,2,0,0,0,0,Rockland County,0199 Ramapo 45
+Rockland County,0200 Ramapo 46,125,0,0,0,6,0,1,29,120,70,12,6,5,0,1,96,86,16,2,3,7,1,7,4,2,Rockland County,0200 Ramapo 46
+Rockland County,0201 Ramapo 47,317,0,0,0,9,0,3,9,296,21,3,8,6,5,2,308,24,4,2,7,6,2,1,6,4,Rockland County,0201 Ramapo 47
+Rockland County,0202 Ramapo 48,95,0,0,0,11,0,4,34,91,102,23,9,4,4,1,71,123,23,4,5,3,5,3,3,0,Rockland County,0202 Ramapo 48
+Rockland County,0203 Ramapo 49,26,0,0,0,2,0,0,4,8,28,3,0,0,0,2,11,33,3,0,0,6,1,1,1,0,Rockland County,0203 Ramapo 49
+Rockland County,0204 Ramapo 50,273,0,0,0,6,0,1,8,272,53,13,0,5,0,1,274,58,11,7,0,2,1,2,1,1,Rockland County,0204 Ramapo 50
+Rockland County,0205 Ramapo 51,332,0,0,0,9,0,3,15,327,56,5,5,4,4,2,345,59,6,5,4,5,0,3,2,2,Rockland County,0205 Ramapo 51
+Rockland County,0206 Ramapo 52,17,0,0,0,1,0,0,1,3,15,2,1,1,0,0,8,10,1,0,0,8,0,1,1,0,Rockland County,0206 Ramapo 52
+Rockland County,0207 Ramapo 53,157,0,0,0,2,0,0,7,151,35,2,1,1,2,1,150,38,1,2,1,0,1,1,0,0,Rockland County,0207 Ramapo 53
+Rockland County,0208 Ramapo 54,193,0,0,0,7,0,0,33,148,180,16,1,0,0,1,141,180,14,1,1,1,1,0,5,2,Rockland County,0208 Ramapo 54
+Rockland County,0209 Ramapo 55,584,0,0,0,1,0,0,1,575,11,0,0,3,0,0,565,13,0,0,0,2,0,0,0,0,Rockland County,0209 Ramapo 55
+Rockland County,0210 Ramapo 56,92,0,0,0,11,0,6,39,58,286,21,1,3,2,3,53,294,17,2,0,2,1,3,2,1,Rockland County,0210 Ramapo 56
+Rockland County,0211 Ramapo 57,172,0,0,0,10,0,5,28,160,138,14,3,8,2,0,141,155,17,1,1,7,3,2,5,1,Rockland County,0211 Ramapo 57
+Rockland County,0212 Ramapo 58,506,0,0,0,2,0,0,2,502,10,1,0,2,0,0,499,9,0,0,1,2,0,0,0,0,Rockland County,0212 Ramapo 58
+Rockland County,0213 Ramapo 59,217,0,0,0,19,0,2,65,188,215,21,4,4,3,7,176,218,17,4,5,2,3,3,15,4,Rockland County,0213 Ramapo 59
+Rockland County,0214 Ramapo 60,90,0,0,0,7,0,2,46,75,197,28,2,2,2,1,70,195,21,0,2,3,1,2,4,4,Rockland County,0214 Ramapo 60
+Rockland County,0215 Ramapo 61,206,0,0,0,7,0,3,40,209,94,16,1,1,1,5,184,110,16,1,3,0,1,6,6,3,Rockland County,0215 Ramapo 61
+Rockland County,0216 Ramapo 62,199,0,0,0,9,0,3,33,190,90,14,6,4,3,4,176,100,11,1,4,3,2,6,10,4,Rockland County,0216 Ramapo 62
+Rockland County,0217 Ramapo 63,311,0,0,0,9,0,6,5,304,8,0,6,4,4,0,331,8,0,1,5,4,2,3,7,0,Rockland County,0217 Ramapo 63
+Rockland County,0218 Ramapo 64,97,0,0,0,6,0,2,14,47,85,5,2,0,1,0,59,77,3,0,2,19,2,0,3,0,Rockland County,0218 Ramapo 64
+Rockland County,0219 Ramapo 65,438,0,0,0,10,0,4,12,445,54,4,7,1,2,3,471,60,4,2,5,3,1,2,2,3,Rockland County,0219 Ramapo 65
+Rockland County,0220 Ramapo 66,264,0,0,0,8,0,10,34,257,110,11,7,5,6,4,242,117,13,2,4,5,6,10,3,1,Rockland County,0220 Ramapo 66
+Rockland County,0221 Ramapo 67,232,0,0,0,14,0,5,20,230,92,11,11,12,7,1,207,93,11,11,8,11,4,1,14,0,Rockland County,0221 Ramapo 67
+Rockland County,0222 Ramapo 68,186,0,0,0,10,0,3,17,186,68,9,3,5,2,3,173,82,8,3,2,3,2,5,8,1,Rockland County,0222 Ramapo 68
+Rockland County,0223 Ramapo 69,246,0,0,0,11,0,5,54,250,127,15,8,1,2,11,222,140,18,10,4,2,2,11,8,2,Rockland County,0223 Ramapo 69
+Rockland County,0224 Ramapo 70,259,0,0,0,6,0,4,5,270,35,1,2,3,1,0,295,38,4,3,1,3,0,0,0,1,Rockland County,0224 Ramapo 70
+Rockland County,0225 Ramapo 71,131,0,0,0,1,0,0,4,130,26,0,1,1,1,1,141,29,0,0,2,9,1,2,0,0,Rockland County,0225 Ramapo 71
+Rockland County,0226 Ramapo 72,42,0,0,0,0,0,0,12,40,23,2,0,0,0,0,39,22,2,0,0,0,0,0,0,3,Rockland County,0226 Ramapo 72
+Rockland County,0227 Ramapo 73,109,0,0,0,7,0,4,34,99,75,12,4,4,1,2,94,80,10,2,1,3,1,3,5,3,Rockland County,0227 Ramapo 73
+Rockland County,0228 Ramapo 74,51,0,0,0,5,0,0,9,22,60,13,0,0,0,0,28,61,9,0,1,9,0,0,0,0,Rockland County,0228 Ramapo 74
+Rockland County,0229 Ramapo 75,212,0,0,0,11,0,7,42,207,110,16,6,7,6,2,186,121,11,5,3,5,1,5,10,15,Rockland County,0229 Ramapo 75
+Rockland County,0230 Ramapo 76,150,0,0,0,9,0,4,55,142,154,22,7,1,1,4,130,175,19,2,4,0,2,4,5,0,Rockland County,0230 Ramapo 76
+Rockland County,0231 Ramapo 77,203,0,0,0,7,0,11,55,199,111,16,3,3,4,2,178,124,18,4,1,2,3,5,7,1,Rockland County,0231 Ramapo 77
+Rockland County,0232 Ramapo 78,205,0,0,0,3,0,5,38,197,84,11,2,6,3,10,166,98,10,7,2,2,2,11,17,1,Rockland County,0232 Ramapo 78
+Rockland County,0233 Ramapo 79,286,0,0,0,8,0,8,56,268,148,20,4,9,2,5,245,154,22,4,3,5,2,13,16,1,Rockland County,0233 Ramapo 79
+Rockland County,0234 Ramapo 80,110,0,0,0,3,0,0,7,109,24,1,2,1,0,1,110,26,1,1,0,1,0,1,3,0,Rockland County,0234 Ramapo 80
+Rockland County,0235 Ramapo 81,112,0,0,0,8,0,1,7,110,21,1,10,2,3,3,102,22,2,4,7,2,2,3,1,3,Rockland County,0235 Ramapo 81
+Rockland County,0236 Ramapo 82,146,0,0,0,6,0,4,27,144,62,5,4,0,4,4,124,81,5,3,2,0,0,7,4,2,Rockland County,0236 Ramapo 82
+Rockland County,0237 Ramapo 83,212,0,0,0,13,0,5,40,208,91,14,11,14,5,3,189,120,13,6,3,7,2,7,7,1,Rockland County,0237 Ramapo 83
+Rockland County,0238 Ramapo 84,91,0,0,0,6,0,3,31,61,195,25,1,1,0,1,80,200,21,0,2,5,0,0,1,1,Rockland County,0238 Ramapo 84
+Rockland County,0239 Ramapo 85,69,0,0,0,2,0,0,18,8,83,23,0,0,0,0,10,83,18,0,0,16,1,0,0,1,Rockland County,0239 Ramapo 85
+Rockland County,0240 Ramapo 86,125,0,0,0,12,0,2,52,98,202,30,2,1,3,1,100,198,25,2,1,2,1,5,1,1,Rockland County,0240 Ramapo 86
+Rockland County,0241 Ramapo 87,224,0,0,0,6,0,1,6,224,26,5,2,3,1,3,224,36,3,4,1,3,1,1,1,2,Rockland County,0241 Ramapo 87
+Rockland County,0242 Ramapo 88,47,0,0,0,1,0,0,10,13,42,10,1,0,0,1,23,36,8,0,0,22,2,1,0,0,Rockland County,0242 Ramapo 88
+Rockland County,0243 Ramapo 89,198,0,0,0,2,0,1,0,193,9,1,1,3,0,0,222,8,0,2,3,1,1,0,0,0,Rockland County,0243 Ramapo 89
+Rockland County,0244 Ramapo 90,264,0,0,0,18,0,9,44,256,148,19,8,8,4,3,239,163,21,5,5,3,3,6,6,9,Rockland County,0244 Ramapo 90
+Rockland County,0245 Ramapo 91,62,0,0,0,2,0,0,5,64,15,0,0,3,0,0,65,17,0,0,2,1,0,0,0,1,Rockland County,0245 Ramapo 91
+Rockland County,0246 Ramapo 92,193,0,0,0,2,0,2,28,194,79,10,3,1,1,0,181,87,10,2,1,2,1,2,4,0,Rockland County,0246 Ramapo 92
+Rockland County,0247 Ramapo 93,72,0,0,0,0,0,0,9,16,50,9,0,0,0,1,20,46,8,0,1,25,1,2,2,0,Rockland County,0247 Ramapo 93
+Rockland County,0248 Ramapo 94,313,0,0,0,6,0,3,6,315,30,2,5,4,2,0,323,28,3,2,3,2,2,1,1,0,Rockland County,0248 Ramapo 94
+Rockland County,0249 Ramapo 95,381,0,0,0,0,0,0,1,374,14,1,0,1,0,0,369,13,1,0,0,0,0,0,0,0,Rockland County,0249 Ramapo 95
+Rockland County,0250 Ramapo 96,74,0,0,0,6,0,0,11,31,58,8,3,0,0,0,35,52,8,1,4,22,4,1,0,1,Rockland County,0250 Ramapo 96
+Rockland County,0251 Ramapo 97,381,0,0,0,7,0,1,8,55,61,3,0,0,0,1,30,65,3,0,0,11,1,2,0,0,Rockland County,0251 Ramapo 97
+Rockland County,0252 Ramapo 98,779,0,0,0,2,0,0,0,772,10,1,1,2,1,0,760,12,1,0,2,2,0,0,0,0,Rockland County,0252 Ramapo 98
+Rockland County,0253 Ramapo 99,13,0,0,0,0,0,0,0,13,0,0,1,0,0,0,13,0,0,0,0,0,0,0,0,0,Rockland County,0253 Ramapo 99
+Rockland County,0254 Ramapo 100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Rockland County,0254 Ramapo 100
+Rockland County,0255 Ramapo 101,19,0,0,0,0,0,0,0,9,9,1,0,0,0,0,10,9,1,0,0,4,0,0,0,0,Rockland County,0255 Ramapo 101
+Rockland County,0256 Ramapo 102,8,0,0,0,1,0,0,3,1,45,2,0,0,0,0,0,42,2,0,0,4,0,0,0,0,Rockland County,0256 Ramapo 102
+Rockland County,0257 Ramapo 103,20,0,0,0,1,0,1,9,14,49,5,0,0,0,0,14,43,9,0,0,0,0,1,0,1,Rockland County,0257 Ramapo 103
+Rockland County,0258 Ramapo 104,10,0,0,0,0,0,0,0,11,4,0,1,0,0,0,11,4,0,0,0,0,1,0,0,0,Rockland County,0258 Ramapo 104
+Rockland County,0259 Ramapo 105,14,0,0,0,0,0,1,0,14,2,0,0,0,0,0,13,2,0,2,0,0,0,0,0,0,Rockland County,0259 Ramapo 105
+Rockland County,0260 Ramapo 106,2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Rockland County,0260 Ramapo 106
+Rockland County,0261 Ramapo 107,3,0,0,0,0,0,0,2,3,1,0,0,1,0,0,3,1,0,0,0,1,0,0,0,0,Rockland County,0261 Ramapo 107
+Rockland County,0262 Ramapo 108,19,0,0,0,1,0,0,0,23,3,0,1,1,1,0,26,3,1,0,0,2,0,0,0,0,Rockland County,0262 Ramapo 108
+Rockland County,0263 Ramapo 109,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Rockland County,0263 Ramapo 109
+Rockland County,0264 Ramapo 110,22,0,0,0,5,0,0,9,21,25,4,0,1,0,0,19,22,4,0,1,0,0,0,3,0,Rockland County,0264 Ramapo 110
+Rockland County,0265 Stony Point 1,165,0,0,0,13,0,7,53,151,160,33,11,7,5,4,137,195,29,5,2,2,3,10,2,3,Rockland County,0265 Stony Point 1
+Rockland County,0266 Stony Point 2,245,0,0,0,17,0,4,59,237,212,44,15,8,2,8,209,254,41,3,10,5,3,9,2,3,Rockland County,0266 Stony Point 2
+Rockland County,0267 Stony Point 3,167,0,0,0,13,0,3,62,160,219,43,8,12,4,3,133,240,50,4,5,4,2,5,3,4,Rockland County,0267 Stony Point 3
+Rockland County,0268 Stony Point 4,257,0,0,0,25,0,9,61,235,296,53,13,11,3,2,198,349,53,7,9,4,1,5,2,3,Rockland County,0268 Stony Point 4
+Rockland County,0269 Stony Point 5,123,0,0,0,7,0,6,39,121,158,20,4,5,3,4,104,178,22,3,1,4,2,5,1,4,Rockland County,0269 Stony Point 5
+Rockland County,0270 Stony Point 6,219,0,0,0,20,0,13,53,199,209,35,9,10,3,5,179,249,34,0,4,5,2,10,1,7,Rockland County,0270 Stony Point 6
+Rockland County,0271 Stony Point 7,216,0,0,0,20,0,10,62,205,245,56,7,9,4,6,175,282,56,2,7,9,4,8,4,2,Rockland County,0271 Stony Point 7
+Rockland County,0272 Stony Point 8,211,0,0,0,16,0,12,77,188,253,46,3,15,8,4,140,285,55,11,4,13,5,8,8,7,Rockland County,0272 Stony Point 8
+Rockland County,0273 Stony Point 9,150,0,0,0,5,0,5,35,145,174,24,4,2,0,5,113,196,27,4,5,0,1,8,4,2,Rockland County,0273 Stony Point 9
+Rockland County,0274 Stony Point 10,144,0,0,0,9,0,4,46,137,149,22,10,7,1,3,115,175,21,2,7,3,0,6,1,5,Rockland County,0274 Stony Point 10
+Rockland County,0275 Stony Point 11,192,0,0,0,11,0,2,61,176,189,38,6,4,1,5,145,213,38,4,3,2,1,5,4,6,Rockland County,0275 Stony Point 11
+Rockland County,0276 Stony Point 12,208,0,0,0,19,0,9,53,191,205,33,7,15,6,7,160,249,29,6,8,10,3,8,2,2,Rockland County,0276 Stony Point 12
+Rockland County,0277 Stony Point 13,268,0,0,0,16,0,3,84,262,308,47,5,7,5,5,227,340,52,8,5,2,1,9,4,5,Rockland County,0277 Stony Point 13

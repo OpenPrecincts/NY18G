@@ -1,41 +1,41 @@
 county,precinct,HOR_DEM,HOR_REP,HOR_CON,HOR_GRE,HOR_WOR,HOR_IND,HOR_WEP,HOR_REF,Sen_DEM,Sen_REP,Sen_CON,Sen_WOR,Sen_IND,Sen_WEP,Sen_REF,Gov_DEM,Gov_REP,Gov_CON,Gov_GRE,Gov_WOR,Gov_IND,Gov_WEP,Gov_REF,Gov_SAM,Gov_LBT,county_id,original_precinct_name
-Orleans County,Town of Albion 1 LD 3,99,98,13,0,13,0,9,0,92,105,17,4,1,1,4,75,124,15,2,3,1,0,4,0,11,Orleans County,precinct
-Orleans County,Town of Albion 2 LD 3,179,121,27,0,12,3,2,7,169,139,27,8,2,3,3,122,162,31,6,3,1,1,2,5,25,Orleans County,precinct
-Orleans County,Town of Albion 3 LD 3,124,101,12,0,7,2,1,6,114,113,12,3,5,2,2,94,120,15,3,0,5,0,1,2,17,Orleans County,precinct
-Orleans County,Town of Albion 4 LD 3,112,58,11,0,6,2,1,6,110,68,10,4,4,0,0,82,83,17,2,1,4,0,1,4,4,Orleans County,precinct
-Orleans County,Town of Albion 5 LD 3,83,132,16,0,7,2,1,6,82,133,17,5,3,0,4,62,158,15,1,0,2,0,2,3,15,Orleans County,precinct
-Orleans County,Town of Albion 6 LD 3,142,229,22,0,10,1,2,7,124,249,23,4,7,2,0,82,282,26,5,3,3,1,0,5,16,Orleans County,precinct
-Orleans County,Town of Barre 1 LD 1,90,205,43,0,9,3,3,7,85,212,46,6,4,3,3,54,242,45,1,2,2,0,2,3,19,Orleans County,precinct
-Orleans County,Town of Barre 2 LD 1,97,197,37,0,14,4,1,10,97,194,38,8,8,0,6,59,233,34,4,3,3,0,4,1,23,Orleans County,precinct
-Orleans County,Town of Carlton 1 LD 4,112,255,35,0,14,0,3,9,103,260,40,12,2,6,3,73,273,40,3,3,0,2,4,1,33,Orleans County,precinct
-Orleans County,Town of Carlton 2 LD 4,124,151,30,0,12,1,4,6,115,159,31,9,9,1,1,84,186,35,8,1,2,0,0,2,17,Orleans County,precinct
-Orleans County,Town of Carlton 3 LD 4,123,198,27,0,10,3,0,4,116,194,30,3,6,1,2,89,228,27,3,0,3,0,3,0,14,Orleans County,precinct
-Orleans County,Town of Clarendon 1 LD 1,199,293,73,0,14,3,4,8,183,309,80,9,9,2,2,130,337,60,7,5,4,3,1,8,45,Orleans County,precinct
-Orleans County,Town of Clarendon 2 LD 1,100,197,34,0,14,2,2,7,90,217,33,9,5,1,6,68,219,28,7,5,2,0,4,4,28,Orleans County,precinct
-Orleans County,Town of Clarendon 3 LD 1,99,233,37,0,9,3,2,7,98,230,39,10,3,3,4,56,259,37,1,7,0,1,6,5,31,Orleans County,precinct
-Orleans County,Town of Gaines 1 LD 3,109,127,14,0,2,2,1,6,90,144,16,5,3,0,1,61,173,17,0,2,0,0,3,0,13,Orleans County,precinct
-Orleans County,Town of Gaines 2 LD 3,89,124,26,0,4,5,3,7,79,138,25,3,3,0,4,57,153,28,1,1,1,1,4,1,17,Orleans County,precinct
-Orleans County,Town of Gaines 3 LD 3,42,124,18,0,3,2,0,5,44,125,19,1,3,0,0,27,128,21,1,0,0,0,1,0,15,Orleans County,precinct
-Orleans County,Town of Gaines 4 LD 3,136,129,17,0,4,2,2,8,128,128,21,8,3,2,0,95,161,18,2,3,2,1,1,3,10,Orleans County,precinct
-Orleans County,Town of Kendall 1 LD 4,139,218,34,0,8,2,1,12,145,233,32,1,2,2,1,92,263,36,3,0,2,0,0,2,29,Orleans County,precinct
-Orleans County,Town of Kendall 2 LD 4,88,167,37,0,6,5,3,9,88,176,43,3,4,1,2,61,185,41,3,0,1,4,2,6,13,Orleans County,precinct
-Orleans County,Town of Kendall 3 LD 4,84,161,29,0,6,2,2,4,72,169,30,4,6,2,3,46,193,29,3,0,4,0,2,3,21,Orleans County,precinct
-Orleans County,Town of Murray 1 LD 4,55,131,23,0,1,2,0,7,56,126,25,2,2,2,1,35,143,31,2,0,2,0,1,1,15,Orleans County,precinct
-Orleans County,Town of Murray 2 LD 4,74,107,13,0,3,3,3,1,77,109,10,2,3,1,1,49,128,13,2,0,0,2,0,1,20,Orleans County,precinct
-Orleans County,Town of Murray 3 LD 4,100,134,22,0,3,2,3,8,93,141,22,4,5,1,1,56,153,21,3,2,1,2,1,4,30,Orleans County,precinct
-Orleans County,Town of Murray 4 LD 4,103,186,35,0,8,3,0,4,102,186,39,7,6,0,1,65,219,38,7,3,1,1,1,4,19,Orleans County,precinct
-Orleans County,Town of Murray 5 LD 4,44,113,21,0,4,3,0,1,44,110,22,3,4,0,1,26,128,20,2,1,3,0,0,1,14,Orleans County,precinct
-Orleans County,Town of Murray 6 LD 4,86,134,30,0,9,3,2,2,81,151,31,3,4,1,1,60,159,33,4,1,0,0,2,3,16,Orleans County,precinct
-Orleans County,Town of Ridgeway 1 LD 2,83,150,24,0,9,3,2,11,81,163,23,10,2,1,1,56,188,21,0,2,1,1,1,5,10,Orleans County,precinct
-Orleans County,Town of Ridgeway 2 LD 2,129,146,20,0,11,2,3,5,124,154,24,7,3,2,1,91,173,24,4,5,3,0,5,6,10,Orleans County,precinct
-Orleans County,Town of Ridgeway 3 LD 2,79,143,15,0,4,2,2,6,70,147,16,2,7,4,1,53,165,21,0,0,2,0,2,2,6,Orleans County,precinct
-Orleans County,Town of Ridgeway 4 LD 2,112,85,17,0,3,3,2,6,100,90,18,3,3,3,3,74,105,22,5,1,3,3,2,3,12,Orleans County,precinct
-Orleans County,Town of Ridgeway 5 LD 2,161,101,9,0,6,1,4,13,146,124,13,2,5,6,0,126,144,13,4,1,3,1,4,1,3,Orleans County,precinct
-Orleans County,Town of Ridgeway 6 LD 2,93,204,35,0,12,5,4,7,90,220,35,4,2,5,3,55,239,38,1,2,1,4,7,0,18,Orleans County,precinct
-Orleans County,Town of Ridgeway 7 LD 2,79,124,19,0,9,2,5,9,71,141,22,7,3,1,1,46,162,22,4,0,1,0,2,1,11,Orleans County,precinct
-Orleans County,Town of Shelby 1 LD 1,100,180,37,0,4,1,2,11,96,184,35,8,1,1,4,60,222,34,5,2,2,1,4,0,14,Orleans County,precinct
-Orleans County,Town of Shelby 2 LD 1,148,164,18,0,9,0,3,11,133,186,24,4,1,0,4,105,208,22,5,1,2,0,6,1,15,Orleans County,precinct
-Orleans County,Town of Shelby 3 LD 2,148,107,13,0,3,2,6,6,144,114,16,4,6,2,1,108,133,22,1,2,4,1,4,5,14,Orleans County,precinct
-Orleans County,Town of Shelby 4 LD 1,159,219,40,0,14,1,2,21,151,234,39,9,5,5,8,110,273,39,6,3,3,2,3,1,23,Orleans County,precinct
-Orleans County,Town of Yates 1 LD 2,138,258,51,0,12,3,5,9,120,272,53,6,10,3,2,79,305,57,0,1,6,2,1,3,17,Orleans County,precinct
-Orleans County,Town of Yates 2 LD 2,98,214,30,0,8,3,3,13,93,240,29,1,7,1,1,71,258,27,2,0,4,1,0,1,14,Orleans County,precinct
+Orleans County,Town of Albion 1 LD 3,99,98,13,0,13,0,9,0,92,105,17,4,1,1,4,75,124,15,2,3,1,0,4,0,11,Orleans County,Town of Albion 1 LD 3
+Orleans County,Town of Albion 2 LD 3,179,121,27,0,12,3,2,7,169,139,27,8,2,3,3,122,162,31,6,3,1,1,2,5,25,Orleans County,Town of Albion 2 LD 3
+Orleans County,Town of Albion 3 LD 3,124,101,12,0,7,2,1,6,114,113,12,3,5,2,2,94,120,15,3,0,5,0,1,2,17,Orleans County,Town of Albion 3 LD 3
+Orleans County,Town of Albion 4 LD 3,112,58,11,0,6,2,1,6,110,68,10,4,4,0,0,82,83,17,2,1,4,0,1,4,4,Orleans County,Town of Albion 4 LD 3
+Orleans County,Town of Albion 5 LD 3,83,132,16,0,7,2,1,6,82,133,17,5,3,0,4,62,158,15,1,0,2,0,2,3,15,Orleans County,Town of Albion 5 LD 3
+Orleans County,Town of Albion 6 LD 3,142,229,22,0,10,1,2,7,124,249,23,4,7,2,0,82,282,26,5,3,3,1,0,5,16,Orleans County,Town of Albion 6 LD 3
+Orleans County,Town of Barre 1 LD 1,90,205,43,0,9,3,3,7,85,212,46,6,4,3,3,54,242,45,1,2,2,0,2,3,19,Orleans County,Town of Barre 1 LD 1
+Orleans County,Town of Barre 2 LD 1,97,197,37,0,14,4,1,10,97,194,38,8,8,0,6,59,233,34,4,3,3,0,4,1,23,Orleans County,Town of Barre 2 LD 1
+Orleans County,Town of Carlton 1 LD 4,112,255,35,0,14,0,3,9,103,260,40,12,2,6,3,73,273,40,3,3,0,2,4,1,33,Orleans County,Town of Carlton 1 LD 4
+Orleans County,Town of Carlton 2 LD 4,124,151,30,0,12,1,4,6,115,159,31,9,9,1,1,84,186,35,8,1,2,0,0,2,17,Orleans County,Town of Carlton 2 LD 4
+Orleans County,Town of Carlton 3 LD 4,123,198,27,0,10,3,0,4,116,194,30,3,6,1,2,89,228,27,3,0,3,0,3,0,14,Orleans County,Town of Carlton 3 LD 4
+Orleans County,Town of Clarendon 1 LD 1,199,293,73,0,14,3,4,8,183,309,80,9,9,2,2,130,337,60,7,5,4,3,1,8,45,Orleans County,Town of Clarendon 1 LD 1
+Orleans County,Town of Clarendon 2 LD 1,100,197,34,0,14,2,2,7,90,217,33,9,5,1,6,68,219,28,7,5,2,0,4,4,28,Orleans County,Town of Clarendon 2 LD 1
+Orleans County,Town of Clarendon 3 LD 1,99,233,37,0,9,3,2,7,98,230,39,10,3,3,4,56,259,37,1,7,0,1,6,5,31,Orleans County,Town of Clarendon 3 LD 1
+Orleans County,Town of Gaines 1 LD 3,109,127,14,0,2,2,1,6,90,144,16,5,3,0,1,61,173,17,0,2,0,0,3,0,13,Orleans County,Town of Gaines 1 LD 3
+Orleans County,Town of Gaines 2 LD 3,89,124,26,0,4,5,3,7,79,138,25,3,3,0,4,57,153,28,1,1,1,1,4,1,17,Orleans County,Town of Gaines 2 LD 3
+Orleans County,Town of Gaines 3 LD 3,42,124,18,0,3,2,0,5,44,125,19,1,3,0,0,27,128,21,1,0,0,0,1,0,15,Orleans County,Town of Gaines 3 LD 3
+Orleans County,Town of Gaines 4 LD 3,136,129,17,0,4,2,2,8,128,128,21,8,3,2,0,95,161,18,2,3,2,1,1,3,10,Orleans County,Town of Gaines 4 LD 3
+Orleans County,Town of Kendall 1 LD 4,139,218,34,0,8,2,1,12,145,233,32,1,2,2,1,92,263,36,3,0,2,0,0,2,29,Orleans County,Town of Kendall 1 LD 4
+Orleans County,Town of Kendall 2 LD 4,88,167,37,0,6,5,3,9,88,176,43,3,4,1,2,61,185,41,3,0,1,4,2,6,13,Orleans County,Town of Kendall 2 LD 4
+Orleans County,Town of Kendall 3 LD 4,84,161,29,0,6,2,2,4,72,169,30,4,6,2,3,46,193,29,3,0,4,0,2,3,21,Orleans County,Town of Kendall 3 LD 4
+Orleans County,Town of Murray 1 LD 4,55,131,23,0,1,2,0,7,56,126,25,2,2,2,1,35,143,31,2,0,2,0,1,1,15,Orleans County,Town of Murray 1 LD 4
+Orleans County,Town of Murray 2 LD 4,74,107,13,0,3,3,3,1,77,109,10,2,3,1,1,49,128,13,2,0,0,2,0,1,20,Orleans County,Town of Murray 2 LD 4
+Orleans County,Town of Murray 3 LD 4,100,134,22,0,3,2,3,8,93,141,22,4,5,1,1,56,153,21,3,2,1,2,1,4,30,Orleans County,Town of Murray 3 LD 4
+Orleans County,Town of Murray 4 LD 4,103,186,35,0,8,3,0,4,102,186,39,7,6,0,1,65,219,38,7,3,1,1,1,4,19,Orleans County,Town of Murray 4 LD 4
+Orleans County,Town of Murray 5 LD 4,44,113,21,0,4,3,0,1,44,110,22,3,4,0,1,26,128,20,2,1,3,0,0,1,14,Orleans County,Town of Murray 5 LD 4
+Orleans County,Town of Murray 6 LD 4,86,134,30,0,9,3,2,2,81,151,31,3,4,1,1,60,159,33,4,1,0,0,2,3,16,Orleans County,Town of Murray 6 LD 4
+Orleans County,Town of Ridgeway 1 LD 2,83,150,24,0,9,3,2,11,81,163,23,10,2,1,1,56,188,21,0,2,1,1,1,5,10,Orleans County,Town of Ridgeway 1 LD 2
+Orleans County,Town of Ridgeway 2 LD 2,129,146,20,0,11,2,3,5,124,154,24,7,3,2,1,91,173,24,4,5,3,0,5,6,10,Orleans County,Town of Ridgeway 2 LD 2
+Orleans County,Town of Ridgeway 3 LD 2,79,143,15,0,4,2,2,6,70,147,16,2,7,4,1,53,165,21,0,0,2,0,2,2,6,Orleans County,Town of Ridgeway 3 LD 2
+Orleans County,Town of Ridgeway 4 LD 2,112,85,17,0,3,3,2,6,100,90,18,3,3,3,3,74,105,22,5,1,3,3,2,3,12,Orleans County,Town of Ridgeway 4 LD 2
+Orleans County,Town of Ridgeway 5 LD 2,161,101,9,0,6,1,4,13,146,124,13,2,5,6,0,126,144,13,4,1,3,1,4,1,3,Orleans County,Town of Ridgeway 5 LD 2
+Orleans County,Town of Ridgeway 6 LD 2,93,204,35,0,12,5,4,7,90,220,35,4,2,5,3,55,239,38,1,2,1,4,7,0,18,Orleans County,Town of Ridgeway 6 LD 2
+Orleans County,Town of Ridgeway 7 LD 2,79,124,19,0,9,2,5,9,71,141,22,7,3,1,1,46,162,22,4,0,1,0,2,1,11,Orleans County,Town of Ridgeway 7 LD 2
+Orleans County,Town of Shelby 1 LD 1,100,180,37,0,4,1,2,11,96,184,35,8,1,1,4,60,222,34,5,2,2,1,4,0,14,Orleans County,Town of Shelby 1 LD 1
+Orleans County,Town of Shelby 2 LD 1,148,164,18,0,9,0,3,11,133,186,24,4,1,0,4,105,208,22,5,1,2,0,6,1,15,Orleans County,Town of Shelby 2 LD 1
+Orleans County,Town of Shelby 3 LD 2,148,107,13,0,3,2,6,6,144,114,16,4,6,2,1,108,133,22,1,2,4,1,4,5,14,Orleans County,Town of Shelby 3 LD 2
+Orleans County,Town of Shelby 4 LD 1,159,219,40,0,14,1,2,21,151,234,39,9,5,5,8,110,273,39,6,3,3,2,3,1,23,Orleans County,Town of Shelby 4 LD 1
+Orleans County,Town of Yates 1 LD 2,138,258,51,0,12,3,5,9,120,272,53,6,10,3,2,79,305,57,0,1,6,2,1,3,17,Orleans County,Town of Yates 1 LD 2
+Orleans County,Town of Yates 2 LD 2,98,214,30,0,8,3,3,13,93,240,29,1,7,1,1,71,258,27,2,0,4,1,0,1,14,Orleans County,Town of Yates 2 LD 2

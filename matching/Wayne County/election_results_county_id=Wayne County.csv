@@ -1,68 +1,68 @@
 county,precinct,HOR_DEM,HOR_REP,HOR_CON,HOR_GRE,HOR_WOR,HOR_IND,HOR_WEP,HOR_REF,Sen_DEM,Sen_REP,Sen_CON,Sen_WOR,Sen_IND,Sen_WEP,Sen_REF,Gov_DEM,Gov_REP,Gov_CON,Gov_GRE,Gov_WOR,Gov_IND,Gov_WEP,Gov_REF,Gov_SAM,Gov_LBT,county_id,original_precinct_name
-Wayne County,Arcadia 01,170,355,57,0,14,8,6,5,194,318,60,13,0,6,2,129,363,60,8,5,3,2,7,3,28,Wayne County,precinct
-Wayne County,Arcadia 02,235,286,34,0,11,6,3,1,256,245,30,19,0,4,2,188,300,34,6,5,6,0,2,7,25,Wayne County,precinct
-Wayne County,Arcadia 03,168,134,15,0,14,4,2,1,182,117,16,12,0,4,1,138,136,14,6,4,1,3,3,5,25,Wayne County,precinct
-Wayne County,Arcadia 04,135,119,13,0,6,1,4,1,147,103,9,6,0,3,1,112,119,14,3,0,3,1,2,2,18,Wayne County,precinct
-Wayne County,Arcadia 05,120,146,16,0,7,2,1,0,135,120,14,12,0,1,0,103,148,16,1,0,0,0,2,4,17,Wayne County,precinct
-Wayne County,Arcadia 06,256,232,36,0,8,6,5,1,277,209,34,7,0,1,5,208,232,41,6,5,3,1,5,5,27,Wayne County,precinct
-Wayne County,Arcadia 07,157,131,19,0,6,8,4,1,165,119,19,9,0,4,2,124,145,23,7,1,3,2,5,3,8,Wayne County,precinct
-Wayne County,Arcadia 08,104,109,14,0,2,6,3,2,111,100,17,4,0,1,1,86,114,14,4,1,1,0,1,4,16,Wayne County,precinct
-Wayne County,Arcadia 09,160,118,20,0,10,6,4,0,174,103,19,11,0,4,1,121,124,23,4,6,3,5,1,10,14,Wayne County,precinct
-Wayne County,Arcadia 10,187,245,38,0,8,7,3,2,207,212,37,11,0,4,3,149,258,37,6,3,1,1,3,6,19,Wayne County,precinct
-Wayne County,Butler 01,124,317,49,0,6,9,3,2,143,288,51,11,0,3,5,96,322,47,9,2,3,2,3,9,14,Wayne County,precinct
-Wayne County,Galen 01,111,174,27,0,9,2,2,1,128,155,23,10,0,3,2,77,180,29,3,4,4,0,1,5,19,Wayne County,precinct
-Wayne County,Galen 02,92,171,22,0,8,2,4,0,115,139,25,8,0,3,3,77,174,19,6,1,5,2,4,2,7,Wayne County,precinct
-Wayne County,Galen 03,117,159,19,0,8,5,4,3,129,144,16,8,0,3,4,105,167,21,2,2,1,1,5,5,12,Wayne County,precinct
-Wayne County,Galen 04,132,136,13,0,6,6,2,3,143,115,14,10,0,5,2,106,126,19,4,2,1,0,5,12,19,Wayne County,precinct
-Wayne County,Huron 01,127,192,33,0,6,3,5,0,143,175,33,4,0,1,0,90,201,35,6,1,1,0,0,6,24,Wayne County,precinct
-Wayne County,Huron 02,129,222,37,0,11,5,5,1,150,192,38,12,0,5,1,101,224,42,7,1,3,0,3,5,20,Wayne County,precinct
-Wayne County,Lyons 01,113,169,24,0,4,7,2,0,137,143,20,9,0,2,2,92,174,25,4,3,1,1,0,4,19,Wayne County,precinct
-Wayne County,Lyons 02,105,111,18,0,6,3,4,2,109,99,19,5,0,4,7,88,117,13,4,2,3,0,5,3,13,Wayne County,precinct
-Wayne County,Lyons 03,161,138,20,0,11,5,3,2,181,122,19,6,0,1,2,127,145,23,2,2,2,0,3,8,34,Wayne County,precinct
-Wayne County,Lyons 04,131,147,27,0,11,9,3,4,150,128,29,10,0,3,5,112,143,31,9,2,3,0,2,5,28,Wayne County,precinct
-Wayne County,Lyons 05,79,172,28,0,5,5,5,1,80,171,23,5,0,2,4,46,188,23,2,1,2,0,7,6,22,Wayne County,precinct
-Wayne County,Macedon 01,260,287,63,0,17,4,1,3,275,268,62,11,0,1,3,202,316,55,4,3,3,2,2,10,31,Wayne County,precinct
-Wayne County,Macedon 02,389,416,82,0,17,13,11,3,413,388,81,22,0,11,6,288,451,81,24,11,5,4,7,13,43,Wayne County,precinct
-Wayne County,Macedon 03,299,413,73,0,8,8,7,4,314,394,70,12,0,4,9,210,438,79,11,2,9,2,7,12,32,Wayne County,precinct
-Wayne County,Macedon 04,201,258,42,0,16,7,8,3,202,255,44,16,0,5,4,142,287,42,5,5,6,2,9,9,29,Wayne County,precinct
-Wayne County,Macedon 05,214,278,45,0,7,9,4,2,237,251,48,7,0,3,5,152,306,39,10,2,4,2,5,9,37,Wayne County,precinct
-Wayne County,Marion 01,127,208,56,0,8,3,4,2,127,200,54,6,0,7,5,99,220,53,1,4,1,2,4,3,21,Wayne County,precinct
-Wayne County,Marion 02,110,225,46,0,4,5,5,0,119,211,50,6,0,2,1,66,233,47,8,3,5,2,3,6,24,Wayne County,precinct
-Wayne County,Marion 03,160,266,54,0,6,2,3,3,155,256,58,11,0,3,1,110,284,57,4,4,0,0,6,2,26,Wayne County,precinct
-Wayne County,Marion 04,123,227,60,0,5,2,6,3,139,220,55,6,0,7,5,84,254,50,6,0,3,3,0,4,31,Wayne County,precinct
-Wayne County,Ontario 01,175,347,51,0,18,6,5,2,195,316,56,12,0,4,9,137,345,58,6,3,2,1,9,12,28,Wayne County,precinct
-Wayne County,Ontario 02,363,473,81,0,10,8,12,2,401,416,80,10,0,6,7,291,485,90,11,3,7,2,3,10,31,Wayne County,precinct
-Wayne County,Ontario 03,278,439,73,0,9,11,10,3,290,411,78,14,0,8,2,200,460,74,13,6,8,5,10,9,36,Wayne County,precinct
-Wayne County,Ontario 04,139,189,44,0,12,2,4,0,143,177,45,9,0,4,3,100,204,39,0,2,0,2,5,4,27,Wayne County,precinct
-Wayne County,Ontario 05,189,250,41,0,13,9,4,1,209,224,42,9,0,5,4,135,256,47,7,4,8,1,4,11,29,Wayne County,precinct
-Wayne County,Ontario 06,331,440,74,0,11,14,6,4,344,409,75,19,0,5,10,252,440,74,12,8,8,3,12,7,39,Wayne County,precinct
-Wayne County,Palmyra 01,143,177,27,0,12,5,4,0,151,164,25,9,0,6,1,116,181,26,7,2,5,0,4,3,24,Wayne County,precinct
-Wayne County,Palmyra 02,168,170,33,0,6,7,1,0,184,154,26,8,0,1,1,117,192,31,7,1,3,1,4,8,16,Wayne County,precinct
-Wayne County,Palmyra 03,145,124,23,0,9,2,4,4,157,113,20,7,0,4,2,121,115,30,9,4,2,1,2,3,27,Wayne County,precinct
-Wayne County,Palmyra 04,167,230,46,0,14,5,4,0,181,221,37,13,0,4,0,122,243,52,6,6,4,2,4,8,19,Wayne County,precinct
-Wayne County,Palmyra 05,153,260,57,0,9,8,13,1,169,254,47,12,0,6,3,118,269,57,12,4,3,4,3,6,25,Wayne County,precinct
-Wayne County,Palmyra 06,128,205,29,0,9,3,1,2,134,196,29,10,0,1,5,89,218,36,3,3,2,2,1,3,15,Wayne County,precinct
-Wayne County,Rose 01,102,207,16,0,11,6,10,3,122,192,19,7,0,5,4,84,210,18,3,0,4,3,4,8,20,Wayne County,precinct
-Wayne County,Rose 02,114,235,22,0,13,6,4,2,151,202,21,12,0,3,1,100,231,20,3,4,2,0,2,9,24,Wayne County,precinct
-Wayne County,Savannah 01,59,150,14,0,2,0,1,2,69,137,14,5,0,1,1,46,141,11,2,3,3,0,3,5,18,Wayne County,precinct
-Wayne County,Savannah 02,64,160,26,0,4,3,1,1,75,145,26,3,0,1,2,42,165,26,4,1,1,1,1,1,18,Wayne County,precinct
-Wayne County,Sodus 01,162,163,47,0,7,3,9,1,166,146,49,9,0,5,0,127,166,45,4,5,3,4,3,7,15,Wayne County,precinct
-Wayne County,Sodus 02,128,233,48,0,13,8,3,1,145,210,55,8,0,1,2,95,245,50,8,1,3,0,2,3,29,Wayne County,precinct
-Wayne County,Sodus 03,135,224,41,0,14,2,0,2,142,207,42,13,0,0,3,92,223,39,7,5,6,1,2,6,31,Wayne County,precinct
-Wayne County,Sodus 04,154,271,40,0,14,5,5,2,158,263,41,11,0,6,2,118,284,34,8,3,3,0,3,1,25,Wayne County,precinct
-Wayne County,Sodus 05,188,181,27,0,8,4,4,3,197,169,27,8,0,5,2,139,205,32,4,4,4,0,2,5,25,Wayne County,precinct
-Wayne County,Sodus 06,177,259,43,0,6,7,2,1,176,237,47,8,0,4,6,121,290,43,8,2,2,0,1,3,29,Wayne County,precinct
-Wayne County,Walworth 01,168,275,71,0,11,7,9,1,193,242,69,9,0,6,3,115,284,71,6,3,8,5,5,10,22,Wayne County,precinct
-Wayne County,Walworth 02,611,581,120,0,22,19,15,10,650,530,122,21,0,13,13,488,616,126,16,9,10,4,9,29,47,Wayne County,precinct
-Wayne County,Walworth 03,234,411,74,0,8,10,7,5,259,374,75,8,0,3,3,182,409,75,7,5,11,2,10,9,35,Wayne County,precinct
-Wayne County,Walworth 04,283,303,54,0,17,12,4,3,291,291,51,14,0,5,3,204,316,54,5,6,12,3,8,13,45,Wayne County,precinct
-Wayne County,Walworth 05,204,303,64,0,10,3,12,2,235,282,61,8,0,2,3,156,312,64,8,3,7,3,6,10,18,Wayne County,precinct
-Wayne County,Williamson 01,170,152,29,0,9,7,7,3,171,143,26,7,0,5,6,126,161,29,15,3,9,1,3,6,23,Wayne County,precinct
-Wayne County,Williamson 02,230,286,70,0,13,3,8,2,239,274,72,13,0,5,4,166,320,74,4,5,3,2,4,9,30,Wayne County,precinct
-Wayne County,Williamson 03,238,411,67,0,11,12,12,6,262,381,65,14,0,9,4,178,422,63,9,6,8,4,4,13,49,Wayne County,precinct
-Wayne County,Williamson 04,122,227,39,0,7,9,6,3,133,213,36,9,0,5,3,85,249,31,8,5,0,4,4,6,24,Wayne County,precinct
-Wayne County,Williamson 05,185,315,52,0,9,5,10,2,205,291,54,6,0,5,3,130,324,50,13,2,4,6,4,13,30,Wayne County,precinct
-Wayne County,Wolcott 01,97,161,24,0,4,4,7,3,107,140,25,10,0,6,4,76,153,20,6,3,1,4,4,3,25,Wayne County,precinct
-Wayne County,Wolcott 02,31,81,8,0,4,6,1,1,28,80,12,7,0,0,0,18,87,11,1,0,1,1,2,1,6,Wayne County,precinct
-Wayne County,Wolcott 03,80,209,27,0,3,6,4,2,91,189,26,7,0,5,2,62,191,29,3,2,4,1,2,8,25,Wayne County,precinct
-Wayne County,Wolcott 04,109,255,32,0,8,4,3,1,114,239,30,12,0,3,3,79,246,30,8,4,5,1,1,12,17,Wayne County,precinct
+Wayne County,Arcadia 01,170,355,57,0,14,8,6,5,194,318,60,13,0,6,2,129,363,60,8,5,3,2,7,3,28,Wayne County,Arcadia 01
+Wayne County,Arcadia 02,235,286,34,0,11,6,3,1,256,245,30,19,0,4,2,188,300,34,6,5,6,0,2,7,25,Wayne County,Arcadia 02
+Wayne County,Arcadia 03,168,134,15,0,14,4,2,1,182,117,16,12,0,4,1,138,136,14,6,4,1,3,3,5,25,Wayne County,Arcadia 03
+Wayne County,Arcadia 04,135,119,13,0,6,1,4,1,147,103,9,6,0,3,1,112,119,14,3,0,3,1,2,2,18,Wayne County,Arcadia 04
+Wayne County,Arcadia 05,120,146,16,0,7,2,1,0,135,120,14,12,0,1,0,103,148,16,1,0,0,0,2,4,17,Wayne County,Arcadia 05
+Wayne County,Arcadia 06,256,232,36,0,8,6,5,1,277,209,34,7,0,1,5,208,232,41,6,5,3,1,5,5,27,Wayne County,Arcadia 06
+Wayne County,Arcadia 07,157,131,19,0,6,8,4,1,165,119,19,9,0,4,2,124,145,23,7,1,3,2,5,3,8,Wayne County,Arcadia 07
+Wayne County,Arcadia 08,104,109,14,0,2,6,3,2,111,100,17,4,0,1,1,86,114,14,4,1,1,0,1,4,16,Wayne County,Arcadia 08
+Wayne County,Arcadia 09,160,118,20,0,10,6,4,0,174,103,19,11,0,4,1,121,124,23,4,6,3,5,1,10,14,Wayne County,Arcadia 09
+Wayne County,Arcadia 10,187,245,38,0,8,7,3,2,207,212,37,11,0,4,3,149,258,37,6,3,1,1,3,6,19,Wayne County,Arcadia 10
+Wayne County,Butler 01,124,317,49,0,6,9,3,2,143,288,51,11,0,3,5,96,322,47,9,2,3,2,3,9,14,Wayne County,Butler 01
+Wayne County,Galen 01,111,174,27,0,9,2,2,1,128,155,23,10,0,3,2,77,180,29,3,4,4,0,1,5,19,Wayne County,Galen 01
+Wayne County,Galen 02,92,171,22,0,8,2,4,0,115,139,25,8,0,3,3,77,174,19,6,1,5,2,4,2,7,Wayne County,Galen 02
+Wayne County,Galen 03,117,159,19,0,8,5,4,3,129,144,16,8,0,3,4,105,167,21,2,2,1,1,5,5,12,Wayne County,Galen 03
+Wayne County,Galen 04,132,136,13,0,6,6,2,3,143,115,14,10,0,5,2,106,126,19,4,2,1,0,5,12,19,Wayne County,Galen 04
+Wayne County,Huron 01,127,192,33,0,6,3,5,0,143,175,33,4,0,1,0,90,201,35,6,1,1,0,0,6,24,Wayne County,Huron 01
+Wayne County,Huron 02,129,222,37,0,11,5,5,1,150,192,38,12,0,5,1,101,224,42,7,1,3,0,3,5,20,Wayne County,Huron 02
+Wayne County,Lyons 01,113,169,24,0,4,7,2,0,137,143,20,9,0,2,2,92,174,25,4,3,1,1,0,4,19,Wayne County,Lyons 01
+Wayne County,Lyons 02,105,111,18,0,6,3,4,2,109,99,19,5,0,4,7,88,117,13,4,2,3,0,5,3,13,Wayne County,Lyons 02
+Wayne County,Lyons 03,161,138,20,0,11,5,3,2,181,122,19,6,0,1,2,127,145,23,2,2,2,0,3,8,34,Wayne County,Lyons 03
+Wayne County,Lyons 04,131,147,27,0,11,9,3,4,150,128,29,10,0,3,5,112,143,31,9,2,3,0,2,5,28,Wayne County,Lyons 04
+Wayne County,Lyons 05,79,172,28,0,5,5,5,1,80,171,23,5,0,2,4,46,188,23,2,1,2,0,7,6,22,Wayne County,Lyons 05
+Wayne County,Macedon 01,260,287,63,0,17,4,1,3,275,268,62,11,0,1,3,202,316,55,4,3,3,2,2,10,31,Wayne County,Macedon 01
+Wayne County,Macedon 02,389,416,82,0,17,13,11,3,413,388,81,22,0,11,6,288,451,81,24,11,5,4,7,13,43,Wayne County,Macedon 02
+Wayne County,Macedon 03,299,413,73,0,8,8,7,4,314,394,70,12,0,4,9,210,438,79,11,2,9,2,7,12,32,Wayne County,Macedon 03
+Wayne County,Macedon 04,201,258,42,0,16,7,8,3,202,255,44,16,0,5,4,142,287,42,5,5,6,2,9,9,29,Wayne County,Macedon 04
+Wayne County,Macedon 05,214,278,45,0,7,9,4,2,237,251,48,7,0,3,5,152,306,39,10,2,4,2,5,9,37,Wayne County,Macedon 05
+Wayne County,Marion 01,127,208,56,0,8,3,4,2,127,200,54,6,0,7,5,99,220,53,1,4,1,2,4,3,21,Wayne County,Marion 01
+Wayne County,Marion 02,110,225,46,0,4,5,5,0,119,211,50,6,0,2,1,66,233,47,8,3,5,2,3,6,24,Wayne County,Marion 02
+Wayne County,Marion 03,160,266,54,0,6,2,3,3,155,256,58,11,0,3,1,110,284,57,4,4,0,0,6,2,26,Wayne County,Marion 03
+Wayne County,Marion 04,123,227,60,0,5,2,6,3,139,220,55,6,0,7,5,84,254,50,6,0,3,3,0,4,31,Wayne County,Marion 04
+Wayne County,Ontario 01,175,347,51,0,18,6,5,2,195,316,56,12,0,4,9,137,345,58,6,3,2,1,9,12,28,Wayne County,Ontario 01
+Wayne County,Ontario 02,363,473,81,0,10,8,12,2,401,416,80,10,0,6,7,291,485,90,11,3,7,2,3,10,31,Wayne County,Ontario 02
+Wayne County,Ontario 03,278,439,73,0,9,11,10,3,290,411,78,14,0,8,2,200,460,74,13,6,8,5,10,9,36,Wayne County,Ontario 03
+Wayne County,Ontario 04,139,189,44,0,12,2,4,0,143,177,45,9,0,4,3,100,204,39,0,2,0,2,5,4,27,Wayne County,Ontario 04
+Wayne County,Ontario 05,189,250,41,0,13,9,4,1,209,224,42,9,0,5,4,135,256,47,7,4,8,1,4,11,29,Wayne County,Ontario 05
+Wayne County,Ontario 06,331,440,74,0,11,14,6,4,344,409,75,19,0,5,10,252,440,74,12,8,8,3,12,7,39,Wayne County,Ontario 06
+Wayne County,Palmyra 01,143,177,27,0,12,5,4,0,151,164,25,9,0,6,1,116,181,26,7,2,5,0,4,3,24,Wayne County,Palmyra 01
+Wayne County,Palmyra 02,168,170,33,0,6,7,1,0,184,154,26,8,0,1,1,117,192,31,7,1,3,1,4,8,16,Wayne County,Palmyra 02
+Wayne County,Palmyra 03,145,124,23,0,9,2,4,4,157,113,20,7,0,4,2,121,115,30,9,4,2,1,2,3,27,Wayne County,Palmyra 03
+Wayne County,Palmyra 04,167,230,46,0,14,5,4,0,181,221,37,13,0,4,0,122,243,52,6,6,4,2,4,8,19,Wayne County,Palmyra 04
+Wayne County,Palmyra 05,153,260,57,0,9,8,13,1,169,254,47,12,0,6,3,118,269,57,12,4,3,4,3,6,25,Wayne County,Palmyra 05
+Wayne County,Palmyra 06,128,205,29,0,9,3,1,2,134,196,29,10,0,1,5,89,218,36,3,3,2,2,1,3,15,Wayne County,Palmyra 06
+Wayne County,Rose 01,102,207,16,0,11,6,10,3,122,192,19,7,0,5,4,84,210,18,3,0,4,3,4,8,20,Wayne County,Rose 01
+Wayne County,Rose 02,114,235,22,0,13,6,4,2,151,202,21,12,0,3,1,100,231,20,3,4,2,0,2,9,24,Wayne County,Rose 02
+Wayne County,Savannah 01,59,150,14,0,2,0,1,2,69,137,14,5,0,1,1,46,141,11,2,3,3,0,3,5,18,Wayne County,Savannah 01
+Wayne County,Savannah 02,64,160,26,0,4,3,1,1,75,145,26,3,0,1,2,42,165,26,4,1,1,1,1,1,18,Wayne County,Savannah 02
+Wayne County,Sodus 01,162,163,47,0,7,3,9,1,166,146,49,9,0,5,0,127,166,45,4,5,3,4,3,7,15,Wayne County,Sodus 01
+Wayne County,Sodus 02,128,233,48,0,13,8,3,1,145,210,55,8,0,1,2,95,245,50,8,1,3,0,2,3,29,Wayne County,Sodus 02
+Wayne County,Sodus 03,135,224,41,0,14,2,0,2,142,207,42,13,0,0,3,92,223,39,7,5,6,1,2,6,31,Wayne County,Sodus 03
+Wayne County,Sodus 04,154,271,40,0,14,5,5,2,158,263,41,11,0,6,2,118,284,34,8,3,3,0,3,1,25,Wayne County,Sodus 04
+Wayne County,Sodus 05,188,181,27,0,8,4,4,3,197,169,27,8,0,5,2,139,205,32,4,4,4,0,2,5,25,Wayne County,Sodus 05
+Wayne County,Sodus 06,177,259,43,0,6,7,2,1,176,237,47,8,0,4,6,121,290,43,8,2,2,0,1,3,29,Wayne County,Sodus 06
+Wayne County,Walworth 01,168,275,71,0,11,7,9,1,193,242,69,9,0,6,3,115,284,71,6,3,8,5,5,10,22,Wayne County,Walworth 01
+Wayne County,Walworth 02,611,581,120,0,22,19,15,10,650,530,122,21,0,13,13,488,616,126,16,9,10,4,9,29,47,Wayne County,Walworth 02
+Wayne County,Walworth 03,234,411,74,0,8,10,7,5,259,374,75,8,0,3,3,182,409,75,7,5,11,2,10,9,35,Wayne County,Walworth 03
+Wayne County,Walworth 04,283,303,54,0,17,12,4,3,291,291,51,14,0,5,3,204,316,54,5,6,12,3,8,13,45,Wayne County,Walworth 04
+Wayne County,Walworth 05,204,303,64,0,10,3,12,2,235,282,61,8,0,2,3,156,312,64,8,3,7,3,6,10,18,Wayne County,Walworth 05
+Wayne County,Williamson 01,170,152,29,0,9,7,7,3,171,143,26,7,0,5,6,126,161,29,15,3,9,1,3,6,23,Wayne County,Williamson 01
+Wayne County,Williamson 02,230,286,70,0,13,3,8,2,239,274,72,13,0,5,4,166,320,74,4,5,3,2,4,9,30,Wayne County,Williamson 02
+Wayne County,Williamson 03,238,411,67,0,11,12,12,6,262,381,65,14,0,9,4,178,422,63,9,6,8,4,4,13,49,Wayne County,Williamson 03
+Wayne County,Williamson 04,122,227,39,0,7,9,6,3,133,213,36,9,0,5,3,85,249,31,8,5,0,4,4,6,24,Wayne County,Williamson 04
+Wayne County,Williamson 05,185,315,52,0,9,5,10,2,205,291,54,6,0,5,3,130,324,50,13,2,4,6,4,13,30,Wayne County,Williamson 05
+Wayne County,Wolcott 01,97,161,24,0,4,4,7,3,107,140,25,10,0,6,4,76,153,20,6,3,1,4,4,3,25,Wayne County,Wolcott 01
+Wayne County,Wolcott 02,31,81,8,0,4,6,1,1,28,80,12,7,0,0,0,18,87,11,1,0,1,1,2,1,6,Wayne County,Wolcott 02
+Wayne County,Wolcott 03,80,209,27,0,3,6,4,2,91,189,26,7,0,5,2,62,191,29,3,2,4,1,2,8,25,Wayne County,Wolcott 03
+Wayne County,Wolcott 04,109,255,32,0,8,4,3,1,114,239,30,12,0,3,3,79,246,30,8,4,5,1,1,12,17,Wayne County,Wolcott 04

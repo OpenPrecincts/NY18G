@@ -1,313 +1,313 @@
 county,precinct,HOR_DEM,HOR_REP,HOR_CON,HOR_GRE,HOR_WOR,HOR_IND,HOR_WEP,HOR_REF,Sen_DEM,Sen_REP,Sen_CON,Sen_WOR,Sen_IND,Sen_WEP,Sen_REF,Gov_DEM,Gov_REP,Gov_CON,Gov_GRE,Gov_WOR,Gov_IND,Gov_WEP,Gov_REF,Gov_SAM,Gov_LBT,county_id,original_precinct_name
-Richmond County,Richmond 61001,508,36,6,2,23,0,6,1,486,30,4,23,12,2,1,495,32,6,8,15,10,3,2,3,1,Richmond County,precinct
-Richmond County,Richmond 61002,473,56,9,6,35,0,5,2,464,51,10,35,7,7,1,444,62,12,20,31,7,3,0,3,6,Richmond County,precinct
-Richmond County,Richmond 61003,463,81,12,4,26,0,5,9,451,76,14,27,10,6,8,436,79,14,21,23,10,4,4,0,6,Richmond County,precinct
-Richmond County,Richmond 61004,292,40,4,1,20,0,1,1,284,44,3,18,6,2,2,274,47,3,10,15,3,3,0,0,6,Richmond County,precinct
-Richmond County,Richmond 61005,293,30,4,7,33,0,5,1,288,31,2,36,6,4,1,281,27,5,17,30,3,4,1,2,0,Richmond County,precinct
-Richmond County,Richmond 61006,186,73,5,0,8,0,0,1,184,67,8,6,5,0,2,189,67,7,4,4,8,1,1,1,0,Richmond County,precinct
-Richmond County,Richmond 61007,406,21,1,0,5,0,2,0,386,21,0,7,5,0,1,396,18,3,3,2,4,1,0,0,5,Richmond County,precinct
-Richmond County,Richmond 61008,281,11,3,1,11,0,0,2,261,18,3,10,4,1,0,272,12,4,5,10,5,1,0,1,0,Richmond County,precinct
-Richmond County,Richmond 61009,473,81,8,1,20,0,4,2,463,80,11,20,8,0,2,455,89,7,9,19,6,1,0,1,4,Richmond County,precinct
-Richmond County,Richmond 61010,422,74,11,3,18,0,6,3,405,73,10,14,6,1,1,421,76,11,5,16,9,2,0,0,4,Richmond County,precinct
-Richmond County,Richmond 61011,364,81,8,2,18,0,5,8,354,73,11,15,18,1,3,342,82,19,7,6,14,0,1,2,2,Richmond County,precinct
-Richmond County,Richmond 61012,499,215,28,3,17,0,7,10,481,198,32,14,17,2,2,459,219,34,10,12,12,1,2,7,8,Richmond County,precinct
-Richmond County,Richmond 61013,363,78,5,1,20,0,2,6,354,83,6,21,5,1,0,357,83,9,5,14,6,1,0,0,5,Richmond County,precinct
-Richmond County,Richmond 61014,322,149,22,1,11,0,6,5,317,140,21,13,17,2,2,298,145,22,13,12,11,1,2,5,8,Richmond County,precinct
-Richmond County,Richmond 61015,281,125,10,2,15,0,4,6,279,121,12,11,5,3,2,272,127,10,7,9,10,1,2,5,0,Richmond County,precinct
-Richmond County,Richmond 61016,424,26,4,2,5,0,1,3,413,28,4,6,1,0,0,416,27,2,3,7,4,1,0,3,3,Richmond County,precinct
-Richmond County,Richmond 61017,427,34,2,2,15,0,9,0,411,33,3,17,7,4,2,410,38,5,4,14,6,2,1,0,6,Richmond County,precinct
-Richmond County,Richmond 61018,338,98,9,5,12,0,6,2,337,91,13,10,6,0,1,333,98,12,7,4,8,2,1,0,3,Richmond County,precinct
-Richmond County,Richmond 61019,371,126,17,2,17,0,2,1,362,113,20,20,8,2,1,365,120,20,6,11,8,1,0,0,5,Richmond County,precinct
-Richmond County,Richmond 61020,346,130,18,4,10,0,2,1,337,130,19,9,6,0,1,341,128,18,3,8,2,2,1,0,7,Richmond County,precinct
-Richmond County,Richmond 61021,368,36,10,4,17,0,4,1,350,38,11,18,8,3,0,360,37,9,2,20,4,5,0,2,2,Richmond County,precinct
-Richmond County,Richmond 61022,434,72,6,1,7,0,1,3,423,66,4,8,7,0,0,428,68,6,9,8,3,0,0,1,1,Richmond County,precinct
-Richmond County,Richmond 61023,324,91,7,2,4,0,3,5,322,86,6,5,5,0,2,318,96,5,3,4,7,2,1,0,2,Richmond County,precinct
-Richmond County,Richmond 61024,324,152,18,2,10,0,6,8,311,157,16,12,13,2,2,315,152,22,4,10,7,2,2,5,7,Richmond County,precinct
-Richmond County,Richmond 61025,370,120,12,3,6,0,3,2,365,118,13,1,8,0,0,364,126,9,4,2,6,1,0,1,5,Richmond County,precinct
-Richmond County,Richmond 61026,412,59,4,2,11,0,8,6,396,65,6,12,9,2,2,396,70,7,3,7,10,2,1,2,8,Richmond County,precinct
-Richmond County,Richmond 61027,379,77,5,4,8,0,3,1,374,75,5,4,7,2,1,368,80,8,1,7,4,5,0,2,3,Richmond County,precinct
-Richmond County,Richmond 61028,300,54,7,2,15,0,2,0,292,51,11,11,6,2,0,295,50,12,5,4,6,2,0,2,4,Richmond County,precinct
-Richmond County,Richmond 61029,268,127,12,2,9,0,2,2,257,121,14,7,9,1,1,258,124,14,1,8,11,2,0,1,2,Richmond County,precinct
-Richmond County,Richmond 61030,336,148,12,0,15,0,0,6,333,146,12,10,3,1,2,331,150,12,2,7,6,2,0,1,2,Richmond County,precinct
-Richmond County,Richmond 61031,454,82,9,2,13,0,5,3,434,80,9,11,9,2,2,443,82,7,4,9,9,3,2,0,2,Richmond County,precinct
-Richmond County,Richmond 61032,405,74,13,1,2,0,2,1,389,72,13,6,3,2,0,400,78,11,2,2,2,2,0,0,0,Richmond County,precinct
-Richmond County,Richmond 61033,378,71,7,4,9,0,3,2,384,56,8,6,8,2,0,378,60,9,9,8,5,2,0,1,3,Richmond County,precinct
-Richmond County,Richmond 61034,179,243,36,0,9,0,2,3,188,222,36,7,5,2,3,176,247,32,2,3,8,1,0,0,4,Richmond County,precinct
-Richmond County,Richmond 61035,142,262,18,3,3,0,5,2,138,254,18,6,6,3,3,132,263,26,4,5,3,1,2,1,0,Richmond County,precinct
-Richmond County,Richmond 61036,128,138,17,3,7,0,3,4,128,139,12,7,7,2,0,127,139,20,3,4,4,1,1,1,0,Richmond County,precinct
-Richmond County,Richmond 61037,330,130,30,1,24,0,6,5,321,127,26,24,12,6,3,296,140,29,6,24,9,5,3,5,5,Richmond County,precinct
-Richmond County,Richmond 61038,293,198,37,2,13,0,6,9,282,201,36,12,14,3,5,267,208,37,2,9,14,2,7,0,6,Richmond County,precinct
-Richmond County,Richmond 61039,274,207,31,4,15,0,3,6,282,189,30,16,8,2,1,269,209,27,3,11,10,2,0,1,4,Richmond County,precinct
-Richmond County,Richmond 61040,285,248,35,0,11,0,2,3,284,234,34,12,8,1,3,262,254,35,4,11,6,1,1,3,3,Richmond County,precinct
-Richmond County,Richmond 61041,178,250,47,2,9,0,2,10,169,242,48,7,10,1,1,172,242,49,4,2,9,1,4,3,6,Richmond County,precinct
-Richmond County,Richmond 61042,297,308,37,4,14,0,5,8,305,286,37,11,12,3,5,293,300,40,5,11,9,2,6,3,4,Richmond County,precinct
-Richmond County,Richmond 61043,176,198,32,1,5,0,6,3,176,186,31,6,12,2,0,167,195,34,5,5,9,2,1,2,2,Richmond County,precinct
-Richmond County,Richmond 61044,214,167,28,2,12,0,5,6,223,153,30,7,8,6,1,200,165,34,5,8,6,1,1,0,10,Richmond County,precinct
-Richmond County,Richmond 61045,195,232,42,2,9,0,1,4,208,212,42,7,5,0,1,193,228,41,5,4,4,0,3,2,2,Richmond County,precinct
-Richmond County,Richmond 61046,229,219,30,1,11,0,5,9,238,212,27,7,10,1,1,226,211,27,4,4,9,3,2,4,10,Richmond County,precinct
-Richmond County,Richmond 61047,219,318,26,1,10,0,3,7,235,288,27,15,7,3,1,226,301,27,0,10,10,1,1,1,3,Richmond County,precinct
-Richmond County,Richmond 61048,194,308,30,3,5,0,1,7,196,285,31,6,6,3,2,183,303,36,2,4,7,1,1,2,4,Richmond County,precinct
-Richmond County,Richmond 61049,215,25,1,1,7,0,6,1,213,24,0,9,7,1,1,203,19,2,11,9,8,0,1,0,2,Richmond County,precinct
-Richmond County,Richmond 61050,232,39,14,0,9,0,2,2,228,38,14,7,5,2,0,224,38,14,3,8,5,2,0,1,2,Richmond County,precinct
-Richmond County,Richmond 61051,364,73,8,0,21,0,12,5,349,71,8,23,13,4,1,341,72,7,6,17,11,1,1,4,6,Richmond County,precinct
-Richmond County,Richmond 61052,269,156,9,1,7,0,2,7,263,155,10,9,2,3,3,240,152,11,3,10,5,2,6,3,6,Richmond County,precinct
-Richmond County,Richmond 61053,462,15,0,1,12,0,3,1,448,16,0,12,3,3,0,472,10,2,3,8,4,0,0,2,2,Richmond County,precinct
-Richmond County,Richmond 61054,251,48,8,2,20,0,0,5,246,48,8,20,4,1,0,247,53,7,11,7,4,2,0,0,3,Richmond County,precinct
-Richmond County,Richmond 61055,393,32,2,0,8,0,1,0,392,24,0,6,9,1,1,389,24,1,4,7,9,0,0,1,5,Richmond County,precinct
-Richmond County,Richmond 61056,349,47,5,3,21,0,3,1,349,48,4,19,7,0,1,343,52,5,5,14,6,1,0,0,1,Richmond County,precinct
-Richmond County,Richmond 61057,372,120,10,3,18,0,3,5,358,111,12,18,11,1,2,351,125,12,12,13,12,1,1,1,1,Richmond County,precinct
-Richmond County,Richmond 61058,430,9,0,0,1,0,1,1,421,9,1,3,0,1,0,433,11,1,1,1,1,0,0,1,0,Richmond County,precinct
-Richmond County,Richmond 61059,372,17,2,0,9,0,1,1,365,18,2,7,6,1,0,356,19,4,3,8,2,1,0,2,5,Richmond County,precinct
-Richmond County,Richmond 61060,247,72,8,4,7,0,4,3,247,72,7,9,5,1,1,244,71,6,5,4,5,1,2,2,3,Richmond County,precinct
-Richmond County,Richmond 61061,417,15,0,1,7,0,1,1,400,15,0,6,2,2,0,410,15,0,4,8,2,1,0,0,0,Richmond County,precinct
-Richmond County,Richmond 61062,199,151,14,3,11,0,2,3,192,149,13,13,5,3,3,188,153,17,5,14,7,0,4,0,1,Richmond County,precinct
-Richmond County,Richmond 61063,101,52,3,0,0,0,1,4,96,55,4,0,2,0,1,101,51,3,1,1,1,0,0,0,3,Richmond County,precinct
-Richmond County,Richmond 61064,136,30,2,0,6,0,0,0,134,27,1,4,7,0,0,132,27,3,3,4,2,0,0,0,1,Richmond County,precinct
-Richmond County,Richmond 61065,480,58,6,3,18,0,2,7,467,58,9,16,7,1,3,458,62,6,12,14,9,4,0,2,5,Richmond County,precinct
-Richmond County,Richmond 61066,262,82,11,1,18,0,3,2,251,86,10,19,5,2,0,244,87,12,8,17,4,0,1,0,1,Richmond County,precinct
-Richmond County,Richmond 61067,368,99,5,2,11,0,1,4,362,90,5,9,15,1,0,360,93,9,3,6,11,2,1,2,3,Richmond County,precinct
-Richmond County,Richmond 61068,353,55,7,2,11,0,0,2,335,61,7,10,3,1,0,334,58,10,7,9,5,2,1,2,3,Richmond County,precinct
-Richmond County,Richmond 61069,343,64,4,1,9,0,3,1,326,71,6,6,4,4,0,325,68,6,4,9,2,1,1,0,6,Richmond County,precinct
-Richmond County,Richmond 61070,321,11,0,2,5,0,2,1,315,12,0,5,3,1,1,321,11,1,2,7,2,2,0,1,1,Richmond County,precinct
-Richmond County,Richmond 61071,225,185,20,0,7,0,1,8,230,161,28,9,4,1,2,210,178,24,8,7,7,0,1,1,4,Richmond County,precinct
-Richmond County,Richmond 61072,239,134,22,0,11,0,1,8,233,123,28,12,8,1,0,227,123,30,5,6,8,2,1,2,4,Richmond County,precinct
-Richmond County,Richmond 61073,445,25,4,0,7,0,3,2,431,26,2,7,5,1,0,440,25,3,1,6,4,1,2,1,2,Richmond County,precinct
-Richmond County,Richmond 61074,203,23,2,2,5,0,2,1,186,27,2,5,3,1,0,191,25,2,6,5,2,1,0,2,0,Richmond County,precinct
-Richmond County,Richmond 61075,248,57,11,4,17,0,3,4,240,52,12,17,11,0,1,238,60,10,13,12,9,0,1,1,2,Richmond County,precinct
-Richmond County,Richmond 61076,376,134,15,4,15,0,2,8,366,133,18,12,10,1,1,359,142,15,5,12,9,2,2,0,6,Richmond County,precinct
-Richmond County,Richmond 61077,256,17,1,0,16,0,0,0,249,14,1,15,4,1,0,242,17,1,12,12,3,0,0,0,1,Richmond County,precinct
-Richmond County,Richmond 61078,195,26,3,4,5,0,2,1,200,27,3,6,4,1,0,198,24,2,4,5,5,0,1,1,0,Richmond County,precinct
-Richmond County,Richmond 62001,115,328,22,1,4,0,1,7,115,322,24,4,7,1,0,115,320,31,5,0,8,0,0,0,3,Richmond County,precinct
-Richmond County,Richmond 62002,152,357,41,3,11,0,0,12,161,331,45,9,11,0,8,144,347,46,6,5,8,1,10,1,7,Richmond County,precinct
-Richmond County,Richmond 62003,123,279,23,1,12,0,2,4,116,274,24,11,6,2,2,112,288,21,3,7,2,0,5,2,3,Richmond County,precinct
-Richmond County,Richmond 62004,156,301,22,4,8,0,1,3,153,296,23,8,7,0,0,143,307,32,3,4,5,0,0,2,3,Richmond County,precinct
-Richmond County,Richmond 62005,90,368,23,2,5,0,3,6,93,351,21,7,7,1,0,95,362,23,2,0,7,0,1,0,3,Richmond County,precinct
-Richmond County,Richmond 62006,134,265,18,1,10,0,0,2,136,248,21,11,6,0,1,127,258,23,4,7,7,1,0,0,4,Richmond County,precinct
-Richmond County,Richmond 62007,140,333,32,3,5,0,1,3,151,319,32,2,6,1,1,141,320,34,2,2,5,0,2,0,5,Richmond County,precinct
-Richmond County,Richmond 62008,133,265,19,1,5,0,0,5,137,255,21,4,3,0,2,132,270,17,1,2,4,0,2,1,1,Richmond County,precinct
-Richmond County,Richmond 62009,79,178,21,1,4,0,1,1,77,178,19,2,3,0,0,76,180,17,0,3,4,1,0,0,3,Richmond County,precinct
-Richmond County,Richmond 62010,84,210,13,1,5,0,3,7,92,203,10,3,6,0,1,82,210,15,2,4,7,0,1,0,1,Richmond County,precinct
-Richmond County,Richmond 62011,123,330,41,1,3,0,1,5,124,330,38,3,5,1,4,123,329,42,3,3,4,0,1,0,2,Richmond County,precinct
-Richmond County,Richmond 62012,136,186,10,0,7,0,0,2,132,183,10,3,5,1,1,137,180,11,2,3,2,0,1,0,3,Richmond County,precinct
-Richmond County,Richmond 62013,174,285,17,2,11,0,4,5,177,280,20,11,8,2,1,167,291,16,7,6,11,2,0,2,0,Richmond County,precinct
-Richmond County,Richmond 62014,110,197,9,1,7,0,1,1,106,194,10,3,4,1,1,100,202,11,2,2,5,1,0,1,4,Richmond County,precinct
-Richmond County,Richmond 62015,162,260,16,1,8,0,2,4,154,258,19,3,5,2,1,159,263,19,1,3,4,1,1,0,3,Richmond County,precinct
-Richmond County,Richmond 62016,222,237,18,1,7,0,1,4,222,232,17,9,7,2,2,224,234,16,1,4,5,0,5,0,5,Richmond County,precinct
-Richmond County,Richmond 62017,71,222,16,4,1,0,1,1,64,224,16,2,2,0,0,72,221,14,1,2,1,1,0,0,4,Richmond County,precinct
-Richmond County,Richmond 62018,97,234,12,2,1,0,3,2,93,225,17,2,6,0,1,84,238,14,1,2,6,0,2,0,1,Richmond County,precinct
-Richmond County,Richmond 62019,110,241,27,1,6,0,1,5,108,238,26,3,9,1,1,104,236,28,3,3,9,2,3,1,3,Richmond County,precinct
-Richmond County,Richmond 62020,112,341,21,2,7,0,1,3,117,329,21,9,2,2,1,118,334,22,3,2,5,1,3,0,1,Richmond County,precinct
-Richmond County,Richmond 62021,105,329,26,0,9,0,4,5,96,333,27,7,7,4,2,98,321,29,7,3,10,1,3,1,3,Richmond County,precinct
-Richmond County,Richmond 62022,135,275,22,0,6,0,2,1,137,265,23,5,6,1,2,128,274,23,2,5,7,0,2,1,3,Richmond County,precinct
-Richmond County,Richmond 62023,115,255,21,0,5,0,2,3,112,255,21,4,4,0,0,107,262,20,1,3,4,0,0,1,2,Richmond County,precinct
-Richmond County,Richmond 62024,188,203,14,0,7,0,1,3,182,197,16,6,4,0,1,183,198,16,0,4,3,0,4,0,2,Richmond County,precinct
-Richmond County,Richmond 62025,103,286,34,1,3,0,1,12,111,275,35,0,9,1,0,108,290,25,1,1,6,1,1,1,1,Richmond County,precinct
-Richmond County,Richmond 62026,248,190,13,2,11,0,0,7,245,184,15,9,10,2,1,239,186,19,3,11,6,0,2,3,5,Richmond County,precinct
-Richmond County,Richmond 62027,152,357,22,2,6,0,4,6,164,343,23,4,8,1,2,160,358,18,3,3,4,2,2,1,1,Richmond County,precinct
-Richmond County,Richmond 62028,154,300,19,0,5,0,1,3,163,288,17,4,4,0,1,154,292,22,1,2,4,0,2,0,3,Richmond County,precinct
-Richmond County,Richmond 62029,107,274,24,1,4,0,2,3,103,270,24,4,6,1,0,102,267,27,1,4,7,0,1,2,7,Richmond County,precinct
-Richmond County,Richmond 62030,123,335,27,1,5,0,1,7,126,331,22,4,5,2,1,115,338,26,5,7,5,1,1,0,0,Richmond County,precinct
-Richmond County,Richmond 62031,157,304,29,1,8,0,7,7,164,302,24,3,8,3,1,157,296,27,3,4,10,3,4,0,8,Richmond County,precinct
-Richmond County,Richmond 62032,125,300,29,1,7,0,1,3,123,281,31,6,7,1,1,114,290,33,1,4,8,1,2,0,10,Richmond County,precinct
-Richmond County,Richmond 62033,148,310,31,1,2,0,1,5,152,293,29,4,5,0,1,146,307,29,2,1,4,1,1,0,7,Richmond County,precinct
-Richmond County,Richmond 62034,142,332,35,2,4,0,0,9,140,332,36,2,3,0,2,141,328,36,2,1,3,0,5,1,3,Richmond County,precinct
-Richmond County,Richmond 62035,121,287,32,0,5,0,3,5,121,283,33,2,5,1,0,115,291,32,1,0,5,1,1,1,5,Richmond County,precinct
-Richmond County,Richmond 62036,137,295,20,1,11,0,1,3,132,290,21,10,3,2,2,129,296,21,1,5,4,0,2,0,4,Richmond County,precinct
-Richmond County,Richmond 62037,122,383,35,0,5,0,3,3,135,364,38,2,6,0,0,124,374,25,7,1,4,1,2,0,6,Richmond County,precinct
-Richmond County,Richmond 62038,172,327,27,1,8,0,2,8,178,315,22,13,5,0,1,164,330,22,3,8,6,1,1,1,5,Richmond County,precinct
-Richmond County,Richmond 62039,152,314,35,0,8,0,5,7,147,312,33,8,11,1,2,139,323,34,3,5,11,0,2,0,4,Richmond County,precinct
-Richmond County,Richmond 62040,142,330,30,4,8,0,2,3,151,325,30,3,4,1,2,145,320,38,2,4,2,1,0,2,5,Richmond County,precinct
-Richmond County,Richmond 62041,146,317,18,3,4,0,3,2,139,319,21,1,8,1,0,132,328,19,3,1,5,1,0,0,5,Richmond County,precinct
-Richmond County,Richmond 62042,186,297,23,0,10,0,1,6,186,303,19,4,4,2,2,185,302,20,2,3,9,0,1,1,2,Richmond County,precinct
-Richmond County,Richmond 62043,167,319,16,1,8,0,5,8,165,307,18,8,10,5,3,147,329,21,3,5,7,2,1,1,6,Richmond County,precinct
-Richmond County,Richmond 62044,160,297,22,0,2,0,0,8,158,288,23,3,5,2,0,166,281,26,2,1,5,1,1,0,1,Richmond County,precinct
-Richmond County,Richmond 62045,123,292,23,1,4,0,1,1,112,295,19,3,3,1,0,111,302,18,3,2,5,1,1,0,1,Richmond County,precinct
-Richmond County,Richmond 62046,169,355,18,1,10,0,1,1,178,335,22,7,3,1,1,167,341,23,3,10,3,1,2,1,6,Richmond County,precinct
-Richmond County,Richmond 62047,128,330,25,0,4,0,2,1,141,302,25,8,2,2,2,141,314,26,0,4,2,1,0,2,1,Richmond County,precinct
-Richmond County,Richmond 62048,158,246,19,0,4,0,2,4,153,248,19,5,5,0,2,138,247,22,3,5,6,0,3,2,2,Richmond County,precinct
-Richmond County,Richmond 62049,194,303,20,1,6,0,1,6,199,295,19,3,10,0,0,190,303,23,6,2,3,1,1,0,2,Richmond County,precinct
-Richmond County,Richmond 62050,153,347,29,3,7,0,4,2,169,337,27,4,3,2,1,153,343,28,4,8,1,2,2,1,2,Richmond County,precinct
-Richmond County,Richmond 62051,179,248,22,2,8,0,4,1,189,236,19,5,4,1,0,186,236,21,2,6,2,0,0,0,7,Richmond County,precinct
-Richmond County,Richmond 62052,166,353,33,3,11,0,2,4,185,325,32,10,10,0,2,166,346,31,3,5,8,0,4,1,4,Richmond County,precinct
-Richmond County,Richmond 62053,169,329,20,4,4,0,3,2,171,317,23,6,7,2,2,168,325,26,1,5,3,1,2,1,2,Richmond County,precinct
-Richmond County,Richmond 62054,179,257,19,1,10,0,3,3,172,250,21,4,9,0,2,168,262,21,4,2,11,0,1,0,3,Richmond County,precinct
-Richmond County,Richmond 62055,180,332,24,0,5,0,2,5,185,315,25,5,6,1,2,171,328,25,3,3,4,1,5,3,6,Richmond County,precinct
-Richmond County,Richmond 62056,189,255,18,1,14,0,3,3,186,251,22,8,10,1,0,183,255,20,2,8,10,2,0,0,1,Richmond County,precinct
-Richmond County,Richmond 62057,165,284,26,4,6,0,1,1,154,289,26,7,4,1,0,150,293,27,2,3,6,0,2,0,1,Richmond County,precinct
-Richmond County,Richmond 62058,146,332,25,0,5,0,2,5,158,308,23,8,8,1,3,147,321,25,6,2,9,1,1,1,3,Richmond County,precinct
-Richmond County,Richmond 62059,181,270,24,1,3,0,3,5,176,264,24,5,7,4,1,179,263,24,5,3,6,2,1,1,1,Richmond County,precinct
-Richmond County,Richmond 62060,199,309,24,4,4,0,2,3,193,313,25,5,3,0,5,186,311,21,1,4,3,2,7,0,10,Richmond County,precinct
-Richmond County,Richmond 62061,170,320,20,1,10,0,0,1,173,307,25,9,5,0,1,169,309,30,3,3,4,0,0,1,5,Richmond County,precinct
-Richmond County,Richmond 62062,148,298,18,3,12,0,1,3,151,288,22,12,2,0,1,145,288,25,2,8,5,3,1,2,3,Richmond County,precinct
-Richmond County,Richmond 62063,163,202,10,0,3,0,4,2,161,192,11,4,8,1,1,160,198,12,3,2,3,2,1,0,1,Richmond County,precinct
-Richmond County,Richmond 62064,108,172,17,1,1,0,0,5,110,167,13,2,3,0,1,102,170,18,5,0,5,0,0,0,3,Richmond County,precinct
-Richmond County,Richmond 62065,167,393,29,1,7,0,0,8,176,371,28,8,8,0,1,166,385,23,6,7,6,2,1,0,2,Richmond County,precinct
-Richmond County,Richmond 62066,136,356,27,2,7,0,1,3,144,336,30,2,5,1,1,124,357,29,6,0,6,0,0,0,1,Richmond County,precinct
-Richmond County,Richmond 62067,175,286,22,1,11,0,3,6,184,260,22,13,7,2,1,183,277,17,2,6,9,1,2,0,7,Richmond County,precinct
-Richmond County,Richmond 62068,193,284,36,2,10,0,3,4,200,274,34,7,8,1,1,189,283,33,6,7,12,1,1,0,1,Richmond County,precinct
-Richmond County,Richmond 62069,150,255,24,0,7,0,2,3,151,249,24,3,4,1,0,142,250,27,2,4,5,2,1,0,4,Richmond County,precinct
-Richmond County,Richmond 62070,110,168,12,1,3,0,2,3,111,155,14,5,5,0,2,99,159,16,4,4,7,0,3,1,2,Richmond County,precinct
-Richmond County,Richmond 62071,175,298,22,3,6,0,3,11,179,279,26,13,9,1,1,173,291,25,6,8,6,1,2,1,1,Richmond County,precinct
-Richmond County,Richmond 62072,146,290,35,2,0,0,3,2,154,281,30,1,8,1,2,149,285,31,4,1,5,1,4,1,2,Richmond County,precinct
-Richmond County,Richmond 62073,151,274,24,2,12,0,1,6,165,254,27,9,6,0,2,156,261,27,5,6,7,1,1,1,3,Richmond County,precinct
-Richmond County,Richmond 62074,120,399,36,0,2,0,2,4,128,383,30,6,3,1,3,111,403,35,2,6,2,0,2,0,0,Richmond County,precinct
-Richmond County,Richmond 62075,155,305,30,2,3,0,0,3,149,309,28,0,3,1,2,140,302,26,6,2,4,3,4,0,4,Richmond County,precinct
-Richmond County,Richmond 62076,101,332,36,3,8,0,0,2,99,332,35,5,4,1,2,103,332,33,1,2,5,0,3,0,2,Richmond County,precinct
-Richmond County,Richmond 62077,110,348,46,0,7,0,0,5,114,337,41,9,4,0,3,110,338,46,2,5,6,0,4,0,2,Richmond County,precinct
-Richmond County,Richmond 62078,114,367,29,0,5,0,1,2,123,359,28,3,3,0,2,128,361,29,1,3,3,1,1,0,0,Richmond County,precinct
-Richmond County,Richmond 62079,92,183,8,3,3,0,3,0,97,183,9,0,1,0,0,97,178,10,2,1,0,0,1,0,3,Richmond County,precinct
-Richmond County,Richmond 62080,147,265,18,1,12,0,2,6,156,260,20,7,4,1,0,155,255,20,2,5,6,0,2,0,4,Richmond County,precinct
-Richmond County,Richmond 62081,121,318,15,1,5,0,2,4,130,303,16,3,6,1,0,123,316,16,1,4,4,0,0,1,3,Richmond County,precinct
-Richmond County,Richmond 62082,127,295,29,2,6,0,1,5,128,288,31,4,5,0,1,122,287,33,1,6,4,1,3,0,4,Richmond County,precinct
-Richmond County,Richmond 62083,118,338,15,2,5,0,1,5,113,345,19,3,3,0,1,109,343,21,3,5,3,0,1,0,4,Richmond County,precinct
-Richmond County,Richmond 62084,120,368,26,2,4,0,3,2,128,360,22,1,5,2,2,119,361,29,3,1,6,0,4,0,3,Richmond County,precinct
-Richmond County,Richmond 62085,170,234,18,0,10,0,2,6,172,234,16,7,8,1,1,168,241,14,2,5,5,1,2,0,4,Richmond County,precinct
-Richmond County,Richmond 62086,152,261,16,0,6,0,1,2,145,256,15,8,3,2,0,151,256,14,2,3,6,2,1,0,1,Richmond County,precinct
-Richmond County,Richmond 63001,197,255,23,2,7,0,2,2,207,243,26,4,2,0,0,196,243,23,3,4,2,2,1,1,8,Richmond County,precinct
-Richmond County,Richmond 63002,260,189,6,1,13,0,2,3,260,183,9,10,3,1,1,237,199,12,3,10,4,3,0,1,3,Richmond County,precinct
-Richmond County,Richmond 63003,193,139,15,1,5,0,1,1,197,124,14,6,5,1,1,189,131,12,6,3,3,1,1,0,5,Richmond County,precinct
-Richmond County,Richmond 63004,167,275,26,2,5,0,1,1,164,270,22,5,6,0,0,164,272,24,2,3,8,0,1,1,2,Richmond County,precinct
-Richmond County,Richmond 63005,149,232,12,2,1,0,1,5,156,225,11,1,4,1,1,153,225,10,3,0,4,1,0,0,2,Richmond County,precinct
-Richmond County,Richmond 63006,157,238,17,0,6,0,5,5,160,228,17,3,9,0,2,155,230,17,3,1,11,0,0,3,4,Richmond County,precinct
-Richmond County,Richmond 63007,196,141,5,4,8,0,0,1,200,131,6,8,5,1,1,196,132,7,5,8,3,0,0,1,4,Richmond County,precinct
-Richmond County,Richmond 63008,182,212,16,4,4,0,1,1,178,209,15,8,7,1,0,180,215,12,4,1,4,1,0,2,2,Richmond County,precinct
-Richmond County,Richmond 63009,13,25,1,0,1,0,0,0,17,22,1,0,2,0,0,15,21,1,0,2,2,0,1,0,1,Richmond County,precinct
-Richmond County,Richmond 63010,198,74,8,1,6,0,6,3,193,73,8,7,9,1,0,198,69,8,4,7,6,0,0,0,1,Richmond County,precinct
-Richmond County,Richmond 63011,231,201,14,0,7,0,2,8,239,187,13,5,6,1,2,229,196,13,6,5,7,2,0,3,2,Richmond County,precinct
-Richmond County,Richmond 63012,177,142,13,3,3,0,3,3,170,138,13,4,8,0,2,171,138,14,2,5,8,0,0,2,5,Richmond County,precinct
-Richmond County,Richmond 63013,286,165,9,0,11,0,6,3,278,166,9,6,7,1,2,266,169,11,9,10,6,0,0,0,7,Richmond County,precinct
-Richmond County,Richmond 63014,224,183,10,1,12,0,4,3,216,176,10,13,6,2,0,224,177,11,5,6,5,1,0,1,5,Richmond County,precinct
-Richmond County,Richmond 63015,267,205,14,2,7,0,3,8,249,217,13,3,8,3,2,251,213,16,3,3,9,1,3,0,4,Richmond County,precinct
-Richmond County,Richmond 63016,173,112,5,1,6,0,0,7,172,102,3,4,4,0,3,173,109,5,4,0,4,0,2,1,4,Richmond County,precinct
-Richmond County,Richmond 63017,108,64,7,2,3,0,1,2,108,61,6,4,2,1,0,106,61,6,3,3,1,1,0,1,3,Richmond County,precinct
-Richmond County,Richmond 63018,204,266,16,3,15,0,1,3,193,266,19,10,10,2,0,179,285,17,6,6,5,3,4,1,4,Richmond County,precinct
-Richmond County,Richmond 63019,164,177,8,5,9,0,2,3,163,172,9,11,2,1,1,157,181,12,4,6,2,0,1,1,4,Richmond County,precinct
-Richmond County,Richmond 63020,137,179,20,2,5,0,1,7,141,172,21,2,6,0,2,144,176,13,0,1,6,0,1,1,6,Richmond County,precinct
-Richmond County,Richmond 63021,200,198,10,1,5,0,2,2,192,194,11,7,4,0,1,193,191,11,1,4,4,2,1,4,5,Richmond County,precinct
-Richmond County,Richmond 63022,223,213,11,3,14,0,3,2,212,217,8,10,8,2,1,203,208,18,11,5,10,1,2,0,4,Richmond County,precinct
-Richmond County,Richmond 63023,227,168,18,4,6,0,1,5,225,165,15,7,3,0,1,216,166,19,6,6,8,1,0,1,3,Richmond County,precinct
-Richmond County,Richmond 63024,199,205,14,2,4,0,4,7,206,182,16,8,9,2,1,218,180,16,5,3,6,0,1,2,6,Richmond County,precinct
-Richmond County,Richmond 63025,125,203,12,0,4,0,0,0,132,185,14,4,1,0,0,142,170,20,0,3,1,0,0,2,2,Richmond County,precinct
-Richmond County,Richmond 63026,171,304,23,1,1,0,1,10,181,273,22,3,8,1,2,185,276,24,3,2,9,0,4,0,3,Richmond County,precinct
-Richmond County,Richmond 63027,230,212,16,0,12,0,2,2,231,202,17,6,7,2,2,228,213,22,4,3,5,1,1,0,1,Richmond County,precinct
-Richmond County,Richmond 63028,151,184,24,0,7,0,1,0,133,188,27,6,3,1,0,133,192,26,5,3,1,1,1,1,4,Richmond County,precinct
-Richmond County,Richmond 63029,222,194,20,1,7,0,6,2,214,193,19,3,10,1,5,206,201,21,5,5,4,2,2,1,7,Richmond County,precinct
-Richmond County,Richmond 63030,252,159,12,3,6,0,8,5,249,163,8,8,5,5,0,237,164,16,5,6,5,5,0,1,2,Richmond County,precinct
-Richmond County,Richmond 63031,282,190,19,1,8,0,4,2,285,175,18,10,10,2,1,279,172,19,7,8,8,4,1,3,5,Richmond County,precinct
-Richmond County,Richmond 63032,270,217,9,2,7,0,2,6,260,209,11,10,10,2,1,257,214,10,9,8,4,4,2,0,6,Richmond County,precinct
-Richmond County,Richmond 63033,257,276,29,1,9,0,3,4,252,277,28,5,4,4,2,245,279,34,1,5,4,4,4,1,5,Richmond County,precinct
-Richmond County,Richmond 63034,177,263,37,3,6,0,0,5,180,263,36,2,8,1,0,173,273,32,3,3,8,0,1,0,3,Richmond County,precinct
-Richmond County,Richmond 63035,194,300,52,3,14,0,1,5,211,271,49,16,7,0,1,195,284,51,5,11,10,3,1,0,2,Richmond County,precinct
-Richmond County,Richmond 63036,304,251,27,5,10,0,5,2,303,245,20,11,3,2,0,302,241,27,7,8,3,1,1,0,7,Richmond County,precinct
-Richmond County,Richmond 63037,344,124,13,0,15,0,4,0,337,125,12,8,9,1,0,339,125,12,1,6,8,0,0,9,2,Richmond County,precinct
-Richmond County,Richmond 63038,382,97,4,2,18,0,1,2,367,96,6,16,7,3,1,362,107,4,4,13,8,0,1,3,6,Richmond County,precinct
-Richmond County,Richmond 63039,365,55,6,0,6,0,1,3,347,53,8,5,6,4,0,342,60,7,7,10,5,0,0,1,4,Richmond County,precinct
-Richmond County,Richmond 63040,248,44,3,1,6,0,1,0,238,43,6,5,2,0,1,250,41,5,3,5,2,0,0,0,0,Richmond County,precinct
-Richmond County,Richmond 63041,256,6,1,3,6,0,0,1,244,11,1,6,1,1,1,254,9,2,2,6,2,0,1,0,0,Richmond County,precinct
-Richmond County,Richmond 63042,330,19,2,1,9,0,2,2,314,17,2,5,5,2,0,327,14,1,4,5,7,3,1,0,1,Richmond County,precinct
-Richmond County,Richmond 63043,446,32,3,4,9,0,5,1,430,42,2,4,9,0,0,433,44,4,4,3,5,0,1,1,3,Richmond County,precinct
-Richmond County,Richmond 63044,447,33,4,1,8,0,2,1,433,28,5,5,7,1,0,437,33,4,4,4,7,1,1,0,1,Richmond County,precinct
-Richmond County,Richmond 63045,364,20,1,0,10,0,4,3,352,19,3,9,5,3,0,358,20,3,2,9,6,1,1,1,0,Richmond County,precinct
-Richmond County,Richmond 63046,158,282,26,3,9,0,2,7,173,255,25,10,7,1,5,176,251,25,3,10,6,1,3,1,7,Richmond County,precinct
-Richmond County,Richmond 63047,193,237,31,3,5,0,3,1,203,219,30,6,5,1,0,188,230,28,8,3,4,0,1,4,6,Richmond County,precinct
-Richmond County,Richmond 63048,162,301,33,3,2,0,0,8,166,285,36,5,6,1,2,164,280,35,3,4,7,0,3,1,7,Richmond County,precinct
-Richmond County,Richmond 63049,203,314,23,2,5,0,3,8,210,292,23,7,7,4,0,197,301,23,7,4,9,2,3,3,4,Richmond County,precinct
-Richmond County,Richmond 63050,238,276,16,1,10,0,2,7,238,269,19,8,11,1,0,235,264,18,1,8,15,0,1,0,6,Richmond County,precinct
-Richmond County,Richmond 63051,184,269,20,1,7,0,5,9,187,264,21,6,10,1,2,182,271,18,4,2,8,1,3,1,3,Richmond County,precinct
-Richmond County,Richmond 63052,122,211,11,1,4,0,5,7,128,205,12,3,8,1,1,119,207,15,4,5,11,1,0,1,3,Richmond County,precinct
-Richmond County,Richmond 63053,274,196,28,2,11,0,3,5,279,183,22,15,6,2,1,271,197,22,4,7,6,1,1,1,3,Richmond County,precinct
-Richmond County,Richmond 63054,283,203,22,1,8,0,4,5,300,170,23,9,5,0,0,290,185,19,6,4,8,1,0,0,5,Richmond County,precinct
-Richmond County,Richmond 63055,288,205,21,1,6,0,6,3,273,192,19,9,10,3,0,273,203,21,6,1,12,1,0,1,2,Richmond County,precinct
-Richmond County,Richmond 63056,216,122,9,2,4,0,2,3,205,114,15,8,6,0,0,215,113,16,3,2,6,0,1,0,3,Richmond County,precinct
-Richmond County,Richmond 63057,199,301,23,1,7,0,0,1,200,277,23,6,4,1,1,221,254,26,1,2,3,1,1,0,1,Richmond County,precinct
-Richmond County,Richmond 63058,223,271,15,0,7,0,1,3,214,255,18,6,3,2,1,229,241,22,3,5,4,1,0,0,3,Richmond County,precinct
-Richmond County,Richmond 63059,231,225,20,1,9,0,2,5,227,211,24,8,7,0,2,224,220,26,4,5,6,0,3,0,6,Richmond County,precinct
-Richmond County,Richmond 63060,149,136,16,1,13,0,1,3,143,131,20,7,7,1,2,130,144,18,5,7,6,2,3,0,5,Richmond County,precinct
-Richmond County,Richmond 63061,284,192,24,1,13,0,0,6,289,181,22,12,5,2,2,274,182,28,5,14,6,0,3,1,3,Richmond County,precinct
-Richmond County,Richmond 63062,139,205,14,1,8,0,1,7,143,199,11,12,5,0,1,130,209,18,1,8,4,0,2,2,0,Richmond County,precinct
-Richmond County,Richmond 63063,244,311,30,4,14,0,5,9,254,291,30,13,9,4,3,234,305,36,4,11,10,3,3,2,5,Richmond County,precinct
-Richmond County,Richmond 63064,199,274,43,2,9,0,3,6,214,255,40,7,10,3,0,202,258,45,3,8,8,1,3,3,1,Richmond County,precinct
-Richmond County,Richmond 63065,233,221,33,4,17,0,4,3,223,214,35,19,9,2,1,212,223,36,4,13,10,1,3,1,6,Richmond County,precinct
-Richmond County,Richmond 63066,219,264,25,0,9,0,5,2,211,249,29,7,12,2,3,214,257,27,6,6,6,0,2,0,4,Richmond County,precinct
-Richmond County,Richmond 63067,241,273,30,2,9,0,7,6,238,261,30,12,10,3,3,226,274,33,3,8,7,2,4,1,8,Richmond County,precinct
-Richmond County,Richmond 63068,106,32,3,1,1,0,0,0,103,29,3,1,1,0,3,100,30,5,4,1,3,0,0,0,0,Richmond County,precinct
-Richmond County,Richmond 63069,225,173,17,1,1,0,4,8,220,169,17,4,9,2,0,220,162,23,5,8,5,2,3,0,5,Richmond County,precinct
-Richmond County,Richmond 63070,142,145,15,2,2,0,0,6,160,124,14,2,4,0,0,150,133,19,0,3,4,0,1,2,1,Richmond County,precinct
-Richmond County,Richmond 63071,270,40,0,1,9,0,2,4,258,27,6,7,2,1,0,283,27,5,4,1,6,1,0,1,0,Richmond County,precinct
-Richmond County,Richmond 63072,214,217,15,0,17,0,1,5,221,203,17,12,4,0,4,205,208,23,4,9,5,1,5,1,3,Richmond County,precinct
-Richmond County,Richmond 63073,259,217,19,1,4,0,1,5,257,195,24,9,7,1,1,244,207,27,4,7,8,1,2,2,0,Richmond County,precinct
-Richmond County,Richmond 63074,135,106,14,2,6,0,0,1,132,98,13,6,5,0,2,125,106,15,4,4,5,1,1,0,3,Richmond County,precinct
-Richmond County,Richmond 63075,230,33,5,0,6,0,0,4,217,33,5,6,3,1,1,238,31,3,1,2,4,0,2,1,1,Richmond County,precinct
-Richmond County,Richmond 63076,254,234,15,0,7,0,1,5,248,226,15,7,9,0,1,246,234,16,2,7,9,1,4,0,2,Richmond County,precinct
-Richmond County,Richmond 63077,233,150,9,2,10,0,2,3,236,147,9,9,2,1,0,223,149,13,6,8,3,1,1,1,5,Richmond County,precinct
-Richmond County,Richmond 63078,127,117,9,0,5,0,0,1,119,112,10,5,6,2,1,118,116,11,3,3,4,0,1,1,1,Richmond County,precinct
-Richmond County,Richmond 63079,157,193,16,2,8,0,2,4,150,194,21,3,5,2,2,144,204,20,4,1,5,2,1,2,4,Richmond County,precinct
-Richmond County,Richmond 63080,344,84,11,0,15,0,5,2,333,86,11,11,14,2,0,331,86,13,3,6,15,1,1,1,2,Richmond County,precinct
-Richmond County,Richmond 63081,143,156,17,1,4,0,0,3,147,144,17,5,6,2,0,139,155,16,3,3,3,1,0,0,1,Richmond County,precinct
-Richmond County,Richmond 63082,136,113,14,2,2,0,4,1,126,115,15,1,6,0,0,127,112,12,3,1,8,0,0,1,3,Richmond County,precinct
-Richmond County,Richmond 63083,305,138,8,0,9,0,1,5,313,123,8,7,9,0,0,303,126,11,6,3,9,0,1,0,4,Richmond County,precinct
-Richmond County,Richmond 63084,207,175,16,1,9,0,4,11,203,179,16,4,10,2,5,202,170,17,6,4,14,1,3,0,7,Richmond County,precinct
-Richmond County,Richmond 63085,173,164,13,1,7,0,2,1,166,171,12,4,2,0,0,156,179,10,2,4,3,1,1,3,1,Richmond County,precinct
-Richmond County,Richmond 64001,112,240,18,1,9,0,3,3,117,231,20,6,5,0,0,107,236,23,1,6,6,1,1,0,2,Richmond County,precinct
-Richmond County,Richmond 64002,148,273,39,5,5,0,4,3,152,256,39,8,8,1,0,132,271,40,9,2,9,3,2,1,6,Richmond County,precinct
-Richmond County,Richmond 64003,141,293,45,2,4,0,4,9,137,297,37,4,10,1,0,136,295,42,2,3,5,0,3,0,6,Richmond County,precinct
-Richmond County,Richmond 64004,114,260,33,0,7,0,2,1,127,239,33,4,6,1,1,115,251,26,4,5,6,1,0,1,4,Richmond County,precinct
-Richmond County,Richmond 64005,191,290,37,2,13,0,1,12,187,285,37,10,13,0,0,180,285,35,4,11,11,1,5,0,9,Richmond County,precinct
-Richmond County,Richmond 64006,187,319,35,3,9,0,1,6,189,302,36,12,10,0,0,173,316,33,6,6,8,2,4,1,5,Richmond County,precinct
-Richmond County,Richmond 64007,179,340,34,0,11,0,2,4,188,323,39,10,4,0,0,177,329,39,6,8,2,1,0,1,7,Richmond County,precinct
-Richmond County,Richmond 64008,144,232,39,2,13,0,6,5,134,240,40,6,9,4,1,137,241,40,2,3,9,3,0,0,6,Richmond County,precinct
-Richmond County,Richmond 64009,125,240,27,0,4,0,2,4,123,230,27,4,5,1,0,114,244,24,2,1,3,1,1,0,2,Richmond County,precinct
-Richmond County,Richmond 64010,107,262,18,0,6,0,2,3,105,255,21,5,4,2,1,113,247,26,1,1,4,3,0,1,1,Richmond County,precinct
-Richmond County,Richmond 64011,63,99,15,0,3,0,1,3,64,99,16,4,2,0,0,60,96,14,1,2,4,0,1,0,1,Richmond County,precinct
-Richmond County,Richmond 64012,126,224,12,0,3,0,2,3,126,220,12,5,3,0,0,123,226,14,1,1,1,0,0,0,4,Richmond County,precinct
-Richmond County,Richmond 64013,71,114,9,0,1,0,0,1,74,108,7,1,1,1,1,74,105,7,2,1,0,1,1,0,2,Richmond County,precinct
-Richmond County,Richmond 64014,164,273,20,1,5,0,4,5,167,264,17,4,4,3,0,161,277,19,1,1,6,1,0,0,4,Richmond County,precinct
-Richmond County,Richmond 64015,145,320,27,1,5,0,2,10,153,306,29,5,8,1,1,133,325,21,9,4,6,4,2,0,1,Richmond County,precinct
-Richmond County,Richmond 64016,140,278,34,2,9,0,2,2,138,264,35,10,9,1,1,130,271,36,3,7,7,1,0,0,7,Richmond County,precinct
-Richmond County,Richmond 64017,180,257,29,2,6,0,1,3,180,249,25,8,7,1,0,182,244,27,6,7,7,0,0,0,0,Richmond County,precinct
-Richmond County,Richmond 64018,184,215,9,0,11,0,4,5,164,226,12,5,8,0,0,161,225,13,3,6,7,0,1,0,5,Richmond County,precinct
-Richmond County,Richmond 64019,253,103,7,1,8,0,5,2,245,101,8,9,4,0,0,245,96,10,4,9,5,3,0,0,1,Richmond County,precinct
-Richmond County,Richmond 64020,208,201,18,0,11,0,1,5,197,211,20,5,6,1,0,192,220,18,2,8,7,1,0,0,3,Richmond County,precinct
-Richmond County,Richmond 64021,175,229,20,1,8,0,4,6,185,207,23,3,7,4,2,174,224,19,3,5,6,3,2,0,2,Richmond County,precinct
-Richmond County,Richmond 64022,178,258,19,3,6,0,1,5,187,242,19,6,8,0,0,183,244,25,2,5,4,1,2,2,3,Richmond County,precinct
-Richmond County,Richmond 64023,123,220,27,2,10,0,4,0,135,198,29,6,7,2,2,128,208,29,4,5,5,3,0,2,5,Richmond County,precinct
-Richmond County,Richmond 64024,182,201,24,6,4,0,6,4,188,187,24,5,9,2,0,183,190,26,4,6,7,0,1,1,7,Richmond County,precinct
-Richmond County,Richmond 64025,176,205,27,3,10,0,7,5,171,201,22,7,12,4,2,169,207,27,3,9,7,2,2,3,5,Richmond County,precinct
-Richmond County,Richmond 64026,173,202,15,0,11,0,4,3,173,182,21,10,9,2,0,171,193,17,0,8,6,1,0,1,6,Richmond County,precinct
-Richmond County,Richmond 64027,186,192,22,1,11,0,0,1,178,188,24,13,4,0,1,181,184,24,2,6,4,1,3,2,5,Richmond County,precinct
-Richmond County,Richmond 64028,112,159,14,2,9,0,2,3,114,149,15,6,7,2,2,112,155,15,8,5,3,1,0,0,1,Richmond County,precinct
-Richmond County,Richmond 64029,176,248,16,0,6,0,5,6,173,239,17,7,7,4,0,166,240,19,3,7,7,3,0,0,6,Richmond County,precinct
-Richmond County,Richmond 64030,143,229,17,1,8,0,2,2,153,216,16,4,6,1,0,154,217,17,4,5,7,1,0,0,3,Richmond County,precinct
-Richmond County,Richmond 64031,211,193,12,1,8,0,2,3,207,185,12,5,10,2,1,203,190,15,2,7,6,2,0,3,3,Richmond County,precinct
-Richmond County,Richmond 64032,229,223,24,0,5,0,4,5,229,204,28,5,13,1,0,216,211,29,7,2,9,0,2,5,7,Richmond County,precinct
-Richmond County,Richmond 64033,129,251,17,2,5,0,2,6,137,231,19,5,6,3,0,137,237,24,4,4,3,1,1,1,1,Richmond County,precinct
-Richmond County,Richmond 64034,185,203,19,1,9,0,5,3,193,195,17,4,6,2,1,184,197,24,3,2,7,1,0,0,9,Richmond County,precinct
-Richmond County,Richmond 64035,168,242,19,1,3,0,3,5,181,218,23,4,8,0,0,173,232,22,2,3,8,2,0,1,2,Richmond County,precinct
-Richmond County,Richmond 64036,225,249,30,4,9,0,5,4,223,249,33,6,8,2,2,228,241,36,2,4,9,3,2,0,4,Richmond County,precinct
-Richmond County,Richmond 64037,136,208,23,0,7,0,0,5,141,197,21,6,3,0,1,138,204,21,1,8,2,0,2,1,0,Richmond County,precinct
-Richmond County,Richmond 64038,233,205,12,1,5,0,3,4,235,196,10,7,5,4,1,232,191,16,7,5,10,0,2,2,1,Richmond County,precinct
-Richmond County,Richmond 64039,179,193,13,0,7,0,2,4,193,173,13,5,8,1,1,191,174,13,2,4,9,0,0,1,4,Richmond County,precinct
-Richmond County,Richmond 64040,272,77,8,1,16,0,4,3,264,76,9,9,9,0,0,264,77,12,5,11,9,1,1,2,3,Richmond County,precinct
-Richmond County,Richmond 64041,198,202,10,3,5,0,0,3,192,201,14,5,2,1,0,192,197,17,3,6,3,1,1,0,2,Richmond County,precinct
-Richmond County,Richmond 64042,222,144,10,2,4,0,4,3,220,141,10,6,3,2,0,223,144,10,5,4,1,1,0,0,2,Richmond County,precinct
-Richmond County,Richmond 64043,159,138,8,3,4,0,3,2,155,131,7,10,2,1,2,163,128,9,6,7,2,1,2,0,1,Richmond County,precinct
-Richmond County,Richmond 64044,232,177,13,2,7,0,1,4,232,167,19,7,5,1,1,232,168,19,4,5,5,1,2,0,5,Richmond County,precinct
-Richmond County,Richmond 64045,228,144,19,2,6,0,3,3,229,136,17,7,7,0,0,221,145,16,2,4,6,2,2,0,6,Richmond County,precinct
-Richmond County,Richmond 64046,195,146,21,3,2,0,1,2,188,143,23,2,2,2,0,176,145,25,3,6,2,0,1,2,6,Richmond County,precinct
-Richmond County,Richmond 64047,242,200,22,7,16,0,1,11,260,187,25,15,8,0,1,249,187,26,6,14,8,1,1,1,5,Richmond County,precinct
-Richmond County,Richmond 64048,162,294,29,2,9,0,2,5,156,291,29,9,6,1,1,140,300,28,3,11,7,0,3,0,3,Richmond County,precinct
-Richmond County,Richmond 64049,255,178,17,1,8,0,6,9,245,165,14,8,16,5,0,263,176,13,2,4,11,3,4,1,3,Richmond County,precinct
-Richmond County,Richmond 64050,243,149,8,2,6,0,3,2,242,141,11,8,9,0,0,241,138,12,6,4,6,1,1,1,2,Richmond County,precinct
-Richmond County,Richmond 64051,303,123,10,2,12,0,3,2,292,119,9,11,8,3,1,282,128,15,9,7,8,4,2,0,2,Richmond County,precinct
-Richmond County,Richmond 64052,207,193,18,1,11,0,4,2,212,184,15,9,6,1,1,204,190,15,5,6,5,3,2,0,6,Richmond County,precinct
-Richmond County,Richmond 64053,236,156,19,2,6,0,0,8,234,156,18,7,7,0,2,236,158,17,5,4,5,2,1,0,4,Richmond County,precinct
-Richmond County,Richmond 64054,162,272,19,4,12,0,3,3,179,256,20,13,4,2,0,160,268,22,6,11,4,1,1,0,3,Richmond County,precinct
-Richmond County,Richmond 64055,189,226,14,2,11,0,2,1,196,219,16,7,5,2,1,187,226,13,1,3,6,1,1,2,3,Richmond County,precinct
-Richmond County,Richmond 64056,154,244,32,0,9,0,5,4,148,237,29,14,11,3,1,148,236,29,4,10,8,3,2,0,7,Richmond County,precinct
-Richmond County,Richmond 64057,136,143,16,0,8,0,6,2,131,144,16,7,8,1,1,127,140,15,5,5,7,1,1,0,7,Richmond County,precinct
-Richmond County,Richmond 64058,144,259,18,0,11,0,2,7,145,256,21,7,6,0,0,141,251,21,3,5,10,0,0,1,1,Richmond County,precinct
-Richmond County,Richmond 64059,160,207,14,1,9,0,3,3,166,195,14,11,2,2,0,165,194,10,5,5,2,1,0,1,6,Richmond County,precinct
-Richmond County,Richmond 64060,116,117,13,0,5,0,3,3,121,109,14,4,6,0,1,106,117,15,4,4,5,1,0,0,2,Richmond County,precinct
-Richmond County,Richmond 64061,222,118,7,4,7,0,4,4,216,113,10,6,5,5,1,216,123,9,4,5,3,2,2,1,5,Richmond County,precinct
-Richmond County,Richmond 64062,193,235,21,3,4,0,3,3,188,232,26,3,2,1,0,178,238,23,2,5,6,3,1,0,3,Richmond County,precinct
-Richmond County,Richmond 64063,166,186,15,1,6,0,1,2,166,176,17,3,6,1,1,164,184,16,3,3,3,0,2,1,1,Richmond County,precinct
+Richmond County,Richmond 61001,508,36,6,2,23,0,6,1,486,30,4,23,12,2,1,495,32,6,8,15,10,3,2,3,1,Richmond County,Richmond 61001
+Richmond County,Richmond 61002,473,56,9,6,35,0,5,2,464,51,10,35,7,7,1,444,62,12,20,31,7,3,0,3,6,Richmond County,Richmond 61002
+Richmond County,Richmond 61003,463,81,12,4,26,0,5,9,451,76,14,27,10,6,8,436,79,14,21,23,10,4,4,0,6,Richmond County,Richmond 61003
+Richmond County,Richmond 61004,292,40,4,1,20,0,1,1,284,44,3,18,6,2,2,274,47,3,10,15,3,3,0,0,6,Richmond County,Richmond 61004
+Richmond County,Richmond 61005,293,30,4,7,33,0,5,1,288,31,2,36,6,4,1,281,27,5,17,30,3,4,1,2,0,Richmond County,Richmond 61005
+Richmond County,Richmond 61006,186,73,5,0,8,0,0,1,184,67,8,6,5,0,2,189,67,7,4,4,8,1,1,1,0,Richmond County,Richmond 61006
+Richmond County,Richmond 61007,406,21,1,0,5,0,2,0,386,21,0,7,5,0,1,396,18,3,3,2,4,1,0,0,5,Richmond County,Richmond 61007
+Richmond County,Richmond 61008,281,11,3,1,11,0,0,2,261,18,3,10,4,1,0,272,12,4,5,10,5,1,0,1,0,Richmond County,Richmond 61008
+Richmond County,Richmond 61009,473,81,8,1,20,0,4,2,463,80,11,20,8,0,2,455,89,7,9,19,6,1,0,1,4,Richmond County,Richmond 61009
+Richmond County,Richmond 61010,422,74,11,3,18,0,6,3,405,73,10,14,6,1,1,421,76,11,5,16,9,2,0,0,4,Richmond County,Richmond 61010
+Richmond County,Richmond 61011,364,81,8,2,18,0,5,8,354,73,11,15,18,1,3,342,82,19,7,6,14,0,1,2,2,Richmond County,Richmond 61011
+Richmond County,Richmond 61012,499,215,28,3,17,0,7,10,481,198,32,14,17,2,2,459,219,34,10,12,12,1,2,7,8,Richmond County,Richmond 61012
+Richmond County,Richmond 61013,363,78,5,1,20,0,2,6,354,83,6,21,5,1,0,357,83,9,5,14,6,1,0,0,5,Richmond County,Richmond 61013
+Richmond County,Richmond 61014,322,149,22,1,11,0,6,5,317,140,21,13,17,2,2,298,145,22,13,12,11,1,2,5,8,Richmond County,Richmond 61014
+Richmond County,Richmond 61015,281,125,10,2,15,0,4,6,279,121,12,11,5,3,2,272,127,10,7,9,10,1,2,5,0,Richmond County,Richmond 61015
+Richmond County,Richmond 61016,424,26,4,2,5,0,1,3,413,28,4,6,1,0,0,416,27,2,3,7,4,1,0,3,3,Richmond County,Richmond 61016
+Richmond County,Richmond 61017,427,34,2,2,15,0,9,0,411,33,3,17,7,4,2,410,38,5,4,14,6,2,1,0,6,Richmond County,Richmond 61017
+Richmond County,Richmond 61018,338,98,9,5,12,0,6,2,337,91,13,10,6,0,1,333,98,12,7,4,8,2,1,0,3,Richmond County,Richmond 61018
+Richmond County,Richmond 61019,371,126,17,2,17,0,2,1,362,113,20,20,8,2,1,365,120,20,6,11,8,1,0,0,5,Richmond County,Richmond 61019
+Richmond County,Richmond 61020,346,130,18,4,10,0,2,1,337,130,19,9,6,0,1,341,128,18,3,8,2,2,1,0,7,Richmond County,Richmond 61020
+Richmond County,Richmond 61021,368,36,10,4,17,0,4,1,350,38,11,18,8,3,0,360,37,9,2,20,4,5,0,2,2,Richmond County,Richmond 61021
+Richmond County,Richmond 61022,434,72,6,1,7,0,1,3,423,66,4,8,7,0,0,428,68,6,9,8,3,0,0,1,1,Richmond County,Richmond 61022
+Richmond County,Richmond 61023,324,91,7,2,4,0,3,5,322,86,6,5,5,0,2,318,96,5,3,4,7,2,1,0,2,Richmond County,Richmond 61023
+Richmond County,Richmond 61024,324,152,18,2,10,0,6,8,311,157,16,12,13,2,2,315,152,22,4,10,7,2,2,5,7,Richmond County,Richmond 61024
+Richmond County,Richmond 61025,370,120,12,3,6,0,3,2,365,118,13,1,8,0,0,364,126,9,4,2,6,1,0,1,5,Richmond County,Richmond 61025
+Richmond County,Richmond 61026,412,59,4,2,11,0,8,6,396,65,6,12,9,2,2,396,70,7,3,7,10,2,1,2,8,Richmond County,Richmond 61026
+Richmond County,Richmond 61027,379,77,5,4,8,0,3,1,374,75,5,4,7,2,1,368,80,8,1,7,4,5,0,2,3,Richmond County,Richmond 61027
+Richmond County,Richmond 61028,300,54,7,2,15,0,2,0,292,51,11,11,6,2,0,295,50,12,5,4,6,2,0,2,4,Richmond County,Richmond 61028
+Richmond County,Richmond 61029,268,127,12,2,9,0,2,2,257,121,14,7,9,1,1,258,124,14,1,8,11,2,0,1,2,Richmond County,Richmond 61029
+Richmond County,Richmond 61030,336,148,12,0,15,0,0,6,333,146,12,10,3,1,2,331,150,12,2,7,6,2,0,1,2,Richmond County,Richmond 61030
+Richmond County,Richmond 61031,454,82,9,2,13,0,5,3,434,80,9,11,9,2,2,443,82,7,4,9,9,3,2,0,2,Richmond County,Richmond 61031
+Richmond County,Richmond 61032,405,74,13,1,2,0,2,1,389,72,13,6,3,2,0,400,78,11,2,2,2,2,0,0,0,Richmond County,Richmond 61032
+Richmond County,Richmond 61033,378,71,7,4,9,0,3,2,384,56,8,6,8,2,0,378,60,9,9,8,5,2,0,1,3,Richmond County,Richmond 61033
+Richmond County,Richmond 61034,179,243,36,0,9,0,2,3,188,222,36,7,5,2,3,176,247,32,2,3,8,1,0,0,4,Richmond County,Richmond 61034
+Richmond County,Richmond 61035,142,262,18,3,3,0,5,2,138,254,18,6,6,3,3,132,263,26,4,5,3,1,2,1,0,Richmond County,Richmond 61035
+Richmond County,Richmond 61036,128,138,17,3,7,0,3,4,128,139,12,7,7,2,0,127,139,20,3,4,4,1,1,1,0,Richmond County,Richmond 61036
+Richmond County,Richmond 61037,330,130,30,1,24,0,6,5,321,127,26,24,12,6,3,296,140,29,6,24,9,5,3,5,5,Richmond County,Richmond 61037
+Richmond County,Richmond 61038,293,198,37,2,13,0,6,9,282,201,36,12,14,3,5,267,208,37,2,9,14,2,7,0,6,Richmond County,Richmond 61038
+Richmond County,Richmond 61039,274,207,31,4,15,0,3,6,282,189,30,16,8,2,1,269,209,27,3,11,10,2,0,1,4,Richmond County,Richmond 61039
+Richmond County,Richmond 61040,285,248,35,0,11,0,2,3,284,234,34,12,8,1,3,262,254,35,4,11,6,1,1,3,3,Richmond County,Richmond 61040
+Richmond County,Richmond 61041,178,250,47,2,9,0,2,10,169,242,48,7,10,1,1,172,242,49,4,2,9,1,4,3,6,Richmond County,Richmond 61041
+Richmond County,Richmond 61042,297,308,37,4,14,0,5,8,305,286,37,11,12,3,5,293,300,40,5,11,9,2,6,3,4,Richmond County,Richmond 61042
+Richmond County,Richmond 61043,176,198,32,1,5,0,6,3,176,186,31,6,12,2,0,167,195,34,5,5,9,2,1,2,2,Richmond County,Richmond 61043
+Richmond County,Richmond 61044,214,167,28,2,12,0,5,6,223,153,30,7,8,6,1,200,165,34,5,8,6,1,1,0,10,Richmond County,Richmond 61044
+Richmond County,Richmond 61045,195,232,42,2,9,0,1,4,208,212,42,7,5,0,1,193,228,41,5,4,4,0,3,2,2,Richmond County,Richmond 61045
+Richmond County,Richmond 61046,229,219,30,1,11,0,5,9,238,212,27,7,10,1,1,226,211,27,4,4,9,3,2,4,10,Richmond County,Richmond 61046
+Richmond County,Richmond 61047,219,318,26,1,10,0,3,7,235,288,27,15,7,3,1,226,301,27,0,10,10,1,1,1,3,Richmond County,Richmond 61047
+Richmond County,Richmond 61048,194,308,30,3,5,0,1,7,196,285,31,6,6,3,2,183,303,36,2,4,7,1,1,2,4,Richmond County,Richmond 61048
+Richmond County,Richmond 61049,215,25,1,1,7,0,6,1,213,24,0,9,7,1,1,203,19,2,11,9,8,0,1,0,2,Richmond County,Richmond 61049
+Richmond County,Richmond 61050,232,39,14,0,9,0,2,2,228,38,14,7,5,2,0,224,38,14,3,8,5,2,0,1,2,Richmond County,Richmond 61050
+Richmond County,Richmond 61051,364,73,8,0,21,0,12,5,349,71,8,23,13,4,1,341,72,7,6,17,11,1,1,4,6,Richmond County,Richmond 61051
+Richmond County,Richmond 61052,269,156,9,1,7,0,2,7,263,155,10,9,2,3,3,240,152,11,3,10,5,2,6,3,6,Richmond County,Richmond 61052
+Richmond County,Richmond 61053,462,15,0,1,12,0,3,1,448,16,0,12,3,3,0,472,10,2,3,8,4,0,0,2,2,Richmond County,Richmond 61053
+Richmond County,Richmond 61054,251,48,8,2,20,0,0,5,246,48,8,20,4,1,0,247,53,7,11,7,4,2,0,0,3,Richmond County,Richmond 61054
+Richmond County,Richmond 61055,393,32,2,0,8,0,1,0,392,24,0,6,9,1,1,389,24,1,4,7,9,0,0,1,5,Richmond County,Richmond 61055
+Richmond County,Richmond 61056,349,47,5,3,21,0,3,1,349,48,4,19,7,0,1,343,52,5,5,14,6,1,0,0,1,Richmond County,Richmond 61056
+Richmond County,Richmond 61057,372,120,10,3,18,0,3,5,358,111,12,18,11,1,2,351,125,12,12,13,12,1,1,1,1,Richmond County,Richmond 61057
+Richmond County,Richmond 61058,430,9,0,0,1,0,1,1,421,9,1,3,0,1,0,433,11,1,1,1,1,0,0,1,0,Richmond County,Richmond 61058
+Richmond County,Richmond 61059,372,17,2,0,9,0,1,1,365,18,2,7,6,1,0,356,19,4,3,8,2,1,0,2,5,Richmond County,Richmond 61059
+Richmond County,Richmond 61060,247,72,8,4,7,0,4,3,247,72,7,9,5,1,1,244,71,6,5,4,5,1,2,2,3,Richmond County,Richmond 61060
+Richmond County,Richmond 61061,417,15,0,1,7,0,1,1,400,15,0,6,2,2,0,410,15,0,4,8,2,1,0,0,0,Richmond County,Richmond 61061
+Richmond County,Richmond 61062,199,151,14,3,11,0,2,3,192,149,13,13,5,3,3,188,153,17,5,14,7,0,4,0,1,Richmond County,Richmond 61062
+Richmond County,Richmond 61063,101,52,3,0,0,0,1,4,96,55,4,0,2,0,1,101,51,3,1,1,1,0,0,0,3,Richmond County,Richmond 61063
+Richmond County,Richmond 61064,136,30,2,0,6,0,0,0,134,27,1,4,7,0,0,132,27,3,3,4,2,0,0,0,1,Richmond County,Richmond 61064
+Richmond County,Richmond 61065,480,58,6,3,18,0,2,7,467,58,9,16,7,1,3,458,62,6,12,14,9,4,0,2,5,Richmond County,Richmond 61065
+Richmond County,Richmond 61066,262,82,11,1,18,0,3,2,251,86,10,19,5,2,0,244,87,12,8,17,4,0,1,0,1,Richmond County,Richmond 61066
+Richmond County,Richmond 61067,368,99,5,2,11,0,1,4,362,90,5,9,15,1,0,360,93,9,3,6,11,2,1,2,3,Richmond County,Richmond 61067
+Richmond County,Richmond 61068,353,55,7,2,11,0,0,2,335,61,7,10,3,1,0,334,58,10,7,9,5,2,1,2,3,Richmond County,Richmond 61068
+Richmond County,Richmond 61069,343,64,4,1,9,0,3,1,326,71,6,6,4,4,0,325,68,6,4,9,2,1,1,0,6,Richmond County,Richmond 61069
+Richmond County,Richmond 61070,321,11,0,2,5,0,2,1,315,12,0,5,3,1,1,321,11,1,2,7,2,2,0,1,1,Richmond County,Richmond 61070
+Richmond County,Richmond 61071,225,185,20,0,7,0,1,8,230,161,28,9,4,1,2,210,178,24,8,7,7,0,1,1,4,Richmond County,Richmond 61071
+Richmond County,Richmond 61072,239,134,22,0,11,0,1,8,233,123,28,12,8,1,0,227,123,30,5,6,8,2,1,2,4,Richmond County,Richmond 61072
+Richmond County,Richmond 61073,445,25,4,0,7,0,3,2,431,26,2,7,5,1,0,440,25,3,1,6,4,1,2,1,2,Richmond County,Richmond 61073
+Richmond County,Richmond 61074,203,23,2,2,5,0,2,1,186,27,2,5,3,1,0,191,25,2,6,5,2,1,0,2,0,Richmond County,Richmond 61074
+Richmond County,Richmond 61075,248,57,11,4,17,0,3,4,240,52,12,17,11,0,1,238,60,10,13,12,9,0,1,1,2,Richmond County,Richmond 61075
+Richmond County,Richmond 61076,376,134,15,4,15,0,2,8,366,133,18,12,10,1,1,359,142,15,5,12,9,2,2,0,6,Richmond County,Richmond 61076
+Richmond County,Richmond 61077,256,17,1,0,16,0,0,0,249,14,1,15,4,1,0,242,17,1,12,12,3,0,0,0,1,Richmond County,Richmond 61077
+Richmond County,Richmond 61078,195,26,3,4,5,0,2,1,200,27,3,6,4,1,0,198,24,2,4,5,5,0,1,1,0,Richmond County,Richmond 61078
+Richmond County,Richmond 62001,115,328,22,1,4,0,1,7,115,322,24,4,7,1,0,115,320,31,5,0,8,0,0,0,3,Richmond County,Richmond 62001
+Richmond County,Richmond 62002,152,357,41,3,11,0,0,12,161,331,45,9,11,0,8,144,347,46,6,5,8,1,10,1,7,Richmond County,Richmond 62002
+Richmond County,Richmond 62003,123,279,23,1,12,0,2,4,116,274,24,11,6,2,2,112,288,21,3,7,2,0,5,2,3,Richmond County,Richmond 62003
+Richmond County,Richmond 62004,156,301,22,4,8,0,1,3,153,296,23,8,7,0,0,143,307,32,3,4,5,0,0,2,3,Richmond County,Richmond 62004
+Richmond County,Richmond 62005,90,368,23,2,5,0,3,6,93,351,21,7,7,1,0,95,362,23,2,0,7,0,1,0,3,Richmond County,Richmond 62005
+Richmond County,Richmond 62006,134,265,18,1,10,0,0,2,136,248,21,11,6,0,1,127,258,23,4,7,7,1,0,0,4,Richmond County,Richmond 62006
+Richmond County,Richmond 62007,140,333,32,3,5,0,1,3,151,319,32,2,6,1,1,141,320,34,2,2,5,0,2,0,5,Richmond County,Richmond 62007
+Richmond County,Richmond 62008,133,265,19,1,5,0,0,5,137,255,21,4,3,0,2,132,270,17,1,2,4,0,2,1,1,Richmond County,Richmond 62008
+Richmond County,Richmond 62009,79,178,21,1,4,0,1,1,77,178,19,2,3,0,0,76,180,17,0,3,4,1,0,0,3,Richmond County,Richmond 62009
+Richmond County,Richmond 62010,84,210,13,1,5,0,3,7,92,203,10,3,6,0,1,82,210,15,2,4,7,0,1,0,1,Richmond County,Richmond 62010
+Richmond County,Richmond 62011,123,330,41,1,3,0,1,5,124,330,38,3,5,1,4,123,329,42,3,3,4,0,1,0,2,Richmond County,Richmond 62011
+Richmond County,Richmond 62012,136,186,10,0,7,0,0,2,132,183,10,3,5,1,1,137,180,11,2,3,2,0,1,0,3,Richmond County,Richmond 62012
+Richmond County,Richmond 62013,174,285,17,2,11,0,4,5,177,280,20,11,8,2,1,167,291,16,7,6,11,2,0,2,0,Richmond County,Richmond 62013
+Richmond County,Richmond 62014,110,197,9,1,7,0,1,1,106,194,10,3,4,1,1,100,202,11,2,2,5,1,0,1,4,Richmond County,Richmond 62014
+Richmond County,Richmond 62015,162,260,16,1,8,0,2,4,154,258,19,3,5,2,1,159,263,19,1,3,4,1,1,0,3,Richmond County,Richmond 62015
+Richmond County,Richmond 62016,222,237,18,1,7,0,1,4,222,232,17,9,7,2,2,224,234,16,1,4,5,0,5,0,5,Richmond County,Richmond 62016
+Richmond County,Richmond 62017,71,222,16,4,1,0,1,1,64,224,16,2,2,0,0,72,221,14,1,2,1,1,0,0,4,Richmond County,Richmond 62017
+Richmond County,Richmond 62018,97,234,12,2,1,0,3,2,93,225,17,2,6,0,1,84,238,14,1,2,6,0,2,0,1,Richmond County,Richmond 62018
+Richmond County,Richmond 62019,110,241,27,1,6,0,1,5,108,238,26,3,9,1,1,104,236,28,3,3,9,2,3,1,3,Richmond County,Richmond 62019
+Richmond County,Richmond 62020,112,341,21,2,7,0,1,3,117,329,21,9,2,2,1,118,334,22,3,2,5,1,3,0,1,Richmond County,Richmond 62020
+Richmond County,Richmond 62021,105,329,26,0,9,0,4,5,96,333,27,7,7,4,2,98,321,29,7,3,10,1,3,1,3,Richmond County,Richmond 62021
+Richmond County,Richmond 62022,135,275,22,0,6,0,2,1,137,265,23,5,6,1,2,128,274,23,2,5,7,0,2,1,3,Richmond County,Richmond 62022
+Richmond County,Richmond 62023,115,255,21,0,5,0,2,3,112,255,21,4,4,0,0,107,262,20,1,3,4,0,0,1,2,Richmond County,Richmond 62023
+Richmond County,Richmond 62024,188,203,14,0,7,0,1,3,182,197,16,6,4,0,1,183,198,16,0,4,3,0,4,0,2,Richmond County,Richmond 62024
+Richmond County,Richmond 62025,103,286,34,1,3,0,1,12,111,275,35,0,9,1,0,108,290,25,1,1,6,1,1,1,1,Richmond County,Richmond 62025
+Richmond County,Richmond 62026,248,190,13,2,11,0,0,7,245,184,15,9,10,2,1,239,186,19,3,11,6,0,2,3,5,Richmond County,Richmond 62026
+Richmond County,Richmond 62027,152,357,22,2,6,0,4,6,164,343,23,4,8,1,2,160,358,18,3,3,4,2,2,1,1,Richmond County,Richmond 62027
+Richmond County,Richmond 62028,154,300,19,0,5,0,1,3,163,288,17,4,4,0,1,154,292,22,1,2,4,0,2,0,3,Richmond County,Richmond 62028
+Richmond County,Richmond 62029,107,274,24,1,4,0,2,3,103,270,24,4,6,1,0,102,267,27,1,4,7,0,1,2,7,Richmond County,Richmond 62029
+Richmond County,Richmond 62030,123,335,27,1,5,0,1,7,126,331,22,4,5,2,1,115,338,26,5,7,5,1,1,0,0,Richmond County,Richmond 62030
+Richmond County,Richmond 62031,157,304,29,1,8,0,7,7,164,302,24,3,8,3,1,157,296,27,3,4,10,3,4,0,8,Richmond County,Richmond 62031
+Richmond County,Richmond 62032,125,300,29,1,7,0,1,3,123,281,31,6,7,1,1,114,290,33,1,4,8,1,2,0,10,Richmond County,Richmond 62032
+Richmond County,Richmond 62033,148,310,31,1,2,0,1,5,152,293,29,4,5,0,1,146,307,29,2,1,4,1,1,0,7,Richmond County,Richmond 62033
+Richmond County,Richmond 62034,142,332,35,2,4,0,0,9,140,332,36,2,3,0,2,141,328,36,2,1,3,0,5,1,3,Richmond County,Richmond 62034
+Richmond County,Richmond 62035,121,287,32,0,5,0,3,5,121,283,33,2,5,1,0,115,291,32,1,0,5,1,1,1,5,Richmond County,Richmond 62035
+Richmond County,Richmond 62036,137,295,20,1,11,0,1,3,132,290,21,10,3,2,2,129,296,21,1,5,4,0,2,0,4,Richmond County,Richmond 62036
+Richmond County,Richmond 62037,122,383,35,0,5,0,3,3,135,364,38,2,6,0,0,124,374,25,7,1,4,1,2,0,6,Richmond County,Richmond 62037
+Richmond County,Richmond 62038,172,327,27,1,8,0,2,8,178,315,22,13,5,0,1,164,330,22,3,8,6,1,1,1,5,Richmond County,Richmond 62038
+Richmond County,Richmond 62039,152,314,35,0,8,0,5,7,147,312,33,8,11,1,2,139,323,34,3,5,11,0,2,0,4,Richmond County,Richmond 62039
+Richmond County,Richmond 62040,142,330,30,4,8,0,2,3,151,325,30,3,4,1,2,145,320,38,2,4,2,1,0,2,5,Richmond County,Richmond 62040
+Richmond County,Richmond 62041,146,317,18,3,4,0,3,2,139,319,21,1,8,1,0,132,328,19,3,1,5,1,0,0,5,Richmond County,Richmond 62041
+Richmond County,Richmond 62042,186,297,23,0,10,0,1,6,186,303,19,4,4,2,2,185,302,20,2,3,9,0,1,1,2,Richmond County,Richmond 62042
+Richmond County,Richmond 62043,167,319,16,1,8,0,5,8,165,307,18,8,10,5,3,147,329,21,3,5,7,2,1,1,6,Richmond County,Richmond 62043
+Richmond County,Richmond 62044,160,297,22,0,2,0,0,8,158,288,23,3,5,2,0,166,281,26,2,1,5,1,1,0,1,Richmond County,Richmond 62044
+Richmond County,Richmond 62045,123,292,23,1,4,0,1,1,112,295,19,3,3,1,0,111,302,18,3,2,5,1,1,0,1,Richmond County,Richmond 62045
+Richmond County,Richmond 62046,169,355,18,1,10,0,1,1,178,335,22,7,3,1,1,167,341,23,3,10,3,1,2,1,6,Richmond County,Richmond 62046
+Richmond County,Richmond 62047,128,330,25,0,4,0,2,1,141,302,25,8,2,2,2,141,314,26,0,4,2,1,0,2,1,Richmond County,Richmond 62047
+Richmond County,Richmond 62048,158,246,19,0,4,0,2,4,153,248,19,5,5,0,2,138,247,22,3,5,6,0,3,2,2,Richmond County,Richmond 62048
+Richmond County,Richmond 62049,194,303,20,1,6,0,1,6,199,295,19,3,10,0,0,190,303,23,6,2,3,1,1,0,2,Richmond County,Richmond 62049
+Richmond County,Richmond 62050,153,347,29,3,7,0,4,2,169,337,27,4,3,2,1,153,343,28,4,8,1,2,2,1,2,Richmond County,Richmond 62050
+Richmond County,Richmond 62051,179,248,22,2,8,0,4,1,189,236,19,5,4,1,0,186,236,21,2,6,2,0,0,0,7,Richmond County,Richmond 62051
+Richmond County,Richmond 62052,166,353,33,3,11,0,2,4,185,325,32,10,10,0,2,166,346,31,3,5,8,0,4,1,4,Richmond County,Richmond 62052
+Richmond County,Richmond 62053,169,329,20,4,4,0,3,2,171,317,23,6,7,2,2,168,325,26,1,5,3,1,2,1,2,Richmond County,Richmond 62053
+Richmond County,Richmond 62054,179,257,19,1,10,0,3,3,172,250,21,4,9,0,2,168,262,21,4,2,11,0,1,0,3,Richmond County,Richmond 62054
+Richmond County,Richmond 62055,180,332,24,0,5,0,2,5,185,315,25,5,6,1,2,171,328,25,3,3,4,1,5,3,6,Richmond County,Richmond 62055
+Richmond County,Richmond 62056,189,255,18,1,14,0,3,3,186,251,22,8,10,1,0,183,255,20,2,8,10,2,0,0,1,Richmond County,Richmond 62056
+Richmond County,Richmond 62057,165,284,26,4,6,0,1,1,154,289,26,7,4,1,0,150,293,27,2,3,6,0,2,0,1,Richmond County,Richmond 62057
+Richmond County,Richmond 62058,146,332,25,0,5,0,2,5,158,308,23,8,8,1,3,147,321,25,6,2,9,1,1,1,3,Richmond County,Richmond 62058
+Richmond County,Richmond 62059,181,270,24,1,3,0,3,5,176,264,24,5,7,4,1,179,263,24,5,3,6,2,1,1,1,Richmond County,Richmond 62059
+Richmond County,Richmond 62060,199,309,24,4,4,0,2,3,193,313,25,5,3,0,5,186,311,21,1,4,3,2,7,0,10,Richmond County,Richmond 62060
+Richmond County,Richmond 62061,170,320,20,1,10,0,0,1,173,307,25,9,5,0,1,169,309,30,3,3,4,0,0,1,5,Richmond County,Richmond 62061
+Richmond County,Richmond 62062,148,298,18,3,12,0,1,3,151,288,22,12,2,0,1,145,288,25,2,8,5,3,1,2,3,Richmond County,Richmond 62062
+Richmond County,Richmond 62063,163,202,10,0,3,0,4,2,161,192,11,4,8,1,1,160,198,12,3,2,3,2,1,0,1,Richmond County,Richmond 62063
+Richmond County,Richmond 62064,108,172,17,1,1,0,0,5,110,167,13,2,3,0,1,102,170,18,5,0,5,0,0,0,3,Richmond County,Richmond 62064
+Richmond County,Richmond 62065,167,393,29,1,7,0,0,8,176,371,28,8,8,0,1,166,385,23,6,7,6,2,1,0,2,Richmond County,Richmond 62065
+Richmond County,Richmond 62066,136,356,27,2,7,0,1,3,144,336,30,2,5,1,1,124,357,29,6,0,6,0,0,0,1,Richmond County,Richmond 62066
+Richmond County,Richmond 62067,175,286,22,1,11,0,3,6,184,260,22,13,7,2,1,183,277,17,2,6,9,1,2,0,7,Richmond County,Richmond 62067
+Richmond County,Richmond 62068,193,284,36,2,10,0,3,4,200,274,34,7,8,1,1,189,283,33,6,7,12,1,1,0,1,Richmond County,Richmond 62068
+Richmond County,Richmond 62069,150,255,24,0,7,0,2,3,151,249,24,3,4,1,0,142,250,27,2,4,5,2,1,0,4,Richmond County,Richmond 62069
+Richmond County,Richmond 62070,110,168,12,1,3,0,2,3,111,155,14,5,5,0,2,99,159,16,4,4,7,0,3,1,2,Richmond County,Richmond 62070
+Richmond County,Richmond 62071,175,298,22,3,6,0,3,11,179,279,26,13,9,1,1,173,291,25,6,8,6,1,2,1,1,Richmond County,Richmond 62071
+Richmond County,Richmond 62072,146,290,35,2,0,0,3,2,154,281,30,1,8,1,2,149,285,31,4,1,5,1,4,1,2,Richmond County,Richmond 62072
+Richmond County,Richmond 62073,151,274,24,2,12,0,1,6,165,254,27,9,6,0,2,156,261,27,5,6,7,1,1,1,3,Richmond County,Richmond 62073
+Richmond County,Richmond 62074,120,399,36,0,2,0,2,4,128,383,30,6,3,1,3,111,403,35,2,6,2,0,2,0,0,Richmond County,Richmond 62074
+Richmond County,Richmond 62075,155,305,30,2,3,0,0,3,149,309,28,0,3,1,2,140,302,26,6,2,4,3,4,0,4,Richmond County,Richmond 62075
+Richmond County,Richmond 62076,101,332,36,3,8,0,0,2,99,332,35,5,4,1,2,103,332,33,1,2,5,0,3,0,2,Richmond County,Richmond 62076
+Richmond County,Richmond 62077,110,348,46,0,7,0,0,5,114,337,41,9,4,0,3,110,338,46,2,5,6,0,4,0,2,Richmond County,Richmond 62077
+Richmond County,Richmond 62078,114,367,29,0,5,0,1,2,123,359,28,3,3,0,2,128,361,29,1,3,3,1,1,0,0,Richmond County,Richmond 62078
+Richmond County,Richmond 62079,92,183,8,3,3,0,3,0,97,183,9,0,1,0,0,97,178,10,2,1,0,0,1,0,3,Richmond County,Richmond 62079
+Richmond County,Richmond 62080,147,265,18,1,12,0,2,6,156,260,20,7,4,1,0,155,255,20,2,5,6,0,2,0,4,Richmond County,Richmond 62080
+Richmond County,Richmond 62081,121,318,15,1,5,0,2,4,130,303,16,3,6,1,0,123,316,16,1,4,4,0,0,1,3,Richmond County,Richmond 62081
+Richmond County,Richmond 62082,127,295,29,2,6,0,1,5,128,288,31,4,5,0,1,122,287,33,1,6,4,1,3,0,4,Richmond County,Richmond 62082
+Richmond County,Richmond 62083,118,338,15,2,5,0,1,5,113,345,19,3,3,0,1,109,343,21,3,5,3,0,1,0,4,Richmond County,Richmond 62083
+Richmond County,Richmond 62084,120,368,26,2,4,0,3,2,128,360,22,1,5,2,2,119,361,29,3,1,6,0,4,0,3,Richmond County,Richmond 62084
+Richmond County,Richmond 62085,170,234,18,0,10,0,2,6,172,234,16,7,8,1,1,168,241,14,2,5,5,1,2,0,4,Richmond County,Richmond 62085
+Richmond County,Richmond 62086,152,261,16,0,6,0,1,2,145,256,15,8,3,2,0,151,256,14,2,3,6,2,1,0,1,Richmond County,Richmond 62086
+Richmond County,Richmond 63001,197,255,23,2,7,0,2,2,207,243,26,4,2,0,0,196,243,23,3,4,2,2,1,1,8,Richmond County,Richmond 63001
+Richmond County,Richmond 63002,260,189,6,1,13,0,2,3,260,183,9,10,3,1,1,237,199,12,3,10,4,3,0,1,3,Richmond County,Richmond 63002
+Richmond County,Richmond 63003,193,139,15,1,5,0,1,1,197,124,14,6,5,1,1,189,131,12,6,3,3,1,1,0,5,Richmond County,Richmond 63003
+Richmond County,Richmond 63004,167,275,26,2,5,0,1,1,164,270,22,5,6,0,0,164,272,24,2,3,8,0,1,1,2,Richmond County,Richmond 63004
+Richmond County,Richmond 63005,149,232,12,2,1,0,1,5,156,225,11,1,4,1,1,153,225,10,3,0,4,1,0,0,2,Richmond County,Richmond 63005
+Richmond County,Richmond 63006,157,238,17,0,6,0,5,5,160,228,17,3,9,0,2,155,230,17,3,1,11,0,0,3,4,Richmond County,Richmond 63006
+Richmond County,Richmond 63007,196,141,5,4,8,0,0,1,200,131,6,8,5,1,1,196,132,7,5,8,3,0,0,1,4,Richmond County,Richmond 63007
+Richmond County,Richmond 63008,182,212,16,4,4,0,1,1,178,209,15,8,7,1,0,180,215,12,4,1,4,1,0,2,2,Richmond County,Richmond 63008
+Richmond County,Richmond 63009,13,25,1,0,1,0,0,0,17,22,1,0,2,0,0,15,21,1,0,2,2,0,1,0,1,Richmond County,Richmond 63009
+Richmond County,Richmond 63010,198,74,8,1,6,0,6,3,193,73,8,7,9,1,0,198,69,8,4,7,6,0,0,0,1,Richmond County,Richmond 63010
+Richmond County,Richmond 63011,231,201,14,0,7,0,2,8,239,187,13,5,6,1,2,229,196,13,6,5,7,2,0,3,2,Richmond County,Richmond 63011
+Richmond County,Richmond 63012,177,142,13,3,3,0,3,3,170,138,13,4,8,0,2,171,138,14,2,5,8,0,0,2,5,Richmond County,Richmond 63012
+Richmond County,Richmond 63013,286,165,9,0,11,0,6,3,278,166,9,6,7,1,2,266,169,11,9,10,6,0,0,0,7,Richmond County,Richmond 63013
+Richmond County,Richmond 63014,224,183,10,1,12,0,4,3,216,176,10,13,6,2,0,224,177,11,5,6,5,1,0,1,5,Richmond County,Richmond 63014
+Richmond County,Richmond 63015,267,205,14,2,7,0,3,8,249,217,13,3,8,3,2,251,213,16,3,3,9,1,3,0,4,Richmond County,Richmond 63015
+Richmond County,Richmond 63016,173,112,5,1,6,0,0,7,172,102,3,4,4,0,3,173,109,5,4,0,4,0,2,1,4,Richmond County,Richmond 63016
+Richmond County,Richmond 63017,108,64,7,2,3,0,1,2,108,61,6,4,2,1,0,106,61,6,3,3,1,1,0,1,3,Richmond County,Richmond 63017
+Richmond County,Richmond 63018,204,266,16,3,15,0,1,3,193,266,19,10,10,2,0,179,285,17,6,6,5,3,4,1,4,Richmond County,Richmond 63018
+Richmond County,Richmond 63019,164,177,8,5,9,0,2,3,163,172,9,11,2,1,1,157,181,12,4,6,2,0,1,1,4,Richmond County,Richmond 63019
+Richmond County,Richmond 63020,137,179,20,2,5,0,1,7,141,172,21,2,6,0,2,144,176,13,0,1,6,0,1,1,6,Richmond County,Richmond 63020
+Richmond County,Richmond 63021,200,198,10,1,5,0,2,2,192,194,11,7,4,0,1,193,191,11,1,4,4,2,1,4,5,Richmond County,Richmond 63021
+Richmond County,Richmond 63022,223,213,11,3,14,0,3,2,212,217,8,10,8,2,1,203,208,18,11,5,10,1,2,0,4,Richmond County,Richmond 63022
+Richmond County,Richmond 63023,227,168,18,4,6,0,1,5,225,165,15,7,3,0,1,216,166,19,6,6,8,1,0,1,3,Richmond County,Richmond 63023
+Richmond County,Richmond 63024,199,205,14,2,4,0,4,7,206,182,16,8,9,2,1,218,180,16,5,3,6,0,1,2,6,Richmond County,Richmond 63024
+Richmond County,Richmond 63025,125,203,12,0,4,0,0,0,132,185,14,4,1,0,0,142,170,20,0,3,1,0,0,2,2,Richmond County,Richmond 63025
+Richmond County,Richmond 63026,171,304,23,1,1,0,1,10,181,273,22,3,8,1,2,185,276,24,3,2,9,0,4,0,3,Richmond County,Richmond 63026
+Richmond County,Richmond 63027,230,212,16,0,12,0,2,2,231,202,17,6,7,2,2,228,213,22,4,3,5,1,1,0,1,Richmond County,Richmond 63027
+Richmond County,Richmond 63028,151,184,24,0,7,0,1,0,133,188,27,6,3,1,0,133,192,26,5,3,1,1,1,1,4,Richmond County,Richmond 63028
+Richmond County,Richmond 63029,222,194,20,1,7,0,6,2,214,193,19,3,10,1,5,206,201,21,5,5,4,2,2,1,7,Richmond County,Richmond 63029
+Richmond County,Richmond 63030,252,159,12,3,6,0,8,5,249,163,8,8,5,5,0,237,164,16,5,6,5,5,0,1,2,Richmond County,Richmond 63030
+Richmond County,Richmond 63031,282,190,19,1,8,0,4,2,285,175,18,10,10,2,1,279,172,19,7,8,8,4,1,3,5,Richmond County,Richmond 63031
+Richmond County,Richmond 63032,270,217,9,2,7,0,2,6,260,209,11,10,10,2,1,257,214,10,9,8,4,4,2,0,6,Richmond County,Richmond 63032
+Richmond County,Richmond 63033,257,276,29,1,9,0,3,4,252,277,28,5,4,4,2,245,279,34,1,5,4,4,4,1,5,Richmond County,Richmond 63033
+Richmond County,Richmond 63034,177,263,37,3,6,0,0,5,180,263,36,2,8,1,0,173,273,32,3,3,8,0,1,0,3,Richmond County,Richmond 63034
+Richmond County,Richmond 63035,194,300,52,3,14,0,1,5,211,271,49,16,7,0,1,195,284,51,5,11,10,3,1,0,2,Richmond County,Richmond 63035
+Richmond County,Richmond 63036,304,251,27,5,10,0,5,2,303,245,20,11,3,2,0,302,241,27,7,8,3,1,1,0,7,Richmond County,Richmond 63036
+Richmond County,Richmond 63037,344,124,13,0,15,0,4,0,337,125,12,8,9,1,0,339,125,12,1,6,8,0,0,9,2,Richmond County,Richmond 63037
+Richmond County,Richmond 63038,382,97,4,2,18,0,1,2,367,96,6,16,7,3,1,362,107,4,4,13,8,0,1,3,6,Richmond County,Richmond 63038
+Richmond County,Richmond 63039,365,55,6,0,6,0,1,3,347,53,8,5,6,4,0,342,60,7,7,10,5,0,0,1,4,Richmond County,Richmond 63039
+Richmond County,Richmond 63040,248,44,3,1,6,0,1,0,238,43,6,5,2,0,1,250,41,5,3,5,2,0,0,0,0,Richmond County,Richmond 63040
+Richmond County,Richmond 63041,256,6,1,3,6,0,0,1,244,11,1,6,1,1,1,254,9,2,2,6,2,0,1,0,0,Richmond County,Richmond 63041
+Richmond County,Richmond 63042,330,19,2,1,9,0,2,2,314,17,2,5,5,2,0,327,14,1,4,5,7,3,1,0,1,Richmond County,Richmond 63042
+Richmond County,Richmond 63043,446,32,3,4,9,0,5,1,430,42,2,4,9,0,0,433,44,4,4,3,5,0,1,1,3,Richmond County,Richmond 63043
+Richmond County,Richmond 63044,447,33,4,1,8,0,2,1,433,28,5,5,7,1,0,437,33,4,4,4,7,1,1,0,1,Richmond County,Richmond 63044
+Richmond County,Richmond 63045,364,20,1,0,10,0,4,3,352,19,3,9,5,3,0,358,20,3,2,9,6,1,1,1,0,Richmond County,Richmond 63045
+Richmond County,Richmond 63046,158,282,26,3,9,0,2,7,173,255,25,10,7,1,5,176,251,25,3,10,6,1,3,1,7,Richmond County,Richmond 63046
+Richmond County,Richmond 63047,193,237,31,3,5,0,3,1,203,219,30,6,5,1,0,188,230,28,8,3,4,0,1,4,6,Richmond County,Richmond 63047
+Richmond County,Richmond 63048,162,301,33,3,2,0,0,8,166,285,36,5,6,1,2,164,280,35,3,4,7,0,3,1,7,Richmond County,Richmond 63048
+Richmond County,Richmond 63049,203,314,23,2,5,0,3,8,210,292,23,7,7,4,0,197,301,23,7,4,9,2,3,3,4,Richmond County,Richmond 63049
+Richmond County,Richmond 63050,238,276,16,1,10,0,2,7,238,269,19,8,11,1,0,235,264,18,1,8,15,0,1,0,6,Richmond County,Richmond 63050
+Richmond County,Richmond 63051,184,269,20,1,7,0,5,9,187,264,21,6,10,1,2,182,271,18,4,2,8,1,3,1,3,Richmond County,Richmond 63051
+Richmond County,Richmond 63052,122,211,11,1,4,0,5,7,128,205,12,3,8,1,1,119,207,15,4,5,11,1,0,1,3,Richmond County,Richmond 63052
+Richmond County,Richmond 63053,274,196,28,2,11,0,3,5,279,183,22,15,6,2,1,271,197,22,4,7,6,1,1,1,3,Richmond County,Richmond 63053
+Richmond County,Richmond 63054,283,203,22,1,8,0,4,5,300,170,23,9,5,0,0,290,185,19,6,4,8,1,0,0,5,Richmond County,Richmond 63054
+Richmond County,Richmond 63055,288,205,21,1,6,0,6,3,273,192,19,9,10,3,0,273,203,21,6,1,12,1,0,1,2,Richmond County,Richmond 63055
+Richmond County,Richmond 63056,216,122,9,2,4,0,2,3,205,114,15,8,6,0,0,215,113,16,3,2,6,0,1,0,3,Richmond County,Richmond 63056
+Richmond County,Richmond 63057,199,301,23,1,7,0,0,1,200,277,23,6,4,1,1,221,254,26,1,2,3,1,1,0,1,Richmond County,Richmond 63057
+Richmond County,Richmond 63058,223,271,15,0,7,0,1,3,214,255,18,6,3,2,1,229,241,22,3,5,4,1,0,0,3,Richmond County,Richmond 63058
+Richmond County,Richmond 63059,231,225,20,1,9,0,2,5,227,211,24,8,7,0,2,224,220,26,4,5,6,0,3,0,6,Richmond County,Richmond 63059
+Richmond County,Richmond 63060,149,136,16,1,13,0,1,3,143,131,20,7,7,1,2,130,144,18,5,7,6,2,3,0,5,Richmond County,Richmond 63060
+Richmond County,Richmond 63061,284,192,24,1,13,0,0,6,289,181,22,12,5,2,2,274,182,28,5,14,6,0,3,1,3,Richmond County,Richmond 63061
+Richmond County,Richmond 63062,139,205,14,1,8,0,1,7,143,199,11,12,5,0,1,130,209,18,1,8,4,0,2,2,0,Richmond County,Richmond 63062
+Richmond County,Richmond 63063,244,311,30,4,14,0,5,9,254,291,30,13,9,4,3,234,305,36,4,11,10,3,3,2,5,Richmond County,Richmond 63063
+Richmond County,Richmond 63064,199,274,43,2,9,0,3,6,214,255,40,7,10,3,0,202,258,45,3,8,8,1,3,3,1,Richmond County,Richmond 63064
+Richmond County,Richmond 63065,233,221,33,4,17,0,4,3,223,214,35,19,9,2,1,212,223,36,4,13,10,1,3,1,6,Richmond County,Richmond 63065
+Richmond County,Richmond 63066,219,264,25,0,9,0,5,2,211,249,29,7,12,2,3,214,257,27,6,6,6,0,2,0,4,Richmond County,Richmond 63066
+Richmond County,Richmond 63067,241,273,30,2,9,0,7,6,238,261,30,12,10,3,3,226,274,33,3,8,7,2,4,1,8,Richmond County,Richmond 63067
+Richmond County,Richmond 63068,106,32,3,1,1,0,0,0,103,29,3,1,1,0,3,100,30,5,4,1,3,0,0,0,0,Richmond County,Richmond 63068
+Richmond County,Richmond 63069,225,173,17,1,1,0,4,8,220,169,17,4,9,2,0,220,162,23,5,8,5,2,3,0,5,Richmond County,Richmond 63069
+Richmond County,Richmond 63070,142,145,15,2,2,0,0,6,160,124,14,2,4,0,0,150,133,19,0,3,4,0,1,2,1,Richmond County,Richmond 63070
+Richmond County,Richmond 63071,270,40,0,1,9,0,2,4,258,27,6,7,2,1,0,283,27,5,4,1,6,1,0,1,0,Richmond County,Richmond 63071
+Richmond County,Richmond 63072,214,217,15,0,17,0,1,5,221,203,17,12,4,0,4,205,208,23,4,9,5,1,5,1,3,Richmond County,Richmond 63072
+Richmond County,Richmond 63073,259,217,19,1,4,0,1,5,257,195,24,9,7,1,1,244,207,27,4,7,8,1,2,2,0,Richmond County,Richmond 63073
+Richmond County,Richmond 63074,135,106,14,2,6,0,0,1,132,98,13,6,5,0,2,125,106,15,4,4,5,1,1,0,3,Richmond County,Richmond 63074
+Richmond County,Richmond 63075,230,33,5,0,6,0,0,4,217,33,5,6,3,1,1,238,31,3,1,2,4,0,2,1,1,Richmond County,Richmond 63075
+Richmond County,Richmond 63076,254,234,15,0,7,0,1,5,248,226,15,7,9,0,1,246,234,16,2,7,9,1,4,0,2,Richmond County,Richmond 63076
+Richmond County,Richmond 63077,233,150,9,2,10,0,2,3,236,147,9,9,2,1,0,223,149,13,6,8,3,1,1,1,5,Richmond County,Richmond 63077
+Richmond County,Richmond 63078,127,117,9,0,5,0,0,1,119,112,10,5,6,2,1,118,116,11,3,3,4,0,1,1,1,Richmond County,Richmond 63078
+Richmond County,Richmond 63079,157,193,16,2,8,0,2,4,150,194,21,3,5,2,2,144,204,20,4,1,5,2,1,2,4,Richmond County,Richmond 63079
+Richmond County,Richmond 63080,344,84,11,0,15,0,5,2,333,86,11,11,14,2,0,331,86,13,3,6,15,1,1,1,2,Richmond County,Richmond 63080
+Richmond County,Richmond 63081,143,156,17,1,4,0,0,3,147,144,17,5,6,2,0,139,155,16,3,3,3,1,0,0,1,Richmond County,Richmond 63081
+Richmond County,Richmond 63082,136,113,14,2,2,0,4,1,126,115,15,1,6,0,0,127,112,12,3,1,8,0,0,1,3,Richmond County,Richmond 63082
+Richmond County,Richmond 63083,305,138,8,0,9,0,1,5,313,123,8,7,9,0,0,303,126,11,6,3,9,0,1,0,4,Richmond County,Richmond 63083
+Richmond County,Richmond 63084,207,175,16,1,9,0,4,11,203,179,16,4,10,2,5,202,170,17,6,4,14,1,3,0,7,Richmond County,Richmond 63084
+Richmond County,Richmond 63085,173,164,13,1,7,0,2,1,166,171,12,4,2,0,0,156,179,10,2,4,3,1,1,3,1,Richmond County,Richmond 63085
+Richmond County,Richmond 64001,112,240,18,1,9,0,3,3,117,231,20,6,5,0,0,107,236,23,1,6,6,1,1,0,2,Richmond County,Richmond 64001
+Richmond County,Richmond 64002,148,273,39,5,5,0,4,3,152,256,39,8,8,1,0,132,271,40,9,2,9,3,2,1,6,Richmond County,Richmond 64002
+Richmond County,Richmond 64003,141,293,45,2,4,0,4,9,137,297,37,4,10,1,0,136,295,42,2,3,5,0,3,0,6,Richmond County,Richmond 64003
+Richmond County,Richmond 64004,114,260,33,0,7,0,2,1,127,239,33,4,6,1,1,115,251,26,4,5,6,1,0,1,4,Richmond County,Richmond 64004
+Richmond County,Richmond 64005,191,290,37,2,13,0,1,12,187,285,37,10,13,0,0,180,285,35,4,11,11,1,5,0,9,Richmond County,Richmond 64005
+Richmond County,Richmond 64006,187,319,35,3,9,0,1,6,189,302,36,12,10,0,0,173,316,33,6,6,8,2,4,1,5,Richmond County,Richmond 64006
+Richmond County,Richmond 64007,179,340,34,0,11,0,2,4,188,323,39,10,4,0,0,177,329,39,6,8,2,1,0,1,7,Richmond County,Richmond 64007
+Richmond County,Richmond 64008,144,232,39,2,13,0,6,5,134,240,40,6,9,4,1,137,241,40,2,3,9,3,0,0,6,Richmond County,Richmond 64008
+Richmond County,Richmond 64009,125,240,27,0,4,0,2,4,123,230,27,4,5,1,0,114,244,24,2,1,3,1,1,0,2,Richmond County,Richmond 64009
+Richmond County,Richmond 64010,107,262,18,0,6,0,2,3,105,255,21,5,4,2,1,113,247,26,1,1,4,3,0,1,1,Richmond County,Richmond 64010
+Richmond County,Richmond 64011,63,99,15,0,3,0,1,3,64,99,16,4,2,0,0,60,96,14,1,2,4,0,1,0,1,Richmond County,Richmond 64011
+Richmond County,Richmond 64012,126,224,12,0,3,0,2,3,126,220,12,5,3,0,0,123,226,14,1,1,1,0,0,0,4,Richmond County,Richmond 64012
+Richmond County,Richmond 64013,71,114,9,0,1,0,0,1,74,108,7,1,1,1,1,74,105,7,2,1,0,1,1,0,2,Richmond County,Richmond 64013
+Richmond County,Richmond 64014,164,273,20,1,5,0,4,5,167,264,17,4,4,3,0,161,277,19,1,1,6,1,0,0,4,Richmond County,Richmond 64014
+Richmond County,Richmond 64015,145,320,27,1,5,0,2,10,153,306,29,5,8,1,1,133,325,21,9,4,6,4,2,0,1,Richmond County,Richmond 64015
+Richmond County,Richmond 64016,140,278,34,2,9,0,2,2,138,264,35,10,9,1,1,130,271,36,3,7,7,1,0,0,7,Richmond County,Richmond 64016
+Richmond County,Richmond 64017,180,257,29,2,6,0,1,3,180,249,25,8,7,1,0,182,244,27,6,7,7,0,0,0,0,Richmond County,Richmond 64017
+Richmond County,Richmond 64018,184,215,9,0,11,0,4,5,164,226,12,5,8,0,0,161,225,13,3,6,7,0,1,0,5,Richmond County,Richmond 64018
+Richmond County,Richmond 64019,253,103,7,1,8,0,5,2,245,101,8,9,4,0,0,245,96,10,4,9,5,3,0,0,1,Richmond County,Richmond 64019
+Richmond County,Richmond 64020,208,201,18,0,11,0,1,5,197,211,20,5,6,1,0,192,220,18,2,8,7,1,0,0,3,Richmond County,Richmond 64020
+Richmond County,Richmond 64021,175,229,20,1,8,0,4,6,185,207,23,3,7,4,2,174,224,19,3,5,6,3,2,0,2,Richmond County,Richmond 64021
+Richmond County,Richmond 64022,178,258,19,3,6,0,1,5,187,242,19,6,8,0,0,183,244,25,2,5,4,1,2,2,3,Richmond County,Richmond 64022
+Richmond County,Richmond 64023,123,220,27,2,10,0,4,0,135,198,29,6,7,2,2,128,208,29,4,5,5,3,0,2,5,Richmond County,Richmond 64023
+Richmond County,Richmond 64024,182,201,24,6,4,0,6,4,188,187,24,5,9,2,0,183,190,26,4,6,7,0,1,1,7,Richmond County,Richmond 64024
+Richmond County,Richmond 64025,176,205,27,3,10,0,7,5,171,201,22,7,12,4,2,169,207,27,3,9,7,2,2,3,5,Richmond County,Richmond 64025
+Richmond County,Richmond 64026,173,202,15,0,11,0,4,3,173,182,21,10,9,2,0,171,193,17,0,8,6,1,0,1,6,Richmond County,Richmond 64026
+Richmond County,Richmond 64027,186,192,22,1,11,0,0,1,178,188,24,13,4,0,1,181,184,24,2,6,4,1,3,2,5,Richmond County,Richmond 64027
+Richmond County,Richmond 64028,112,159,14,2,9,0,2,3,114,149,15,6,7,2,2,112,155,15,8,5,3,1,0,0,1,Richmond County,Richmond 64028
+Richmond County,Richmond 64029,176,248,16,0,6,0,5,6,173,239,17,7,7,4,0,166,240,19,3,7,7,3,0,0,6,Richmond County,Richmond 64029
+Richmond County,Richmond 64030,143,229,17,1,8,0,2,2,153,216,16,4,6,1,0,154,217,17,4,5,7,1,0,0,3,Richmond County,Richmond 64030
+Richmond County,Richmond 64031,211,193,12,1,8,0,2,3,207,185,12,5,10,2,1,203,190,15,2,7,6,2,0,3,3,Richmond County,Richmond 64031
+Richmond County,Richmond 64032,229,223,24,0,5,0,4,5,229,204,28,5,13,1,0,216,211,29,7,2,9,0,2,5,7,Richmond County,Richmond 64032
+Richmond County,Richmond 64033,129,251,17,2,5,0,2,6,137,231,19,5,6,3,0,137,237,24,4,4,3,1,1,1,1,Richmond County,Richmond 64033
+Richmond County,Richmond 64034,185,203,19,1,9,0,5,3,193,195,17,4,6,2,1,184,197,24,3,2,7,1,0,0,9,Richmond County,Richmond 64034
+Richmond County,Richmond 64035,168,242,19,1,3,0,3,5,181,218,23,4,8,0,0,173,232,22,2,3,8,2,0,1,2,Richmond County,Richmond 64035
+Richmond County,Richmond 64036,225,249,30,4,9,0,5,4,223,249,33,6,8,2,2,228,241,36,2,4,9,3,2,0,4,Richmond County,Richmond 64036
+Richmond County,Richmond 64037,136,208,23,0,7,0,0,5,141,197,21,6,3,0,1,138,204,21,1,8,2,0,2,1,0,Richmond County,Richmond 64037
+Richmond County,Richmond 64038,233,205,12,1,5,0,3,4,235,196,10,7,5,4,1,232,191,16,7,5,10,0,2,2,1,Richmond County,Richmond 64038
+Richmond County,Richmond 64039,179,193,13,0,7,0,2,4,193,173,13,5,8,1,1,191,174,13,2,4,9,0,0,1,4,Richmond County,Richmond 64039
+Richmond County,Richmond 64040,272,77,8,1,16,0,4,3,264,76,9,9,9,0,0,264,77,12,5,11,9,1,1,2,3,Richmond County,Richmond 64040
+Richmond County,Richmond 64041,198,202,10,3,5,0,0,3,192,201,14,5,2,1,0,192,197,17,3,6,3,1,1,0,2,Richmond County,Richmond 64041
+Richmond County,Richmond 64042,222,144,10,2,4,0,4,3,220,141,10,6,3,2,0,223,144,10,5,4,1,1,0,0,2,Richmond County,Richmond 64042
+Richmond County,Richmond 64043,159,138,8,3,4,0,3,2,155,131,7,10,2,1,2,163,128,9,6,7,2,1,2,0,1,Richmond County,Richmond 64043
+Richmond County,Richmond 64044,232,177,13,2,7,0,1,4,232,167,19,7,5,1,1,232,168,19,4,5,5,1,2,0,5,Richmond County,Richmond 64044
+Richmond County,Richmond 64045,228,144,19,2,6,0,3,3,229,136,17,7,7,0,0,221,145,16,2,4,6,2,2,0,6,Richmond County,Richmond 64045
+Richmond County,Richmond 64046,195,146,21,3,2,0,1,2,188,143,23,2,2,2,0,176,145,25,3,6,2,0,1,2,6,Richmond County,Richmond 64046
+Richmond County,Richmond 64047,242,200,22,7,16,0,1,11,260,187,25,15,8,0,1,249,187,26,6,14,8,1,1,1,5,Richmond County,Richmond 64047
+Richmond County,Richmond 64048,162,294,29,2,9,0,2,5,156,291,29,9,6,1,1,140,300,28,3,11,7,0,3,0,3,Richmond County,Richmond 64048
+Richmond County,Richmond 64049,255,178,17,1,8,0,6,9,245,165,14,8,16,5,0,263,176,13,2,4,11,3,4,1,3,Richmond County,Richmond 64049
+Richmond County,Richmond 64050,243,149,8,2,6,0,3,2,242,141,11,8,9,0,0,241,138,12,6,4,6,1,1,1,2,Richmond County,Richmond 64050
+Richmond County,Richmond 64051,303,123,10,2,12,0,3,2,292,119,9,11,8,3,1,282,128,15,9,7,8,4,2,0,2,Richmond County,Richmond 64051
+Richmond County,Richmond 64052,207,193,18,1,11,0,4,2,212,184,15,9,6,1,1,204,190,15,5,6,5,3,2,0,6,Richmond County,Richmond 64052
+Richmond County,Richmond 64053,236,156,19,2,6,0,0,8,234,156,18,7,7,0,2,236,158,17,5,4,5,2,1,0,4,Richmond County,Richmond 64053
+Richmond County,Richmond 64054,162,272,19,4,12,0,3,3,179,256,20,13,4,2,0,160,268,22,6,11,4,1,1,0,3,Richmond County,Richmond 64054
+Richmond County,Richmond 64055,189,226,14,2,11,0,2,1,196,219,16,7,5,2,1,187,226,13,1,3,6,1,1,2,3,Richmond County,Richmond 64055
+Richmond County,Richmond 64056,154,244,32,0,9,0,5,4,148,237,29,14,11,3,1,148,236,29,4,10,8,3,2,0,7,Richmond County,Richmond 64056
+Richmond County,Richmond 64057,136,143,16,0,8,0,6,2,131,144,16,7,8,1,1,127,140,15,5,5,7,1,1,0,7,Richmond County,Richmond 64057
+Richmond County,Richmond 64058,144,259,18,0,11,0,2,7,145,256,21,7,6,0,0,141,251,21,3,5,10,0,0,1,1,Richmond County,Richmond 64058
+Richmond County,Richmond 64059,160,207,14,1,9,0,3,3,166,195,14,11,2,2,0,165,194,10,5,5,2,1,0,1,6,Richmond County,Richmond 64059
+Richmond County,Richmond 64060,116,117,13,0,5,0,3,3,121,109,14,4,6,0,1,106,117,15,4,4,5,1,0,0,2,Richmond County,Richmond 64060
+Richmond County,Richmond 64061,222,118,7,4,7,0,4,4,216,113,10,6,5,5,1,216,123,9,4,5,3,2,2,1,5,Richmond County,Richmond 64061
+Richmond County,Richmond 64062,193,235,21,3,4,0,3,3,188,232,26,3,2,1,0,178,238,23,2,5,6,3,1,0,3,Richmond County,Richmond 64062
+Richmond County,Richmond 64063,166,186,15,1,6,0,1,2,166,176,17,3,6,1,1,164,184,16,3,3,3,0,2,1,1,Richmond County,Richmond 64063

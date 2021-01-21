@@ -1,330 +1,330 @@
 county,precinct,HOR_DEM,HOR_REP,HOR_CON,HOR_GRE,HOR_WOR,HOR_IND,HOR_WEP,HOR_REF,Sen_DEM,Sen_REP,Sen_CON,Sen_WOR,Sen_IND,Sen_WEP,Sen_REF,Gov_DEM,Gov_REP,Gov_CON,Gov_GRE,Gov_WOR,Gov_IND,Gov_WEP,Gov_REF,Gov_SAM,Gov_LBT,county_id,original_precinct_name
-Albany County,0001 ALBANY W1 ED1,40,7,0,0,5,0,1,0,40,8,1,6,0,0,0,35,9,1,3,3,0,0,0,2,1,Albany County,precinct
-Albany County,0002 ALBANY W1 ED2,182,20,0,0,21,0,6,3,176,23,5,22,4,4,1,148,32,11,15,11,1,1,2,9,3,Albany County,precinct
-Albany County,0003 ALBANY W1 ED3,241,41,0,0,11,0,1,4,228,40,11,10,5,5,0,212,55,11,4,10,1,3,0,5,5,Albany County,precinct
-Albany County,0004 ALBANY W1 ED4,245,18,0,0,18,0,5,3,241,15,6,15,5,4,3,220,30,5,4,12,4,1,3,7,4,Albany County,precinct
-Albany County,0005 ALBANY W1 ED5,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,Albany County,precinct
-Albany County,0006 ALBANY W1 ED6,220,12,0,0,12,0,1,1,213,14,0,10,4,1,2,207,14,2,6,7,3,0,1,2,3,Albany County,precinct
-Albany County,0007 ALBANY W1 ED7,241,21,0,0,13,0,3,1,232,21,8,13,4,2,1,217,32,7,4,5,2,3,0,6,2,Albany County,precinct
-Albany County,0008 ALBANY W1 ED8,66,5,0,0,0,0,0,0,61,4,1,0,2,0,0,59,2,3,1,0,2,0,1,1,2,Albany County,precinct
-Albany County,0009 ALBANY W1 ED9,193,21,0,0,10,0,0,0,185,21,4,9,4,0,0,175,28,3,2,6,2,0,0,2,1,Albany County,precinct
-Albany County,0010 ALBANY W1 ED10,16,0,0,0,1,0,0,0,16,0,0,0,1,0,0,16,0,0,0,0,0,1,0,0,0,Albany County,precinct
-Albany County,0011 ALBANY W2 ED1,208,11,0,0,9,0,4,1,206,9,2,8,4,2,0,200,18,3,2,7,1,4,0,3,1,Albany County,precinct
-Albany County,0012 ALBANY W2 ED2,106,2,0,0,9,0,1,1,103,1,2,8,3,0,0,97,4,2,3,5,2,0,0,1,2,Albany County,precinct
-Albany County,0013 ALBANY W2 ED3,76,8,0,0,0,0,3,0,75,7,0,1,0,1,0,79,8,0,1,0,0,0,0,1,0,Albany County,precinct
-Albany County,0014 ALBANY W2 ED4,210,25,0,0,4,0,3,0,204,24,1,7,3,1,0,205,26,2,5,4,4,1,0,2,5,Albany County,precinct
-Albany County,0015 ALBANY W2 ED5,164,10,0,0,19,0,3,1,159,11,0,19,1,4,1,148,14,0,6,17,1,2,1,7,1,Albany County,precinct
-Albany County,0016 ALBANY W2 ED6,147,7,0,0,34,0,11,1,143,4,2,31,5,10,1,111,8,3,32,17,3,3,2,21,2,Albany County,precinct
-Albany County,0017 ALBANY W2 ED7,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,Albany County,precinct
-Albany County,0018 ALBANY W2 ED8,37,1,0,0,1,0,0,0,38,1,0,0,0,0,0,37,1,0,0,0,0,0,0,1,0,Albany County,precinct
-Albany County,0019 ALBANY W2 ED9,119,7,0,0,6,0,3,1,115,6,2,6,4,1,0,124,7,1,3,3,2,0,0,1,1,Albany County,precinct
-Albany County,0021 ALBANY W3 ED1,224,43,0,0,18,0,7,4,226,37,4,16,6,4,3,197,49,3,15,11,0,1,1,12,8,Albany County,precinct
-Albany County,0022 ALBANY W3 ED2,24,0,0,0,3,0,0,0,24,1,0,3,0,0,0,20,2,0,4,3,0,0,0,0,0,Albany County,precinct
-Albany County,0023 ALBANY W3 ED3,11,2,0,0,2,0,0,0,12,2,0,1,1,0,0,10,2,0,2,0,1,0,0,0,1,Albany County,precinct
-Albany County,0024 ALBANY W3 ED4,130,7,0,0,9,0,6,0,130,5,2,5,5,6,1,117,7,3,7,5,3,6,0,5,3,Albany County,precinct
-Albany County,0025 ALBANY W3 ED5,91,6,0,0,4,0,0,0,83,7,0,6,1,1,1,81,7,0,2,5,1,1,0,0,1,Albany County,precinct
-Albany County,0026 ALBANY W3 ED6,71,4,0,0,3,0,1,0,68,3,0,4,2,0,0,69,3,0,2,1,2,0,0,0,1,Albany County,precinct
-Albany County,0027 ALBANY W3 ED7,149,9,0,0,8,0,0,1,136,11,2,6,2,1,0,145,12,3,7,1,2,0,0,1,1,Albany County,precinct
-Albany County,0028 ALBANY W3 ED8,66,6,0,0,0,0,0,0,65,5,0,0,0,0,0,68,3,1,1,0,0,0,0,1,1,Albany County,precinct
-Albany County,0029 ALBANY W3 ED9,43,7,0,0,5,0,2,1,42,7,2,5,0,2,0,35,10,0,3,3,0,2,0,2,2,Albany County,precinct
-Albany County,0030 ALBANY W3 ED10,137,7,0,0,8,0,2,2,139,7,4,5,1,4,0,135,7,2,5,5,1,0,0,3,3,Albany County,precinct
-Albany County,0031 ALBANY W4 ED1,128,3,0,0,3,0,1,0,132,2,1,2,2,1,0,128,2,1,2,1,1,0,0,0,0,Albany County,precinct
-Albany County,0032 ALBANY W4 ED2,62,5,0,0,2,0,3,0,61,5,3,2,1,1,0,68,3,5,0,1,0,1,0,0,0,Albany County,precinct
-Albany County,0033 ALBANY W4 ED3,163,21,0,0,6,0,4,1,155,21,3,11,4,3,0,160,25,5,3,4,3,3,1,1,1,Albany County,precinct
-Albany County,0034 ALBANY W4 ED4,322,36,0,0,11,0,2,1,314,33,8,7,6,2,1,274,63,11,6,9,4,1,0,1,1,Albany County,precinct
-Albany County,0035 ALBANY W4 ED5,289,89,0,0,12,0,2,2,285,84,15,9,5,3,0,241,108,13,3,7,3,2,3,12,6,Albany County,precinct
-Albany County,0036 ALBANY W4 ED6,110,5,0,0,7,0,0,0,112,4,0,6,2,0,0,112,5,0,2,2,0,2,0,0,2,Albany County,precinct
-Albany County,0037 ALBANY W5 ED1,145,6,0,0,3,0,1,0,143,4,2,3,2,0,0,143,7,1,3,2,1,0,0,0,2,Albany County,precinct
-Albany County,0038 ALBANY W5 ED2,87,1,0,0,1,0,0,0,80,2,1,2,0,0,1,83,2,0,1,2,0,0,0,0,0,Albany County,precinct
-Albany County,0039 ALBANY W5 ED3,116,7,0,0,5,0,0,0,107,8,0,4,0,2,0,116,6,0,0,2,0,0,0,2,0,Albany County,precinct
-Albany County,0040 ALBANY W5 ED4,35,0,0,0,1,0,2,0,37,0,1,0,1,2,0,37,2,1,1,1,2,0,1,0,0,Albany County,precinct
-Albany County,0041 ALBANY W5 ED5,326,14,0,0,6,0,1,1,314,12,4,5,2,1,1,315,15,4,6,4,1,1,0,2,3,Albany County,precinct
-Albany County,0042 ALBANY W5 ED6,126,12,0,0,3,0,2,0,127,10,2,3,3,3,0,125,14,3,1,1,2,2,0,2,0,Albany County,precinct
-Albany County,0043 ALBANY W5 ED7,129,13,0,0,9,0,2,1,128,12,2,6,4,0,1,123,18,2,5,1,4,1,1,1,0,Albany County,precinct
-Albany County,0044 ALBANY W6 ED1,107,10,0,0,2,0,5,0,106,9,3,2,0,3,0,100,12,3,6,0,3,1,1,1,0,Albany County,precinct
-Albany County,0045 ALBANY W6 ED2,133,11,0,0,17,0,4,1,127,12,2,13,3,6,1,108,12,1,18,10,2,2,1,6,6,Albany County,precinct
-Albany County,0046 ALBANY W6 ED3,210,20,0,0,29,0,7,3,206,19,3,23,3,8,3,175,29,2,13,19,2,2,4,19,4,Albany County,precinct
-Albany County,0047 ALBANY W6 ED4,350,39,0,0,49,0,10,3,347,36,5,41,7,10,2,277,48,9,35,36,5,6,0,20,7,Albany County,precinct
-Albany County,0048 ALBANY W6 ED5,360,45,0,0,51,0,11,1,357,33,10,44,10,10,3,297,45,10,34,35,5,11,2,18,12,Albany County,precinct
-Albany County,0049 ALBANY W6 ED6,233,24,0,0,33,0,9,2,228,26,1,31,9,7,0,189,31,4,17,22,10,3,2,9,11,Albany County,precinct
-Albany County,0050 ALBANY W6 ED7,9,1,0,0,0,0,0,0,8,1,0,0,0,1,0,8,1,0,0,0,0,0,0,0,0,Albany County,precinct
-Albany County,0051 ALBANY W6 ED8,276,31,0,0,36,0,10,2,271,28,7,28,10,7,1,223,40,11,17,21,5,3,2,20,9,Albany County,precinct
-Albany County,0052 ALBANY W7 ED1,205,30,0,0,18,0,3,1,196,32,5,19,3,2,2,145,46,5,14,14,2,3,5,16,6,Albany County,precinct
-Albany County,0053 ALBANY W7 ED2,1,2,0,0,0,0,0,0,1,2,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,Albany County,precinct
-Albany County,0054 ALBANY W7 ED3,215,29,0,0,21,0,14,5,208,28,8,22,4,11,3,185,31,11,19,14,1,11,2,7,4,Albany County,precinct
-Albany County,0055 ALBANY W7 ED4,167,16,0,0,18,0,2,1,163,16,1,18,2,4,2,151,16,2,7,15,1,1,0,7,4,Albany County,precinct
-Albany County,0056 ALBANY W7 ED5,246,32,0,0,44,0,4,1,240,21,8,41,6,6,3,209,31,7,36,29,2,0,3,9,6,Albany County,precinct
-Albany County,0057 ALBANY W7 ED6,60,11,0,0,3,0,0,1,56,11,2,4,0,0,1,47,14,1,6,2,0,0,1,3,0,Albany County,precinct
-Albany County,0058 ALBANY W7 ED7,150,10,0,0,25,0,10,3,158,10,2,21,4,4,0,137,17,1,15,11,3,3,0,3,4,Albany County,precinct
-Albany County,0059 ALBANY W7 ED8,156,21,0,0,25,0,11,0,153,17,2,23,4,9,2,127,23,2,18,17,0,8,1,14,1,Albany County,precinct
-Albany County,0060 ALBANY W8 ED1,302,68,0,0,19,0,5,3,286,77,10,14,8,4,1,220,103,17,14,10,5,4,2,12,7,Albany County,precinct
-Albany County,0061 ALBANY W8 ED2,288,102,0,0,23,0,4,0,273,99,18,21,6,2,0,214,132,19,8,17,3,3,2,12,6,Albany County,precinct
-Albany County,0062 ALBANY W8 ED3,85,25,0,0,9,0,2,1,74,26,7,10,2,1,0,55,41,4,12,7,0,0,1,3,2,Albany County,precinct
-Albany County,0063 ALBANY W8 ED4,393,63,0,0,27,0,9,1,367,72,12,26,10,6,2,314,101,15,15,17,4,4,5,10,3,Albany County,precinct
-Albany County,0064 ALBANY W8 ED5,318,70,0,0,20,0,6,1,299,73,9,20,7,5,1,258,89,10,13,12,7,1,0,22,2,Albany County,precinct
-Albany County,0065 ALBANY W8 ED6,391,89,0,0,35,0,12,4,366,95,20,29,9,10,1,307,116,19,29,20,5,6,1,15,9,Albany County,precinct
-Albany County,0066 ALBANY W8 ED7,250,70,0,0,23,0,9,5,252,54,15,23,7,9,3,195,85,15,17,14,4,7,3,14,3,Albany County,precinct
-Albany County,0067 ALBANY W8 ED8,292,72,0,0,31,0,9,0,274,69,23,27,6,9,2,230,94,21,18,18,4,8,1,12,8,Albany County,precinct
-Albany County,0068 ALBANY W8 ED9,112,33,0,0,11,0,3,0,99,37,5,10,4,2,1,76,42,4,12,6,3,2,1,8,4,Albany County,precinct
-Albany County,0069 ALBANY W9 ED1,220,23,0,0,26,0,4,0,217,19,2,24,6,4,1,177,29,3,25,16,4,2,0,12,6,Albany County,precinct
-Albany County,0070 ALBANY W9 ED2,123,22,0,0,16,0,3,1,118,16,11,15,3,3,2,92,24,12,13,12,0,2,0,11,2,Albany County,precinct
-Albany County,0071 ALBANY W9 ED3,108,15,0,0,9,0,1,1,102,14,4,7,4,1,1,90,14,6,6,4,1,1,2,3,4,Albany County,precinct
-Albany County,0072 ALBANY W9 ED4,186,29,0,0,15,0,5,2,179,22,9,12,2,5,4,148,33,7,20,8,0,0,2,6,10,Albany County,precinct
-Albany County,0073 ALBANY W9 ED5,310,57,0,0,39,0,8,2,297,54,9,38,7,6,2,240,72,11,16,34,4,5,3,16,7,Albany County,precinct
-Albany County,0074 ALBANY W9 ED6,253,46,0,0,26,0,6,2,241,41,16,25,5,7,1,185,61,16,25,14,4,6,1,16,4,Albany County,precinct
-Albany County,0075 ALBANY W9 ED7,306,54,0,0,46,0,8,2,299,42,18,43,6,7,0,228,66,18,25,24,4,5,4,22,4,Albany County,precinct
-Albany County,0076 ALBANY W9 ED8,248,33,0,0,18,0,5,3,238,30,6,13,7,9,1,195,44,10,15,12,5,4,1,15,6,Albany County,precinct
-Albany County,0077 ALBANY W9 ED9,26,3,0,0,2,0,1,0,25,4,0,2,0,1,0,21,5,0,1,1,0,1,0,0,1,Albany County,precinct
-Albany County,0078 ALBANY W10 ED1,69,6,0,0,10,0,0,1,65,6,1,10,1,1,2,60,11,1,5,6,1,0,0,2,3,Albany County,precinct
-Albany County,0079 ALBANY W10 ED2,87,16,0,0,9,0,1,0,86,13,5,8,2,4,0,74,16,5,7,5,2,1,1,2,2,Albany County,precinct
-Albany County,0080 ALBANY W10 ED3,178,20,0,0,14,0,2,0,170,18,4,16,1,3,1,145,26,5,12,4,3,1,3,10,4,Albany County,precinct
-Albany County,0081 ALBANY W10 ED4,92,6,0,0,9,0,4,2,91,5,3,8,2,3,2,73,8,6,13,4,0,6,2,1,0,Albany County,precinct
-Albany County,0082 ALBANY W10 ED5,82,10,0,0,5,0,1,1,76,12,2,4,3,2,0,73,10,1,4,2,3,2,1,1,1,Albany County,precinct
-Albany County,0083 ALBANY W10 ED6,85,7,0,0,14,0,3,0,84,7,1,14,3,2,0,70,13,1,8,10,1,1,0,6,2,Albany County,precinct
-Albany County,0084 ALBANY W10 ED7,193,18,0,0,17,0,3,1,189,18,3,16,6,3,2,153,20,2,19,10,4,2,2,13,10,Albany County,precinct
-Albany County,0085 ALBANY W10 ED8,122,23,0,0,14,0,1,0,114,29,3,11,2,0,0,103,34,3,11,9,2,0,1,4,1,Albany County,precinct
-Albany County,0086 ALBANY W10 ED9,64,12,0,0,12,0,2,3,64,11,2,11,1,3,2,56,13,2,2,7,1,0,0,7,2,Albany County,precinct
-Albany County,0088 ALBANY W11 ED2,65,9,0,0,5,0,0,0,65,8,0,4,1,1,2,58,11,2,1,2,2,0,1,2,0,Albany County,precinct
-Albany County,0089 ALBANY W11 ED3,111,7,0,0,5,0,1,0,105,7,1,5,3,2,0,101,10,1,2,4,2,3,0,0,2,Albany County,precinct
-Albany County,0090 ALBANY W11 ED4,104,31,0,0,1,0,2,1,109,25,3,1,2,1,0,96,29,3,5,1,1,2,0,3,2,Albany County,precinct
-Albany County,0091 ALBANY W11 ED5,92,14,0,0,4,0,5,0,86,14,2,6,2,5,1,81,14,2,7,2,1,2,1,4,2,Albany County,precinct
-Albany County,0092 ALBANY W11 ED6,281,42,0,0,23,0,1,1,277,37,10,17,6,1,3,263,49,11,9,12,3,1,0,7,4,Albany County,precinct
-Albany County,0093 ALBANY W11 ED7,37,3,0,0,1,0,0,0,34,4,0,2,0,0,0,31,3,0,3,0,0,0,1,0,0,Albany County,precinct
-Albany County,0094 ALBANY W11 ED8,83,11,0,0,5,0,4,0,79,9,0,6,1,3,0,74,12,0,8,1,2,1,1,3,3,Albany County,precinct
-Albany County,0095 ALBANY W11 ED9,22,1,0,0,0,0,0,1,21,1,1,0,0,0,0,20,0,1,1,0,0,0,1,0,3,Albany County,precinct
-Albany County,0096 ALBANY W11 ED10,13,4,0,0,3,0,0,0,14,2,2,2,0,0,0,15,3,2,0,0,0,0,0,0,1,Albany County,precinct
-Albany County,0097 ALBANY W12 ED1,234,66,0,0,16,0,8,1,218,68,13,9,12,6,1,188,85,12,8,8,5,2,3,11,6,Albany County,precinct
-Albany County,0098 ALBANY W12 ED2,298,82,0,0,13,0,4,1,286,71,19,10,8,5,0,228,109,19,18,9,5,3,3,10,3,Albany County,precinct
-Albany County,0099 ALBANY W12 ED3,148,36,0,0,5,0,3,0,144,36,5,5,0,3,0,124,49,6,4,1,0,0,2,6,0,Albany County,precinct
-Albany County,0100 ALBANY W12 ED4,80,5,0,0,1,0,1,0,78,5,0,0,1,1,0,72,4,0,4,0,1,2,0,1,2,Albany County,precinct
-Albany County,0101 ALBANY W12 ED5,226,71,0,0,14,0,9,1,224,65,8,18,5,7,3,172,85,7,11,15,3,6,4,8,9,Albany County,precinct
-Albany County,0102 ALBANY W12 ED6,220,36,0,0,9,0,8,2,221,31,11,8,6,5,1,176,44,13,16,6,4,5,2,13,1,Albany County,precinct
-Albany County,0103 ALBANY W12 ED7,15,1,0,0,1,0,1,0,17,1,0,1,0,1,0,13,1,0,1,0,0,1,0,1,1,Albany County,precinct
-Albany County,0104 ALBANY W12 ED8,308,64,0,0,18,0,7,4,309,61,9,15,5,7,2,243,82,9,21,13,1,2,6,17,7,Albany County,precinct
-Albany County,0105 ALBANY W12 ED91,25,11,0,0,3,0,1,1,22,13,0,4,1,1,0,14,16,1,3,3,0,0,0,1,3,Albany County,precinct
-Albany County,0106 ALBANY W13 ED1,108,19,0,0,4,0,0,2,108,18,4,2,3,1,0,89,28,3,5,3,2,0,2,4,2,Albany County,precinct
-Albany County,0107 ALBANY W13 ED2,241,48,0,0,20,0,4,3,227,47,10,18,8,6,1,186,72,10,12,15,6,2,1,9,4,Albany County,precinct
-Albany County,0108 ALBANY W13 ED3,269,40,0,0,43,0,7,3,259,39,7,40,8,5,1,208,58,8,16,34,7,1,0,22,9,Albany County,precinct
-Albany County,0109 ALBANY W13 ED4,236,56,0,0,32,0,10,1,218,57,11,30,6,15,0,191,67,11,13,19,3,10,2,15,4,Albany County,precinct
-Albany County,0110 ALBANY W13 ED5,249,47,0,0,23,0,9,2,247,40,11,21,5,9,0,195,55,14,20,10,4,7,3,12,8,Albany County,precinct
-Albany County,0111 ALBANY W13 ED6,236,37,0,0,31,0,1,0,226,38,7,23,5,5,0,178,47,9,24,13,4,3,0,9,6,Albany County,precinct
-Albany County,0112 ALBANY W13 ED7,4,1,0,0,0,0,1,0,5,1,0,0,0,0,0,4,1,0,1,0,0,0,0,0,0,Albany County,precinct
-Albany County,0113 ALBANY W14 ED1,224,57,0,0,10,0,2,0,209,64,9,6,3,2,0,177,81,10,9,6,2,1,1,5,1,Albany County,precinct
-Albany County,0114 ALBANY W14 ED2,457,97,0,0,31,0,6,3,429,86,29,33,6,8,4,362,129,25,27,19,3,3,4,13,12,Albany County,precinct
-Albany County,0115 ALBANY W14 ED3,326,83,0,0,20,0,5,6,305,77,16,18,5,8,3,266,93,16,15,13,2,7,3,11,6,Albany County,precinct
-Albany County,0116 ALBANY W14 ED4,301,63,0,0,33,0,5,2,283,54,24,30,10,7,1,223,80,21,15,19,8,2,0,28,5,Albany County,precinct
-Albany County,0117 ALBANY W14 ED5,323,64,0,0,34,0,6,3,306,67,13,29,7,8,4,240,86,13,16,19,5,9,2,34,5,Albany County,precinct
-Albany County,0118 ALBANY W14 ED6,308,61,0,0,28,0,7,0,297,63,10,23,7,7,2,242,68,14,19,16,4,6,3,14,7,Albany County,precinct
-Albany County,0119 ALBANY W14 ED7,314,61,0,0,40,0,8,2,298,60,13,34,10,8,2,246,64,16,26,30,9,5,4,14,4,Albany County,precinct
-Albany County,0120 ALBANY W14 ED8,206,45,0,0,23,0,6,1,199,44,6,22,4,8,1,160,54,3,15,20,3,5,0,10,9,Albany County,precinct
-Albany County,0121 ALBANY W14 ED9,32,5,0,0,3,0,3,0,33,4,0,3,0,2,0,27,6,0,4,4,0,0,0,0,1,Albany County,precinct
-Albany County,0122 ALBANY W15 ED1,49,5,0,0,1,0,2,0,49,3,1,0,2,2,0,43,4,1,4,0,2,1,0,0,1,Albany County,precinct
-Albany County,0123 ALBANY W15 ED2,13,3,0,0,1,0,0,2,14,2,2,0,1,0,0,9,5,2,1,0,0,0,0,2,0,Albany County,precinct
-Albany County,0124 ALBANY W15 ED3,156,35,0,0,7,0,5,3,150,39,4,6,2,5,2,109,54,4,9,6,0,4,1,16,2,Albany County,precinct
-Albany County,0125 ALBANY W15 ED4,191,47,0,0,10,0,11,2,181,42,10,8,7,10,4,154,55,10,9,7,2,9,1,9,4,Albany County,precinct
-Albany County,0126 ALBANY W15 ED5,258,64,0,0,17,0,0,1,243,63,13,11,7,3,4,204,81,12,15,9,4,1,0,8,10,Albany County,precinct
-Albany County,0127 ALBANY W15 ED6,111,33,0,0,6,0,2,2,114,29,6,5,2,0,0,93,41,9,2,6,0,2,1,5,1,Albany County,precinct
-Albany County,0128 ALBANY W15 ED7,270,69,0,0,18,0,7,1,265,55,16,11,5,7,2,215,96,16,11,6,3,4,0,12,8,Albany County,precinct
-Albany County,0129 COHOES W1 ED1,131,48,0,0,2,0,1,2,126,43,9,3,4,3,2,84,70,13,4,2,3,1,1,8,2,Albany County,precinct
-Albany County,0130 COHOES W1 ED2,157,47,0,0,6,0,4,0,149,46,12,8,2,2,0,133,50,9,9,4,1,1,0,3,5,Albany County,precinct
-Albany County,0131 COHOES W1 ED3,147,73,0,0,6,0,4,2,142,70,16,5,4,2,2,109,94,12,5,2,2,1,3,3,7,Albany County,precinct
-Albany County,0132 COHOES W2 ED1,122,42,0,0,9,0,2,2,121,36,7,3,3,4,2,101,44,9,7,3,0,0,2,2,7,Albany County,precinct
-Albany County,0133 COHOES W2 ED2,149,49,0,0,3,0,5,1,141,43,10,3,4,3,3,101,78,11,8,1,2,0,0,5,4,Albany County,precinct
-Albany County,0134 COHOES W2 ED3,31,21,0,0,0,0,1,0,29,17,5,0,5,0,0,20,24,5,0,0,3,0,0,2,2,Albany County,precinct
-Albany County,0135 COHOES W2 ED4,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Albany County,precinct
-Albany County,0136 COHOES W2 ED5,1,2,0,0,0,0,0,0,1,2,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,Albany County,precinct
-Albany County,0137 COHOES W2 ED6,55,17,0,0,1,0,2,0,54,15,2,2,0,0,1,51,14,3,4,0,0,0,0,1,0,Albany County,precinct
-Albany County,0138 COHOES W3 ED1,128,63,0,0,4,0,2,0,111,63,16,7,1,1,0,78,82,19,3,3,2,1,1,3,4,Albany County,precinct
-Albany County,0139 COHOES W3 ED2,126,43,0,0,5,0,3,0,125,40,7,5,7,2,0,105,50,6,2,2,6,1,1,2,4,Albany County,precinct
-Albany County,0140 COHOES W3 ED3,97,54,0,0,7,0,5,1,87,44,17,8,5,3,5,67,56,16,9,4,2,0,1,3,6,Albany County,precinct
-Albany County,0141 COHOES W3 ED4,23,13,0,0,1,0,1,0,24,11,3,0,1,1,0,16,16,6,1,1,0,0,0,1,0,Albany County,precinct
-Albany County,0142 COHOES W4 ED1,100,60,0,0,0,0,2,1,90,64,8,0,3,0,1,56,69,12,7,1,0,1,4,6,8,Albany County,precinct
-Albany County,0143 COHOES W4 ED2,261,118,0,0,9,0,1,5,257,108,14,5,8,3,4,179,158,16,16,1,2,0,4,12,5,Albany County,precinct
-Albany County,0144 COHOES W4 ED3,89,40,0,0,4,0,2,0,91,36,5,3,1,1,0,64,52,6,4,3,0,0,0,3,2,Albany County,precinct
-Albany County,0145 COHOES W4 ED4,290,152,0,0,13,0,11,2,268,143,25,8,17,4,2,180,214,28,19,7,6,0,6,8,8,Albany County,precinct
-Albany County,0146 COHOES W5 ED1,111,61,0,0,5,0,2,1,108,56,13,1,4,1,1,75,84,18,2,0,0,0,1,4,2,Albany County,precinct
-Albany County,0147 COHOES W5 ED2,213,118,0,0,12,0,7,1,203,108,21,10,12,7,0,132,149,21,13,9,7,2,3,9,12,Albany County,precinct
-Albany County,0148 COHOES W5 ED3,115,62,0,0,4,0,3,0,113,51,13,3,4,2,0,81,78,12,3,4,2,1,2,3,1,Albany County,precinct
-Albany County,0149 COHOES W5 ED4,164,77,0,0,7,0,3,0,148,79,15,7,4,3,1,104,108,24,7,1,1,1,2,2,3,Albany County,precinct
-Albany County,0150 COHOES W5 ED5,70,20,0,0,5,0,1,1,65,22,3,4,1,1,0,49,31,5,4,4,0,0,1,1,2,Albany County,precinct
-Albany County,0151 COHOES W6 ED1,209,57,0,0,12,0,3,0,195,57,11,11,3,7,0,140,88,9,13,8,3,6,3,8,8,Albany County,precinct
-Albany County,0152 COHOES W6 ED2,95,48,0,0,3,0,4,2,86,48,8,2,4,3,2,64,66,8,5,1,0,3,2,2,5,Albany County,precinct
-Albany County,0153 COHOES W6 ED3,148,92,0,0,12,0,2,2,147,76,17,9,5,0,2,109,102,17,8,4,1,0,3,4,7,Albany County,precinct
-Albany County,0154 COHOES W6 ED4,152,76,0,0,4,0,3,0,148,73,10,1,5,2,1,116,85,12,3,2,5,1,2,4,5,Albany County,precinct
-Albany County,0155 WATERVLIET W1 ED1,211,81,0,0,6,0,3,2,0,0,0,0,0,0,0,167,94,24,3,3,1,2,3,3,7,Albany County,precinct
-Albany County,0155 WATERVLIET WARD 1 ED 1,0,0,0,0,0,0,0,0,206,68,19,5,2,3,2,0,0,0,0,0,0,0,0,0,0,Albany County,precinct
-Albany County,0156 WATERVLIET W1 ED2,162,65,0,0,7,0,3,4,0,0,0,0,0,0,0,113,91,17,5,2,2,2,0,4,6,Albany County,precinct
-Albany County,0156 WATERVLIET WARD 1 ED 2,0,0,0,0,0,0,0,0,156,64,15,3,4,3,1,0,0,0,0,0,0,0,0,0,0,Albany County,precinct
-Albany County,0157 WATERVLIET W1 ED3,152,60,0,0,3,0,6,1,0,0,0,0,0,0,0,85,86,29,3,2,2,2,2,4,2,Albany County,precinct
-Albany County,0157 WATERVLIET WARD 1 ED 3,0,0,0,0,0,0,0,0,138,52,23,6,4,3,1,0,0,0,0,0,0,0,0,0,0,Albany County,precinct
-Albany County,0158 WATERVLIET W2 ED1,129,52,0,0,6,0,3,0,0,0,0,0,0,0,0,92,68,13,3,3,1,1,2,6,4,Albany County,precinct
-Albany County,0158 WATERVLIET WARD 2 ED 1,0,0,0,0,0,0,0,0,118,55,9,4,6,1,0,0,0,0,0,0,0,0,0,0,0,Albany County,precinct
-Albany County,0159 WATERVLIET W2 ED2,102,51,0,0,5,0,0,2,0,0,0,0,0,0,0,76,62,13,3,0,3,1,0,0,3,Albany County,precinct
-Albany County,0159 WATERVLIET W2 ED3,76,16,0,0,1,0,1,0,0,0,0,0,0,0,0,61,19,5,1,1,0,1,0,0,1,Albany County,precinct
-Albany County,0159 WATERVLIET WARD 2 ED 2,0,0,0,0,0,0,0,0,99,44,14,3,1,2,0,0,0,0,0,0,0,0,0,0,0,Albany County,precinct
-Albany County,0160 WATERVLIET W3 ED1,81,35,0,0,6,0,0,0,0,0,0,0,0,0,0,62,44,6,2,3,1,0,2,1,1,Albany County,precinct
-Albany County,0160 WATERVLIET WARD 2 ED 3,0,0,0,0,0,0,0,0,76,13,2,1,0,1,2,0,0,0,0,0,0,0,0,0,0,Albany County,precinct
-Albany County,0161 WATERVLIET W3 ED2,109,53,0,0,5,0,1,1,0,0,0,0,0,0,0,67,75,7,6,1,0,1,1,6,3,Albany County,precinct
-Albany County,0161 WATERVLIET WARD 3 ED 1,0,0,0,0,0,0,0,0,76,33,4,5,1,0,2,0,0,0,0,0,0,0,0,0,0,Albany County,precinct
-Albany County,0162 WATERVLIET W3 ED3,157,83,0,0,18,0,4,0,0,0,0,0,0,0,0,105,102,23,9,4,5,1,7,4,5,Albany County,precinct
-Albany County,0162 WATERVLIET WARD 3 ED 2,0,0,0,0,0,0,0,0,98,58,8,4,3,1,0,0,0,0,0,0,0,0,0,0,0,Albany County,precinct
-Albany County,0163 WATERVLIET W4 ED1,164,47,0,0,8,0,3,0,0,0,0,0,0,0,0,100,88,15,2,4,0,3,1,2,6,Albany County,precinct
-Albany County,0163 WATERVLIET WARD 3 ED 3,0,0,0,0,0,0,0,0,142,79,16,10,11,5,0,0,0,0,0,0,0,0,0,0,0,Albany County,precinct
-Albany County,0164 WATERVLIET W4 ED2,112,39,0,0,2,0,2,0,0,0,0,0,0,0,0,86,53,10,0,0,2,0,0,2,4,Albany County,precinct
-Albany County,0164 WATERVLIET WARD 4 ED 1,0,0,0,0,0,0,0,0,149,53,10,6,2,1,1,0,0,0,0,0,0,0,0,0,0,Albany County,precinct
-Albany County,0165 WATERVLIET W4 ED3,170,60,0,0,5,0,7,0,0,0,0,0,0,0,0,122,80,17,2,1,4,3,1,1,7,Albany County,precinct
-Albany County,0165 WATERVLIET WARD 4 ED 2,0,0,0,0,0,0,0,0,105,34,11,1,2,0,1,0,0,0,0,0,0,0,0,0,0,Albany County,precinct
-Albany County,0166 WATERVLIET W4 ED4,176,78,0,0,9,0,2,1,0,0,0,0,0,0,0,123,107,16,10,3,3,1,1,8,6,Albany County,precinct
-Albany County,0166 WATERVLIET WARD 4 ED 3,0,0,0,0,0,0,0,0,165,56,16,4,2,1,1,0,0,0,0,0,0,0,0,0,0,Albany County,precinct
-Albany County,0167 WATERVLIET WARD 4 ED 4,0,0,0,0,0,0,0,0,165,76,13,7,6,3,3,0,0,0,0,0,0,0,0,0,0,Albany County,precinct
-Albany County,0168 BERNE ED 1,181,222,0,0,14,0,2,3,177,182,47,11,12,4,1,100,241,47,10,5,4,2,4,12,9,Albany County,precinct
-Albany County,0169 BERNE ED 2,342,276,0,0,24,0,6,7,323,242,63,19,21,4,5,203,297,82,23,9,11,2,9,15,18,Albany County,precinct
-Albany County,0170 BERNE ED 3,130,127,0,0,14,0,2,2,119,103,37,14,5,3,2,79,136,34,14,5,3,2,2,1,8,Albany County,precinct
-Albany County,0171 BETHLEHEM ED 1,418,176,0,0,19,0,11,4,406,165,22,12,20,5,0,274,239,33,17,12,11,4,2,24,7,Albany County,precinct
-Albany County,0172 BETHLEHEM ED 2,596,193,0,0,26,0,6,6,563,192,29,20,19,6,5,442,254,34,22,12,12,4,6,22,10,Albany County,precinct
-Albany County,0173 BETHLEHEM ED 3,292,101,0,0,19,0,9,6,276,101,11,20,13,6,2,232,129,11,14,11,5,5,4,14,5,Albany County,precinct
-Albany County,0174 BETHLEHEM ED 4,403,110,0,0,25,0,13,3,383,103,21,25,15,8,1,307,141,26,23,12,9,4,3,14,2,Albany County,precinct
-Albany County,0175 BETHLEHEM ED 5,408,208,0,0,18,0,4,7,383,186,36,18,19,6,4,298,237,35,19,12,7,4,3,21,11,Albany County,precinct
-Albany County,0176 BETHLEHEM ED 6,510,208,0,0,42,0,9,4,486,188,43,31,23,9,2,380,245,44,29,18,12,4,4,25,13,Albany County,precinct
-Albany County,0177 BETHLEHEM ED 7,403,104,0,0,30,0,13,2,386,90,28,25,18,7,4,314,138,29,21,16,7,6,4,15,5,Albany County,precinct
-Albany County,0178 BETHLEHEM ED 8,428,136,0,0,36,0,8,3,401,119,27,34,28,5,3,305,158,28,27,22,18,6,5,27,8,Albany County,precinct
-Albany County,0179 BETHLEHEM ED 9,298,120,0,0,21,0,8,3,289,104,25,19,9,6,4,219,126,28,13,17,4,5,2,24,7,Albany County,precinct
-Albany County,0180 BETHLEHEM ED 10,267,79,0,0,13,0,8,0,245,79,10,12,10,11,1,193,100,13,15,4,7,5,3,9,12,Albany County,precinct
-Albany County,0181 BETHLEHEM ED 11,358,141,0,0,31,0,9,4,345,117,34,26,17,5,7,256,154,32,19,19,13,2,9,31,8,Albany County,precinct
-Albany County,0182 BETHLEHEM ED 12,437,125,0,0,42,0,9,2,400,118,26,40,23,11,4,322,162,29,23,23,11,5,3,33,5,Albany County,precinct
-Albany County,0183 BETHLEHEM ED 13,454,150,0,0,28,0,11,3,420,155,22,21,14,9,6,346,190,29,22,12,11,5,3,28,4,Albany County,precinct
-Albany County,0184 BETHLEHEM ED 14,417,83,0,0,45,0,8,2,405,67,25,33,15,10,2,315,101,31,16,30,10,8,6,25,3,Albany County,precinct
-Albany County,0185 BETHLEHEM ED 15,455,122,0,0,32,0,12,9,437,102,24,25,25,8,5,361,146,27,16,17,19,8,8,22,5,Albany County,precinct
-Albany County,0186 BETHLEHEM ED 16,246,118,0,0,19,0,5,4,249,98,21,9,14,2,3,190,132,25,10,6,7,2,5,9,9,Albany County,precinct
-Albany County,0187 BETHLEHEM ED 17,394,192,0,0,23,0,8,5,372,178,35,17,21,7,3,274,245,45,12,10,10,3,8,15,7,Albany County,precinct
-Albany County,0188 BETHLEHEM ED 18,186,192,0,0,20,0,4,6,192,156,44,9,13,4,1,123,196,49,14,2,4,3,6,7,13,Albany County,precinct
-Albany County,0189 BETHLEHEM ED 19,365,171,0,0,30,0,7,2,347,171,17,21,16,6,0,272,209,22,18,16,7,5,3,18,4,Albany County,precinct
-Albany County,0190 BETHLEHEM ED 20,355,164,0,0,22,0,11,4,332,146,38,15,17,11,7,243,178,42,26,8,14,4,6,24,13,Albany County,precinct
-Albany County,0191 BETHLEHEM ED 21,399,232,0,0,21,0,10,3,381,210,43,16,18,5,5,254,297,47,22,15,8,4,2,10,9,Albany County,precinct
-Albany County,0192 BETHLEHEM ED 22,298,164,0,0,16,0,8,2,293,150,19,7,17,9,1,223,187,27,12,4,5,6,3,19,5,Albany County,precinct
-Albany County,0193 BETHLEHEM ED 23,610,242,0,0,32,0,11,1,594,206,39,23,26,9,1,452,295,45,17,14,12,5,4,38,9,Albany County,precinct
-Albany County,0194 BETHLEHEM ED 24,508,234,0,0,26,0,12,3,474,219,37,19,32,11,3,373,278,47,27,14,13,10,6,24,5,Albany County,precinct
-Albany County,0195 BETHLEHEM ED 25,488,170,0,0,59,0,16,6,473,155,28,43,25,13,6,372,196,32,22,36,12,11,9,26,9,Albany County,precinct
-Albany County,0196 BETHLEHEM ED 26,585,184,0,0,59,0,17,4,561,173,32,45,20,17,6,435,220,42,38,37,19,11,6,19,6,Albany County,precinct
-Albany County,0197 BETHLEHEM ED 27,247,138,0,0,9,0,8,2,240,123,30,8,7,4,3,176,155,31,16,2,7,1,3,7,10,Albany County,precinct
-Albany County,0198 BETHLEHEM ED 28,318,248,0,0,13,0,7,3,311,207,47,10,20,6,4,214,279,54,17,7,6,4,3,14,10,Albany County,precinct
-Albany County,0199 BETHLEHEM ED 29,145,90,0,0,10,0,5,2,138,79,17,8,6,4,1,105,99,15,9,7,2,2,2,9,2,Albany County,precinct
-Albany County,0200 BETHLEHEM ED 30,99,88,0,0,11,0,3,0,93,86,6,9,8,0,3,75,93,8,6,5,5,1,2,5,1,Albany County,precinct
-Albany County,0201 BETHLEHEM ED 31,7,14,0,0,1,0,1,0,8,10,1,1,1,0,1,3,14,0,1,1,1,0,0,0,2,Albany County,precinct
-Albany County,0202 COEYMANS ED 1,112,105,0,0,7,0,3,2,117,82,17,6,9,2,1,82,104,21,7,4,3,3,4,6,4,Albany County,precinct
-Albany County,0203 COEYMANS ED 2,255,188,0,0,14,0,4,8,245,165,31,10,20,4,0,162,229,44,8,7,6,1,7,6,9,Albany County,precinct
-Albany County,0204 COEYMANS ED 3,438,326,0,0,25,0,10,5,430,267,66,22,23,12,6,289,354,85,19,12,13,4,9,12,20,Albany County,precinct
-Albany County,0205 COEYMANS ED 4,160,174,0,0,7,0,4,3,159,144,34,7,8,3,3,119,164,42,8,7,5,0,4,2,9,Albany County,precinct
-Albany County,0206 COEYMANS ED 5,172,251,0,0,21,0,9,3,164,218,47,15,10,7,8,109,255,53,12,5,3,2,7,7,17,Albany County,precinct
-Albany County,0207 COEYMANS ED 6,173,238,0,0,20,0,5,3,166,183,69,17,11,4,3,99,224,77,14,8,7,2,3,8,11,Albany County,precinct
-Albany County,0208 COLONIE ED 1,464,132,0,0,22,0,7,4,439,128,19,15,19,9,3,381,161,22,17,11,13,3,7,10,11,Albany County,precinct
-Albany County,0209 COLONIE ED 2,385,174,0,0,22,0,9,6,365,152,36,13,19,9,2,289,188,36,32,9,10,8,3,12,11,Albany County,precinct
-Albany County,0210 COLONIE ED 3,277,110,0,0,20,0,6,5,272,93,25,15,10,4,5,212,132,25,12,9,5,2,3,13,12,Albany County,precinct
-Albany County,0211 COLONIE ED 4,444,211,0,0,25,0,11,2,408,199,47,23,23,7,2,314,248,55,19,12,12,7,5,20,4,Albany County,precinct
-Albany County,0212 COLONIE ED 5,280,153,0,0,14,0,7,4,252,151,22,8,11,7,4,188,177,21,15,5,13,2,3,28,7,Albany County,precinct
-Albany County,0213 COLONIE ED 6,415,212,0,0,23,0,8,4,367,217,39,11,21,8,8,297,263,38,12,11,14,4,4,13,5,Albany County,precinct
-Albany County,0214 COLONIE ED 7,338,187,0,0,18,0,10,1,326,178,19,11,16,4,2,253,234,23,15,9,7,3,4,8,5,Albany County,precinct
-Albany County,0215 COLONIE ED 8,312,190,0,0,6,0,5,5,298,180,29,7,9,2,2,234,221,32,13,1,5,1,2,8,8,Albany County,precinct
-Albany County,0216 COLONIE ED 9,263,154,0,0,15,0,8,4,247,148,17,14,13,3,4,188,185,17,3,12,5,3,2,7,17,Albany County,precinct
-Albany County,0217 COLONIE ED 10,216,121,0,0,14,0,3,2,207,114,16,14,5,2,2,156,136,19,15,7,1,2,3,8,12,Albany County,precinct
-Albany County,0218 COLONIE ED 11,379,221,0,0,25,0,2,5,363,204,32,18,21,4,3,272,269,35,17,6,12,5,4,11,12,Albany County,precinct
-Albany County,0219 COLONIE ED 12,239,184,0,0,18,0,3,2,221,178,31,8,9,1,4,168,216,35,8,4,4,0,3,14,4,Albany County,precinct
-Albany County,0220 COLONIE ED 13,521,237,0,0,22,0,4,7,486,231,36,19,13,8,2,410,291,39,14,15,6,2,5,12,2,Albany County,precinct
-Albany County,0221 COLONIE ED 14,304,161,0,0,19,0,8,1,288,164,25,16,7,5,2,243,189,25,12,9,5,1,4,8,12,Albany County,precinct
-Albany County,0222 COLONIE ED 15,344,139,0,0,21,0,6,1,318,132,22,16,18,6,1,260,174,23,11,7,5,5,1,14,10,Albany County,precinct
-Albany County,0223 COLONIE ED 16,295,178,0,0,22,0,8,0,277,174,22,14,14,5,5,206,207,34,13,9,6,2,9,13,10,Albany County,precinct
-Albany County,0224 COLONIE ED 17,221,125,0,0,9,0,4,2,211,114,21,7,7,4,1,164,153,21,2,4,3,2,1,6,8,Albany County,precinct
-Albany County,0225 COLONIE ED 18,366,248,0,0,9,0,8,5,343,235,28,13,11,10,2,249,301,31,11,6,7,5,7,10,10,Albany County,precinct
-Albany County,0226 COLONIE ED 19,254,174,0,0,10,0,6,3,228,164,31,11,14,6,4,168,218,36,4,4,7,1,4,10,5,Albany County,precinct
-Albany County,0227 COLONIE ED 20,232,140,0,0,10,0,4,4,222,124,24,7,11,3,0,163,164,29,6,2,3,1,3,8,7,Albany County,precinct
-Albany County,0228 COLONIE ED 21,393,212,0,0,16,0,10,4,372,197,43,17,17,2,1,303,255,41,8,8,3,4,2,12,7,Albany County,precinct
-Albany County,0229 COLONIE ED 22,341,191,0,0,15,0,10,2,337,187,22,11,10,4,1,270,227,27,10,9,1,5,3,12,13,Albany County,precinct
-Albany County,0230 COLONIE ED 23,280,199,0,0,22,0,3,3,263,194,25,16,8,3,2,208,234,28,12,5,4,1,2,8,6,Albany County,precinct
-Albany County,0231 COLONIE ED 24,313,214,0,0,10,0,3,2,293,194,33,9,9,4,4,234,244,40,11,2,5,0,3,5,9,Albany County,precinct
-Albany County,0232 COLONIE ED 25,292,176,0,0,16,0,4,1,286,155,25,12,8,5,0,218,202,27,12,7,3,5,3,3,11,Albany County,precinct
-Albany County,0233 COLONIE ED 26,369,279,0,0,23,0,8,6,347,257,44,23,12,7,3,258,334,37,9,10,8,5,4,8,10,Albany County,precinct
-Albany County,0234 COLONIE ED 27,246,201,0,0,14,0,6,2,217,197,29,7,11,2,2,156,235,34,12,6,10,4,1,6,8,Albany County,precinct
-Albany County,0235 COLONIE ED 28,379,276,0,0,22,0,10,3,355,255,56,17,12,10,3,244,334,60,25,8,7,2,4,15,13,Albany County,precinct
-Albany County,0236 COLONIE ED 29,241,186,0,0,12,0,4,4,224,175,24,6,11,6,3,158,219,24,7,7,5,4,3,14,9,Albany County,precinct
-Albany County,0237 COLONIE ED 30,381,261,0,0,28,0,13,3,362,243,38,14,20,8,4,257,308,47,20,10,15,3,3,13,10,Albany County,precinct
-Albany County,0238 COLONIE ED 31,480,257,0,0,17,0,5,5,452,238,49,16,13,3,1,342,289,50,22,9,14,1,7,19,7,Albany County,precinct
-Albany County,0239 COLONIE ED 32,173,121,0,0,8,0,5,2,167,101,28,3,13,4,0,140,130,27,1,1,5,4,3,5,3,Albany County,precinct
-Albany County,0240 COLONIE ED 33,196,98,0,0,10,0,3,1,181,94,12,10,10,3,2,139,112,18,6,8,6,1,2,7,5,Albany County,precinct
-Albany County,0241 COLONIE ED 34,436,300,0,0,23,0,14,7,416,261,54,18,17,12,8,312,334,54,12,16,8,6,10,23,13,Albany County,precinct
-Albany County,0242 COLONIE ED 35,407,237,0,0,21,0,8,3,377,235,34,14,7,8,3,286,287,39,11,11,4,3,4,24,5,Albany County,precinct
-Albany County,0243 COLONIE ED 36,454,276,0,0,28,0,8,2,425,263,36,17,16,8,11,297,354,42,22,7,5,9,10,19,10,Albany County,precinct
-Albany County,0244 COLONIE ED 37,268,158,0,0,11,0,5,2,253,143,21,15,12,5,2,212,171,24,6,6,4,3,4,12,7,Albany County,precinct
-Albany County,0245 COLONIE ED 38,250,156,0,0,14,0,8,2,229,148,24,12,15,7,3,178,176,27,9,7,10,6,2,12,7,Albany County,precinct
-Albany County,0246 COLONIE ED 39,415,205,0,0,16,0,6,3,388,198,44,15,14,3,4,278,248,50,12,14,5,2,8,15,22,Albany County,precinct
-Albany County,0247 COLONIE ED 40,284,175,0,0,10,0,3,1,271,166,29,4,8,3,3,223,194,34,3,3,4,1,3,6,5,Albany County,precinct
-Albany County,0248 COLONIE ED 41,577,221,0,0,22,0,13,2,555,204,38,23,14,6,3,447,262,36,19,12,16,5,5,20,13,Albany County,precinct
-Albany County,0249 COLONIE ED 42,381,237,0,0,29,0,6,1,351,218,39,19,17,8,1,284,252,52,14,15,8,7,3,12,10,Albany County,precinct
-Albany County,0250 COLONIE ED 43,327,175,0,0,23,0,11,3,300,170,27,19,17,11,4,223,199,35,23,9,7,7,2,19,17,Albany County,precinct
-Albany County,0251 COLONIE ED 44,366,166,0,0,15,0,11,5,346,161,38,14,12,5,3,272,199,36,17,8,9,3,7,15,11,Albany County,precinct
-Albany County,0252 COLONIE ED 45,234,134,0,0,14,0,8,3,228,121,28,8,10,5,4,176,155,25,11,5,6,4,4,8,10,Albany County,precinct
-Albany County,0253 COLONIE ED 46,414,228,0,0,19,0,5,8,392,216,38,16,17,7,2,314,263,38,16,8,11,4,7,13,7,Albany County,precinct
-Albany County,0254 COLONIE ED 47,230,116,0,0,9,0,9,1,214,108,25,5,11,7,1,164,139,29,6,4,6,1,3,12,1,Albany County,precinct
-Albany County,0255 COLONIE ED 48,448,283,0,0,18,0,8,5,415,263,54,15,15,2,3,302,350,58,12,8,10,1,3,15,9,Albany County,precinct
-Albany County,0256 COLONIE ED 49,283,135,0,0,20,0,2,1,269,130,14,14,10,3,4,194,173,21,10,11,3,1,5,9,18,Albany County,precinct
-Albany County,0257 COLONIE ED 50,291,180,0,0,16,0,4,3,285,164,22,11,7,6,4,206,202,34,18,5,4,3,4,8,13,Albany County,precinct
-Albany County,0258 COLONIE ED 51,506,347,0,0,19,0,12,10,484,314,49,16,18,11,5,372,399,57,16,12,6,3,6,11,15,Albany County,precinct
-Albany County,0259 COLONIE ED 52,333,182,0,0,14,0,7,1,318,170,33,7,17,3,3,243,218,41,6,4,9,3,3,9,2,Albany County,precinct
-Albany County,0260 COLONIE ED 53,317,195,0,0,10,0,8,2,314,168,28,13,4,7,6,229,219,29,14,4,0,2,6,22,5,Albany County,precinct
-Albany County,0261 COLONIE ED 54,336,200,0,0,10,0,8,3,314,176,35,8,18,9,4,246,217,36,12,5,13,9,6,10,9,Albany County,precinct
-Albany County,0262 COLONIE ED 55,335,171,0,0,16,0,9,2,311,160,24,13,23,7,4,241,202,26,11,6,9,7,3,13,8,Albany County,precinct
-Albany County,0263 COLONIE ED 56,286,180,0,0,5,0,5,0,276,166,31,1,8,4,1,212,199,34,8,2,5,1,3,10,12,Albany County,precinct
-Albany County,0264 COLONIE ED 57,294,194,0,0,11,0,4,4,274,178,40,7,6,5,5,210,221,41,9,3,5,3,5,15,6,Albany County,precinct
-Albany County,0265 COLONIE ED 58,278,166,0,0,13,0,9,4,269,153,22,10,14,2,1,190,209,32,11,5,4,4,5,12,3,Albany County,precinct
-Albany County,0266 COLONIE ED 59,350,275,0,0,17,0,8,1,330,256,49,6,14,5,2,258,296,53,11,1,8,3,4,12,14,Albany County,precinct
-Albany County,0267 COLONIE ED 60,223,153,0,0,14,0,2,7,209,144,23,13,11,3,2,137,210,28,5,5,5,1,6,8,6,Albany County,precinct
-Albany County,0268 COLONIE ED 61,268,170,0,0,18,0,9,2,252,147,34,16,11,5,3,191,177,36,14,10,4,5,7,13,4,Albany County,precinct
-Albany County,0269 GREEN ISLAND ED 1,181,68,0,0,11,0,1,2,181,59,9,5,9,0,0,133,93,12,3,3,6,0,0,2,6,Albany County,precinct
-Albany County,0270 GREEN ISLAND ED 2,116,33,0,0,3,0,0,0,107,37,5,1,0,0,1,77,54,7,2,0,0,2,1,4,4,Albany County,precinct
-Albany County,0271 GREEN ISLAND ED 3,90,27,0,0,4,0,2,2,87,22,7,4,2,0,0,62,40,11,6,0,0,0,1,6,1,Albany County,precinct
-Albany County,0272 GREEN ISLAND ED 4,182,33,0,0,4,0,0,1,173,35,12,4,0,0,1,111,72,15,7,3,0,1,2,5,1,Albany County,precinct
-Albany County,0274 GUILDERLAND ED 2,17,2,0,0,0,0,0,0,15,3,0,0,0,1,0,13,4,0,0,0,0,0,0,0,1,Albany County,precinct
-Albany County,0275 GUILDERLAND ED 3,341,101,0,0,25,0,12,3,323,100,24,18,12,9,7,244,120,23,28,15,6,9,3,19,14,Albany County,precinct
-Albany County,0276 GUILDERLAND ED 4,514,181,0,0,37,0,10,8,487,183,32,31,20,7,6,368,233,34,27,22,6,7,9,32,14,Albany County,precinct
-Albany County,0277 GUILDERLAND ED 5,235,112,0,0,12,0,3,2,218,102,21,8,12,4,0,165,121,25,14,5,4,1,5,10,11,Albany County,precinct
-Albany County,0278 GUILDERLAND ED 6,298,149,0,0,18,0,5,5,281,142,24,8,19,5,0,212,177,29,11,11,11,2,1,14,8,Albany County,precinct
-Albany County,0279 GUILDERLAND ED 7,450,205,0,0,21,0,15,6,432,184,39,14,24,12,1,326,241,53,14,12,10,7,7,17,8,Albany County,precinct
-Albany County,0280 GUILDERLAND ED 8,308,103,0,0,12,0,6,0,288,98,25,9,7,4,4,244,127,21,18,6,5,2,4,5,5,Albany County,precinct
-Albany County,0281 GUILDERLAND ED 9,329,147,0,0,13,0,5,3,322,134,34,9,12,1,0,265,159,31,15,6,9,3,2,7,14,Albany County,precinct
-Albany County,0282 GUILDERLAND ED 10,416,162,0,0,21,0,7,6,404,140,33,18,16,3,6,319,184,37,20,11,7,2,5,17,11,Albany County,precinct
-Albany County,0283 GUILDERLAND ED 11,411,194,0,0,17,0,8,5,397,177,34,16,13,7,6,300,224,41,8,14,10,9,2,16,19,Albany County,precinct
-Albany County,0284 GUILDERLAND ED 12,464,224,0,0,25,0,6,6,428,228,38,15,18,3,7,340,295,40,9,9,7,2,8,17,7,Albany County,precinct
-Albany County,0285 GUILDERLAND ED 13,385,150,0,0,12,0,12,5,347,157,37,11,14,10,2,262,211,30,6,8,7,6,6,28,4,Albany County,precinct
-Albany County,0286 GUILDERLAND ED 14,472,144,0,0,22,0,7,5,453,139,27,20,17,7,0,376,180,29,24,11,6,5,3,16,9,Albany County,precinct
-Albany County,0287 GUILDERLAND ED 15,347,176,0,0,20,0,8,2,330,177,23,16,10,9,2,256,216,28,20,7,5,4,3,16,6,Albany County,precinct
-Albany County,0288 GUILDERLAND ED 16,283,244,0,0,5,0,5,1,259,243,29,5,7,2,0,183,280,33,13,2,3,6,3,11,3,Albany County,precinct
-Albany County,0289 GUILDERLAND ED 17,427,209,0,0,17,0,9,3,410,206,30,13,14,6,2,315,266,30,18,5,8,3,4,20,9,Albany County,precinct
-Albany County,0290 GUILDERLAND ED 18,436,255,0,0,24,0,8,4,405,242,64,13,17,6,2,281,318,67,17,9,11,5,6,14,11,Albany County,precinct
-Albany County,0291 GUILDERLAND ED 19,288,178,0,0,13,0,6,1,263,169,34,10,16,2,0,210,193,35,13,8,7,1,3,13,5,Albany County,precinct
-Albany County,0292 GUILDERLAND ED 20,257,128,0,0,11,0,3,2,237,122,34,4,8,3,3,157,163,37,8,2,6,5,4,12,9,Albany County,precinct
-Albany County,0293 GUILDERLAND ED 21,326,112,0,0,19,0,9,1,312,103,30,15,8,8,0,221,150,34,15,8,7,7,4,11,10,Albany County,precinct
-Albany County,0294 GUILDERLAND ED 22,513,269,0,0,31,0,12,7,479,254,49,24,18,13,6,348,329,50,23,16,11,7,6,24,17,Albany County,precinct
-Albany County,0295 GUILDERLAND ED 23,230,142,0,0,9,0,5,0,210,137,24,5,12,3,3,162,162,29,8,2,6,3,2,7,14,Albany County,precinct
-Albany County,0296 GUILDERLAND ED 24,340,190,0,0,28,0,5,8,322,193,30,15,15,5,2,239,245,31,12,8,6,2,3,21,11,Albany County,precinct
-Albany County,0297 GUILDERLAND ED 25,277,190,0,0,23,0,10,2,264,172,44,12,13,8,4,184,226,56,14,5,8,1,2,15,6,Albany County,precinct
-Albany County,0298 GUILDERLAND ED 26,295,235,0,0,20,0,9,10,259,211,61,16,26,7,6,181,253,72,12,10,8,5,12,18,10,Albany County,precinct
-Albany County,0299 GUILDERLAND ED 27,167,99,0,0,8,0,5,1,165,90,17,6,5,4,2,115,126,24,3,4,2,4,1,3,4,Albany County,precinct
-Albany County,0300 GUILDERLAND ED 28,368,240,0,0,24,0,11,4,352,225,44,18,17,5,4,261,273,43,24,14,8,7,8,12,9,Albany County,precinct
-Albany County,0301 GUILDERLAND ED 29,375,165,0,0,30,0,8,3,361,139,47,25,16,7,2,266,191,48,29,15,9,4,7,12,7,Albany County,precinct
-Albany County,0302 GUILDERLAND ED 30,197,110,0,0,15,0,2,6,185,103,21,16,11,3,1,122,126,26,13,11,5,2,4,9,14,Albany County,precinct
-Albany County,0303 KNOX ED 1,210,199,0,0,20,0,3,2,179,186,42,15,10,4,4,123,227,56,15,6,0,4,3,4,5,Albany County,precinct
-Albany County,0304 KNOX ED 2,265,233,0,0,20,0,11,6,237,221,49,13,18,9,1,152,277,59,19,6,6,2,6,21,6,Albany County,precinct
-Albany County,0305 KNOX ED 3,101,139,0,0,13,0,4,0,94,123,37,5,7,2,0,60,154,31,6,2,6,2,1,6,5,Albany County,precinct
-Albany County,0306 NEW SCOTLAND ED 1,242,195,0,0,25,0,9,4,225,177,49,19,15,7,2,163,202,52,26,8,12,5,2,3,6,Albany County,precinct
-Albany County,0307 NEW SCOTLAND ED 2,375,307,0,0,31,0,15,6,354,278,62,25,22,8,6,232,333,77,31,16,10,8,7,19,15,Albany County,precinct
-Albany County,0308 NEW SCOTLAND ED 3,101,159,0,0,12,0,6,2,109,123,42,9,11,1,2,66,160,43,11,2,2,1,2,7,4,Albany County,precinct
-Albany County,0309 NEW SCOTLAND ED 4,257,222,0,0,22,0,6,7,252,190,32,23,11,6,3,167,243,40,10,9,7,4,8,17,13,Albany County,precinct
-Albany County,0310 NEW SCOTLAND ED 5,395,221,0,0,12,0,10,4,351,220,37,14,13,14,0,274,264,39,17,10,6,9,3,15,6,Albany County,precinct
-Albany County,0311 NEW SCOTLAND ED 6,299,120,0,0,16,0,6,2,283,120,21,7,9,5,2,206,162,25,11,8,7,4,6,13,3,Albany County,precinct
-Albany County,0312 NEW SCOTLAND ED 7,415,239,0,0,30,0,8,4,384,212,58,22,22,9,4,281,256,61,26,14,11,8,5,23,21,Albany County,precinct
-Albany County,0313 NEW SCOTLAND ED 8,447,241,0,0,32,0,7,7,420,204,61,29,25,9,5,314,279,62,26,16,11,5,4,24,8,Albany County,precinct
-Albany County,0314 RENSSELAERVILLE ED 1,177,116,0,0,23,0,6,2,171,94,33,16,10,5,0,113,131,39,13,7,4,2,2,5,4,Albany County,precinct
-Albany County,0315 RENSSELAERVILLE ED 2,96,134,0,0,10,0,3,1,94,104,49,12,5,3,3,68,127,46,9,4,0,2,3,4,7,Albany County,precinct
-Albany County,0316 RENSSELAERVILLE ED 3,105,155,0,0,20,0,5,2,101,124,48,10,5,9,2,45,160,52,6,7,3,7,3,6,10,Albany County,precinct
-Albany County,0317 WESTERLO ED 1,203,289,0,0,12,0,7,1,203,232,72,11,9,8,2,129,295,73,10,3,4,6,6,5,9,Albany County,precinct
-Albany County,0318 WESTERLO ED 2,180,214,0,0,14,0,6,4,160,207,35,9,12,4,6,103,258,48,9,5,1,2,5,6,7,Albany County,precinct
-Albany County,0319 WESTERLO ED 3,153,275,0,0,10,0,6,2,137,236,64,12,6,5,5,75,280,71,14,2,5,1,6,9,9,Albany County,precinct
+Albany County,0001 ALBANY W1 ED1,40,7,0,0,5,0,1,0,40,8,1,6,0,0,0,35,9,1,3,3,0,0,0,2,1,Albany County,0001 ALBANY W1 ED1
+Albany County,0002 ALBANY W1 ED2,182,20,0,0,21,0,6,3,176,23,5,22,4,4,1,148,32,11,15,11,1,1,2,9,3,Albany County,0002 ALBANY W1 ED2
+Albany County,0003 ALBANY W1 ED3,241,41,0,0,11,0,1,4,228,40,11,10,5,5,0,212,55,11,4,10,1,3,0,5,5,Albany County,0003 ALBANY W1 ED3
+Albany County,0004 ALBANY W1 ED4,245,18,0,0,18,0,5,3,241,15,6,15,5,4,3,220,30,5,4,12,4,1,3,7,4,Albany County,0004 ALBANY W1 ED4
+Albany County,0005 ALBANY W1 ED5,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,Albany County,0005 ALBANY W1 ED5
+Albany County,0006 ALBANY W1 ED6,220,12,0,0,12,0,1,1,213,14,0,10,4,1,2,207,14,2,6,7,3,0,1,2,3,Albany County,0006 ALBANY W1 ED6
+Albany County,0007 ALBANY W1 ED7,241,21,0,0,13,0,3,1,232,21,8,13,4,2,1,217,32,7,4,5,2,3,0,6,2,Albany County,0007 ALBANY W1 ED7
+Albany County,0008 ALBANY W1 ED8,66,5,0,0,0,0,0,0,61,4,1,0,2,0,0,59,2,3,1,0,2,0,1,1,2,Albany County,0008 ALBANY W1 ED8
+Albany County,0009 ALBANY W1 ED9,193,21,0,0,10,0,0,0,185,21,4,9,4,0,0,175,28,3,2,6,2,0,0,2,1,Albany County,0009 ALBANY W1 ED9
+Albany County,0010 ALBANY W1 ED10,16,0,0,0,1,0,0,0,16,0,0,0,1,0,0,16,0,0,0,0,0,1,0,0,0,Albany County,0010 ALBANY W1 ED10
+Albany County,0011 ALBANY W2 ED1,208,11,0,0,9,0,4,1,206,9,2,8,4,2,0,200,18,3,2,7,1,4,0,3,1,Albany County,0011 ALBANY W2 ED1
+Albany County,0012 ALBANY W2 ED2,106,2,0,0,9,0,1,1,103,1,2,8,3,0,0,97,4,2,3,5,2,0,0,1,2,Albany County,0012 ALBANY W2 ED2
+Albany County,0013 ALBANY W2 ED3,76,8,0,0,0,0,3,0,75,7,0,1,0,1,0,79,8,0,1,0,0,0,0,1,0,Albany County,0013 ALBANY W2 ED3
+Albany County,0014 ALBANY W2 ED4,210,25,0,0,4,0,3,0,204,24,1,7,3,1,0,205,26,2,5,4,4,1,0,2,5,Albany County,0014 ALBANY W2 ED4
+Albany County,0015 ALBANY W2 ED5,164,10,0,0,19,0,3,1,159,11,0,19,1,4,1,148,14,0,6,17,1,2,1,7,1,Albany County,0015 ALBANY W2 ED5
+Albany County,0016 ALBANY W2 ED6,147,7,0,0,34,0,11,1,143,4,2,31,5,10,1,111,8,3,32,17,3,3,2,21,2,Albany County,0016 ALBANY W2 ED6
+Albany County,0017 ALBANY W2 ED7,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,Albany County,0017 ALBANY W2 ED7
+Albany County,0018 ALBANY W2 ED8,37,1,0,0,1,0,0,0,38,1,0,0,0,0,0,37,1,0,0,0,0,0,0,1,0,Albany County,0018 ALBANY W2 ED8
+Albany County,0019 ALBANY W2 ED9,119,7,0,0,6,0,3,1,115,6,2,6,4,1,0,124,7,1,3,3,2,0,0,1,1,Albany County,0019 ALBANY W2 ED9
+Albany County,0021 ALBANY W3 ED1,224,43,0,0,18,0,7,4,226,37,4,16,6,4,3,197,49,3,15,11,0,1,1,12,8,Albany County,0021 ALBANY W3 ED1
+Albany County,0022 ALBANY W3 ED2,24,0,0,0,3,0,0,0,24,1,0,3,0,0,0,20,2,0,4,3,0,0,0,0,0,Albany County,0022 ALBANY W3 ED2
+Albany County,0023 ALBANY W3 ED3,11,2,0,0,2,0,0,0,12,2,0,1,1,0,0,10,2,0,2,0,1,0,0,0,1,Albany County,0023 ALBANY W3 ED3
+Albany County,0024 ALBANY W3 ED4,130,7,0,0,9,0,6,0,130,5,2,5,5,6,1,117,7,3,7,5,3,6,0,5,3,Albany County,0024 ALBANY W3 ED4
+Albany County,0025 ALBANY W3 ED5,91,6,0,0,4,0,0,0,83,7,0,6,1,1,1,81,7,0,2,5,1,1,0,0,1,Albany County,0025 ALBANY W3 ED5
+Albany County,0026 ALBANY W3 ED6,71,4,0,0,3,0,1,0,68,3,0,4,2,0,0,69,3,0,2,1,2,0,0,0,1,Albany County,0026 ALBANY W3 ED6
+Albany County,0027 ALBANY W3 ED7,149,9,0,0,8,0,0,1,136,11,2,6,2,1,0,145,12,3,7,1,2,0,0,1,1,Albany County,0027 ALBANY W3 ED7
+Albany County,0028 ALBANY W3 ED8,66,6,0,0,0,0,0,0,65,5,0,0,0,0,0,68,3,1,1,0,0,0,0,1,1,Albany County,0028 ALBANY W3 ED8
+Albany County,0029 ALBANY W3 ED9,43,7,0,0,5,0,2,1,42,7,2,5,0,2,0,35,10,0,3,3,0,2,0,2,2,Albany County,0029 ALBANY W3 ED9
+Albany County,0030 ALBANY W3 ED10,137,7,0,0,8,0,2,2,139,7,4,5,1,4,0,135,7,2,5,5,1,0,0,3,3,Albany County,0030 ALBANY W3 ED10
+Albany County,0031 ALBANY W4 ED1,128,3,0,0,3,0,1,0,132,2,1,2,2,1,0,128,2,1,2,1,1,0,0,0,0,Albany County,0031 ALBANY W4 ED1
+Albany County,0032 ALBANY W4 ED2,62,5,0,0,2,0,3,0,61,5,3,2,1,1,0,68,3,5,0,1,0,1,0,0,0,Albany County,0032 ALBANY W4 ED2
+Albany County,0033 ALBANY W4 ED3,163,21,0,0,6,0,4,1,155,21,3,11,4,3,0,160,25,5,3,4,3,3,1,1,1,Albany County,0033 ALBANY W4 ED3
+Albany County,0034 ALBANY W4 ED4,322,36,0,0,11,0,2,1,314,33,8,7,6,2,1,274,63,11,6,9,4,1,0,1,1,Albany County,0034 ALBANY W4 ED4
+Albany County,0035 ALBANY W4 ED5,289,89,0,0,12,0,2,2,285,84,15,9,5,3,0,241,108,13,3,7,3,2,3,12,6,Albany County,0035 ALBANY W4 ED5
+Albany County,0036 ALBANY W4 ED6,110,5,0,0,7,0,0,0,112,4,0,6,2,0,0,112,5,0,2,2,0,2,0,0,2,Albany County,0036 ALBANY W4 ED6
+Albany County,0037 ALBANY W5 ED1,145,6,0,0,3,0,1,0,143,4,2,3,2,0,0,143,7,1,3,2,1,0,0,0,2,Albany County,0037 ALBANY W5 ED1
+Albany County,0038 ALBANY W5 ED2,87,1,0,0,1,0,0,0,80,2,1,2,0,0,1,83,2,0,1,2,0,0,0,0,0,Albany County,0038 ALBANY W5 ED2
+Albany County,0039 ALBANY W5 ED3,116,7,0,0,5,0,0,0,107,8,0,4,0,2,0,116,6,0,0,2,0,0,0,2,0,Albany County,0039 ALBANY W5 ED3
+Albany County,0040 ALBANY W5 ED4,35,0,0,0,1,0,2,0,37,0,1,0,1,2,0,37,2,1,1,1,2,0,1,0,0,Albany County,0040 ALBANY W5 ED4
+Albany County,0041 ALBANY W5 ED5,326,14,0,0,6,0,1,1,314,12,4,5,2,1,1,315,15,4,6,4,1,1,0,2,3,Albany County,0041 ALBANY W5 ED5
+Albany County,0042 ALBANY W5 ED6,126,12,0,0,3,0,2,0,127,10,2,3,3,3,0,125,14,3,1,1,2,2,0,2,0,Albany County,0042 ALBANY W5 ED6
+Albany County,0043 ALBANY W5 ED7,129,13,0,0,9,0,2,1,128,12,2,6,4,0,1,123,18,2,5,1,4,1,1,1,0,Albany County,0043 ALBANY W5 ED7
+Albany County,0044 ALBANY W6 ED1,107,10,0,0,2,0,5,0,106,9,3,2,0,3,0,100,12,3,6,0,3,1,1,1,0,Albany County,0044 ALBANY W6 ED1
+Albany County,0045 ALBANY W6 ED2,133,11,0,0,17,0,4,1,127,12,2,13,3,6,1,108,12,1,18,10,2,2,1,6,6,Albany County,0045 ALBANY W6 ED2
+Albany County,0046 ALBANY W6 ED3,210,20,0,0,29,0,7,3,206,19,3,23,3,8,3,175,29,2,13,19,2,2,4,19,4,Albany County,0046 ALBANY W6 ED3
+Albany County,0047 ALBANY W6 ED4,350,39,0,0,49,0,10,3,347,36,5,41,7,10,2,277,48,9,35,36,5,6,0,20,7,Albany County,0047 ALBANY W6 ED4
+Albany County,0048 ALBANY W6 ED5,360,45,0,0,51,0,11,1,357,33,10,44,10,10,3,297,45,10,34,35,5,11,2,18,12,Albany County,0048 ALBANY W6 ED5
+Albany County,0049 ALBANY W6 ED6,233,24,0,0,33,0,9,2,228,26,1,31,9,7,0,189,31,4,17,22,10,3,2,9,11,Albany County,0049 ALBANY W6 ED6
+Albany County,0050 ALBANY W6 ED7,9,1,0,0,0,0,0,0,8,1,0,0,0,1,0,8,1,0,0,0,0,0,0,0,0,Albany County,0050 ALBANY W6 ED7
+Albany County,0051 ALBANY W6 ED8,276,31,0,0,36,0,10,2,271,28,7,28,10,7,1,223,40,11,17,21,5,3,2,20,9,Albany County,0051 ALBANY W6 ED8
+Albany County,0052 ALBANY W7 ED1,205,30,0,0,18,0,3,1,196,32,5,19,3,2,2,145,46,5,14,14,2,3,5,16,6,Albany County,0052 ALBANY W7 ED1
+Albany County,0053 ALBANY W7 ED2,1,2,0,0,0,0,0,0,1,2,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,Albany County,0053 ALBANY W7 ED2
+Albany County,0054 ALBANY W7 ED3,215,29,0,0,21,0,14,5,208,28,8,22,4,11,3,185,31,11,19,14,1,11,2,7,4,Albany County,0054 ALBANY W7 ED3
+Albany County,0055 ALBANY W7 ED4,167,16,0,0,18,0,2,1,163,16,1,18,2,4,2,151,16,2,7,15,1,1,0,7,4,Albany County,0055 ALBANY W7 ED4
+Albany County,0056 ALBANY W7 ED5,246,32,0,0,44,0,4,1,240,21,8,41,6,6,3,209,31,7,36,29,2,0,3,9,6,Albany County,0056 ALBANY W7 ED5
+Albany County,0057 ALBANY W7 ED6,60,11,0,0,3,0,0,1,56,11,2,4,0,0,1,47,14,1,6,2,0,0,1,3,0,Albany County,0057 ALBANY W7 ED6
+Albany County,0058 ALBANY W7 ED7,150,10,0,0,25,0,10,3,158,10,2,21,4,4,0,137,17,1,15,11,3,3,0,3,4,Albany County,0058 ALBANY W7 ED7
+Albany County,0059 ALBANY W7 ED8,156,21,0,0,25,0,11,0,153,17,2,23,4,9,2,127,23,2,18,17,0,8,1,14,1,Albany County,0059 ALBANY W7 ED8
+Albany County,0060 ALBANY W8 ED1,302,68,0,0,19,0,5,3,286,77,10,14,8,4,1,220,103,17,14,10,5,4,2,12,7,Albany County,0060 ALBANY W8 ED1
+Albany County,0061 ALBANY W8 ED2,288,102,0,0,23,0,4,0,273,99,18,21,6,2,0,214,132,19,8,17,3,3,2,12,6,Albany County,0061 ALBANY W8 ED2
+Albany County,0062 ALBANY W8 ED3,85,25,0,0,9,0,2,1,74,26,7,10,2,1,0,55,41,4,12,7,0,0,1,3,2,Albany County,0062 ALBANY W8 ED3
+Albany County,0063 ALBANY W8 ED4,393,63,0,0,27,0,9,1,367,72,12,26,10,6,2,314,101,15,15,17,4,4,5,10,3,Albany County,0063 ALBANY W8 ED4
+Albany County,0064 ALBANY W8 ED5,318,70,0,0,20,0,6,1,299,73,9,20,7,5,1,258,89,10,13,12,7,1,0,22,2,Albany County,0064 ALBANY W8 ED5
+Albany County,0065 ALBANY W8 ED6,391,89,0,0,35,0,12,4,366,95,20,29,9,10,1,307,116,19,29,20,5,6,1,15,9,Albany County,0065 ALBANY W8 ED6
+Albany County,0066 ALBANY W8 ED7,250,70,0,0,23,0,9,5,252,54,15,23,7,9,3,195,85,15,17,14,4,7,3,14,3,Albany County,0066 ALBANY W8 ED7
+Albany County,0067 ALBANY W8 ED8,292,72,0,0,31,0,9,0,274,69,23,27,6,9,2,230,94,21,18,18,4,8,1,12,8,Albany County,0067 ALBANY W8 ED8
+Albany County,0068 ALBANY W8 ED9,112,33,0,0,11,0,3,0,99,37,5,10,4,2,1,76,42,4,12,6,3,2,1,8,4,Albany County,0068 ALBANY W8 ED9
+Albany County,0069 ALBANY W9 ED1,220,23,0,0,26,0,4,0,217,19,2,24,6,4,1,177,29,3,25,16,4,2,0,12,6,Albany County,0069 ALBANY W9 ED1
+Albany County,0070 ALBANY W9 ED2,123,22,0,0,16,0,3,1,118,16,11,15,3,3,2,92,24,12,13,12,0,2,0,11,2,Albany County,0070 ALBANY W9 ED2
+Albany County,0071 ALBANY W9 ED3,108,15,0,0,9,0,1,1,102,14,4,7,4,1,1,90,14,6,6,4,1,1,2,3,4,Albany County,0071 ALBANY W9 ED3
+Albany County,0072 ALBANY W9 ED4,186,29,0,0,15,0,5,2,179,22,9,12,2,5,4,148,33,7,20,8,0,0,2,6,10,Albany County,0072 ALBANY W9 ED4
+Albany County,0073 ALBANY W9 ED5,310,57,0,0,39,0,8,2,297,54,9,38,7,6,2,240,72,11,16,34,4,5,3,16,7,Albany County,0073 ALBANY W9 ED5
+Albany County,0074 ALBANY W9 ED6,253,46,0,0,26,0,6,2,241,41,16,25,5,7,1,185,61,16,25,14,4,6,1,16,4,Albany County,0074 ALBANY W9 ED6
+Albany County,0075 ALBANY W9 ED7,306,54,0,0,46,0,8,2,299,42,18,43,6,7,0,228,66,18,25,24,4,5,4,22,4,Albany County,0075 ALBANY W9 ED7
+Albany County,0076 ALBANY W9 ED8,248,33,0,0,18,0,5,3,238,30,6,13,7,9,1,195,44,10,15,12,5,4,1,15,6,Albany County,0076 ALBANY W9 ED8
+Albany County,0077 ALBANY W9 ED9,26,3,0,0,2,0,1,0,25,4,0,2,0,1,0,21,5,0,1,1,0,1,0,0,1,Albany County,0077 ALBANY W9 ED9
+Albany County,0078 ALBANY W10 ED1,69,6,0,0,10,0,0,1,65,6,1,10,1,1,2,60,11,1,5,6,1,0,0,2,3,Albany County,0078 ALBANY W10 ED1
+Albany County,0079 ALBANY W10 ED2,87,16,0,0,9,0,1,0,86,13,5,8,2,4,0,74,16,5,7,5,2,1,1,2,2,Albany County,0079 ALBANY W10 ED2
+Albany County,0080 ALBANY W10 ED3,178,20,0,0,14,0,2,0,170,18,4,16,1,3,1,145,26,5,12,4,3,1,3,10,4,Albany County,0080 ALBANY W10 ED3
+Albany County,0081 ALBANY W10 ED4,92,6,0,0,9,0,4,2,91,5,3,8,2,3,2,73,8,6,13,4,0,6,2,1,0,Albany County,0081 ALBANY W10 ED4
+Albany County,0082 ALBANY W10 ED5,82,10,0,0,5,0,1,1,76,12,2,4,3,2,0,73,10,1,4,2,3,2,1,1,1,Albany County,0082 ALBANY W10 ED5
+Albany County,0083 ALBANY W10 ED6,85,7,0,0,14,0,3,0,84,7,1,14,3,2,0,70,13,1,8,10,1,1,0,6,2,Albany County,0083 ALBANY W10 ED6
+Albany County,0084 ALBANY W10 ED7,193,18,0,0,17,0,3,1,189,18,3,16,6,3,2,153,20,2,19,10,4,2,2,13,10,Albany County,0084 ALBANY W10 ED7
+Albany County,0085 ALBANY W10 ED8,122,23,0,0,14,0,1,0,114,29,3,11,2,0,0,103,34,3,11,9,2,0,1,4,1,Albany County,0085 ALBANY W10 ED8
+Albany County,0086 ALBANY W10 ED9,64,12,0,0,12,0,2,3,64,11,2,11,1,3,2,56,13,2,2,7,1,0,0,7,2,Albany County,0086 ALBANY W10 ED9
+Albany County,0088 ALBANY W11 ED2,65,9,0,0,5,0,0,0,65,8,0,4,1,1,2,58,11,2,1,2,2,0,1,2,0,Albany County,0088 ALBANY W11 ED2
+Albany County,0089 ALBANY W11 ED3,111,7,0,0,5,0,1,0,105,7,1,5,3,2,0,101,10,1,2,4,2,3,0,0,2,Albany County,0089 ALBANY W11 ED3
+Albany County,0090 ALBANY W11 ED4,104,31,0,0,1,0,2,1,109,25,3,1,2,1,0,96,29,3,5,1,1,2,0,3,2,Albany County,0090 ALBANY W11 ED4
+Albany County,0091 ALBANY W11 ED5,92,14,0,0,4,0,5,0,86,14,2,6,2,5,1,81,14,2,7,2,1,2,1,4,2,Albany County,0091 ALBANY W11 ED5
+Albany County,0092 ALBANY W11 ED6,281,42,0,0,23,0,1,1,277,37,10,17,6,1,3,263,49,11,9,12,3,1,0,7,4,Albany County,0092 ALBANY W11 ED6
+Albany County,0093 ALBANY W11 ED7,37,3,0,0,1,0,0,0,34,4,0,2,0,0,0,31,3,0,3,0,0,0,1,0,0,Albany County,0093 ALBANY W11 ED7
+Albany County,0094 ALBANY W11 ED8,83,11,0,0,5,0,4,0,79,9,0,6,1,3,0,74,12,0,8,1,2,1,1,3,3,Albany County,0094 ALBANY W11 ED8
+Albany County,0095 ALBANY W11 ED9,22,1,0,0,0,0,0,1,21,1,1,0,0,0,0,20,0,1,1,0,0,0,1,0,3,Albany County,0095 ALBANY W11 ED9
+Albany County,0096 ALBANY W11 ED10,13,4,0,0,3,0,0,0,14,2,2,2,0,0,0,15,3,2,0,0,0,0,0,0,1,Albany County,0096 ALBANY W11 ED10
+Albany County,0097 ALBANY W12 ED1,234,66,0,0,16,0,8,1,218,68,13,9,12,6,1,188,85,12,8,8,5,2,3,11,6,Albany County,0097 ALBANY W12 ED1
+Albany County,0098 ALBANY W12 ED2,298,82,0,0,13,0,4,1,286,71,19,10,8,5,0,228,109,19,18,9,5,3,3,10,3,Albany County,0098 ALBANY W12 ED2
+Albany County,0099 ALBANY W12 ED3,148,36,0,0,5,0,3,0,144,36,5,5,0,3,0,124,49,6,4,1,0,0,2,6,0,Albany County,0099 ALBANY W12 ED3
+Albany County,0100 ALBANY W12 ED4,80,5,0,0,1,0,1,0,78,5,0,0,1,1,0,72,4,0,4,0,1,2,0,1,2,Albany County,0100 ALBANY W12 ED4
+Albany County,0101 ALBANY W12 ED5,226,71,0,0,14,0,9,1,224,65,8,18,5,7,3,172,85,7,11,15,3,6,4,8,9,Albany County,0101 ALBANY W12 ED5
+Albany County,0102 ALBANY W12 ED6,220,36,0,0,9,0,8,2,221,31,11,8,6,5,1,176,44,13,16,6,4,5,2,13,1,Albany County,0102 ALBANY W12 ED6
+Albany County,0103 ALBANY W12 ED7,15,1,0,0,1,0,1,0,17,1,0,1,0,1,0,13,1,0,1,0,0,1,0,1,1,Albany County,0103 ALBANY W12 ED7
+Albany County,0104 ALBANY W12 ED8,308,64,0,0,18,0,7,4,309,61,9,15,5,7,2,243,82,9,21,13,1,2,6,17,7,Albany County,0104 ALBANY W12 ED8
+Albany County,0105 ALBANY W12 ED91,25,11,0,0,3,0,1,1,22,13,0,4,1,1,0,14,16,1,3,3,0,0,0,1,3,Albany County,0105 ALBANY W12 ED91
+Albany County,0106 ALBANY W13 ED1,108,19,0,0,4,0,0,2,108,18,4,2,3,1,0,89,28,3,5,3,2,0,2,4,2,Albany County,0106 ALBANY W13 ED1
+Albany County,0107 ALBANY W13 ED2,241,48,0,0,20,0,4,3,227,47,10,18,8,6,1,186,72,10,12,15,6,2,1,9,4,Albany County,0107 ALBANY W13 ED2
+Albany County,0108 ALBANY W13 ED3,269,40,0,0,43,0,7,3,259,39,7,40,8,5,1,208,58,8,16,34,7,1,0,22,9,Albany County,0108 ALBANY W13 ED3
+Albany County,0109 ALBANY W13 ED4,236,56,0,0,32,0,10,1,218,57,11,30,6,15,0,191,67,11,13,19,3,10,2,15,4,Albany County,0109 ALBANY W13 ED4
+Albany County,0110 ALBANY W13 ED5,249,47,0,0,23,0,9,2,247,40,11,21,5,9,0,195,55,14,20,10,4,7,3,12,8,Albany County,0110 ALBANY W13 ED5
+Albany County,0111 ALBANY W13 ED6,236,37,0,0,31,0,1,0,226,38,7,23,5,5,0,178,47,9,24,13,4,3,0,9,6,Albany County,0111 ALBANY W13 ED6
+Albany County,0112 ALBANY W13 ED7,4,1,0,0,0,0,1,0,5,1,0,0,0,0,0,4,1,0,1,0,0,0,0,0,0,Albany County,0112 ALBANY W13 ED7
+Albany County,0113 ALBANY W14 ED1,224,57,0,0,10,0,2,0,209,64,9,6,3,2,0,177,81,10,9,6,2,1,1,5,1,Albany County,0113 ALBANY W14 ED1
+Albany County,0114 ALBANY W14 ED2,457,97,0,0,31,0,6,3,429,86,29,33,6,8,4,362,129,25,27,19,3,3,4,13,12,Albany County,0114 ALBANY W14 ED2
+Albany County,0115 ALBANY W14 ED3,326,83,0,0,20,0,5,6,305,77,16,18,5,8,3,266,93,16,15,13,2,7,3,11,6,Albany County,0115 ALBANY W14 ED3
+Albany County,0116 ALBANY W14 ED4,301,63,0,0,33,0,5,2,283,54,24,30,10,7,1,223,80,21,15,19,8,2,0,28,5,Albany County,0116 ALBANY W14 ED4
+Albany County,0117 ALBANY W14 ED5,323,64,0,0,34,0,6,3,306,67,13,29,7,8,4,240,86,13,16,19,5,9,2,34,5,Albany County,0117 ALBANY W14 ED5
+Albany County,0118 ALBANY W14 ED6,308,61,0,0,28,0,7,0,297,63,10,23,7,7,2,242,68,14,19,16,4,6,3,14,7,Albany County,0118 ALBANY W14 ED6
+Albany County,0119 ALBANY W14 ED7,314,61,0,0,40,0,8,2,298,60,13,34,10,8,2,246,64,16,26,30,9,5,4,14,4,Albany County,0119 ALBANY W14 ED7
+Albany County,0120 ALBANY W14 ED8,206,45,0,0,23,0,6,1,199,44,6,22,4,8,1,160,54,3,15,20,3,5,0,10,9,Albany County,0120 ALBANY W14 ED8
+Albany County,0121 ALBANY W14 ED9,32,5,0,0,3,0,3,0,33,4,0,3,0,2,0,27,6,0,4,4,0,0,0,0,1,Albany County,0121 ALBANY W14 ED9
+Albany County,0122 ALBANY W15 ED1,49,5,0,0,1,0,2,0,49,3,1,0,2,2,0,43,4,1,4,0,2,1,0,0,1,Albany County,0122 ALBANY W15 ED1
+Albany County,0123 ALBANY W15 ED2,13,3,0,0,1,0,0,2,14,2,2,0,1,0,0,9,5,2,1,0,0,0,0,2,0,Albany County,0123 ALBANY W15 ED2
+Albany County,0124 ALBANY W15 ED3,156,35,0,0,7,0,5,3,150,39,4,6,2,5,2,109,54,4,9,6,0,4,1,16,2,Albany County,0124 ALBANY W15 ED3
+Albany County,0125 ALBANY W15 ED4,191,47,0,0,10,0,11,2,181,42,10,8,7,10,4,154,55,10,9,7,2,9,1,9,4,Albany County,0125 ALBANY W15 ED4
+Albany County,0126 ALBANY W15 ED5,258,64,0,0,17,0,0,1,243,63,13,11,7,3,4,204,81,12,15,9,4,1,0,8,10,Albany County,0126 ALBANY W15 ED5
+Albany County,0127 ALBANY W15 ED6,111,33,0,0,6,0,2,2,114,29,6,5,2,0,0,93,41,9,2,6,0,2,1,5,1,Albany County,0127 ALBANY W15 ED6
+Albany County,0128 ALBANY W15 ED7,270,69,0,0,18,0,7,1,265,55,16,11,5,7,2,215,96,16,11,6,3,4,0,12,8,Albany County,0128 ALBANY W15 ED7
+Albany County,0129 COHOES W1 ED1,131,48,0,0,2,0,1,2,126,43,9,3,4,3,2,84,70,13,4,2,3,1,1,8,2,Albany County,0129 COHOES W1 ED1
+Albany County,0130 COHOES W1 ED2,157,47,0,0,6,0,4,0,149,46,12,8,2,2,0,133,50,9,9,4,1,1,0,3,5,Albany County,0130 COHOES W1 ED2
+Albany County,0131 COHOES W1 ED3,147,73,0,0,6,0,4,2,142,70,16,5,4,2,2,109,94,12,5,2,2,1,3,3,7,Albany County,0131 COHOES W1 ED3
+Albany County,0132 COHOES W2 ED1,122,42,0,0,9,0,2,2,121,36,7,3,3,4,2,101,44,9,7,3,0,0,2,2,7,Albany County,0132 COHOES W2 ED1
+Albany County,0133 COHOES W2 ED2,149,49,0,0,3,0,5,1,141,43,10,3,4,3,3,101,78,11,8,1,2,0,0,5,4,Albany County,0133 COHOES W2 ED2
+Albany County,0134 COHOES W2 ED3,31,21,0,0,0,0,1,0,29,17,5,0,5,0,0,20,24,5,0,0,3,0,0,2,2,Albany County,0134 COHOES W2 ED3
+Albany County,0135 COHOES W2 ED4,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Albany County,0135 COHOES W2 ED4
+Albany County,0136 COHOES W2 ED5,1,2,0,0,0,0,0,0,1,2,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,Albany County,0136 COHOES W2 ED5
+Albany County,0137 COHOES W2 ED6,55,17,0,0,1,0,2,0,54,15,2,2,0,0,1,51,14,3,4,0,0,0,0,1,0,Albany County,0137 COHOES W2 ED6
+Albany County,0138 COHOES W3 ED1,128,63,0,0,4,0,2,0,111,63,16,7,1,1,0,78,82,19,3,3,2,1,1,3,4,Albany County,0138 COHOES W3 ED1
+Albany County,0139 COHOES W3 ED2,126,43,0,0,5,0,3,0,125,40,7,5,7,2,0,105,50,6,2,2,6,1,1,2,4,Albany County,0139 COHOES W3 ED2
+Albany County,0140 COHOES W3 ED3,97,54,0,0,7,0,5,1,87,44,17,8,5,3,5,67,56,16,9,4,2,0,1,3,6,Albany County,0140 COHOES W3 ED3
+Albany County,0141 COHOES W3 ED4,23,13,0,0,1,0,1,0,24,11,3,0,1,1,0,16,16,6,1,1,0,0,0,1,0,Albany County,0141 COHOES W3 ED4
+Albany County,0142 COHOES W4 ED1,100,60,0,0,0,0,2,1,90,64,8,0,3,0,1,56,69,12,7,1,0,1,4,6,8,Albany County,0142 COHOES W4 ED1
+Albany County,0143 COHOES W4 ED2,261,118,0,0,9,0,1,5,257,108,14,5,8,3,4,179,158,16,16,1,2,0,4,12,5,Albany County,0143 COHOES W4 ED2
+Albany County,0144 COHOES W4 ED3,89,40,0,0,4,0,2,0,91,36,5,3,1,1,0,64,52,6,4,3,0,0,0,3,2,Albany County,0144 COHOES W4 ED3
+Albany County,0145 COHOES W4 ED4,290,152,0,0,13,0,11,2,268,143,25,8,17,4,2,180,214,28,19,7,6,0,6,8,8,Albany County,0145 COHOES W4 ED4
+Albany County,0146 COHOES W5 ED1,111,61,0,0,5,0,2,1,108,56,13,1,4,1,1,75,84,18,2,0,0,0,1,4,2,Albany County,0146 COHOES W5 ED1
+Albany County,0147 COHOES W5 ED2,213,118,0,0,12,0,7,1,203,108,21,10,12,7,0,132,149,21,13,9,7,2,3,9,12,Albany County,0147 COHOES W5 ED2
+Albany County,0148 COHOES W5 ED3,115,62,0,0,4,0,3,0,113,51,13,3,4,2,0,81,78,12,3,4,2,1,2,3,1,Albany County,0148 COHOES W5 ED3
+Albany County,0149 COHOES W5 ED4,164,77,0,0,7,0,3,0,148,79,15,7,4,3,1,104,108,24,7,1,1,1,2,2,3,Albany County,0149 COHOES W5 ED4
+Albany County,0150 COHOES W5 ED5,70,20,0,0,5,0,1,1,65,22,3,4,1,1,0,49,31,5,4,4,0,0,1,1,2,Albany County,0150 COHOES W5 ED5
+Albany County,0151 COHOES W6 ED1,209,57,0,0,12,0,3,0,195,57,11,11,3,7,0,140,88,9,13,8,3,6,3,8,8,Albany County,0151 COHOES W6 ED1
+Albany County,0152 COHOES W6 ED2,95,48,0,0,3,0,4,2,86,48,8,2,4,3,2,64,66,8,5,1,0,3,2,2,5,Albany County,0152 COHOES W6 ED2
+Albany County,0153 COHOES W6 ED3,148,92,0,0,12,0,2,2,147,76,17,9,5,0,2,109,102,17,8,4,1,0,3,4,7,Albany County,0153 COHOES W6 ED3
+Albany County,0154 COHOES W6 ED4,152,76,0,0,4,0,3,0,148,73,10,1,5,2,1,116,85,12,3,2,5,1,2,4,5,Albany County,0154 COHOES W6 ED4
+Albany County,0155 WATERVLIET W1 ED1,211,81,0,0,6,0,3,2,0,0,0,0,0,0,0,167,94,24,3,3,1,2,3,3,7,Albany County,0155 WATERVLIET W1 ED1
+Albany County,0155 WATERVLIET WARD 1 ED 1,0,0,0,0,0,0,0,0,206,68,19,5,2,3,2,0,0,0,0,0,0,0,0,0,0,Albany County,0155 WATERVLIET WARD 1 ED 1
+Albany County,0156 WATERVLIET W1 ED2,162,65,0,0,7,0,3,4,0,0,0,0,0,0,0,113,91,17,5,2,2,2,0,4,6,Albany County,0156 WATERVLIET W1 ED2
+Albany County,0156 WATERVLIET WARD 1 ED 2,0,0,0,0,0,0,0,0,156,64,15,3,4,3,1,0,0,0,0,0,0,0,0,0,0,Albany County,0156 WATERVLIET WARD 1 ED 2
+Albany County,0157 WATERVLIET W1 ED3,152,60,0,0,3,0,6,1,0,0,0,0,0,0,0,85,86,29,3,2,2,2,2,4,2,Albany County,0157 WATERVLIET W1 ED3
+Albany County,0157 WATERVLIET WARD 1 ED 3,0,0,0,0,0,0,0,0,138,52,23,6,4,3,1,0,0,0,0,0,0,0,0,0,0,Albany County,0157 WATERVLIET WARD 1 ED 3
+Albany County,0158 WATERVLIET W2 ED1,129,52,0,0,6,0,3,0,0,0,0,0,0,0,0,92,68,13,3,3,1,1,2,6,4,Albany County,0158 WATERVLIET W2 ED1
+Albany County,0158 WATERVLIET WARD 2 ED 1,0,0,0,0,0,0,0,0,118,55,9,4,6,1,0,0,0,0,0,0,0,0,0,0,0,Albany County,0158 WATERVLIET WARD 2 ED 1
+Albany County,0159 WATERVLIET W2 ED2,102,51,0,0,5,0,0,2,0,0,0,0,0,0,0,76,62,13,3,0,3,1,0,0,3,Albany County,0159 WATERVLIET W2 ED2
+Albany County,0159 WATERVLIET W2 ED3,76,16,0,0,1,0,1,0,0,0,0,0,0,0,0,61,19,5,1,1,0,1,0,0,1,Albany County,0159 WATERVLIET W2 ED3
+Albany County,0159 WATERVLIET WARD 2 ED 2,0,0,0,0,0,0,0,0,99,44,14,3,1,2,0,0,0,0,0,0,0,0,0,0,0,Albany County,0159 WATERVLIET WARD 2 ED 2
+Albany County,0160 WATERVLIET W3 ED1,81,35,0,0,6,0,0,0,0,0,0,0,0,0,0,62,44,6,2,3,1,0,2,1,1,Albany County,0160 WATERVLIET W3 ED1
+Albany County,0160 WATERVLIET WARD 2 ED 3,0,0,0,0,0,0,0,0,76,13,2,1,0,1,2,0,0,0,0,0,0,0,0,0,0,Albany County,0160 WATERVLIET WARD 2 ED 3
+Albany County,0161 WATERVLIET W3 ED2,109,53,0,0,5,0,1,1,0,0,0,0,0,0,0,67,75,7,6,1,0,1,1,6,3,Albany County,0161 WATERVLIET W3 ED2
+Albany County,0161 WATERVLIET WARD 3 ED 1,0,0,0,0,0,0,0,0,76,33,4,5,1,0,2,0,0,0,0,0,0,0,0,0,0,Albany County,0161 WATERVLIET WARD 3 ED 1
+Albany County,0162 WATERVLIET W3 ED3,157,83,0,0,18,0,4,0,0,0,0,0,0,0,0,105,102,23,9,4,5,1,7,4,5,Albany County,0162 WATERVLIET W3 ED3
+Albany County,0162 WATERVLIET WARD 3 ED 2,0,0,0,0,0,0,0,0,98,58,8,4,3,1,0,0,0,0,0,0,0,0,0,0,0,Albany County,0162 WATERVLIET WARD 3 ED 2
+Albany County,0163 WATERVLIET W4 ED1,164,47,0,0,8,0,3,0,0,0,0,0,0,0,0,100,88,15,2,4,0,3,1,2,6,Albany County,0163 WATERVLIET W4 ED1
+Albany County,0163 WATERVLIET WARD 3 ED 3,0,0,0,0,0,0,0,0,142,79,16,10,11,5,0,0,0,0,0,0,0,0,0,0,0,Albany County,0163 WATERVLIET WARD 3 ED 3
+Albany County,0164 WATERVLIET W4 ED2,112,39,0,0,2,0,2,0,0,0,0,0,0,0,0,86,53,10,0,0,2,0,0,2,4,Albany County,0164 WATERVLIET W4 ED2
+Albany County,0164 WATERVLIET WARD 4 ED 1,0,0,0,0,0,0,0,0,149,53,10,6,2,1,1,0,0,0,0,0,0,0,0,0,0,Albany County,0164 WATERVLIET WARD 4 ED 1
+Albany County,0165 WATERVLIET W4 ED3,170,60,0,0,5,0,7,0,0,0,0,0,0,0,0,122,80,17,2,1,4,3,1,1,7,Albany County,0165 WATERVLIET W4 ED3
+Albany County,0165 WATERVLIET WARD 4 ED 2,0,0,0,0,0,0,0,0,105,34,11,1,2,0,1,0,0,0,0,0,0,0,0,0,0,Albany County,0165 WATERVLIET WARD 4 ED 2
+Albany County,0166 WATERVLIET W4 ED4,176,78,0,0,9,0,2,1,0,0,0,0,0,0,0,123,107,16,10,3,3,1,1,8,6,Albany County,0166 WATERVLIET W4 ED4
+Albany County,0166 WATERVLIET WARD 4 ED 3,0,0,0,0,0,0,0,0,165,56,16,4,2,1,1,0,0,0,0,0,0,0,0,0,0,Albany County,0166 WATERVLIET WARD 4 ED 3
+Albany County,0167 WATERVLIET WARD 4 ED 4,0,0,0,0,0,0,0,0,165,76,13,7,6,3,3,0,0,0,0,0,0,0,0,0,0,Albany County,0167 WATERVLIET WARD 4 ED 4
+Albany County,0168 BERNE ED 1,181,222,0,0,14,0,2,3,177,182,47,11,12,4,1,100,241,47,10,5,4,2,4,12,9,Albany County,0168 BERNE ED 1
+Albany County,0169 BERNE ED 2,342,276,0,0,24,0,6,7,323,242,63,19,21,4,5,203,297,82,23,9,11,2,9,15,18,Albany County,0169 BERNE ED 2
+Albany County,0170 BERNE ED 3,130,127,0,0,14,0,2,2,119,103,37,14,5,3,2,79,136,34,14,5,3,2,2,1,8,Albany County,0170 BERNE ED 3
+Albany County,0171 BETHLEHEM ED 1,418,176,0,0,19,0,11,4,406,165,22,12,20,5,0,274,239,33,17,12,11,4,2,24,7,Albany County,0171 BETHLEHEM ED 1
+Albany County,0172 BETHLEHEM ED 2,596,193,0,0,26,0,6,6,563,192,29,20,19,6,5,442,254,34,22,12,12,4,6,22,10,Albany County,0172 BETHLEHEM ED 2
+Albany County,0173 BETHLEHEM ED 3,292,101,0,0,19,0,9,6,276,101,11,20,13,6,2,232,129,11,14,11,5,5,4,14,5,Albany County,0173 BETHLEHEM ED 3
+Albany County,0174 BETHLEHEM ED 4,403,110,0,0,25,0,13,3,383,103,21,25,15,8,1,307,141,26,23,12,9,4,3,14,2,Albany County,0174 BETHLEHEM ED 4
+Albany County,0175 BETHLEHEM ED 5,408,208,0,0,18,0,4,7,383,186,36,18,19,6,4,298,237,35,19,12,7,4,3,21,11,Albany County,0175 BETHLEHEM ED 5
+Albany County,0176 BETHLEHEM ED 6,510,208,0,0,42,0,9,4,486,188,43,31,23,9,2,380,245,44,29,18,12,4,4,25,13,Albany County,0176 BETHLEHEM ED 6
+Albany County,0177 BETHLEHEM ED 7,403,104,0,0,30,0,13,2,386,90,28,25,18,7,4,314,138,29,21,16,7,6,4,15,5,Albany County,0177 BETHLEHEM ED 7
+Albany County,0178 BETHLEHEM ED 8,428,136,0,0,36,0,8,3,401,119,27,34,28,5,3,305,158,28,27,22,18,6,5,27,8,Albany County,0178 BETHLEHEM ED 8
+Albany County,0179 BETHLEHEM ED 9,298,120,0,0,21,0,8,3,289,104,25,19,9,6,4,219,126,28,13,17,4,5,2,24,7,Albany County,0179 BETHLEHEM ED 9
+Albany County,0180 BETHLEHEM ED 10,267,79,0,0,13,0,8,0,245,79,10,12,10,11,1,193,100,13,15,4,7,5,3,9,12,Albany County,0180 BETHLEHEM ED 10
+Albany County,0181 BETHLEHEM ED 11,358,141,0,0,31,0,9,4,345,117,34,26,17,5,7,256,154,32,19,19,13,2,9,31,8,Albany County,0181 BETHLEHEM ED 11
+Albany County,0182 BETHLEHEM ED 12,437,125,0,0,42,0,9,2,400,118,26,40,23,11,4,322,162,29,23,23,11,5,3,33,5,Albany County,0182 BETHLEHEM ED 12
+Albany County,0183 BETHLEHEM ED 13,454,150,0,0,28,0,11,3,420,155,22,21,14,9,6,346,190,29,22,12,11,5,3,28,4,Albany County,0183 BETHLEHEM ED 13
+Albany County,0184 BETHLEHEM ED 14,417,83,0,0,45,0,8,2,405,67,25,33,15,10,2,315,101,31,16,30,10,8,6,25,3,Albany County,0184 BETHLEHEM ED 14
+Albany County,0185 BETHLEHEM ED 15,455,122,0,0,32,0,12,9,437,102,24,25,25,8,5,361,146,27,16,17,19,8,8,22,5,Albany County,0185 BETHLEHEM ED 15
+Albany County,0186 BETHLEHEM ED 16,246,118,0,0,19,0,5,4,249,98,21,9,14,2,3,190,132,25,10,6,7,2,5,9,9,Albany County,0186 BETHLEHEM ED 16
+Albany County,0187 BETHLEHEM ED 17,394,192,0,0,23,0,8,5,372,178,35,17,21,7,3,274,245,45,12,10,10,3,8,15,7,Albany County,0187 BETHLEHEM ED 17
+Albany County,0188 BETHLEHEM ED 18,186,192,0,0,20,0,4,6,192,156,44,9,13,4,1,123,196,49,14,2,4,3,6,7,13,Albany County,0188 BETHLEHEM ED 18
+Albany County,0189 BETHLEHEM ED 19,365,171,0,0,30,0,7,2,347,171,17,21,16,6,0,272,209,22,18,16,7,5,3,18,4,Albany County,0189 BETHLEHEM ED 19
+Albany County,0190 BETHLEHEM ED 20,355,164,0,0,22,0,11,4,332,146,38,15,17,11,7,243,178,42,26,8,14,4,6,24,13,Albany County,0190 BETHLEHEM ED 20
+Albany County,0191 BETHLEHEM ED 21,399,232,0,0,21,0,10,3,381,210,43,16,18,5,5,254,297,47,22,15,8,4,2,10,9,Albany County,0191 BETHLEHEM ED 21
+Albany County,0192 BETHLEHEM ED 22,298,164,0,0,16,0,8,2,293,150,19,7,17,9,1,223,187,27,12,4,5,6,3,19,5,Albany County,0192 BETHLEHEM ED 22
+Albany County,0193 BETHLEHEM ED 23,610,242,0,0,32,0,11,1,594,206,39,23,26,9,1,452,295,45,17,14,12,5,4,38,9,Albany County,0193 BETHLEHEM ED 23
+Albany County,0194 BETHLEHEM ED 24,508,234,0,0,26,0,12,3,474,219,37,19,32,11,3,373,278,47,27,14,13,10,6,24,5,Albany County,0194 BETHLEHEM ED 24
+Albany County,0195 BETHLEHEM ED 25,488,170,0,0,59,0,16,6,473,155,28,43,25,13,6,372,196,32,22,36,12,11,9,26,9,Albany County,0195 BETHLEHEM ED 25
+Albany County,0196 BETHLEHEM ED 26,585,184,0,0,59,0,17,4,561,173,32,45,20,17,6,435,220,42,38,37,19,11,6,19,6,Albany County,0196 BETHLEHEM ED 26
+Albany County,0197 BETHLEHEM ED 27,247,138,0,0,9,0,8,2,240,123,30,8,7,4,3,176,155,31,16,2,7,1,3,7,10,Albany County,0197 BETHLEHEM ED 27
+Albany County,0198 BETHLEHEM ED 28,318,248,0,0,13,0,7,3,311,207,47,10,20,6,4,214,279,54,17,7,6,4,3,14,10,Albany County,0198 BETHLEHEM ED 28
+Albany County,0199 BETHLEHEM ED 29,145,90,0,0,10,0,5,2,138,79,17,8,6,4,1,105,99,15,9,7,2,2,2,9,2,Albany County,0199 BETHLEHEM ED 29
+Albany County,0200 BETHLEHEM ED 30,99,88,0,0,11,0,3,0,93,86,6,9,8,0,3,75,93,8,6,5,5,1,2,5,1,Albany County,0200 BETHLEHEM ED 30
+Albany County,0201 BETHLEHEM ED 31,7,14,0,0,1,0,1,0,8,10,1,1,1,0,1,3,14,0,1,1,1,0,0,0,2,Albany County,0201 BETHLEHEM ED 31
+Albany County,0202 COEYMANS ED 1,112,105,0,0,7,0,3,2,117,82,17,6,9,2,1,82,104,21,7,4,3,3,4,6,4,Albany County,0202 COEYMANS ED 1
+Albany County,0203 COEYMANS ED 2,255,188,0,0,14,0,4,8,245,165,31,10,20,4,0,162,229,44,8,7,6,1,7,6,9,Albany County,0203 COEYMANS ED 2
+Albany County,0204 COEYMANS ED 3,438,326,0,0,25,0,10,5,430,267,66,22,23,12,6,289,354,85,19,12,13,4,9,12,20,Albany County,0204 COEYMANS ED 3
+Albany County,0205 COEYMANS ED 4,160,174,0,0,7,0,4,3,159,144,34,7,8,3,3,119,164,42,8,7,5,0,4,2,9,Albany County,0205 COEYMANS ED 4
+Albany County,0206 COEYMANS ED 5,172,251,0,0,21,0,9,3,164,218,47,15,10,7,8,109,255,53,12,5,3,2,7,7,17,Albany County,0206 COEYMANS ED 5
+Albany County,0207 COEYMANS ED 6,173,238,0,0,20,0,5,3,166,183,69,17,11,4,3,99,224,77,14,8,7,2,3,8,11,Albany County,0207 COEYMANS ED 6
+Albany County,0208 COLONIE ED 1,464,132,0,0,22,0,7,4,439,128,19,15,19,9,3,381,161,22,17,11,13,3,7,10,11,Albany County,0208 COLONIE ED 1
+Albany County,0209 COLONIE ED 2,385,174,0,0,22,0,9,6,365,152,36,13,19,9,2,289,188,36,32,9,10,8,3,12,11,Albany County,0209 COLONIE ED 2
+Albany County,0210 COLONIE ED 3,277,110,0,0,20,0,6,5,272,93,25,15,10,4,5,212,132,25,12,9,5,2,3,13,12,Albany County,0210 COLONIE ED 3
+Albany County,0211 COLONIE ED 4,444,211,0,0,25,0,11,2,408,199,47,23,23,7,2,314,248,55,19,12,12,7,5,20,4,Albany County,0211 COLONIE ED 4
+Albany County,0212 COLONIE ED 5,280,153,0,0,14,0,7,4,252,151,22,8,11,7,4,188,177,21,15,5,13,2,3,28,7,Albany County,0212 COLONIE ED 5
+Albany County,0213 COLONIE ED 6,415,212,0,0,23,0,8,4,367,217,39,11,21,8,8,297,263,38,12,11,14,4,4,13,5,Albany County,0213 COLONIE ED 6
+Albany County,0214 COLONIE ED 7,338,187,0,0,18,0,10,1,326,178,19,11,16,4,2,253,234,23,15,9,7,3,4,8,5,Albany County,0214 COLONIE ED 7
+Albany County,0215 COLONIE ED 8,312,190,0,0,6,0,5,5,298,180,29,7,9,2,2,234,221,32,13,1,5,1,2,8,8,Albany County,0215 COLONIE ED 8
+Albany County,0216 COLONIE ED 9,263,154,0,0,15,0,8,4,247,148,17,14,13,3,4,188,185,17,3,12,5,3,2,7,17,Albany County,0216 COLONIE ED 9
+Albany County,0217 COLONIE ED 10,216,121,0,0,14,0,3,2,207,114,16,14,5,2,2,156,136,19,15,7,1,2,3,8,12,Albany County,0217 COLONIE ED 10
+Albany County,0218 COLONIE ED 11,379,221,0,0,25,0,2,5,363,204,32,18,21,4,3,272,269,35,17,6,12,5,4,11,12,Albany County,0218 COLONIE ED 11
+Albany County,0219 COLONIE ED 12,239,184,0,0,18,0,3,2,221,178,31,8,9,1,4,168,216,35,8,4,4,0,3,14,4,Albany County,0219 COLONIE ED 12
+Albany County,0220 COLONIE ED 13,521,237,0,0,22,0,4,7,486,231,36,19,13,8,2,410,291,39,14,15,6,2,5,12,2,Albany County,0220 COLONIE ED 13
+Albany County,0221 COLONIE ED 14,304,161,0,0,19,0,8,1,288,164,25,16,7,5,2,243,189,25,12,9,5,1,4,8,12,Albany County,0221 COLONIE ED 14
+Albany County,0222 COLONIE ED 15,344,139,0,0,21,0,6,1,318,132,22,16,18,6,1,260,174,23,11,7,5,5,1,14,10,Albany County,0222 COLONIE ED 15
+Albany County,0223 COLONIE ED 16,295,178,0,0,22,0,8,0,277,174,22,14,14,5,5,206,207,34,13,9,6,2,9,13,10,Albany County,0223 COLONIE ED 16
+Albany County,0224 COLONIE ED 17,221,125,0,0,9,0,4,2,211,114,21,7,7,4,1,164,153,21,2,4,3,2,1,6,8,Albany County,0224 COLONIE ED 17
+Albany County,0225 COLONIE ED 18,366,248,0,0,9,0,8,5,343,235,28,13,11,10,2,249,301,31,11,6,7,5,7,10,10,Albany County,0225 COLONIE ED 18
+Albany County,0226 COLONIE ED 19,254,174,0,0,10,0,6,3,228,164,31,11,14,6,4,168,218,36,4,4,7,1,4,10,5,Albany County,0226 COLONIE ED 19
+Albany County,0227 COLONIE ED 20,232,140,0,0,10,0,4,4,222,124,24,7,11,3,0,163,164,29,6,2,3,1,3,8,7,Albany County,0227 COLONIE ED 20
+Albany County,0228 COLONIE ED 21,393,212,0,0,16,0,10,4,372,197,43,17,17,2,1,303,255,41,8,8,3,4,2,12,7,Albany County,0228 COLONIE ED 21
+Albany County,0229 COLONIE ED 22,341,191,0,0,15,0,10,2,337,187,22,11,10,4,1,270,227,27,10,9,1,5,3,12,13,Albany County,0229 COLONIE ED 22
+Albany County,0230 COLONIE ED 23,280,199,0,0,22,0,3,3,263,194,25,16,8,3,2,208,234,28,12,5,4,1,2,8,6,Albany County,0230 COLONIE ED 23
+Albany County,0231 COLONIE ED 24,313,214,0,0,10,0,3,2,293,194,33,9,9,4,4,234,244,40,11,2,5,0,3,5,9,Albany County,0231 COLONIE ED 24
+Albany County,0232 COLONIE ED 25,292,176,0,0,16,0,4,1,286,155,25,12,8,5,0,218,202,27,12,7,3,5,3,3,11,Albany County,0232 COLONIE ED 25
+Albany County,0233 COLONIE ED 26,369,279,0,0,23,0,8,6,347,257,44,23,12,7,3,258,334,37,9,10,8,5,4,8,10,Albany County,0233 COLONIE ED 26
+Albany County,0234 COLONIE ED 27,246,201,0,0,14,0,6,2,217,197,29,7,11,2,2,156,235,34,12,6,10,4,1,6,8,Albany County,0234 COLONIE ED 27
+Albany County,0235 COLONIE ED 28,379,276,0,0,22,0,10,3,355,255,56,17,12,10,3,244,334,60,25,8,7,2,4,15,13,Albany County,0235 COLONIE ED 28
+Albany County,0236 COLONIE ED 29,241,186,0,0,12,0,4,4,224,175,24,6,11,6,3,158,219,24,7,7,5,4,3,14,9,Albany County,0236 COLONIE ED 29
+Albany County,0237 COLONIE ED 30,381,261,0,0,28,0,13,3,362,243,38,14,20,8,4,257,308,47,20,10,15,3,3,13,10,Albany County,0237 COLONIE ED 30
+Albany County,0238 COLONIE ED 31,480,257,0,0,17,0,5,5,452,238,49,16,13,3,1,342,289,50,22,9,14,1,7,19,7,Albany County,0238 COLONIE ED 31
+Albany County,0239 COLONIE ED 32,173,121,0,0,8,0,5,2,167,101,28,3,13,4,0,140,130,27,1,1,5,4,3,5,3,Albany County,0239 COLONIE ED 32
+Albany County,0240 COLONIE ED 33,196,98,0,0,10,0,3,1,181,94,12,10,10,3,2,139,112,18,6,8,6,1,2,7,5,Albany County,0240 COLONIE ED 33
+Albany County,0241 COLONIE ED 34,436,300,0,0,23,0,14,7,416,261,54,18,17,12,8,312,334,54,12,16,8,6,10,23,13,Albany County,0241 COLONIE ED 34
+Albany County,0242 COLONIE ED 35,407,237,0,0,21,0,8,3,377,235,34,14,7,8,3,286,287,39,11,11,4,3,4,24,5,Albany County,0242 COLONIE ED 35
+Albany County,0243 COLONIE ED 36,454,276,0,0,28,0,8,2,425,263,36,17,16,8,11,297,354,42,22,7,5,9,10,19,10,Albany County,0243 COLONIE ED 36
+Albany County,0244 COLONIE ED 37,268,158,0,0,11,0,5,2,253,143,21,15,12,5,2,212,171,24,6,6,4,3,4,12,7,Albany County,0244 COLONIE ED 37
+Albany County,0245 COLONIE ED 38,250,156,0,0,14,0,8,2,229,148,24,12,15,7,3,178,176,27,9,7,10,6,2,12,7,Albany County,0245 COLONIE ED 38
+Albany County,0246 COLONIE ED 39,415,205,0,0,16,0,6,3,388,198,44,15,14,3,4,278,248,50,12,14,5,2,8,15,22,Albany County,0246 COLONIE ED 39
+Albany County,0247 COLONIE ED 40,284,175,0,0,10,0,3,1,271,166,29,4,8,3,3,223,194,34,3,3,4,1,3,6,5,Albany County,0247 COLONIE ED 40
+Albany County,0248 COLONIE ED 41,577,221,0,0,22,0,13,2,555,204,38,23,14,6,3,447,262,36,19,12,16,5,5,20,13,Albany County,0248 COLONIE ED 41
+Albany County,0249 COLONIE ED 42,381,237,0,0,29,0,6,1,351,218,39,19,17,8,1,284,252,52,14,15,8,7,3,12,10,Albany County,0249 COLONIE ED 42
+Albany County,0250 COLONIE ED 43,327,175,0,0,23,0,11,3,300,170,27,19,17,11,4,223,199,35,23,9,7,7,2,19,17,Albany County,0250 COLONIE ED 43
+Albany County,0251 COLONIE ED 44,366,166,0,0,15,0,11,5,346,161,38,14,12,5,3,272,199,36,17,8,9,3,7,15,11,Albany County,0251 COLONIE ED 44
+Albany County,0252 COLONIE ED 45,234,134,0,0,14,0,8,3,228,121,28,8,10,5,4,176,155,25,11,5,6,4,4,8,10,Albany County,0252 COLONIE ED 45
+Albany County,0253 COLONIE ED 46,414,228,0,0,19,0,5,8,392,216,38,16,17,7,2,314,263,38,16,8,11,4,7,13,7,Albany County,0253 COLONIE ED 46
+Albany County,0254 COLONIE ED 47,230,116,0,0,9,0,9,1,214,108,25,5,11,7,1,164,139,29,6,4,6,1,3,12,1,Albany County,0254 COLONIE ED 47
+Albany County,0255 COLONIE ED 48,448,283,0,0,18,0,8,5,415,263,54,15,15,2,3,302,350,58,12,8,10,1,3,15,9,Albany County,0255 COLONIE ED 48
+Albany County,0256 COLONIE ED 49,283,135,0,0,20,0,2,1,269,130,14,14,10,3,4,194,173,21,10,11,3,1,5,9,18,Albany County,0256 COLONIE ED 49
+Albany County,0257 COLONIE ED 50,291,180,0,0,16,0,4,3,285,164,22,11,7,6,4,206,202,34,18,5,4,3,4,8,13,Albany County,0257 COLONIE ED 50
+Albany County,0258 COLONIE ED 51,506,347,0,0,19,0,12,10,484,314,49,16,18,11,5,372,399,57,16,12,6,3,6,11,15,Albany County,0258 COLONIE ED 51
+Albany County,0259 COLONIE ED 52,333,182,0,0,14,0,7,1,318,170,33,7,17,3,3,243,218,41,6,4,9,3,3,9,2,Albany County,0259 COLONIE ED 52
+Albany County,0260 COLONIE ED 53,317,195,0,0,10,0,8,2,314,168,28,13,4,7,6,229,219,29,14,4,0,2,6,22,5,Albany County,0260 COLONIE ED 53
+Albany County,0261 COLONIE ED 54,336,200,0,0,10,0,8,3,314,176,35,8,18,9,4,246,217,36,12,5,13,9,6,10,9,Albany County,0261 COLONIE ED 54
+Albany County,0262 COLONIE ED 55,335,171,0,0,16,0,9,2,311,160,24,13,23,7,4,241,202,26,11,6,9,7,3,13,8,Albany County,0262 COLONIE ED 55
+Albany County,0263 COLONIE ED 56,286,180,0,0,5,0,5,0,276,166,31,1,8,4,1,212,199,34,8,2,5,1,3,10,12,Albany County,0263 COLONIE ED 56
+Albany County,0264 COLONIE ED 57,294,194,0,0,11,0,4,4,274,178,40,7,6,5,5,210,221,41,9,3,5,3,5,15,6,Albany County,0264 COLONIE ED 57
+Albany County,0265 COLONIE ED 58,278,166,0,0,13,0,9,4,269,153,22,10,14,2,1,190,209,32,11,5,4,4,5,12,3,Albany County,0265 COLONIE ED 58
+Albany County,0266 COLONIE ED 59,350,275,0,0,17,0,8,1,330,256,49,6,14,5,2,258,296,53,11,1,8,3,4,12,14,Albany County,0266 COLONIE ED 59
+Albany County,0267 COLONIE ED 60,223,153,0,0,14,0,2,7,209,144,23,13,11,3,2,137,210,28,5,5,5,1,6,8,6,Albany County,0267 COLONIE ED 60
+Albany County,0268 COLONIE ED 61,268,170,0,0,18,0,9,2,252,147,34,16,11,5,3,191,177,36,14,10,4,5,7,13,4,Albany County,0268 COLONIE ED 61
+Albany County,0269 GREEN ISLAND ED 1,181,68,0,0,11,0,1,2,181,59,9,5,9,0,0,133,93,12,3,3,6,0,0,2,6,Albany County,0269 GREEN ISLAND ED 1
+Albany County,0270 GREEN ISLAND ED 2,116,33,0,0,3,0,0,0,107,37,5,1,0,0,1,77,54,7,2,0,0,2,1,4,4,Albany County,0270 GREEN ISLAND ED 2
+Albany County,0271 GREEN ISLAND ED 3,90,27,0,0,4,0,2,2,87,22,7,4,2,0,0,62,40,11,6,0,0,0,1,6,1,Albany County,0271 GREEN ISLAND ED 3
+Albany County,0272 GREEN ISLAND ED 4,182,33,0,0,4,0,0,1,173,35,12,4,0,0,1,111,72,15,7,3,0,1,2,5,1,Albany County,0272 GREEN ISLAND ED 4
+Albany County,0274 GUILDERLAND ED 2,17,2,0,0,0,0,0,0,15,3,0,0,0,1,0,13,4,0,0,0,0,0,0,0,1,Albany County,0274 GUILDERLAND ED 2
+Albany County,0275 GUILDERLAND ED 3,341,101,0,0,25,0,12,3,323,100,24,18,12,9,7,244,120,23,28,15,6,9,3,19,14,Albany County,0275 GUILDERLAND ED 3
+Albany County,0276 GUILDERLAND ED 4,514,181,0,0,37,0,10,8,487,183,32,31,20,7,6,368,233,34,27,22,6,7,9,32,14,Albany County,0276 GUILDERLAND ED 4
+Albany County,0277 GUILDERLAND ED 5,235,112,0,0,12,0,3,2,218,102,21,8,12,4,0,165,121,25,14,5,4,1,5,10,11,Albany County,0277 GUILDERLAND ED 5
+Albany County,0278 GUILDERLAND ED 6,298,149,0,0,18,0,5,5,281,142,24,8,19,5,0,212,177,29,11,11,11,2,1,14,8,Albany County,0278 GUILDERLAND ED 6
+Albany County,0279 GUILDERLAND ED 7,450,205,0,0,21,0,15,6,432,184,39,14,24,12,1,326,241,53,14,12,10,7,7,17,8,Albany County,0279 GUILDERLAND ED 7
+Albany County,0280 GUILDERLAND ED 8,308,103,0,0,12,0,6,0,288,98,25,9,7,4,4,244,127,21,18,6,5,2,4,5,5,Albany County,0280 GUILDERLAND ED 8
+Albany County,0281 GUILDERLAND ED 9,329,147,0,0,13,0,5,3,322,134,34,9,12,1,0,265,159,31,15,6,9,3,2,7,14,Albany County,0281 GUILDERLAND ED 9
+Albany County,0282 GUILDERLAND ED 10,416,162,0,0,21,0,7,6,404,140,33,18,16,3,6,319,184,37,20,11,7,2,5,17,11,Albany County,0282 GUILDERLAND ED 10
+Albany County,0283 GUILDERLAND ED 11,411,194,0,0,17,0,8,5,397,177,34,16,13,7,6,300,224,41,8,14,10,9,2,16,19,Albany County,0283 GUILDERLAND ED 11
+Albany County,0284 GUILDERLAND ED 12,464,224,0,0,25,0,6,6,428,228,38,15,18,3,7,340,295,40,9,9,7,2,8,17,7,Albany County,0284 GUILDERLAND ED 12
+Albany County,0285 GUILDERLAND ED 13,385,150,0,0,12,0,12,5,347,157,37,11,14,10,2,262,211,30,6,8,7,6,6,28,4,Albany County,0285 GUILDERLAND ED 13
+Albany County,0286 GUILDERLAND ED 14,472,144,0,0,22,0,7,5,453,139,27,20,17,7,0,376,180,29,24,11,6,5,3,16,9,Albany County,0286 GUILDERLAND ED 14
+Albany County,0287 GUILDERLAND ED 15,347,176,0,0,20,0,8,2,330,177,23,16,10,9,2,256,216,28,20,7,5,4,3,16,6,Albany County,0287 GUILDERLAND ED 15
+Albany County,0288 GUILDERLAND ED 16,283,244,0,0,5,0,5,1,259,243,29,5,7,2,0,183,280,33,13,2,3,6,3,11,3,Albany County,0288 GUILDERLAND ED 16
+Albany County,0289 GUILDERLAND ED 17,427,209,0,0,17,0,9,3,410,206,30,13,14,6,2,315,266,30,18,5,8,3,4,20,9,Albany County,0289 GUILDERLAND ED 17
+Albany County,0290 GUILDERLAND ED 18,436,255,0,0,24,0,8,4,405,242,64,13,17,6,2,281,318,67,17,9,11,5,6,14,11,Albany County,0290 GUILDERLAND ED 18
+Albany County,0291 GUILDERLAND ED 19,288,178,0,0,13,0,6,1,263,169,34,10,16,2,0,210,193,35,13,8,7,1,3,13,5,Albany County,0291 GUILDERLAND ED 19
+Albany County,0292 GUILDERLAND ED 20,257,128,0,0,11,0,3,2,237,122,34,4,8,3,3,157,163,37,8,2,6,5,4,12,9,Albany County,0292 GUILDERLAND ED 20
+Albany County,0293 GUILDERLAND ED 21,326,112,0,0,19,0,9,1,312,103,30,15,8,8,0,221,150,34,15,8,7,7,4,11,10,Albany County,0293 GUILDERLAND ED 21
+Albany County,0294 GUILDERLAND ED 22,513,269,0,0,31,0,12,7,479,254,49,24,18,13,6,348,329,50,23,16,11,7,6,24,17,Albany County,0294 GUILDERLAND ED 22
+Albany County,0295 GUILDERLAND ED 23,230,142,0,0,9,0,5,0,210,137,24,5,12,3,3,162,162,29,8,2,6,3,2,7,14,Albany County,0295 GUILDERLAND ED 23
+Albany County,0296 GUILDERLAND ED 24,340,190,0,0,28,0,5,8,322,193,30,15,15,5,2,239,245,31,12,8,6,2,3,21,11,Albany County,0296 GUILDERLAND ED 24
+Albany County,0297 GUILDERLAND ED 25,277,190,0,0,23,0,10,2,264,172,44,12,13,8,4,184,226,56,14,5,8,1,2,15,6,Albany County,0297 GUILDERLAND ED 25
+Albany County,0298 GUILDERLAND ED 26,295,235,0,0,20,0,9,10,259,211,61,16,26,7,6,181,253,72,12,10,8,5,12,18,10,Albany County,0298 GUILDERLAND ED 26
+Albany County,0299 GUILDERLAND ED 27,167,99,0,0,8,0,5,1,165,90,17,6,5,4,2,115,126,24,3,4,2,4,1,3,4,Albany County,0299 GUILDERLAND ED 27
+Albany County,0300 GUILDERLAND ED 28,368,240,0,0,24,0,11,4,352,225,44,18,17,5,4,261,273,43,24,14,8,7,8,12,9,Albany County,0300 GUILDERLAND ED 28
+Albany County,0301 GUILDERLAND ED 29,375,165,0,0,30,0,8,3,361,139,47,25,16,7,2,266,191,48,29,15,9,4,7,12,7,Albany County,0301 GUILDERLAND ED 29
+Albany County,0302 GUILDERLAND ED 30,197,110,0,0,15,0,2,6,185,103,21,16,11,3,1,122,126,26,13,11,5,2,4,9,14,Albany County,0302 GUILDERLAND ED 30
+Albany County,0303 KNOX ED 1,210,199,0,0,20,0,3,2,179,186,42,15,10,4,4,123,227,56,15,6,0,4,3,4,5,Albany County,0303 KNOX ED 1
+Albany County,0304 KNOX ED 2,265,233,0,0,20,0,11,6,237,221,49,13,18,9,1,152,277,59,19,6,6,2,6,21,6,Albany County,0304 KNOX ED 2
+Albany County,0305 KNOX ED 3,101,139,0,0,13,0,4,0,94,123,37,5,7,2,0,60,154,31,6,2,6,2,1,6,5,Albany County,0305 KNOX ED 3
+Albany County,0306 NEW SCOTLAND ED 1,242,195,0,0,25,0,9,4,225,177,49,19,15,7,2,163,202,52,26,8,12,5,2,3,6,Albany County,0306 NEW SCOTLAND ED 1
+Albany County,0307 NEW SCOTLAND ED 2,375,307,0,0,31,0,15,6,354,278,62,25,22,8,6,232,333,77,31,16,10,8,7,19,15,Albany County,0307 NEW SCOTLAND ED 2
+Albany County,0308 NEW SCOTLAND ED 3,101,159,0,0,12,0,6,2,109,123,42,9,11,1,2,66,160,43,11,2,2,1,2,7,4,Albany County,0308 NEW SCOTLAND ED 3
+Albany County,0309 NEW SCOTLAND ED 4,257,222,0,0,22,0,6,7,252,190,32,23,11,6,3,167,243,40,10,9,7,4,8,17,13,Albany County,0309 NEW SCOTLAND ED 4
+Albany County,0310 NEW SCOTLAND ED 5,395,221,0,0,12,0,10,4,351,220,37,14,13,14,0,274,264,39,17,10,6,9,3,15,6,Albany County,0310 NEW SCOTLAND ED 5
+Albany County,0311 NEW SCOTLAND ED 6,299,120,0,0,16,0,6,2,283,120,21,7,9,5,2,206,162,25,11,8,7,4,6,13,3,Albany County,0311 NEW SCOTLAND ED 6
+Albany County,0312 NEW SCOTLAND ED 7,415,239,0,0,30,0,8,4,384,212,58,22,22,9,4,281,256,61,26,14,11,8,5,23,21,Albany County,0312 NEW SCOTLAND ED 7
+Albany County,0313 NEW SCOTLAND ED 8,447,241,0,0,32,0,7,7,420,204,61,29,25,9,5,314,279,62,26,16,11,5,4,24,8,Albany County,0313 NEW SCOTLAND ED 8
+Albany County,0314 RENSSELAERVILLE ED 1,177,116,0,0,23,0,6,2,171,94,33,16,10,5,0,113,131,39,13,7,4,2,2,5,4,Albany County,0314 RENSSELAERVILLE ED 1
+Albany County,0315 RENSSELAERVILLE ED 2,96,134,0,0,10,0,3,1,94,104,49,12,5,3,3,68,127,46,9,4,0,2,3,4,7,Albany County,0315 RENSSELAERVILLE ED 2
+Albany County,0316 RENSSELAERVILLE ED 3,105,155,0,0,20,0,5,2,101,124,48,10,5,9,2,45,160,52,6,7,3,7,3,6,10,Albany County,0316 RENSSELAERVILLE ED 3
+Albany County,0317 WESTERLO ED 1,203,289,0,0,12,0,7,1,203,232,72,11,9,8,2,129,295,73,10,3,4,6,6,5,9,Albany County,0317 WESTERLO ED 1
+Albany County,0318 WESTERLO ED 2,180,214,0,0,14,0,6,4,160,207,35,9,12,4,6,103,258,48,9,5,1,2,5,6,7,Albany County,0318 WESTERLO ED 2
+Albany County,0319 WESTERLO ED 3,153,275,0,0,10,0,6,2,137,236,64,12,6,5,5,75,280,71,14,2,5,1,6,9,9,Albany County,0319 WESTERLO ED 3

@@ -1,32 +1,32 @@
 county,precinct,HOR_DEM,HOR_REP,HOR_CON,HOR_GRE,HOR_WOR,HOR_IND,HOR_WEP,HOR_REF,Sen_DEM,Sen_REP,Sen_CON,Sen_WOR,Sen_IND,Sen_WEP,Sen_REF,Gov_DEM,Gov_REP,Gov_CON,Gov_GRE,Gov_WOR,Gov_IND,Gov_WEP,Gov_REF,Gov_SAM,Gov_LBT,county_id,original_precinct_name
-Chenango County,AFTON 1,343,557,40,0,14,16,12,5,340,532,39,19,17,10,7,235,601,51,19,7,5,3,7,9,42,Chenango County,precinct
-Chenango County,BAINBRIDGE 1,428,575,23,0,34,15,2,3,408,553,31,29,20,9,5,290,658,35,18,13,8,1,8,7,43,Chenango County,precinct
-Chenango County,CITY OF NORWICH WARD 1,255,154,13,0,14,10,4,2,243,154,13,14,8,7,3,197,175,10,10,8,4,4,2,11,25,Chenango County,precinct
-Chenango County,CITY OF NORWICH WARD 2,212,118,13,0,13,5,3,1,193,117,14,10,8,4,3,143,153,15,6,3,2,3,5,6,15,Chenango County,precinct
-Chenango County,CITY OF NORWICH WARD 3,288,214,12,0,6,13,3,2,285,193,15,9,11,6,3,208,245,14,13,6,6,4,4,6,22,Chenango County,precinct
-Chenango County,CITY OF NORWICH WARD 4,123,97,5,0,8,6,5,1,108,93,6,7,5,7,2,90,119,9,5,5,2,1,1,3,6,Chenango County,precinct
-Chenango County,CITY OF NORWICH WARD 5,163,115,13,0,8,7,5,1,149,120,14,7,7,8,1,114,139,14,6,4,4,3,2,3,16,Chenango County,precinct
-Chenango County,CITY OF NORWICH WARD 6,175,128,9,0,8,7,1,0,156,129,11,10,8,5,1,119,155,14,3,6,4,2,1,8,19,Chenango County,precinct
-Chenango County,COLUMBUS 1,90,190,16,0,3,1,3,3,84,179,16,5,2,5,6,62,181,15,3,2,2,3,3,9,8,Chenango County,precinct
-Chenango County,COVENTRY 1,174,367,28,0,14,14,2,5,170,360,32,12,16,2,5,121,390,36,8,5,7,0,5,6,26,Chenango County,precinct
-Chenango County,GERMAN 1,47,79,7,0,3,0,0,2,46,77,8,2,1,0,1,30,79,7,3,0,0,0,2,4,10,Chenango County,precinct
-Chenango County,GREENE 1,403,576,51,0,13,27,1,6,394,557,50,21,24,3,8,278,633,58,15,10,13,1,7,16,37,Chenango County,precinct
-Chenango County,GREENE 2,366,531,33,0,17,17,4,5,362,518,39,20,18,4,2,251,596,46,15,4,9,2,5,12,31,Chenango County,precinct
-Chenango County,GUILFORD 1,378,517,31,0,14,15,5,5,383,493,33,22,15,5,7,270,561,36,20,4,7,2,3,17,49,Chenango County,precinct
-Chenango County,LINCKLAEN 1,48,79,1,0,3,3,1,2,44,77,3,3,3,0,0,29,90,4,2,2,4,0,0,4,1,Chenango County,precinct
-Chenango County,MCDONOUGH 1,117,181,10,0,12,7,0,1,108,191,8,7,7,1,1,81,207,10,9,5,6,1,0,0,14,Chenango County,precinct
-Chenango County,NEW BERLIN 1,292,395,29,0,20,19,6,3,285,383,33,17,21,8,3,220,406,41,14,7,12,3,7,6,48,Chenango County,precinct
-Chenango County,NORTH NORWICH 1,232,296,22,0,12,11,4,1,221,281,20,11,9,7,4,163,329,26,11,5,2,3,2,9,28,Chenango County,precinct
-Chenango County,NORWICH TOWN 1,310,335,14,0,11,13,6,4,281,328,18,17,9,6,2,202,381,25,8,4,3,5,5,10,39,Chenango County,precinct
-Chenango County,NORWICH TOWN 2,262,296,13,0,9,6,1,5,254,279,11,12,5,2,7,179,332,18,6,4,5,4,4,6,27,Chenango County,precinct
-Chenango County,OTSELIC 1,104,150,11,0,9,10,2,0,97,154,9,6,8,1,0,78,169,11,3,2,3,0,0,8,13,Chenango County,precinct
-Chenango County,OXFORD 1,302,443,29,0,21,16,6,5,306,419,31,20,17,7,8,224,471,33,13,8,7,2,3,11,45,Chenango County,precinct
-Chenango County,OXFORD 2,243,248,15,0,8,13,7,5,247,232,11,15,13,6,5,180,283,21,7,2,9,2,4,6,25,Chenango County,precinct
-Chenango County,PHARSALIA 1,77,90,16,0,3,2,2,0,71,88,15,2,4,1,2,55,108,15,0,0,2,0,1,4,5,Chenango County,precinct
-Chenango County,PITCHER 1,57,133,10,0,7,2,1,1,58,122,9,4,4,2,1,46,128,10,2,1,1,2,0,3,16,Chenango County,precinct
-Chenango County,PLYMOUTH 1,190,355,22,0,8,7,4,4,180,340,20,15,9,5,4,117,391,28,11,0,2,1,3,2,32,Chenango County,precinct
-Chenango County,PRESTON 1,160,173,14,0,3,7,2,2,149,161,15,8,8,2,0,124,183,20,4,3,5,2,2,4,11,Chenango County,precinct
-Chenango County,SHERBURNE 1,298,322,22,0,17,12,3,3,281,309,21,21,19,3,2,197,353,23,14,7,6,2,4,15,33,Chenango County,precinct
-Chenango County,SHERBURNE 2,256,378,28,0,13,9,3,3,242,355,32,17,8,4,3,184,375,31,8,11,9,2,5,10,40,Chenango County,precinct
-Chenango County,SMITHVILLE 1,171,251,23,0,7,12,4,1,166,243,20,5,12,2,4,123,283,23,6,1,3,3,5,2,16,Chenango County,precinct
-Chenango County,SMYRNA 1,148,264,20,0,1,4,2,1,142,242,15,8,7,3,5,104,268,16,7,0,3,0,2,6,24,Chenango County,precinct
+Chenango County,AFTON 1,343,557,40,0,14,16,12,5,340,532,39,19,17,10,7,235,601,51,19,7,5,3,7,9,42,Chenango County,AFTON 1
+Chenango County,BAINBRIDGE 1,428,575,23,0,34,15,2,3,408,553,31,29,20,9,5,290,658,35,18,13,8,1,8,7,43,Chenango County,BAINBRIDGE 1
+Chenango County,CITY OF NORWICH WARD 1,255,154,13,0,14,10,4,2,243,154,13,14,8,7,3,197,175,10,10,8,4,4,2,11,25,Chenango County,CITY OF NORWICH WARD 1
+Chenango County,CITY OF NORWICH WARD 2,212,118,13,0,13,5,3,1,193,117,14,10,8,4,3,143,153,15,6,3,2,3,5,6,15,Chenango County,CITY OF NORWICH WARD 2
+Chenango County,CITY OF NORWICH WARD 3,288,214,12,0,6,13,3,2,285,193,15,9,11,6,3,208,245,14,13,6,6,4,4,6,22,Chenango County,CITY OF NORWICH WARD 3
+Chenango County,CITY OF NORWICH WARD 4,123,97,5,0,8,6,5,1,108,93,6,7,5,7,2,90,119,9,5,5,2,1,1,3,6,Chenango County,CITY OF NORWICH WARD 4
+Chenango County,CITY OF NORWICH WARD 5,163,115,13,0,8,7,5,1,149,120,14,7,7,8,1,114,139,14,6,4,4,3,2,3,16,Chenango County,CITY OF NORWICH WARD 5
+Chenango County,CITY OF NORWICH WARD 6,175,128,9,0,8,7,1,0,156,129,11,10,8,5,1,119,155,14,3,6,4,2,1,8,19,Chenango County,CITY OF NORWICH WARD 6
+Chenango County,COLUMBUS 1,90,190,16,0,3,1,3,3,84,179,16,5,2,5,6,62,181,15,3,2,2,3,3,9,8,Chenango County,COLUMBUS 1
+Chenango County,COVENTRY 1,174,367,28,0,14,14,2,5,170,360,32,12,16,2,5,121,390,36,8,5,7,0,5,6,26,Chenango County,COVENTRY 1
+Chenango County,GERMAN 1,47,79,7,0,3,0,0,2,46,77,8,2,1,0,1,30,79,7,3,0,0,0,2,4,10,Chenango County,GERMAN 1
+Chenango County,GREENE 1,403,576,51,0,13,27,1,6,394,557,50,21,24,3,8,278,633,58,15,10,13,1,7,16,37,Chenango County,GREENE 1
+Chenango County,GREENE 2,366,531,33,0,17,17,4,5,362,518,39,20,18,4,2,251,596,46,15,4,9,2,5,12,31,Chenango County,GREENE 2
+Chenango County,GUILFORD 1,378,517,31,0,14,15,5,5,383,493,33,22,15,5,7,270,561,36,20,4,7,2,3,17,49,Chenango County,GUILFORD 1
+Chenango County,LINCKLAEN 1,48,79,1,0,3,3,1,2,44,77,3,3,3,0,0,29,90,4,2,2,4,0,0,4,1,Chenango County,LINCKLAEN 1
+Chenango County,MCDONOUGH 1,117,181,10,0,12,7,0,1,108,191,8,7,7,1,1,81,207,10,9,5,6,1,0,0,14,Chenango County,MCDONOUGH 1
+Chenango County,NEW BERLIN 1,292,395,29,0,20,19,6,3,285,383,33,17,21,8,3,220,406,41,14,7,12,3,7,6,48,Chenango County,NEW BERLIN 1
+Chenango County,NORTH NORWICH 1,232,296,22,0,12,11,4,1,221,281,20,11,9,7,4,163,329,26,11,5,2,3,2,9,28,Chenango County,NORTH NORWICH 1
+Chenango County,NORWICH TOWN 1,310,335,14,0,11,13,6,4,281,328,18,17,9,6,2,202,381,25,8,4,3,5,5,10,39,Chenango County,NORWICH TOWN 1
+Chenango County,NORWICH TOWN 2,262,296,13,0,9,6,1,5,254,279,11,12,5,2,7,179,332,18,6,4,5,4,4,6,27,Chenango County,NORWICH TOWN 2
+Chenango County,OTSELIC 1,104,150,11,0,9,10,2,0,97,154,9,6,8,1,0,78,169,11,3,2,3,0,0,8,13,Chenango County,OTSELIC 1
+Chenango County,OXFORD 1,302,443,29,0,21,16,6,5,306,419,31,20,17,7,8,224,471,33,13,8,7,2,3,11,45,Chenango County,OXFORD 1
+Chenango County,OXFORD 2,243,248,15,0,8,13,7,5,247,232,11,15,13,6,5,180,283,21,7,2,9,2,4,6,25,Chenango County,OXFORD 2
+Chenango County,PHARSALIA 1,77,90,16,0,3,2,2,0,71,88,15,2,4,1,2,55,108,15,0,0,2,0,1,4,5,Chenango County,PHARSALIA 1
+Chenango County,PITCHER 1,57,133,10,0,7,2,1,1,58,122,9,4,4,2,1,46,128,10,2,1,1,2,0,3,16,Chenango County,PITCHER 1
+Chenango County,PLYMOUTH 1,190,355,22,0,8,7,4,4,180,340,20,15,9,5,4,117,391,28,11,0,2,1,3,2,32,Chenango County,PLYMOUTH 1
+Chenango County,PRESTON 1,160,173,14,0,3,7,2,2,149,161,15,8,8,2,0,124,183,20,4,3,5,2,2,4,11,Chenango County,PRESTON 1
+Chenango County,SHERBURNE 1,298,322,22,0,17,12,3,3,281,309,21,21,19,3,2,197,353,23,14,7,6,2,4,15,33,Chenango County,SHERBURNE 1
+Chenango County,SHERBURNE 2,256,378,28,0,13,9,3,3,242,355,32,17,8,4,3,184,375,31,8,11,9,2,5,10,40,Chenango County,SHERBURNE 2
+Chenango County,SMITHVILLE 1,171,251,23,0,7,12,4,1,166,243,20,5,12,2,4,123,283,23,6,1,3,3,5,2,16,Chenango County,SMITHVILLE 1
+Chenango County,SMYRNA 1,148,264,20,0,1,4,2,1,142,242,15,8,7,3,5,104,268,16,7,0,3,0,2,6,24,Chenango County,SMYRNA 1

@@ -1,361 +1,361 @@
 county,precinct,HOR_DEM,HOR_REP,HOR_CON,HOR_GRE,HOR_WOR,HOR_IND,HOR_WEP,HOR_REF,Sen_DEM,Sen_REP,Sen_CON,Sen_WOR,Sen_IND,Sen_WEP,Sen_REF,Gov_DEM,Gov_REP,Gov_CON,Gov_GRE,Gov_WOR,Gov_IND,Gov_WEP,Gov_REF,Gov_SAM,Gov_LBT,county_id,original_precinct_name
-Niagara County,Cambria  000 : 001,324,422,88,0,26,6,6,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Cambria  000 : 002,420,536,118,0,46,12,12,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Cambria  000 : 003,466,534,88,0,40,4,4,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Cambria  000 : 004,536,524,120,0,50,2,10,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Cambria 000  : 001,0,0,0,0,0,0,0,0,146,232,47,8,3,3,3,119,260,55,5,3,2,2,1,1,7,Niagara County,precinct
-Niagara County,Cambria 000  : 002,0,0,0,0,0,0,0,0,199,289,66,12,12,2,3,146,341,73,4,9,6,0,4,2,13,Niagara County,precinct
-Niagara County,Cambria 000  : 003,0,0,0,0,0,0,0,0,208,311,48,15,9,2,2,149,337,59,8,9,2,1,4,9,15,Niagara County,precinct
-Niagara County,Cambria 000  : 004,0,0,0,0,0,0,0,0,237,313,66,12,16,3,5,180,354,72,11,5,9,1,7,7,9,Niagara County,precinct
-Niagara County,City of Lockport  001 : 001,390,152,38,0,26,8,10,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,City of Lockport  001 : 002,316,212,16,0,18,6,18,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,City of Lockport  001 : 003,470,240,56,0,56,6,12,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,City of Lockport  001 : 004,130,48,4,0,12,2,2,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,City of Lockport  002 : 001,274,152,30,0,22,4,8,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,City of Lockport  002 : 002,394,186,24,0,16,4,8,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,City of Lockport  002 : 003,464,270,36,0,20,6,6,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,City of Lockport  002 : 004,572,432,58,0,32,12,6,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,City of Lockport  003 : 001,454,254,28,0,44,12,14,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,City of Lockport  003 : 002,320,170,26,0,26,8,14,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,City of Lockport  003 : 003,344,194,34,0,34,14,8,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,City of Lockport  004 : 001,320,224,46,0,32,4,12,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,City of Lockport  004 : 002,316,170,40,0,20,0,8,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,City of Lockport  004 : 003,494,288,64,0,34,4,4,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,City of Lockport  004 : 004,228,136,20,0,20,0,10,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,City of Lockport  005 : 001,322,162,30,0,18,4,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,City of Lockport  005 : 002,388,266,54,0,18,4,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,City of Lockport  005 : 003,632,352,64,0,30,6,14,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,City of Lockport  005 : 004,346,166,36,0,24,6,14,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,City of Lockport 001 : 001,0,0,0,0,0,0,0,0,181,86,21,8,11,3,3,140,131,18,6,2,4,2,5,6,10,Niagara County,precinct
-Niagara County,City of Lockport 001 : 002,0,0,0,0,0,0,0,0,150,119,8,5,7,2,2,119,140,9,8,6,4,2,2,2,8,Niagara County,precinct
-Niagara County,City of Lockport 001 : 003,0,0,0,0,0,0,0,0,207,147,35,17,13,5,0,166,175,41,12,6,7,6,5,3,13,Niagara County,precinct
-Niagara County,City of Lockport 001 : 004,0,0,0,0,0,0,0,0,63,23,3,4,4,0,1,52,33,5,2,1,2,1,3,1,6,Niagara County,precinct
-Niagara County,City of Lockport 002 : 001,0,0,0,0,0,0,0,0,133,79,16,8,9,5,0,117,83,25,5,5,5,1,0,2,7,Niagara County,precinct
-Niagara County,City of Lockport 002 : 002,0,0,0,0,0,0,0,0,170,115,12,8,3,4,3,147,132,15,5,5,3,3,1,4,7,Niagara County,precinct
-Niagara County,City of Lockport 002 : 003,0,0,0,0,0,0,0,0,206,150,21,8,11,5,1,154,191,25,5,3,8,1,3,6,11,Niagara County,precinct
-Niagara County,City of Lockport 002 : 004,0,0,0,0,0,0,0,0,268,236,32,12,16,4,2,211,254,46,5,15,14,1,2,11,6,Niagara County,precinct
-Niagara County,City of Lockport 003 : 001,0,0,0,0,0,0,0,0,200,149,26,15,14,3,4,160,184,29,6,7,6,0,7,4,22,Niagara County,precinct
-Niagara County,City of Lockport 003 : 002,0,0,0,0,0,0,0,0,154,97,11,11,9,8,2,123,128,15,1,3,3,3,3,5,10,Niagara County,precinct
-Niagara County,City of Lockport 003 : 003,0,0,0,0,0,0,0,0,164,119,17,5,6,3,1,125,136,26,6,4,8,4,1,4,12,Niagara County,precinct
-Niagara County,City of Lockport 004 : 001,0,0,0,0,0,0,0,0,151,112,24,9,13,3,2,111,152,23,10,4,9,3,3,3,8,Niagara County,precinct
-Niagara County,City of Lockport 004 : 002,0,0,0,0,0,0,0,0,146,103,21,11,6,2,3,119,114,24,7,4,5,1,3,3,8,Niagara County,precinct
-Niagara County,City of Lockport 004 : 003,0,0,0,0,0,0,0,0,224,160,36,10,12,3,2,177,201,39,4,7,6,2,1,3,8,Niagara County,precinct
-Niagara County,City of Lockport 004 : 004,0,0,0,0,0,0,0,0,104,70,18,4,8,3,1,96,74,21,5,1,5,1,0,4,6,Niagara County,precinct
-Niagara County,City of Lockport 005 : 001,0,0,0,0,0,0,0,0,151,84,20,9,7,2,1,122,102,19,5,5,6,0,1,4,15,Niagara County,precinct
-Niagara County,City of Lockport 005 : 002,0,0,0,0,0,0,0,0,171,152,26,12,12,1,0,132,170,32,8,4,9,1,2,7,11,Niagara County,precinct
-Niagara County,City of Lockport 005 : 003,0,0,0,0,0,0,0,0,293,201,32,9,6,6,6,249,242,37,9,6,5,3,6,7,5,Niagara County,precinct
-Niagara County,City of Lockport 005 : 004,0,0,0,0,0,0,0,0,155,97,23,9,8,2,0,119,118,21,10,4,6,1,2,5,15,Niagara County,precinct
-Niagara County,Hartland  000 : 001,270,480,90,0,54,6,18,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Hartland  000 : 002,312,510,136,0,44,10,12,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Hartland  000 : 003,276,454,56,0,16,2,10,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Hartland 000 : 001,0,0,0,0,0,0,0,0,122,264,43,12,13,4,3,94,278,53,3,6,7,3,3,3,20,Niagara County,precinct
-Niagara County,Hartland 000 : 002,0,0,0,0,0,0,0,0,141,276,75,13,9,2,3,109,293,78,5,4,7,0,2,7,26,Niagara County,precinct
-Niagara County,Hartland 000 : 003,0,0,0,0,0,0,0,0,128,234,33,8,8,5,2,91,256,36,5,4,5,1,3,8,24,Niagara County,precinct
-Niagara County,Lewiston  000 : 001,398,300,34,0,24,6,6,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Lewiston  000 : 002,490,340,60,0,18,0,8,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Lewiston  000 : 003,474,264,58,0,22,4,10,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Lewiston  000 : 004,524,448,78,0,26,4,8,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Lewiston  000 : 005,536,482,50,0,20,8,4,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Lewiston  000 : 006,366,434,86,0,38,4,4,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Lewiston  000 : 007,376,366,80,0,20,4,10,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Lewiston  000 : 008,356,412,72,0,32,6,2,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Lewiston  000 : 009,438,434,118,0,22,6,14,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Lewiston  000 : 010,358,306,94,0,10,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Lewiston  000 : 011,666,386,76,0,26,4,8,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Lewiston  000 : 012,378,382,54,0,14,0,2,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Lewiston  000 : 013,640,384,66,0,16,4,10,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Lewiston  000 : 014,512,320,60,0,6,2,8,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Lewiston 000 : 001,0,0,0,0,0,0,0,0,180,162,20,5,14,3,2,152,186,22,8,1,10,1,2,3,5,Niagara County,precinct
-Niagara County,Lewiston 000 : 002,0,0,0,0,0,0,0,0,240,188,23,3,11,4,2,200,209,32,8,1,4,2,6,7,4,Niagara County,precinct
-Niagara County,Lewiston 000 : 003,0,0,0,0,0,0,0,0,229,141,32,7,5,3,1,185,169,36,9,0,7,2,3,3,7,Niagara County,precinct
-Niagara County,Lewiston 000 : 004,0,0,0,0,0,0,0,0,238,246,39,9,6,4,1,199,277,39,6,10,4,1,2,3,9,Niagara County,precinct
-Niagara County,Lewiston 000 : 005,0,0,0,0,0,0,0,0,269,239,25,9,7,1,1,221,269,33,3,7,3,1,5,5,5,Niagara County,precinct
-Niagara County,Lewiston 000 : 006,0,0,0,0,0,0,0,0,163,238,51,10,10,2,2,108,270,57,4,7,4,1,5,5,15,Niagara County,precinct
-Niagara County,Lewiston 000 : 007,0,0,0,0,0,0,0,0,169,200,40,6,9,7,1,125,228,44,3,2,5,5,3,5,15,Niagara County,precinct
-Niagara County,Lewiston 000 : 008,0,0,0,0,0,0,0,0,169,229,39,6,3,0,3,129,255,46,7,2,3,0,2,2,7,Niagara County,precinct
-Niagara County,Lewiston 000 : 009,0,0,0,0,0,0,0,0,202,229,62,8,12,4,4,154,275,66,4,6,8,2,3,3,5,Niagara County,precinct
-Niagara County,Lewiston 000 : 010,0,0,0,0,0,0,0,0,172,161,44,10,5,3,1,140,182,46,6,5,2,0,3,4,3,Niagara County,precinct
-Niagara County,Lewiston 000 : 011,0,0,0,0,0,0,0,0,310,212,41,6,15,2,1,264,242,45,3,9,13,3,4,7,5,Niagara County,precinct
-Niagara County,Lewiston 000 : 012,0,0,0,0,0,0,0,0,171,207,28,3,5,1,0,143,231,33,3,1,3,0,1,2,1,Niagara County,precinct
-Niagara County,Lewiston 000 : 013,0,0,0,0,0,0,0,0,286,215,40,4,17,3,2,224,264,36,6,0,11,2,3,13,8,Niagara County,precinct
-Niagara County,Lewiston 000 : 014,0,0,0,0,0,0,0,0,236,179,34,2,8,4,5,185,215,35,10,2,5,2,0,6,6,Niagara County,precinct
-Niagara County,N Tonawanda  001 : 001,314,280,0,0,32,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,N Tonawanda  001 : 002,422,350,0,0,24,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,N Tonawanda  001 : 003,332,266,0,0,26,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,N Tonawanda  001 : 004,468,392,0,0,30,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,N Tonawanda  001 : 005,324,342,0,0,32,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,N Tonawanda  001 : 006,380,304,0,0,22,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,N Tonawanda  001 : 007,248,192,0,0,20,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,N Tonawanda  001 : 008,164,156,0,0,4,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,N Tonawanda  001 : 009,456,374,0,0,42,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,N Tonawanda  001 : 010,344,256,0,0,30,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,N Tonawanda  002 : 001,244,174,0,0,16,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,N Tonawanda  002 : 002,282,212,0,0,14,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,N Tonawanda  002 : 003,386,294,0,0,16,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,N Tonawanda  002 : 004,228,196,0,0,2,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,N Tonawanda  002 : 005,400,216,0,0,20,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,N Tonawanda  002 : 006,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,N Tonawanda  002 : 007,524,388,0,0,40,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,N Tonawanda  002 : 008,226,182,0,0,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,N Tonawanda  002 : 009,228,172,0,0,10,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,N Tonawanda  002 : 010,176,160,0,0,14,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,N Tonawanda  002 : 011,296,136,0,0,24,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,N Tonawanda  003 : 001,308,262,0,0,18,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,N Tonawanda  003 : 002,202,230,0,0,18,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,N Tonawanda  003 : 003,236,174,0,0,16,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,N Tonawanda  003 : 004,494,490,0,0,22,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,N Tonawanda  003 : 005,402,310,0,0,44,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,N Tonawanda  003 : 006,494,366,0,0,36,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,N Tonawanda  003 : 007,300,254,0,0,14,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,N Tonawanda  003 : 008,278,254,0,0,28,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,N Tonawanda  003 : 009,298,320,0,0,22,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,N Tonawanda  003 : 010,256,224,0,0,22,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,N Tonawanda  003 : 011,310,282,0,0,30,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,N Tonawanda  003 : 012,616,508,0,0,50,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,N Tonawanda 001 : 001,0,0,0,0,0,0,0,0,147,134,36,5,6,5,2,122,157,40,0,4,6,4,1,1,8,Niagara County,precinct
-Niagara County,N Tonawanda 001 : 002,0,0,0,0,0,0,0,0,206,157,33,4,13,1,1,167,177,37,7,5,6,2,3,5,7,Niagara County,precinct
-Niagara County,N Tonawanda 001 : 003,0,0,0,0,0,0,0,0,157,124,25,6,13,1,3,121,141,30,10,3,6,4,5,2,6,Niagara County,precinct
-Niagara County,N Tonawanda 001 : 004,0,0,0,0,0,0,0,0,216,177,29,14,12,3,2,167,206,33,16,8,6,1,3,5,5,Niagara County,precinct
-Niagara County,N Tonawanda 001 : 005,0,0,0,0,0,0,0,0,145,149,40,10,12,2,2,117,177,43,8,3,5,0,2,4,6,Niagara County,precinct
-Niagara County,N Tonawanda 001 : 006,0,0,0,0,0,0,0,0,179,131,19,5,18,4,1,150,161,27,4,1,7,2,0,2,5,Niagara County,precinct
-Niagara County,N Tonawanda 001 : 007,0,0,0,0,0,0,0,0,116,94,15,4,6,2,3,111,103,18,2,4,1,1,2,1,3,Niagara County,precinct
-Niagara County,N Tonawanda 001 : 008,0,0,0,0,0,0,0,0,78,75,15,4,0,2,0,61,84,14,2,0,0,3,4,3,4,Niagara County,precinct
-Niagara County,N Tonawanda 001 : 009,0,0,0,0,0,0,0,0,216,172,40,8,15,4,0,171,185,49,11,8,10,2,5,2,15,Niagara County,precinct
-Niagara County,N Tonawanda 001 : 010,0,0,0,0,0,0,0,0,164,116,21,11,10,6,0,133,144,24,6,5,8,1,5,4,4,Niagara County,precinct
-Niagara County,N Tonawanda 002 : 001,0,0,0,0,0,0,0,0,111,82,22,3,7,3,1,93,94,25,2,1,6,2,2,3,5,Niagara County,precinct
-Niagara County,N Tonawanda 002 : 002,0,0,0,0,0,0,0,0,125,97,30,6,9,2,1,105,105,31,11,1,5,1,0,3,9,Niagara County,precinct
-Niagara County,N Tonawanda 002 : 003,0,0,0,0,0,0,0,0,191,130,45,4,15,6,3,141,159,60,8,2,9,4,2,5,2,Niagara County,precinct
-Niagara County,N Tonawanda 002 : 004,0,0,0,0,0,0,0,0,110,81,30,3,2,6,2,88,102,26,5,1,0,1,1,3,8,Niagara County,precinct
-Niagara County,N Tonawanda 002 : 005,0,0,0,0,0,0,0,0,194,94,22,10,7,6,0,154,114,24,4,3,4,5,1,5,15,Niagara County,precinct
-Niagara County,N Tonawanda 002 : 006,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,3,1,0,0,0,0,0,0,0,1,Niagara County,precinct
-Niagara County,N Tonawanda 002 : 007,0,0,0,0,0,0,0,0,227,181,52,12,16,7,4,187,180,60,17,11,14,1,5,10,7,Niagara County,precinct
-Niagara County,N Tonawanda 002 : 008,0,0,0,0,0,0,0,0,109,83,12,5,2,1,1,87,102,15,1,1,1,3,0,1,4,Niagara County,precinct
-Niagara County,N Tonawanda 002 : 009,0,0,0,0,0,0,0,0,107,70,25,2,9,6,1,98,79,29,3,3,5,3,1,1,1,Niagara County,precinct
-Niagara County,N Tonawanda 002 : 010,0,0,0,0,0,0,0,0,80,79,17,5,4,1,1,65,85,18,5,3,3,1,0,4,5,Niagara County,precinct
-Niagara County,N Tonawanda 002 : 011,0,0,0,0,0,0,0,0,135,68,9,7,7,5,1,124,68,16,4,5,5,1,1,2,9,Niagara County,precinct
-Niagara County,N Tonawanda 003 : 001,0,0,0,0,0,0,0,0,131,136,25,2,10,2,4,110,155,25,4,2,6,3,1,2,3,Niagara County,precinct
-Niagara County,N Tonawanda 003 : 002,0,0,0,0,0,0,0,0,92,100,30,4,9,2,0,70,116,32,3,3,4,1,0,5,3,Niagara County,precinct
-Niagara County,N Tonawanda 003 : 003,0,0,0,0,0,0,0,0,104,74,34,3,8,2,0,92,86,38,2,2,3,0,0,4,5,Niagara County,precinct
-Niagara County,N Tonawanda 003 : 004,0,0,0,0,0,0,0,0,221,235,39,8,12,3,2,195,257,38,4,7,7,1,1,2,9,Niagara County,precinct
-Niagara County,N Tonawanda 003 : 005,0,0,0,0,0,0,0,0,183,148,48,11,10,0,2,153,164,56,6,8,5,2,2,2,3,Niagara County,precinct
-Niagara County,N Tonawanda 003 : 006,0,0,0,0,0,0,0,0,224,173,27,10,14,1,5,185,200,40,7,9,5,2,1,2,8,Niagara County,precinct
-Niagara County,N Tonawanda 003 : 007,0,0,0,0,0,0,0,0,139,120,29,3,10,4,0,111,143,34,3,3,4,1,1,1,6,Niagara County,precinct
-Niagara County,N Tonawanda 003 : 008,0,0,0,0,0,0,0,0,119,118,34,8,8,2,2,106,126,33,6,2,6,2,1,2,7,Niagara County,precinct
-Niagara County,N Tonawanda 003 : 009,0,0,0,0,0,0,0,0,133,145,31,6,10,4,1,115,155,37,1,1,2,2,3,3,13,Niagara County,precinct
-Niagara County,N Tonawanda 003 : 010,0,0,0,0,0,0,0,0,117,100,31,8,6,2,1,102,114,29,1,5,1,2,1,2,3,Niagara County,precinct
-Niagara County,N Tonawanda 003 : 011,0,0,0,0,0,0,0,0,131,126,49,8,9,1,2,109,141,46,3,7,11,2,3,1,5,Niagara County,precinct
-Niagara County,N Tonawanda 003 : 012,0,0,0,0,0,0,0,0,282,232,62,15,21,4,1,234,259,68,10,7,13,3,5,4,18,Niagara County,precinct
-Niagara County,Newfane  000 : 001,252,228,48,0,20,4,6,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Newfane  000 : 002,328,304,46,0,36,4,26,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Newfane  000 : 003,266,370,42,0,40,4,12,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Newfane  000 : 004,434,532,128,0,40,8,16,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Newfane  000 : 005,460,532,144,0,36,0,4,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Newfane  000 : 006,320,422,84,0,24,10,2,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Newfane  000 : 007,304,404,144,0,26,6,6,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Newfane  000 : 008,310,324,54,0,16,6,6,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Newfane 000 : 001,0,0,0,0,0,0,0,0,117,123,31,7,6,1,0,87,143,34,2,1,4,1,3,2,12,Niagara County,precinct
-Niagara County,Newfane 000 : 002,0,0,0,0,0,0,0,0,133,180,30,14,9,7,4,101,215,37,4,4,7,1,2,5,15,Niagara County,precinct
-Niagara County,Newfane 000 : 003,0,0,0,0,0,0,0,0,128,196,30,8,10,6,1,96,228,29,2,5,6,4,4,5,8,Niagara County,precinct
-Niagara County,Newfane 000 : 004,0,0,0,0,0,0,0,0,185,290,70,19,12,5,1,143,331,66,6,6,12,2,5,7,15,Niagara County,precinct
-Niagara County,Newfane 000 : 005,0,0,0,0,0,0,0,0,200,298,76,9,4,5,5,157,338,77,10,3,0,0,6,4,12,Niagara County,precinct
-Niagara County,Newfane 000 : 006,0,0,0,0,0,0,0,0,138,229,45,6,12,2,1,105,257,55,3,2,4,1,3,6,11,Niagara County,precinct
-Niagara County,Newfane 000 : 007,0,0,0,0,0,0,0,0,137,218,72,6,6,2,3,96,246,76,6,6,1,0,3,3,14,Niagara County,precinct
-Niagara County,Newfane 000 : 008,0,0,0,0,0,0,0,0,130,182,36,3,7,1,3,112,198,35,3,2,5,1,4,0,6,Niagara County,precinct
-Niagara County,Niagara Falls  003 : 001,304,210,0,0,26,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  003 : 002,374,354,0,0,16,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  003 : 003,514,354,0,0,12,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  003 : 004,474,386,0,0,24,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  003 : 005,556,406,0,0,16,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  003 : 006,404,314,0,0,24,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  003 : 007,522,444,0,0,30,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  003 : 008,448,376,0,0,32,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  003 : 009,210,208,0,0,8,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  003 : 010,394,250,0,0,8,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  003 : 011,322,272,0,0,12,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  003 : 012,220,124,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  003 : 013,24,10,4,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  004 : 001,678,32,0,0,2,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  004 : 002,494,128,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  004 : 003,436,54,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  004 : 004,410,128,0,0,14,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  004 : 005,444,72,0,0,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  004 : 006,258,108,0,0,10,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  004 : 007,392,150,0,0,8,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  004 : 008,480,128,0,0,6,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  005 : 001,550,372,0,0,34,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  005 : 002,496,224,0,0,20,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  005 : 003,432,230,0,0,2,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  005 : 004,332,176,0,0,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  005 : 005,370,192,0,0,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  005 : 006,370,200,0,0,16,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  006 : 001,562,252,0,0,14,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  006 : 002,506,260,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  006 : 003,346,166,0,0,16,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  006 : 004,398,180,0,0,14,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  006 : 005,328,144,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  006 : 006,244,114,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  006 : 007,354,110,0,0,4,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  006 : 008,394,216,0,0,12,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  006 : 009,380,222,0,0,12,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls  006 : 010,400,328,0,0,36,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls 003 : 001,0,0,0,0,0,0,0,0,147,96,17,8,6,2,3,115,119,20,5,7,2,2,4,3,4,Niagara County,precinct
-Niagara County,Niagara Falls 003 : 002,0,0,0,0,0,0,0,0,179,161,30,5,4,2,6,144,181,37,3,4,2,2,3,6,10,Niagara County,precinct
-Niagara County,Niagara Falls 003 : 003,0,0,0,0,0,0,0,0,229,177,33,6,8,2,1,178,202,43,9,4,5,1,3,3,13,Niagara County,precinct
-Niagara County,Niagara Falls 003 : 004,0,0,0,0,0,0,0,0,227,173,37,8,7,4,1,187,208,33,10,5,3,2,0,2,14,Niagara County,precinct
-Niagara County,Niagara Falls 003 : 005,0,0,0,0,0,0,0,0,264,202,21,5,12,0,1,214,243,33,2,1,10,0,1,5,11,Niagara County,precinct
-Niagara County,Niagara Falls 003 : 006,0,0,0,0,0,0,0,0,192,152,30,10,6,2,1,150,185,31,3,5,2,3,3,3,10,Niagara County,precinct
-Niagara County,Niagara Falls 003 : 007,0,0,0,0,0,0,0,0,243,210,31,10,3,6,5,196,258,36,9,7,3,1,2,6,5,Niagara County,precinct
-Niagara County,Niagara Falls 003 : 008,0,0,0,0,0,0,0,0,219,178,24,7,4,3,5,178,206,22,8,4,3,1,7,5,17,Niagara County,precinct
-Niagara County,Niagara Falls 003 : 009,0,0,0,0,0,0,0,0,110,88,15,3,7,0,1,94,99,18,4,3,2,0,2,1,4,Niagara County,precinct
-Niagara County,Niagara Falls 003 : 010,0,0,0,0,0,0,0,0,192,114,13,4,4,1,2,143,146,16,2,2,8,1,2,5,9,Niagara County,precinct
-Niagara County,Niagara Falls 003 : 011,0,0,0,0,0,0,0,0,158,127,21,1,4,5,1,135,139,25,2,1,4,3,1,2,3,Niagara County,precinct
-Niagara County,Niagara Falls 003 : 012,0,0,0,0,0,0,0,0,100,60,11,0,3,0,3,84,69,16,5,0,0,0,0,3,5,Niagara County,precinct
-Niagara County,Niagara Falls 003 : 013,0,0,0,0,0,0,0,0,14,5,1,0,1,0,0,13,6,2,0,0,1,0,0,0,0,Niagara County,precinct
-Niagara County,Niagara Falls 004 : 001,0,0,0,0,0,0,0,0,331,13,4,3,1,2,1,339,11,4,0,2,1,1,0,4,6,Niagara County,precinct
-Niagara County,Niagara Falls 004 : 002,0,0,0,0,0,0,0,0,244,57,7,3,2,3,0,244,71,11,1,5,1,0,0,2,3,Niagara County,precinct
-Niagara County,Niagara Falls 004 : 003,0,0,0,0,0,0,0,0,206,24,10,9,4,0,1,216,21,7,3,4,5,0,0,1,3,Niagara County,precinct
-Niagara County,Niagara Falls 004 : 004,0,0,0,0,0,0,0,0,203,54,11,6,5,1,0,192,65,10,4,5,2,0,1,2,3,Niagara County,precinct
-Niagara County,Niagara Falls 004 : 005,0,0,0,0,0,0,0,0,211,30,8,6,3,4,0,212,29,6,5,6,1,3,1,1,4,Niagara County,precinct
-Niagara County,Niagara Falls 004 : 006,0,0,0,0,0,0,0,0,124,49,3,8,2,1,0,120,51,7,3,0,2,2,1,5,3,Niagara County,precinct
-Niagara County,Niagara Falls 004 : 007,0,0,0,0,0,0,0,0,179,71,11,7,1,2,3,172,86,12,5,2,0,1,2,3,5,Niagara County,precinct
-Niagara County,Niagara Falls 004 : 008,0,0,0,0,0,0,0,0,241,55,13,2,7,1,0,221,66,10,4,4,4,1,2,8,1,Niagara County,precinct
-Niagara County,Niagara Falls 005 : 001,0,0,0,0,0,0,0,0,242,192,31,11,14,13,2,201,226,31,8,5,9,2,3,3,9,Niagara County,precinct
-Niagara County,Niagara Falls 005 : 002,0,0,0,0,0,0,0,0,238,104,20,6,13,3,2,194,143,24,4,4,7,2,3,6,10,Niagara County,precinct
-Niagara County,Niagara Falls 005 : 003,0,0,0,0,0,0,0,0,194,109,23,5,7,5,1,166,125,26,6,0,8,3,2,6,10,Niagara County,precinct
-Niagara County,Niagara Falls 005 : 004,0,0,0,0,0,0,0,0,161,71,15,5,9,2,1,163,76,17,7,3,7,0,3,3,5,Niagara County,precinct
-Niagara County,Niagara Falls 005 : 005,0,0,0,0,0,0,0,0,170,89,22,4,2,1,0,149,112,22,2,2,1,1,4,4,2,Niagara County,precinct
-Niagara County,Niagara Falls 005 : 006,0,0,0,0,0,0,0,0,174,93,11,9,6,1,1,132,131,17,8,2,4,1,3,2,5,Niagara County,precinct
-Niagara County,Niagara Falls 006 : 001,0,0,0,0,0,0,0,0,271,116,16,4,3,2,1,234,149,22,8,3,1,0,2,3,7,Niagara County,precinct
-Niagara County,Niagara Falls 006 : 002,0,0,0,0,0,0,0,0,240,130,14,7,5,1,1,198,164,20,4,3,4,2,2,2,8,Niagara County,precinct
-Niagara County,Niagara Falls 006 : 003,0,0,0,0,0,0,0,0,174,70,19,4,4,3,0,154,85,18,3,3,5,1,2,3,4,Niagara County,precinct
-Niagara County,Niagara Falls 006 : 004,0,0,0,0,0,0,0,0,192,78,15,8,0,3,3,170,106,15,3,3,3,1,5,5,6,Niagara County,precinct
-Niagara County,Niagara Falls 006 : 005,0,0,0,0,0,0,0,0,141,76,14,4,3,2,2,122,88,13,3,1,1,3,4,7,3,Niagara County,precinct
-Niagara County,Niagara Falls 006 : 006,0,0,0,0,0,0,0,0,116,57,4,4,1,2,1,108,66,5,3,1,1,0,2,1,1,Niagara County,precinct
-Niagara County,Niagara Falls 006 : 007,0,0,0,0,0,0,0,0,168,51,9,4,7,6,0,155,69,6,4,1,5,2,2,6,3,Niagara County,precinct
-Niagara County,Niagara Falls 006 : 008,0,0,0,0,0,0,0,0,186,103,14,5,2,0,3,166,128,16,5,2,0,0,3,3,5,Niagara County,precinct
-Niagara County,Niagara Falls 006 : 009,0,0,0,0,0,0,0,0,179,103,17,15,6,2,2,154,119,20,11,2,2,1,0,3,9,Niagara County,precinct
-Niagara County,Niagara Falls 006 : 010,0,0,0,0,0,0,0,0,189,158,23,13,8,1,2,143,196,29,9,4,3,3,3,2,10,Niagara County,precinct
-Niagara County,Pendleton  000 : 001,442,396,80,0,26,10,12,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Pendleton  000 : 002,350,366,84,0,14,10,8,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Pendleton  000 : 003,426,434,142,0,42,6,12,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Pendleton  000 : 004,530,508,106,0,38,6,16,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Pendleton  000 : 005,320,378,114,0,20,16,8,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Pendleton  000 : 006,390,476,110,0,36,8,6,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Pendleton 000 : 001,0,0,0,0,0,0,0,0,191,224,42,12,6,4,2,153,259,46,3,2,3,2,4,8,8,Niagara County,precinct
-Niagara County,Pendleton 000 : 002,0,0,0,0,0,0,0,0,158,189,52,4,13,2,1,127,231,46,8,3,9,1,0,2,1,Niagara County,precinct
-Niagara County,Pendleton 000 : 003,0,0,0,0,0,0,0,0,194,240,75,9,16,4,2,158,268,82,4,5,9,5,1,2,7,Niagara County,precinct
-Niagara County,Pendleton 000 : 004,0,0,0,0,0,0,0,0,242,274,60,9,16,4,3,201,309,59,5,7,11,2,2,8,10,Niagara County,precinct
-Niagara County,Pendleton 000 : 005,0,0,0,0,0,0,0,0,148,204,58,8,11,3,0,112,232,64,7,8,6,0,4,3,2,Niagara County,precinct
-Niagara County,Pendleton 000 : 006,0,0,0,0,0,0,0,0,160,259,67,12,18,5,2,142,289,71,0,7,10,2,3,2,4,Niagara County,precinct
-Niagara County,Porter  000 : 001,488,414,78,0,20,10,8,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Porter  000 : 002,406,408,72,0,26,6,10,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Porter  000 : 003,324,368,62,0,18,8,10,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Porter  000 : 004,228,264,48,0,22,10,2,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Porter  000 : 005,608,436,70,0,30,8,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Porter  000 : 006,398,490,76,0,30,2,4,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Porter 000 : 001,0,0,0,0,0,0,0,0,232,220,45,6,9,3,0,195,242,49,7,3,2,1,2,10,8,Niagara County,precinct
-Niagara County,Porter 000 : 002,0,0,0,0,0,0,0,0,186,229,38,8,10,2,3,143,265,41,4,4,3,4,4,5,3,Niagara County,precinct
-Niagara County,Porter 000 : 003,0,0,0,0,0,0,0,0,150,197,36,7,3,3,1,115,229,35,7,6,1,1,3,2,4,Niagara County,precinct
-Niagara County,Porter 000 : 004,0,0,0,0,0,0,0,0,103,156,25,2,4,2,1,80,172,28,2,1,4,0,1,0,8,Niagara County,precinct
-Niagara County,Porter 000 : 005,0,0,0,0,0,0,0,0,278,249,40,10,10,3,5,234,278,43,4,5,6,4,6,6,6,Niagara County,precinct
-Niagara County,Porter 000 : 006,0,0,0,0,0,0,0,0,179,266,38,7,4,4,3,139,296,46,5,1,1,0,2,7,13,Niagara County,precinct
-Niagara County,Royalton  000 : 001,414,460,86,0,50,4,12,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Royalton  000 : 002,448,428,84,0,48,8,14,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Royalton  000 : 003,390,566,100,0,50,0,4,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Royalton  000 : 004,154,394,90,0,20,2,2,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Royalton  000 : 005,150,324,74,0,12,10,4,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Royalton  000 : 006,368,410,80,0,52,6,10,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Royalton 000 : 001,0,0,0,0,0,0,0,0,185,258,51,15,16,3,5,134,285,55,9,5,5,1,5,6,33,Niagara County,precinct
-Niagara County,Royalton 000 : 002,0,0,0,0,0,0,0,0,193,242,48,9,17,5,4,136,296,44,6,3,6,2,9,3,19,Niagara County,precinct
-Niagara County,Royalton 000 : 003,0,0,0,0,0,0,0,0,159,317,54,14,11,2,4,105,347,56,10,6,7,1,3,11,28,Niagara County,precinct
-Niagara County,Royalton 000 : 004,0,0,0,0,0,0,0,0,60,215,47,3,7,1,0,46,227,49,1,2,3,0,2,2,13,Niagara County,precinct
-Niagara County,Royalton 000 : 005,0,0,0,0,0,0,0,0,62,180,41,7,4,1,1,46,193,49,4,1,3,0,3,0,5,Niagara County,precinct
-Niagara County,Royalton 000 : 006,0,0,0,0,0,0,0,0,164,230,46,12,8,4,6,142,251,50,2,7,6,1,7,3,10,Niagara County,precinct
-Niagara County,Somerset  000 : 001,296,470,110,0,30,10,8,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Somerset  000 : 002,312,454,126,0,44,18,8,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Somerset 000 : 001,0,0,0,0,0,0,0,0,138,245,68,8,8,1,3,79,285,82,9,1,4,0,2,4,17,Niagara County,precinct
-Niagara County,Somerset 000 : 002,0,0,0,0,0,0,0,0,134,272,64,15,13,3,3,86,307,73,12,4,7,2,5,5,15,Niagara County,precinct
-Niagara County,Town of Lockport  000 : 001,324,348,74,0,24,10,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Town of Lockport  000 : 002,358,358,94,0,28,6,8,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Town of Lockport  000 : 003,276,148,40,0,26,2,8,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Town of Lockport  000 : 004,550,382,60,0,40,6,14,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Town of Lockport  000 : 005,414,296,86,0,20,8,6,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Town of Lockport  000 : 006,474,306,70,0,34,4,12,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Town of Lockport  000 : 007,310,280,48,0,18,2,4,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Town of Lockport  000 : 008,270,248,62,0,14,0,2,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Town of Lockport  000 : 009,462,450,96,0,42,10,8,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Town of Lockport  000 : 010,264,206,68,0,18,4,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Town of Lockport  000 : 011,508,382,80,0,18,4,6,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Town of Lockport  000 : 012,430,358,72,0,34,6,12,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Town of Lockport  000 : 013,542,356,72,0,40,8,10,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Town of Lockport  000 : 014,660,490,94,0,34,10,22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Town of Lockport  000 : 015,550,438,106,0,26,8,12,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Town of Lockport  000 : 016,396,426,94,0,34,6,14,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Town of Lockport 000 : 001,0,0,0,0,0,0,0,0,145,190,42,7,6,0,3,108,211,46,5,3,2,0,3,5,13,Niagara County,precinct
-Niagara County,Town of Lockport 000 : 002,0,0,0,0,0,0,0,0,161,196,49,7,11,3,4,140,215,57,7,4,6,0,3,4,2,Niagara County,precinct
-Niagara County,Town of Lockport 000 : 003,0,0,0,0,0,0,0,0,117,94,26,9,7,5,1,94,112,28,6,4,4,2,2,2,10,Niagara County,precinct
-Niagara County,Town of Lockport 000 : 004,0,0,0,0,0,0,0,0,256,189,38,14,11,7,5,220,230,44,6,3,7,5,3,3,11,Niagara County,precinct
-Niagara County,Town of Lockport 000 : 005,0,0,0,0,0,0,0,0,199,149,47,10,12,3,5,160,185,49,4,3,10,0,2,7,7,Niagara County,precinct
-Niagara County,Town of Lockport 000 : 006,0,0,0,0,0,0,0,0,220,175,40,9,10,6,4,179,202,53,6,4,9,1,4,3,10,Niagara County,precinct
-Niagara County,Town of Lockport 000 : 007,0,0,0,0,0,0,0,0,144,154,31,5,9,0,2,110,169,38,0,4,4,0,3,6,10,Niagara County,precinct
-Niagara County,Town of Lockport 000 : 008,0,0,0,0,0,0,0,0,123,135,30,5,6,1,0,103,149,33,5,2,2,1,2,0,4,Niagara County,precinct
-Niagara County,Town of Lockport 000 : 009,0,0,0,0,0,0,0,0,206,260,57,11,10,5,3,161,291,65,5,9,8,4,5,3,8,Niagara County,precinct
-Niagara County,Town of Lockport 000 : 010,0,0,0,0,0,0,0,0,118,114,33,5,6,3,0,104,123,35,4,3,3,1,3,3,5,Niagara County,precinct
-Niagara County,Town of Lockport 000 : 011,0,0,0,0,0,0,0,0,239,198,44,9,6,2,2,200,230,41,5,3,5,0,4,3,16,Niagara County,precinct
-Niagara County,Town of Lockport 000 : 012,0,0,0,0,0,0,0,0,201,193,38,15,11,3,1,164,227,48,4,7,8,4,5,1,8,Niagara County,precinct
-Niagara County,Town of Lockport 000 : 013,0,0,0,0,0,0,0,0,256,192,41,14,8,4,3,197,239,47,12,8,6,2,6,3,9,Niagara County,precinct
-Niagara County,Town of Lockport 000 : 014,0,0,0,0,0,0,0,0,299,276,50,16,16,2,2,250,310,58,5,12,11,2,7,4,10,Niagara County,precinct
-Niagara County,Town of Lockport 000 : 015,0,0,0,0,0,0,0,0,254,233,56,6,22,2,1,217,264,53,9,3,16,0,4,4,4,Niagara County,precinct
-Niagara County,Town of Lockport 000 : 016,0,0,0,0,0,0,0,0,172,239,48,8,13,4,5,135,268,45,8,8,7,3,7,6,10,Niagara County,precinct
-Niagara County,Town of Niagara  000 : 001,272,150,28,0,10,4,4,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Town of Niagara  000 : 002,108,148,12,0,10,0,8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Town of Niagara  000 : 003,342,292,42,0,24,2,10,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Town of Niagara  000 : 004,262,156,24,0,2,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Town of Niagara  000 : 005,492,436,56,0,22,4,10,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Town of Niagara  000 : 006,216,190,50,0,8,4,4,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Town of Niagara  000 : 007,506,438,78,0,38,2,2,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Town of Niagara 000 : 001,0,0,0,0,0,0,0,0,121,86,15,3,5,1,2,106,108,13,1,0,1,1,3,1,7,Niagara County,precinct
-Niagara County,Town of Niagara 000 : 002,0,0,0,0,0,0,0,0,59,69,5,0,3,5,3,43,81,9,1,0,2,1,2,2,2,Niagara County,precinct
-Niagara County,Town of Niagara 000 : 003,0,0,0,0,0,0,0,0,171,155,23,5,8,5,5,140,179,29,3,3,4,2,5,5,13,Niagara County,precinct
-Niagara County,Town of Niagara 000 : 004,0,0,0,0,0,0,0,0,131,78,15,1,5,1,1,99,105,17,2,3,2,0,1,5,3,Niagara County,precinct
-Niagara County,Town of Niagara 000 : 005,0,0,0,0,0,0,0,0,235,219,38,11,5,1,3,208,246,45,4,5,3,0,1,3,12,Niagara County,precinct
-Niagara County,Town of Niagara 000 : 006,0,0,0,0,0,0,0,0,101,95,25,5,6,3,0,89,115,20,2,1,3,0,2,0,7,Niagara County,precinct
-Niagara County,Town of Niagara 000 : 007,0,0,0,0,0,0,0,0,224,245,45,11,5,1,2,185,286,49,1,6,2,1,3,2,9,Niagara County,precinct
-Niagara County,Wheatfield  000 : 001,268,338,48,0,14,6,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Wheatfield  000 : 002,352,352,78,0,16,6,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Wheatfield  000 : 003,420,278,60,0,20,10,4,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Wheatfield  000 : 004,438,316,46,0,14,8,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Wheatfield  000 : 005,614,490,112,0,26,6,18,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Wheatfield  000 : 006,536,378,60,0,20,6,10,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Wheatfield  000 : 007,570,496,122,0,36,4,12,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Wheatfield  000 : 008,480,376,88,0,34,4,6,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Wheatfield  000 : 009,372,426,78,0,18,6,8,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Wheatfield  000 : 010,432,436,102,0,30,12,6,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Wheatfield  000 : 011,670,524,96,0,30,10,6,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Wheatfield  000 : 012,552,510,104,0,28,4,8,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Wheatfield  000 : 013,452,516,96,0,30,4,10,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Wheatfield  000 : 014,448,520,98,0,32,4,10,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Wheatfield 000 : 001,0,0,0,0,0,0,0,0,112,193,26,5,6,2,2,78,222,27,5,1,3,0,1,8,2,Niagara County,precinct
-Niagara County,Wheatfield 000 : 002,0,0,0,0,0,0,0,0,156,204,44,5,6,1,2,126,220,41,8,1,3,0,4,3,10,Niagara County,precinct
-Niagara County,Wheatfield 000 : 003,0,0,0,0,0,0,0,0,195,144,34,7,9,2,2,173,163,33,3,4,8,3,1,3,6,Niagara County,precinct
-Niagara County,Wheatfield 000 : 004,0,0,0,0,0,0,0,0,202,177,24,3,7,1,4,165,214,28,2,0,4,0,5,1,7,Niagara County,precinct
-Niagara County,Wheatfield 000 : 005,0,0,0,0,0,0,0,0,278,269,64,10,14,6,2,245,300,65,6,4,12,3,5,4,8,Niagara County,precinct
-Niagara County,Wheatfield 000 : 006,0,0,0,0,0,0,0,0,249,212,32,6,4,4,3,217,243,37,8,2,4,1,3,3,4,Niagara County,precinct
-Niagara County,Wheatfield 000 : 007,0,0,0,0,0,0,0,0,253,268,66,15,8,7,2,200,316,80,9,6,5,5,1,2,6,Niagara County,precinct
-Niagara County,Wheatfield 000 : 008,0,0,0,0,0,0,0,0,205,213,52,11,16,0,2,167,250,53,6,8,12,0,1,7,5,Niagara County,precinct
-Niagara County,Wheatfield 000 : 009,0,0,0,0,0,0,0,0,173,229,42,5,9,1,1,132,253,46,8,2,6,0,4,5,6,Niagara County,precinct
-Niagara County,Wheatfield 000 : 010,0,0,0,0,0,0,0,0,184,254,54,14,10,3,2,158,272,61,4,10,8,1,2,3,5,Niagara County,precinct
-Niagara County,Wheatfield 000 : 011,0,0,0,0,0,0,0,0,308,291,63,6,13,4,1,262,318,68,8,7,9,3,3,1,9,Niagara County,precinct
-Niagara County,Wheatfield 000 : 012,0,0,0,0,0,0,0,0,258,272,56,16,10,3,2,205,314,64,7,11,5,1,2,3,4,Niagara County,precinct
-Niagara County,Wheatfield 000 : 013,0,0,0,0,0,0,0,0,203,290,52,11,6,1,2,152,312,65,7,7,4,2,1,3,6,Niagara County,precinct
-Niagara County,Wheatfield 000 : 014,0,0,0,0,0,0,0,0,205,279,49,9,10,4,3,154,322,56,7,3,2,1,3,7,11,Niagara County,precinct
-Niagara County,Wilson  000 : 001,368,506,94,0,38,6,8,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Wilson  000 : 002,340,584,112,0,32,14,10,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Wilson  000 : 003,414,524,146,0,42,8,6,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Wilson  000 : 004,300,420,92,0,24,2,10,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Wilson  000 : 005,310,344,56,0,20,6,6,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,precinct
-Niagara County,Wilson 000 : 001,0,0,0,0,0,0,0,0,165,283,41,9,10,1,3,134,312,49,3,3,7,0,2,2,5,Niagara County,precinct
-Niagara County,Wilson 000 : 002,0,0,0,0,0,0,0,0,146,321,55,7,13,2,3,109,339,76,5,5,5,2,6,3,12,Niagara County,precinct
-Niagara County,Wilson 000 : 003,0,0,0,0,0,0,0,0,178,299,82,14,7,4,1,132,332,88,7,3,1,4,5,6,10,Niagara County,precinct
-Niagara County,Wilson 000 : 004,0,0,0,0,0,0,0,0,133,227,53,10,4,6,2,104,244,59,5,4,2,2,6,3,9,Niagara County,precinct
-Niagara County,Wilson 000 : 005,0,0,0,0,0,0,0,0,128,197,35,10,8,1,0,103,216,36,7,4,2,3,2,2,6,Niagara County,precinct
+Niagara County,Cambria  000 : 001,324,422,88,0,26,6,6,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Cambria  000 : 001
+Niagara County,Cambria  000 : 002,420,536,118,0,46,12,12,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Cambria  000 : 002
+Niagara County,Cambria  000 : 003,466,534,88,0,40,4,4,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Cambria  000 : 003
+Niagara County,Cambria  000 : 004,536,524,120,0,50,2,10,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Cambria  000 : 004
+Niagara County,Cambria 000  : 001,0,0,0,0,0,0,0,0,146,232,47,8,3,3,3,119,260,55,5,3,2,2,1,1,7,Niagara County,Cambria 000  : 001
+Niagara County,Cambria 000  : 002,0,0,0,0,0,0,0,0,199,289,66,12,12,2,3,146,341,73,4,9,6,0,4,2,13,Niagara County,Cambria 000  : 002
+Niagara County,Cambria 000  : 003,0,0,0,0,0,0,0,0,208,311,48,15,9,2,2,149,337,59,8,9,2,1,4,9,15,Niagara County,Cambria 000  : 003
+Niagara County,Cambria 000  : 004,0,0,0,0,0,0,0,0,237,313,66,12,16,3,5,180,354,72,11,5,9,1,7,7,9,Niagara County,Cambria 000  : 004
+Niagara County,City of Lockport  001 : 001,390,152,38,0,26,8,10,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,City of Lockport  001 : 001
+Niagara County,City of Lockport  001 : 002,316,212,16,0,18,6,18,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,City of Lockport  001 : 002
+Niagara County,City of Lockport  001 : 003,470,240,56,0,56,6,12,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,City of Lockport  001 : 003
+Niagara County,City of Lockport  001 : 004,130,48,4,0,12,2,2,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,City of Lockport  001 : 004
+Niagara County,City of Lockport  002 : 001,274,152,30,0,22,4,8,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,City of Lockport  002 : 001
+Niagara County,City of Lockport  002 : 002,394,186,24,0,16,4,8,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,City of Lockport  002 : 002
+Niagara County,City of Lockport  002 : 003,464,270,36,0,20,6,6,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,City of Lockport  002 : 003
+Niagara County,City of Lockport  002 : 004,572,432,58,0,32,12,6,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,City of Lockport  002 : 004
+Niagara County,City of Lockport  003 : 001,454,254,28,0,44,12,14,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,City of Lockport  003 : 001
+Niagara County,City of Lockport  003 : 002,320,170,26,0,26,8,14,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,City of Lockport  003 : 002
+Niagara County,City of Lockport  003 : 003,344,194,34,0,34,14,8,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,City of Lockport  003 : 003
+Niagara County,City of Lockport  004 : 001,320,224,46,0,32,4,12,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,City of Lockport  004 : 001
+Niagara County,City of Lockport  004 : 002,316,170,40,0,20,0,8,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,City of Lockport  004 : 002
+Niagara County,City of Lockport  004 : 003,494,288,64,0,34,4,4,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,City of Lockport  004 : 003
+Niagara County,City of Lockport  004 : 004,228,136,20,0,20,0,10,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,City of Lockport  004 : 004
+Niagara County,City of Lockport  005 : 001,322,162,30,0,18,4,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,City of Lockport  005 : 001
+Niagara County,City of Lockport  005 : 002,388,266,54,0,18,4,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,City of Lockport  005 : 002
+Niagara County,City of Lockport  005 : 003,632,352,64,0,30,6,14,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,City of Lockport  005 : 003
+Niagara County,City of Lockport  005 : 004,346,166,36,0,24,6,14,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,City of Lockport  005 : 004
+Niagara County,City of Lockport 001 : 001,0,0,0,0,0,0,0,0,181,86,21,8,11,3,3,140,131,18,6,2,4,2,5,6,10,Niagara County,City of Lockport 001 : 001
+Niagara County,City of Lockport 001 : 002,0,0,0,0,0,0,0,0,150,119,8,5,7,2,2,119,140,9,8,6,4,2,2,2,8,Niagara County,City of Lockport 001 : 002
+Niagara County,City of Lockport 001 : 003,0,0,0,0,0,0,0,0,207,147,35,17,13,5,0,166,175,41,12,6,7,6,5,3,13,Niagara County,City of Lockport 001 : 003
+Niagara County,City of Lockport 001 : 004,0,0,0,0,0,0,0,0,63,23,3,4,4,0,1,52,33,5,2,1,2,1,3,1,6,Niagara County,City of Lockport 001 : 004
+Niagara County,City of Lockport 002 : 001,0,0,0,0,0,0,0,0,133,79,16,8,9,5,0,117,83,25,5,5,5,1,0,2,7,Niagara County,City of Lockport 002 : 001
+Niagara County,City of Lockport 002 : 002,0,0,0,0,0,0,0,0,170,115,12,8,3,4,3,147,132,15,5,5,3,3,1,4,7,Niagara County,City of Lockport 002 : 002
+Niagara County,City of Lockport 002 : 003,0,0,0,0,0,0,0,0,206,150,21,8,11,5,1,154,191,25,5,3,8,1,3,6,11,Niagara County,City of Lockport 002 : 003
+Niagara County,City of Lockport 002 : 004,0,0,0,0,0,0,0,0,268,236,32,12,16,4,2,211,254,46,5,15,14,1,2,11,6,Niagara County,City of Lockport 002 : 004
+Niagara County,City of Lockport 003 : 001,0,0,0,0,0,0,0,0,200,149,26,15,14,3,4,160,184,29,6,7,6,0,7,4,22,Niagara County,City of Lockport 003 : 001
+Niagara County,City of Lockport 003 : 002,0,0,0,0,0,0,0,0,154,97,11,11,9,8,2,123,128,15,1,3,3,3,3,5,10,Niagara County,City of Lockport 003 : 002
+Niagara County,City of Lockport 003 : 003,0,0,0,0,0,0,0,0,164,119,17,5,6,3,1,125,136,26,6,4,8,4,1,4,12,Niagara County,City of Lockport 003 : 003
+Niagara County,City of Lockport 004 : 001,0,0,0,0,0,0,0,0,151,112,24,9,13,3,2,111,152,23,10,4,9,3,3,3,8,Niagara County,City of Lockport 004 : 001
+Niagara County,City of Lockport 004 : 002,0,0,0,0,0,0,0,0,146,103,21,11,6,2,3,119,114,24,7,4,5,1,3,3,8,Niagara County,City of Lockport 004 : 002
+Niagara County,City of Lockport 004 : 003,0,0,0,0,0,0,0,0,224,160,36,10,12,3,2,177,201,39,4,7,6,2,1,3,8,Niagara County,City of Lockport 004 : 003
+Niagara County,City of Lockport 004 : 004,0,0,0,0,0,0,0,0,104,70,18,4,8,3,1,96,74,21,5,1,5,1,0,4,6,Niagara County,City of Lockport 004 : 004
+Niagara County,City of Lockport 005 : 001,0,0,0,0,0,0,0,0,151,84,20,9,7,2,1,122,102,19,5,5,6,0,1,4,15,Niagara County,City of Lockport 005 : 001
+Niagara County,City of Lockport 005 : 002,0,0,0,0,0,0,0,0,171,152,26,12,12,1,0,132,170,32,8,4,9,1,2,7,11,Niagara County,City of Lockport 005 : 002
+Niagara County,City of Lockport 005 : 003,0,0,0,0,0,0,0,0,293,201,32,9,6,6,6,249,242,37,9,6,5,3,6,7,5,Niagara County,City of Lockport 005 : 003
+Niagara County,City of Lockport 005 : 004,0,0,0,0,0,0,0,0,155,97,23,9,8,2,0,119,118,21,10,4,6,1,2,5,15,Niagara County,City of Lockport 005 : 004
+Niagara County,Hartland  000 : 001,270,480,90,0,54,6,18,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Hartland  000 : 001
+Niagara County,Hartland  000 : 002,312,510,136,0,44,10,12,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Hartland  000 : 002
+Niagara County,Hartland  000 : 003,276,454,56,0,16,2,10,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Hartland  000 : 003
+Niagara County,Hartland 000 : 001,0,0,0,0,0,0,0,0,122,264,43,12,13,4,3,94,278,53,3,6,7,3,3,3,20,Niagara County,Hartland 000 : 001
+Niagara County,Hartland 000 : 002,0,0,0,0,0,0,0,0,141,276,75,13,9,2,3,109,293,78,5,4,7,0,2,7,26,Niagara County,Hartland 000 : 002
+Niagara County,Hartland 000 : 003,0,0,0,0,0,0,0,0,128,234,33,8,8,5,2,91,256,36,5,4,5,1,3,8,24,Niagara County,Hartland 000 : 003
+Niagara County,Lewiston  000 : 001,398,300,34,0,24,6,6,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Lewiston  000 : 001
+Niagara County,Lewiston  000 : 002,490,340,60,0,18,0,8,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Lewiston  000 : 002
+Niagara County,Lewiston  000 : 003,474,264,58,0,22,4,10,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Lewiston  000 : 003
+Niagara County,Lewiston  000 : 004,524,448,78,0,26,4,8,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Lewiston  000 : 004
+Niagara County,Lewiston  000 : 005,536,482,50,0,20,8,4,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Lewiston  000 : 005
+Niagara County,Lewiston  000 : 006,366,434,86,0,38,4,4,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Lewiston  000 : 006
+Niagara County,Lewiston  000 : 007,376,366,80,0,20,4,10,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Lewiston  000 : 007
+Niagara County,Lewiston  000 : 008,356,412,72,0,32,6,2,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Lewiston  000 : 008
+Niagara County,Lewiston  000 : 009,438,434,118,0,22,6,14,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Lewiston  000 : 009
+Niagara County,Lewiston  000 : 010,358,306,94,0,10,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Lewiston  000 : 010
+Niagara County,Lewiston  000 : 011,666,386,76,0,26,4,8,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Lewiston  000 : 011
+Niagara County,Lewiston  000 : 012,378,382,54,0,14,0,2,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Lewiston  000 : 012
+Niagara County,Lewiston  000 : 013,640,384,66,0,16,4,10,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Lewiston  000 : 013
+Niagara County,Lewiston  000 : 014,512,320,60,0,6,2,8,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Lewiston  000 : 014
+Niagara County,Lewiston 000 : 001,0,0,0,0,0,0,0,0,180,162,20,5,14,3,2,152,186,22,8,1,10,1,2,3,5,Niagara County,Lewiston 000 : 001
+Niagara County,Lewiston 000 : 002,0,0,0,0,0,0,0,0,240,188,23,3,11,4,2,200,209,32,8,1,4,2,6,7,4,Niagara County,Lewiston 000 : 002
+Niagara County,Lewiston 000 : 003,0,0,0,0,0,0,0,0,229,141,32,7,5,3,1,185,169,36,9,0,7,2,3,3,7,Niagara County,Lewiston 000 : 003
+Niagara County,Lewiston 000 : 004,0,0,0,0,0,0,0,0,238,246,39,9,6,4,1,199,277,39,6,10,4,1,2,3,9,Niagara County,Lewiston 000 : 004
+Niagara County,Lewiston 000 : 005,0,0,0,0,0,0,0,0,269,239,25,9,7,1,1,221,269,33,3,7,3,1,5,5,5,Niagara County,Lewiston 000 : 005
+Niagara County,Lewiston 000 : 006,0,0,0,0,0,0,0,0,163,238,51,10,10,2,2,108,270,57,4,7,4,1,5,5,15,Niagara County,Lewiston 000 : 006
+Niagara County,Lewiston 000 : 007,0,0,0,0,0,0,0,0,169,200,40,6,9,7,1,125,228,44,3,2,5,5,3,5,15,Niagara County,Lewiston 000 : 007
+Niagara County,Lewiston 000 : 008,0,0,0,0,0,0,0,0,169,229,39,6,3,0,3,129,255,46,7,2,3,0,2,2,7,Niagara County,Lewiston 000 : 008
+Niagara County,Lewiston 000 : 009,0,0,0,0,0,0,0,0,202,229,62,8,12,4,4,154,275,66,4,6,8,2,3,3,5,Niagara County,Lewiston 000 : 009
+Niagara County,Lewiston 000 : 010,0,0,0,0,0,0,0,0,172,161,44,10,5,3,1,140,182,46,6,5,2,0,3,4,3,Niagara County,Lewiston 000 : 010
+Niagara County,Lewiston 000 : 011,0,0,0,0,0,0,0,0,310,212,41,6,15,2,1,264,242,45,3,9,13,3,4,7,5,Niagara County,Lewiston 000 : 011
+Niagara County,Lewiston 000 : 012,0,0,0,0,0,0,0,0,171,207,28,3,5,1,0,143,231,33,3,1,3,0,1,2,1,Niagara County,Lewiston 000 : 012
+Niagara County,Lewiston 000 : 013,0,0,0,0,0,0,0,0,286,215,40,4,17,3,2,224,264,36,6,0,11,2,3,13,8,Niagara County,Lewiston 000 : 013
+Niagara County,Lewiston 000 : 014,0,0,0,0,0,0,0,0,236,179,34,2,8,4,5,185,215,35,10,2,5,2,0,6,6,Niagara County,Lewiston 000 : 014
+Niagara County,N Tonawanda  001 : 001,314,280,0,0,32,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,N Tonawanda  001 : 001
+Niagara County,N Tonawanda  001 : 002,422,350,0,0,24,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,N Tonawanda  001 : 002
+Niagara County,N Tonawanda  001 : 003,332,266,0,0,26,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,N Tonawanda  001 : 003
+Niagara County,N Tonawanda  001 : 004,468,392,0,0,30,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,N Tonawanda  001 : 004
+Niagara County,N Tonawanda  001 : 005,324,342,0,0,32,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,N Tonawanda  001 : 005
+Niagara County,N Tonawanda  001 : 006,380,304,0,0,22,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,N Tonawanda  001 : 006
+Niagara County,N Tonawanda  001 : 007,248,192,0,0,20,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,N Tonawanda  001 : 007
+Niagara County,N Tonawanda  001 : 008,164,156,0,0,4,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,N Tonawanda  001 : 008
+Niagara County,N Tonawanda  001 : 009,456,374,0,0,42,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,N Tonawanda  001 : 009
+Niagara County,N Tonawanda  001 : 010,344,256,0,0,30,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,N Tonawanda  001 : 010
+Niagara County,N Tonawanda  002 : 001,244,174,0,0,16,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,N Tonawanda  002 : 001
+Niagara County,N Tonawanda  002 : 002,282,212,0,0,14,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,N Tonawanda  002 : 002
+Niagara County,N Tonawanda  002 : 003,386,294,0,0,16,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,N Tonawanda  002 : 003
+Niagara County,N Tonawanda  002 : 004,228,196,0,0,2,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,N Tonawanda  002 : 004
+Niagara County,N Tonawanda  002 : 005,400,216,0,0,20,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,N Tonawanda  002 : 005
+Niagara County,N Tonawanda  002 : 006,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,N Tonawanda  002 : 006
+Niagara County,N Tonawanda  002 : 007,524,388,0,0,40,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,N Tonawanda  002 : 007
+Niagara County,N Tonawanda  002 : 008,226,182,0,0,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,N Tonawanda  002 : 008
+Niagara County,N Tonawanda  002 : 009,228,172,0,0,10,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,N Tonawanda  002 : 009
+Niagara County,N Tonawanda  002 : 010,176,160,0,0,14,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,N Tonawanda  002 : 010
+Niagara County,N Tonawanda  002 : 011,296,136,0,0,24,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,N Tonawanda  002 : 011
+Niagara County,N Tonawanda  003 : 001,308,262,0,0,18,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,N Tonawanda  003 : 001
+Niagara County,N Tonawanda  003 : 002,202,230,0,0,18,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,N Tonawanda  003 : 002
+Niagara County,N Tonawanda  003 : 003,236,174,0,0,16,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,N Tonawanda  003 : 003
+Niagara County,N Tonawanda  003 : 004,494,490,0,0,22,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,N Tonawanda  003 : 004
+Niagara County,N Tonawanda  003 : 005,402,310,0,0,44,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,N Tonawanda  003 : 005
+Niagara County,N Tonawanda  003 : 006,494,366,0,0,36,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,N Tonawanda  003 : 006
+Niagara County,N Tonawanda  003 : 007,300,254,0,0,14,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,N Tonawanda  003 : 007
+Niagara County,N Tonawanda  003 : 008,278,254,0,0,28,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,N Tonawanda  003 : 008
+Niagara County,N Tonawanda  003 : 009,298,320,0,0,22,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,N Tonawanda  003 : 009
+Niagara County,N Tonawanda  003 : 010,256,224,0,0,22,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,N Tonawanda  003 : 010
+Niagara County,N Tonawanda  003 : 011,310,282,0,0,30,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,N Tonawanda  003 : 011
+Niagara County,N Tonawanda  003 : 012,616,508,0,0,50,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,N Tonawanda  003 : 012
+Niagara County,N Tonawanda 001 : 001,0,0,0,0,0,0,0,0,147,134,36,5,6,5,2,122,157,40,0,4,6,4,1,1,8,Niagara County,N Tonawanda 001 : 001
+Niagara County,N Tonawanda 001 : 002,0,0,0,0,0,0,0,0,206,157,33,4,13,1,1,167,177,37,7,5,6,2,3,5,7,Niagara County,N Tonawanda 001 : 002
+Niagara County,N Tonawanda 001 : 003,0,0,0,0,0,0,0,0,157,124,25,6,13,1,3,121,141,30,10,3,6,4,5,2,6,Niagara County,N Tonawanda 001 : 003
+Niagara County,N Tonawanda 001 : 004,0,0,0,0,0,0,0,0,216,177,29,14,12,3,2,167,206,33,16,8,6,1,3,5,5,Niagara County,N Tonawanda 001 : 004
+Niagara County,N Tonawanda 001 : 005,0,0,0,0,0,0,0,0,145,149,40,10,12,2,2,117,177,43,8,3,5,0,2,4,6,Niagara County,N Tonawanda 001 : 005
+Niagara County,N Tonawanda 001 : 006,0,0,0,0,0,0,0,0,179,131,19,5,18,4,1,150,161,27,4,1,7,2,0,2,5,Niagara County,N Tonawanda 001 : 006
+Niagara County,N Tonawanda 001 : 007,0,0,0,0,0,0,0,0,116,94,15,4,6,2,3,111,103,18,2,4,1,1,2,1,3,Niagara County,N Tonawanda 001 : 007
+Niagara County,N Tonawanda 001 : 008,0,0,0,0,0,0,0,0,78,75,15,4,0,2,0,61,84,14,2,0,0,3,4,3,4,Niagara County,N Tonawanda 001 : 008
+Niagara County,N Tonawanda 001 : 009,0,0,0,0,0,0,0,0,216,172,40,8,15,4,0,171,185,49,11,8,10,2,5,2,15,Niagara County,N Tonawanda 001 : 009
+Niagara County,N Tonawanda 001 : 010,0,0,0,0,0,0,0,0,164,116,21,11,10,6,0,133,144,24,6,5,8,1,5,4,4,Niagara County,N Tonawanda 001 : 010
+Niagara County,N Tonawanda 002 : 001,0,0,0,0,0,0,0,0,111,82,22,3,7,3,1,93,94,25,2,1,6,2,2,3,5,Niagara County,N Tonawanda 002 : 001
+Niagara County,N Tonawanda 002 : 002,0,0,0,0,0,0,0,0,125,97,30,6,9,2,1,105,105,31,11,1,5,1,0,3,9,Niagara County,N Tonawanda 002 : 002
+Niagara County,N Tonawanda 002 : 003,0,0,0,0,0,0,0,0,191,130,45,4,15,6,3,141,159,60,8,2,9,4,2,5,2,Niagara County,N Tonawanda 002 : 003
+Niagara County,N Tonawanda 002 : 004,0,0,0,0,0,0,0,0,110,81,30,3,2,6,2,88,102,26,5,1,0,1,1,3,8,Niagara County,N Tonawanda 002 : 004
+Niagara County,N Tonawanda 002 : 005,0,0,0,0,0,0,0,0,194,94,22,10,7,6,0,154,114,24,4,3,4,5,1,5,15,Niagara County,N Tonawanda 002 : 005
+Niagara County,N Tonawanda 002 : 006,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,3,1,0,0,0,0,0,0,0,1,Niagara County,N Tonawanda 002 : 006
+Niagara County,N Tonawanda 002 : 007,0,0,0,0,0,0,0,0,227,181,52,12,16,7,4,187,180,60,17,11,14,1,5,10,7,Niagara County,N Tonawanda 002 : 007
+Niagara County,N Tonawanda 002 : 008,0,0,0,0,0,0,0,0,109,83,12,5,2,1,1,87,102,15,1,1,1,3,0,1,4,Niagara County,N Tonawanda 002 : 008
+Niagara County,N Tonawanda 002 : 009,0,0,0,0,0,0,0,0,107,70,25,2,9,6,1,98,79,29,3,3,5,3,1,1,1,Niagara County,N Tonawanda 002 : 009
+Niagara County,N Tonawanda 002 : 010,0,0,0,0,0,0,0,0,80,79,17,5,4,1,1,65,85,18,5,3,3,1,0,4,5,Niagara County,N Tonawanda 002 : 010
+Niagara County,N Tonawanda 002 : 011,0,0,0,0,0,0,0,0,135,68,9,7,7,5,1,124,68,16,4,5,5,1,1,2,9,Niagara County,N Tonawanda 002 : 011
+Niagara County,N Tonawanda 003 : 001,0,0,0,0,0,0,0,0,131,136,25,2,10,2,4,110,155,25,4,2,6,3,1,2,3,Niagara County,N Tonawanda 003 : 001
+Niagara County,N Tonawanda 003 : 002,0,0,0,0,0,0,0,0,92,100,30,4,9,2,0,70,116,32,3,3,4,1,0,5,3,Niagara County,N Tonawanda 003 : 002
+Niagara County,N Tonawanda 003 : 003,0,0,0,0,0,0,0,0,104,74,34,3,8,2,0,92,86,38,2,2,3,0,0,4,5,Niagara County,N Tonawanda 003 : 003
+Niagara County,N Tonawanda 003 : 004,0,0,0,0,0,0,0,0,221,235,39,8,12,3,2,195,257,38,4,7,7,1,1,2,9,Niagara County,N Tonawanda 003 : 004
+Niagara County,N Tonawanda 003 : 005,0,0,0,0,0,0,0,0,183,148,48,11,10,0,2,153,164,56,6,8,5,2,2,2,3,Niagara County,N Tonawanda 003 : 005
+Niagara County,N Tonawanda 003 : 006,0,0,0,0,0,0,0,0,224,173,27,10,14,1,5,185,200,40,7,9,5,2,1,2,8,Niagara County,N Tonawanda 003 : 006
+Niagara County,N Tonawanda 003 : 007,0,0,0,0,0,0,0,0,139,120,29,3,10,4,0,111,143,34,3,3,4,1,1,1,6,Niagara County,N Tonawanda 003 : 007
+Niagara County,N Tonawanda 003 : 008,0,0,0,0,0,0,0,0,119,118,34,8,8,2,2,106,126,33,6,2,6,2,1,2,7,Niagara County,N Tonawanda 003 : 008
+Niagara County,N Tonawanda 003 : 009,0,0,0,0,0,0,0,0,133,145,31,6,10,4,1,115,155,37,1,1,2,2,3,3,13,Niagara County,N Tonawanda 003 : 009
+Niagara County,N Tonawanda 003 : 010,0,0,0,0,0,0,0,0,117,100,31,8,6,2,1,102,114,29,1,5,1,2,1,2,3,Niagara County,N Tonawanda 003 : 010
+Niagara County,N Tonawanda 003 : 011,0,0,0,0,0,0,0,0,131,126,49,8,9,1,2,109,141,46,3,7,11,2,3,1,5,Niagara County,N Tonawanda 003 : 011
+Niagara County,N Tonawanda 003 : 012,0,0,0,0,0,0,0,0,282,232,62,15,21,4,1,234,259,68,10,7,13,3,5,4,18,Niagara County,N Tonawanda 003 : 012
+Niagara County,Newfane  000 : 001,252,228,48,0,20,4,6,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Newfane  000 : 001
+Niagara County,Newfane  000 : 002,328,304,46,0,36,4,26,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Newfane  000 : 002
+Niagara County,Newfane  000 : 003,266,370,42,0,40,4,12,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Newfane  000 : 003
+Niagara County,Newfane  000 : 004,434,532,128,0,40,8,16,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Newfane  000 : 004
+Niagara County,Newfane  000 : 005,460,532,144,0,36,0,4,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Newfane  000 : 005
+Niagara County,Newfane  000 : 006,320,422,84,0,24,10,2,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Newfane  000 : 006
+Niagara County,Newfane  000 : 007,304,404,144,0,26,6,6,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Newfane  000 : 007
+Niagara County,Newfane  000 : 008,310,324,54,0,16,6,6,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Newfane  000 : 008
+Niagara County,Newfane 000 : 001,0,0,0,0,0,0,0,0,117,123,31,7,6,1,0,87,143,34,2,1,4,1,3,2,12,Niagara County,Newfane 000 : 001
+Niagara County,Newfane 000 : 002,0,0,0,0,0,0,0,0,133,180,30,14,9,7,4,101,215,37,4,4,7,1,2,5,15,Niagara County,Newfane 000 : 002
+Niagara County,Newfane 000 : 003,0,0,0,0,0,0,0,0,128,196,30,8,10,6,1,96,228,29,2,5,6,4,4,5,8,Niagara County,Newfane 000 : 003
+Niagara County,Newfane 000 : 004,0,0,0,0,0,0,0,0,185,290,70,19,12,5,1,143,331,66,6,6,12,2,5,7,15,Niagara County,Newfane 000 : 004
+Niagara County,Newfane 000 : 005,0,0,0,0,0,0,0,0,200,298,76,9,4,5,5,157,338,77,10,3,0,0,6,4,12,Niagara County,Newfane 000 : 005
+Niagara County,Newfane 000 : 006,0,0,0,0,0,0,0,0,138,229,45,6,12,2,1,105,257,55,3,2,4,1,3,6,11,Niagara County,Newfane 000 : 006
+Niagara County,Newfane 000 : 007,0,0,0,0,0,0,0,0,137,218,72,6,6,2,3,96,246,76,6,6,1,0,3,3,14,Niagara County,Newfane 000 : 007
+Niagara County,Newfane 000 : 008,0,0,0,0,0,0,0,0,130,182,36,3,7,1,3,112,198,35,3,2,5,1,4,0,6,Niagara County,Newfane 000 : 008
+Niagara County,Niagara Falls  003 : 001,304,210,0,0,26,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  003 : 001
+Niagara County,Niagara Falls  003 : 002,374,354,0,0,16,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  003 : 002
+Niagara County,Niagara Falls  003 : 003,514,354,0,0,12,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  003 : 003
+Niagara County,Niagara Falls  003 : 004,474,386,0,0,24,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  003 : 004
+Niagara County,Niagara Falls  003 : 005,556,406,0,0,16,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  003 : 005
+Niagara County,Niagara Falls  003 : 006,404,314,0,0,24,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  003 : 006
+Niagara County,Niagara Falls  003 : 007,522,444,0,0,30,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  003 : 007
+Niagara County,Niagara Falls  003 : 008,448,376,0,0,32,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  003 : 008
+Niagara County,Niagara Falls  003 : 009,210,208,0,0,8,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  003 : 009
+Niagara County,Niagara Falls  003 : 010,394,250,0,0,8,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  003 : 010
+Niagara County,Niagara Falls  003 : 011,322,272,0,0,12,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  003 : 011
+Niagara County,Niagara Falls  003 : 012,220,124,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  003 : 012
+Niagara County,Niagara Falls  003 : 013,24,10,4,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  003 : 013
+Niagara County,Niagara Falls  004 : 001,678,32,0,0,2,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  004 : 001
+Niagara County,Niagara Falls  004 : 002,494,128,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  004 : 002
+Niagara County,Niagara Falls  004 : 003,436,54,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  004 : 003
+Niagara County,Niagara Falls  004 : 004,410,128,0,0,14,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  004 : 004
+Niagara County,Niagara Falls  004 : 005,444,72,0,0,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  004 : 005
+Niagara County,Niagara Falls  004 : 006,258,108,0,0,10,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  004 : 006
+Niagara County,Niagara Falls  004 : 007,392,150,0,0,8,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  004 : 007
+Niagara County,Niagara Falls  004 : 008,480,128,0,0,6,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  004 : 008
+Niagara County,Niagara Falls  005 : 001,550,372,0,0,34,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  005 : 001
+Niagara County,Niagara Falls  005 : 002,496,224,0,0,20,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  005 : 002
+Niagara County,Niagara Falls  005 : 003,432,230,0,0,2,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  005 : 003
+Niagara County,Niagara Falls  005 : 004,332,176,0,0,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  005 : 004
+Niagara County,Niagara Falls  005 : 005,370,192,0,0,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  005 : 005
+Niagara County,Niagara Falls  005 : 006,370,200,0,0,16,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  005 : 006
+Niagara County,Niagara Falls  006 : 001,562,252,0,0,14,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  006 : 001
+Niagara County,Niagara Falls  006 : 002,506,260,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  006 : 002
+Niagara County,Niagara Falls  006 : 003,346,166,0,0,16,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  006 : 003
+Niagara County,Niagara Falls  006 : 004,398,180,0,0,14,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  006 : 004
+Niagara County,Niagara Falls  006 : 005,328,144,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  006 : 005
+Niagara County,Niagara Falls  006 : 006,244,114,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  006 : 006
+Niagara County,Niagara Falls  006 : 007,354,110,0,0,4,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  006 : 007
+Niagara County,Niagara Falls  006 : 008,394,216,0,0,12,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  006 : 008
+Niagara County,Niagara Falls  006 : 009,380,222,0,0,12,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  006 : 009
+Niagara County,Niagara Falls  006 : 010,400,328,0,0,36,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Niagara Falls  006 : 010
+Niagara County,Niagara Falls 003 : 001,0,0,0,0,0,0,0,0,147,96,17,8,6,2,3,115,119,20,5,7,2,2,4,3,4,Niagara County,Niagara Falls 003 : 001
+Niagara County,Niagara Falls 003 : 002,0,0,0,0,0,0,0,0,179,161,30,5,4,2,6,144,181,37,3,4,2,2,3,6,10,Niagara County,Niagara Falls 003 : 002
+Niagara County,Niagara Falls 003 : 003,0,0,0,0,0,0,0,0,229,177,33,6,8,2,1,178,202,43,9,4,5,1,3,3,13,Niagara County,Niagara Falls 003 : 003
+Niagara County,Niagara Falls 003 : 004,0,0,0,0,0,0,0,0,227,173,37,8,7,4,1,187,208,33,10,5,3,2,0,2,14,Niagara County,Niagara Falls 003 : 004
+Niagara County,Niagara Falls 003 : 005,0,0,0,0,0,0,0,0,264,202,21,5,12,0,1,214,243,33,2,1,10,0,1,5,11,Niagara County,Niagara Falls 003 : 005
+Niagara County,Niagara Falls 003 : 006,0,0,0,0,0,0,0,0,192,152,30,10,6,2,1,150,185,31,3,5,2,3,3,3,10,Niagara County,Niagara Falls 003 : 006
+Niagara County,Niagara Falls 003 : 007,0,0,0,0,0,0,0,0,243,210,31,10,3,6,5,196,258,36,9,7,3,1,2,6,5,Niagara County,Niagara Falls 003 : 007
+Niagara County,Niagara Falls 003 : 008,0,0,0,0,0,0,0,0,219,178,24,7,4,3,5,178,206,22,8,4,3,1,7,5,17,Niagara County,Niagara Falls 003 : 008
+Niagara County,Niagara Falls 003 : 009,0,0,0,0,0,0,0,0,110,88,15,3,7,0,1,94,99,18,4,3,2,0,2,1,4,Niagara County,Niagara Falls 003 : 009
+Niagara County,Niagara Falls 003 : 010,0,0,0,0,0,0,0,0,192,114,13,4,4,1,2,143,146,16,2,2,8,1,2,5,9,Niagara County,Niagara Falls 003 : 010
+Niagara County,Niagara Falls 003 : 011,0,0,0,0,0,0,0,0,158,127,21,1,4,5,1,135,139,25,2,1,4,3,1,2,3,Niagara County,Niagara Falls 003 : 011
+Niagara County,Niagara Falls 003 : 012,0,0,0,0,0,0,0,0,100,60,11,0,3,0,3,84,69,16,5,0,0,0,0,3,5,Niagara County,Niagara Falls 003 : 012
+Niagara County,Niagara Falls 003 : 013,0,0,0,0,0,0,0,0,14,5,1,0,1,0,0,13,6,2,0,0,1,0,0,0,0,Niagara County,Niagara Falls 003 : 013
+Niagara County,Niagara Falls 004 : 001,0,0,0,0,0,0,0,0,331,13,4,3,1,2,1,339,11,4,0,2,1,1,0,4,6,Niagara County,Niagara Falls 004 : 001
+Niagara County,Niagara Falls 004 : 002,0,0,0,0,0,0,0,0,244,57,7,3,2,3,0,244,71,11,1,5,1,0,0,2,3,Niagara County,Niagara Falls 004 : 002
+Niagara County,Niagara Falls 004 : 003,0,0,0,0,0,0,0,0,206,24,10,9,4,0,1,216,21,7,3,4,5,0,0,1,3,Niagara County,Niagara Falls 004 : 003
+Niagara County,Niagara Falls 004 : 004,0,0,0,0,0,0,0,0,203,54,11,6,5,1,0,192,65,10,4,5,2,0,1,2,3,Niagara County,Niagara Falls 004 : 004
+Niagara County,Niagara Falls 004 : 005,0,0,0,0,0,0,0,0,211,30,8,6,3,4,0,212,29,6,5,6,1,3,1,1,4,Niagara County,Niagara Falls 004 : 005
+Niagara County,Niagara Falls 004 : 006,0,0,0,0,0,0,0,0,124,49,3,8,2,1,0,120,51,7,3,0,2,2,1,5,3,Niagara County,Niagara Falls 004 : 006
+Niagara County,Niagara Falls 004 : 007,0,0,0,0,0,0,0,0,179,71,11,7,1,2,3,172,86,12,5,2,0,1,2,3,5,Niagara County,Niagara Falls 004 : 007
+Niagara County,Niagara Falls 004 : 008,0,0,0,0,0,0,0,0,241,55,13,2,7,1,0,221,66,10,4,4,4,1,2,8,1,Niagara County,Niagara Falls 004 : 008
+Niagara County,Niagara Falls 005 : 001,0,0,0,0,0,0,0,0,242,192,31,11,14,13,2,201,226,31,8,5,9,2,3,3,9,Niagara County,Niagara Falls 005 : 001
+Niagara County,Niagara Falls 005 : 002,0,0,0,0,0,0,0,0,238,104,20,6,13,3,2,194,143,24,4,4,7,2,3,6,10,Niagara County,Niagara Falls 005 : 002
+Niagara County,Niagara Falls 005 : 003,0,0,0,0,0,0,0,0,194,109,23,5,7,5,1,166,125,26,6,0,8,3,2,6,10,Niagara County,Niagara Falls 005 : 003
+Niagara County,Niagara Falls 005 : 004,0,0,0,0,0,0,0,0,161,71,15,5,9,2,1,163,76,17,7,3,7,0,3,3,5,Niagara County,Niagara Falls 005 : 004
+Niagara County,Niagara Falls 005 : 005,0,0,0,0,0,0,0,0,170,89,22,4,2,1,0,149,112,22,2,2,1,1,4,4,2,Niagara County,Niagara Falls 005 : 005
+Niagara County,Niagara Falls 005 : 006,0,0,0,0,0,0,0,0,174,93,11,9,6,1,1,132,131,17,8,2,4,1,3,2,5,Niagara County,Niagara Falls 005 : 006
+Niagara County,Niagara Falls 006 : 001,0,0,0,0,0,0,0,0,271,116,16,4,3,2,1,234,149,22,8,3,1,0,2,3,7,Niagara County,Niagara Falls 006 : 001
+Niagara County,Niagara Falls 006 : 002,0,0,0,0,0,0,0,0,240,130,14,7,5,1,1,198,164,20,4,3,4,2,2,2,8,Niagara County,Niagara Falls 006 : 002
+Niagara County,Niagara Falls 006 : 003,0,0,0,0,0,0,0,0,174,70,19,4,4,3,0,154,85,18,3,3,5,1,2,3,4,Niagara County,Niagara Falls 006 : 003
+Niagara County,Niagara Falls 006 : 004,0,0,0,0,0,0,0,0,192,78,15,8,0,3,3,170,106,15,3,3,3,1,5,5,6,Niagara County,Niagara Falls 006 : 004
+Niagara County,Niagara Falls 006 : 005,0,0,0,0,0,0,0,0,141,76,14,4,3,2,2,122,88,13,3,1,1,3,4,7,3,Niagara County,Niagara Falls 006 : 005
+Niagara County,Niagara Falls 006 : 006,0,0,0,0,0,0,0,0,116,57,4,4,1,2,1,108,66,5,3,1,1,0,2,1,1,Niagara County,Niagara Falls 006 : 006
+Niagara County,Niagara Falls 006 : 007,0,0,0,0,0,0,0,0,168,51,9,4,7,6,0,155,69,6,4,1,5,2,2,6,3,Niagara County,Niagara Falls 006 : 007
+Niagara County,Niagara Falls 006 : 008,0,0,0,0,0,0,0,0,186,103,14,5,2,0,3,166,128,16,5,2,0,0,3,3,5,Niagara County,Niagara Falls 006 : 008
+Niagara County,Niagara Falls 006 : 009,0,0,0,0,0,0,0,0,179,103,17,15,6,2,2,154,119,20,11,2,2,1,0,3,9,Niagara County,Niagara Falls 006 : 009
+Niagara County,Niagara Falls 006 : 010,0,0,0,0,0,0,0,0,189,158,23,13,8,1,2,143,196,29,9,4,3,3,3,2,10,Niagara County,Niagara Falls 006 : 010
+Niagara County,Pendleton  000 : 001,442,396,80,0,26,10,12,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Pendleton  000 : 001
+Niagara County,Pendleton  000 : 002,350,366,84,0,14,10,8,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Pendleton  000 : 002
+Niagara County,Pendleton  000 : 003,426,434,142,0,42,6,12,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Pendleton  000 : 003
+Niagara County,Pendleton  000 : 004,530,508,106,0,38,6,16,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Pendleton  000 : 004
+Niagara County,Pendleton  000 : 005,320,378,114,0,20,16,8,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Pendleton  000 : 005
+Niagara County,Pendleton  000 : 006,390,476,110,0,36,8,6,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Pendleton  000 : 006
+Niagara County,Pendleton 000 : 001,0,0,0,0,0,0,0,0,191,224,42,12,6,4,2,153,259,46,3,2,3,2,4,8,8,Niagara County,Pendleton 000 : 001
+Niagara County,Pendleton 000 : 002,0,0,0,0,0,0,0,0,158,189,52,4,13,2,1,127,231,46,8,3,9,1,0,2,1,Niagara County,Pendleton 000 : 002
+Niagara County,Pendleton 000 : 003,0,0,0,0,0,0,0,0,194,240,75,9,16,4,2,158,268,82,4,5,9,5,1,2,7,Niagara County,Pendleton 000 : 003
+Niagara County,Pendleton 000 : 004,0,0,0,0,0,0,0,0,242,274,60,9,16,4,3,201,309,59,5,7,11,2,2,8,10,Niagara County,Pendleton 000 : 004
+Niagara County,Pendleton 000 : 005,0,0,0,0,0,0,0,0,148,204,58,8,11,3,0,112,232,64,7,8,6,0,4,3,2,Niagara County,Pendleton 000 : 005
+Niagara County,Pendleton 000 : 006,0,0,0,0,0,0,0,0,160,259,67,12,18,5,2,142,289,71,0,7,10,2,3,2,4,Niagara County,Pendleton 000 : 006
+Niagara County,Porter  000 : 001,488,414,78,0,20,10,8,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Porter  000 : 001
+Niagara County,Porter  000 : 002,406,408,72,0,26,6,10,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Porter  000 : 002
+Niagara County,Porter  000 : 003,324,368,62,0,18,8,10,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Porter  000 : 003
+Niagara County,Porter  000 : 004,228,264,48,0,22,10,2,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Porter  000 : 004
+Niagara County,Porter  000 : 005,608,436,70,0,30,8,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Porter  000 : 005
+Niagara County,Porter  000 : 006,398,490,76,0,30,2,4,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Porter  000 : 006
+Niagara County,Porter 000 : 001,0,0,0,0,0,0,0,0,232,220,45,6,9,3,0,195,242,49,7,3,2,1,2,10,8,Niagara County,Porter 000 : 001
+Niagara County,Porter 000 : 002,0,0,0,0,0,0,0,0,186,229,38,8,10,2,3,143,265,41,4,4,3,4,4,5,3,Niagara County,Porter 000 : 002
+Niagara County,Porter 000 : 003,0,0,0,0,0,0,0,0,150,197,36,7,3,3,1,115,229,35,7,6,1,1,3,2,4,Niagara County,Porter 000 : 003
+Niagara County,Porter 000 : 004,0,0,0,0,0,0,0,0,103,156,25,2,4,2,1,80,172,28,2,1,4,0,1,0,8,Niagara County,Porter 000 : 004
+Niagara County,Porter 000 : 005,0,0,0,0,0,0,0,0,278,249,40,10,10,3,5,234,278,43,4,5,6,4,6,6,6,Niagara County,Porter 000 : 005
+Niagara County,Porter 000 : 006,0,0,0,0,0,0,0,0,179,266,38,7,4,4,3,139,296,46,5,1,1,0,2,7,13,Niagara County,Porter 000 : 006
+Niagara County,Royalton  000 : 001,414,460,86,0,50,4,12,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Royalton  000 : 001
+Niagara County,Royalton  000 : 002,448,428,84,0,48,8,14,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Royalton  000 : 002
+Niagara County,Royalton  000 : 003,390,566,100,0,50,0,4,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Royalton  000 : 003
+Niagara County,Royalton  000 : 004,154,394,90,0,20,2,2,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Royalton  000 : 004
+Niagara County,Royalton  000 : 005,150,324,74,0,12,10,4,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Royalton  000 : 005
+Niagara County,Royalton  000 : 006,368,410,80,0,52,6,10,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Royalton  000 : 006
+Niagara County,Royalton 000 : 001,0,0,0,0,0,0,0,0,185,258,51,15,16,3,5,134,285,55,9,5,5,1,5,6,33,Niagara County,Royalton 000 : 001
+Niagara County,Royalton 000 : 002,0,0,0,0,0,0,0,0,193,242,48,9,17,5,4,136,296,44,6,3,6,2,9,3,19,Niagara County,Royalton 000 : 002
+Niagara County,Royalton 000 : 003,0,0,0,0,0,0,0,0,159,317,54,14,11,2,4,105,347,56,10,6,7,1,3,11,28,Niagara County,Royalton 000 : 003
+Niagara County,Royalton 000 : 004,0,0,0,0,0,0,0,0,60,215,47,3,7,1,0,46,227,49,1,2,3,0,2,2,13,Niagara County,Royalton 000 : 004
+Niagara County,Royalton 000 : 005,0,0,0,0,0,0,0,0,62,180,41,7,4,1,1,46,193,49,4,1,3,0,3,0,5,Niagara County,Royalton 000 : 005
+Niagara County,Royalton 000 : 006,0,0,0,0,0,0,0,0,164,230,46,12,8,4,6,142,251,50,2,7,6,1,7,3,10,Niagara County,Royalton 000 : 006
+Niagara County,Somerset  000 : 001,296,470,110,0,30,10,8,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Somerset  000 : 001
+Niagara County,Somerset  000 : 002,312,454,126,0,44,18,8,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Somerset  000 : 002
+Niagara County,Somerset 000 : 001,0,0,0,0,0,0,0,0,138,245,68,8,8,1,3,79,285,82,9,1,4,0,2,4,17,Niagara County,Somerset 000 : 001
+Niagara County,Somerset 000 : 002,0,0,0,0,0,0,0,0,134,272,64,15,13,3,3,86,307,73,12,4,7,2,5,5,15,Niagara County,Somerset 000 : 002
+Niagara County,Town of Lockport  000 : 001,324,348,74,0,24,10,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Town of Lockport  000 : 001
+Niagara County,Town of Lockport  000 : 002,358,358,94,0,28,6,8,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Town of Lockport  000 : 002
+Niagara County,Town of Lockport  000 : 003,276,148,40,0,26,2,8,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Town of Lockport  000 : 003
+Niagara County,Town of Lockport  000 : 004,550,382,60,0,40,6,14,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Town of Lockport  000 : 004
+Niagara County,Town of Lockport  000 : 005,414,296,86,0,20,8,6,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Town of Lockport  000 : 005
+Niagara County,Town of Lockport  000 : 006,474,306,70,0,34,4,12,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Town of Lockport  000 : 006
+Niagara County,Town of Lockport  000 : 007,310,280,48,0,18,2,4,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Town of Lockport  000 : 007
+Niagara County,Town of Lockport  000 : 008,270,248,62,0,14,0,2,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Town of Lockport  000 : 008
+Niagara County,Town of Lockport  000 : 009,462,450,96,0,42,10,8,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Town of Lockport  000 : 009
+Niagara County,Town of Lockport  000 : 010,264,206,68,0,18,4,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Town of Lockport  000 : 010
+Niagara County,Town of Lockport  000 : 011,508,382,80,0,18,4,6,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Town of Lockport  000 : 011
+Niagara County,Town of Lockport  000 : 012,430,358,72,0,34,6,12,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Town of Lockport  000 : 012
+Niagara County,Town of Lockport  000 : 013,542,356,72,0,40,8,10,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Town of Lockport  000 : 013
+Niagara County,Town of Lockport  000 : 014,660,490,94,0,34,10,22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Town of Lockport  000 : 014
+Niagara County,Town of Lockport  000 : 015,550,438,106,0,26,8,12,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Town of Lockport  000 : 015
+Niagara County,Town of Lockport  000 : 016,396,426,94,0,34,6,14,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Town of Lockport  000 : 016
+Niagara County,Town of Lockport 000 : 001,0,0,0,0,0,0,0,0,145,190,42,7,6,0,3,108,211,46,5,3,2,0,3,5,13,Niagara County,Town of Lockport 000 : 001
+Niagara County,Town of Lockport 000 : 002,0,0,0,0,0,0,0,0,161,196,49,7,11,3,4,140,215,57,7,4,6,0,3,4,2,Niagara County,Town of Lockport 000 : 002
+Niagara County,Town of Lockport 000 : 003,0,0,0,0,0,0,0,0,117,94,26,9,7,5,1,94,112,28,6,4,4,2,2,2,10,Niagara County,Town of Lockport 000 : 003
+Niagara County,Town of Lockport 000 : 004,0,0,0,0,0,0,0,0,256,189,38,14,11,7,5,220,230,44,6,3,7,5,3,3,11,Niagara County,Town of Lockport 000 : 004
+Niagara County,Town of Lockport 000 : 005,0,0,0,0,0,0,0,0,199,149,47,10,12,3,5,160,185,49,4,3,10,0,2,7,7,Niagara County,Town of Lockport 000 : 005
+Niagara County,Town of Lockport 000 : 006,0,0,0,0,0,0,0,0,220,175,40,9,10,6,4,179,202,53,6,4,9,1,4,3,10,Niagara County,Town of Lockport 000 : 006
+Niagara County,Town of Lockport 000 : 007,0,0,0,0,0,0,0,0,144,154,31,5,9,0,2,110,169,38,0,4,4,0,3,6,10,Niagara County,Town of Lockport 000 : 007
+Niagara County,Town of Lockport 000 : 008,0,0,0,0,0,0,0,0,123,135,30,5,6,1,0,103,149,33,5,2,2,1,2,0,4,Niagara County,Town of Lockport 000 : 008
+Niagara County,Town of Lockport 000 : 009,0,0,0,0,0,0,0,0,206,260,57,11,10,5,3,161,291,65,5,9,8,4,5,3,8,Niagara County,Town of Lockport 000 : 009
+Niagara County,Town of Lockport 000 : 010,0,0,0,0,0,0,0,0,118,114,33,5,6,3,0,104,123,35,4,3,3,1,3,3,5,Niagara County,Town of Lockport 000 : 010
+Niagara County,Town of Lockport 000 : 011,0,0,0,0,0,0,0,0,239,198,44,9,6,2,2,200,230,41,5,3,5,0,4,3,16,Niagara County,Town of Lockport 000 : 011
+Niagara County,Town of Lockport 000 : 012,0,0,0,0,0,0,0,0,201,193,38,15,11,3,1,164,227,48,4,7,8,4,5,1,8,Niagara County,Town of Lockport 000 : 012
+Niagara County,Town of Lockport 000 : 013,0,0,0,0,0,0,0,0,256,192,41,14,8,4,3,197,239,47,12,8,6,2,6,3,9,Niagara County,Town of Lockport 000 : 013
+Niagara County,Town of Lockport 000 : 014,0,0,0,0,0,0,0,0,299,276,50,16,16,2,2,250,310,58,5,12,11,2,7,4,10,Niagara County,Town of Lockport 000 : 014
+Niagara County,Town of Lockport 000 : 015,0,0,0,0,0,0,0,0,254,233,56,6,22,2,1,217,264,53,9,3,16,0,4,4,4,Niagara County,Town of Lockport 000 : 015
+Niagara County,Town of Lockport 000 : 016,0,0,0,0,0,0,0,0,172,239,48,8,13,4,5,135,268,45,8,8,7,3,7,6,10,Niagara County,Town of Lockport 000 : 016
+Niagara County,Town of Niagara  000 : 001,272,150,28,0,10,4,4,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Town of Niagara  000 : 001
+Niagara County,Town of Niagara  000 : 002,108,148,12,0,10,0,8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Town of Niagara  000 : 002
+Niagara County,Town of Niagara  000 : 003,342,292,42,0,24,2,10,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Town of Niagara  000 : 003
+Niagara County,Town of Niagara  000 : 004,262,156,24,0,2,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Town of Niagara  000 : 004
+Niagara County,Town of Niagara  000 : 005,492,436,56,0,22,4,10,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Town of Niagara  000 : 005
+Niagara County,Town of Niagara  000 : 006,216,190,50,0,8,4,4,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Town of Niagara  000 : 006
+Niagara County,Town of Niagara  000 : 007,506,438,78,0,38,2,2,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Town of Niagara  000 : 007
+Niagara County,Town of Niagara 000 : 001,0,0,0,0,0,0,0,0,121,86,15,3,5,1,2,106,108,13,1,0,1,1,3,1,7,Niagara County,Town of Niagara 000 : 001
+Niagara County,Town of Niagara 000 : 002,0,0,0,0,0,0,0,0,59,69,5,0,3,5,3,43,81,9,1,0,2,1,2,2,2,Niagara County,Town of Niagara 000 : 002
+Niagara County,Town of Niagara 000 : 003,0,0,0,0,0,0,0,0,171,155,23,5,8,5,5,140,179,29,3,3,4,2,5,5,13,Niagara County,Town of Niagara 000 : 003
+Niagara County,Town of Niagara 000 : 004,0,0,0,0,0,0,0,0,131,78,15,1,5,1,1,99,105,17,2,3,2,0,1,5,3,Niagara County,Town of Niagara 000 : 004
+Niagara County,Town of Niagara 000 : 005,0,0,0,0,0,0,0,0,235,219,38,11,5,1,3,208,246,45,4,5,3,0,1,3,12,Niagara County,Town of Niagara 000 : 005
+Niagara County,Town of Niagara 000 : 006,0,0,0,0,0,0,0,0,101,95,25,5,6,3,0,89,115,20,2,1,3,0,2,0,7,Niagara County,Town of Niagara 000 : 006
+Niagara County,Town of Niagara 000 : 007,0,0,0,0,0,0,0,0,224,245,45,11,5,1,2,185,286,49,1,6,2,1,3,2,9,Niagara County,Town of Niagara 000 : 007
+Niagara County,Wheatfield  000 : 001,268,338,48,0,14,6,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Wheatfield  000 : 001
+Niagara County,Wheatfield  000 : 002,352,352,78,0,16,6,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Wheatfield  000 : 002
+Niagara County,Wheatfield  000 : 003,420,278,60,0,20,10,4,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Wheatfield  000 : 003
+Niagara County,Wheatfield  000 : 004,438,316,46,0,14,8,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Wheatfield  000 : 004
+Niagara County,Wheatfield  000 : 005,614,490,112,0,26,6,18,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Wheatfield  000 : 005
+Niagara County,Wheatfield  000 : 006,536,378,60,0,20,6,10,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Wheatfield  000 : 006
+Niagara County,Wheatfield  000 : 007,570,496,122,0,36,4,12,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Wheatfield  000 : 007
+Niagara County,Wheatfield  000 : 008,480,376,88,0,34,4,6,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Wheatfield  000 : 008
+Niagara County,Wheatfield  000 : 009,372,426,78,0,18,6,8,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Wheatfield  000 : 009
+Niagara County,Wheatfield  000 : 010,432,436,102,0,30,12,6,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Wheatfield  000 : 010
+Niagara County,Wheatfield  000 : 011,670,524,96,0,30,10,6,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Wheatfield  000 : 011
+Niagara County,Wheatfield  000 : 012,552,510,104,0,28,4,8,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Wheatfield  000 : 012
+Niagara County,Wheatfield  000 : 013,452,516,96,0,30,4,10,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Wheatfield  000 : 013
+Niagara County,Wheatfield  000 : 014,448,520,98,0,32,4,10,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Wheatfield  000 : 014
+Niagara County,Wheatfield 000 : 001,0,0,0,0,0,0,0,0,112,193,26,5,6,2,2,78,222,27,5,1,3,0,1,8,2,Niagara County,Wheatfield 000 : 001
+Niagara County,Wheatfield 000 : 002,0,0,0,0,0,0,0,0,156,204,44,5,6,1,2,126,220,41,8,1,3,0,4,3,10,Niagara County,Wheatfield 000 : 002
+Niagara County,Wheatfield 000 : 003,0,0,0,0,0,0,0,0,195,144,34,7,9,2,2,173,163,33,3,4,8,3,1,3,6,Niagara County,Wheatfield 000 : 003
+Niagara County,Wheatfield 000 : 004,0,0,0,0,0,0,0,0,202,177,24,3,7,1,4,165,214,28,2,0,4,0,5,1,7,Niagara County,Wheatfield 000 : 004
+Niagara County,Wheatfield 000 : 005,0,0,0,0,0,0,0,0,278,269,64,10,14,6,2,245,300,65,6,4,12,3,5,4,8,Niagara County,Wheatfield 000 : 005
+Niagara County,Wheatfield 000 : 006,0,0,0,0,0,0,0,0,249,212,32,6,4,4,3,217,243,37,8,2,4,1,3,3,4,Niagara County,Wheatfield 000 : 006
+Niagara County,Wheatfield 000 : 007,0,0,0,0,0,0,0,0,253,268,66,15,8,7,2,200,316,80,9,6,5,5,1,2,6,Niagara County,Wheatfield 000 : 007
+Niagara County,Wheatfield 000 : 008,0,0,0,0,0,0,0,0,205,213,52,11,16,0,2,167,250,53,6,8,12,0,1,7,5,Niagara County,Wheatfield 000 : 008
+Niagara County,Wheatfield 000 : 009,0,0,0,0,0,0,0,0,173,229,42,5,9,1,1,132,253,46,8,2,6,0,4,5,6,Niagara County,Wheatfield 000 : 009
+Niagara County,Wheatfield 000 : 010,0,0,0,0,0,0,0,0,184,254,54,14,10,3,2,158,272,61,4,10,8,1,2,3,5,Niagara County,Wheatfield 000 : 010
+Niagara County,Wheatfield 000 : 011,0,0,0,0,0,0,0,0,308,291,63,6,13,4,1,262,318,68,8,7,9,3,3,1,9,Niagara County,Wheatfield 000 : 011
+Niagara County,Wheatfield 000 : 012,0,0,0,0,0,0,0,0,258,272,56,16,10,3,2,205,314,64,7,11,5,1,2,3,4,Niagara County,Wheatfield 000 : 012
+Niagara County,Wheatfield 000 : 013,0,0,0,0,0,0,0,0,203,290,52,11,6,1,2,152,312,65,7,7,4,2,1,3,6,Niagara County,Wheatfield 000 : 013
+Niagara County,Wheatfield 000 : 014,0,0,0,0,0,0,0,0,205,279,49,9,10,4,3,154,322,56,7,3,2,1,3,7,11,Niagara County,Wheatfield 000 : 014
+Niagara County,Wilson  000 : 001,368,506,94,0,38,6,8,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Wilson  000 : 001
+Niagara County,Wilson  000 : 002,340,584,112,0,32,14,10,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Wilson  000 : 002
+Niagara County,Wilson  000 : 003,414,524,146,0,42,8,6,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Wilson  000 : 003
+Niagara County,Wilson  000 : 004,300,420,92,0,24,2,10,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Wilson  000 : 004
+Niagara County,Wilson  000 : 005,310,344,56,0,20,6,6,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Niagara County,Wilson  000 : 005
+Niagara County,Wilson 000 : 001,0,0,0,0,0,0,0,0,165,283,41,9,10,1,3,134,312,49,3,3,7,0,2,2,5,Niagara County,Wilson 000 : 001
+Niagara County,Wilson 000 : 002,0,0,0,0,0,0,0,0,146,321,55,7,13,2,3,109,339,76,5,5,5,2,6,3,12,Niagara County,Wilson 000 : 002
+Niagara County,Wilson 000 : 003,0,0,0,0,0,0,0,0,178,299,82,14,7,4,1,132,332,88,7,3,1,4,5,6,10,Niagara County,Wilson 000 : 003
+Niagara County,Wilson 000 : 004,0,0,0,0,0,0,0,0,133,227,53,10,4,6,2,104,244,59,5,4,2,2,6,3,9,Niagara County,Wilson 000 : 004
+Niagara County,Wilson 000 : 005,0,0,0,0,0,0,0,0,128,197,35,10,8,1,0,103,216,36,7,4,2,3,2,2,6,Niagara County,Wilson 000 : 005

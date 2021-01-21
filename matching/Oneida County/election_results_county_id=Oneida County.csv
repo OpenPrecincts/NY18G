@@ -1,193 +1,193 @@
 county,precinct,HOR_DEM,HOR_REP,HOR_CON,HOR_GRE,HOR_WOR,HOR_IND,HOR_WEP,HOR_REF,Sen_DEM,Sen_REP,Sen_CON,Sen_WOR,Sen_IND,Sen_WEP,Sen_REF,Gov_DEM,Gov_REP,Gov_CON,Gov_GRE,Gov_WOR,Gov_IND,Gov_WEP,Gov_REF,Gov_SAM,Gov_LBT,county_id,original_precinct_name
-Oneida County,ANNSVILLE 1,152,368,34,0,11,13,7,6,146,325,32,4,19,3,5,84,399,35,11,3,6,3,4,7,20,Oneida County,precinct
-Oneida County,ANNSVILLE 2,63,146,17,0,2,3,1,2,67,117,14,4,4,2,0,40,147,13,6,3,1,1,2,7,10,Oneida County,precinct
-Oneida County,ANNSVILLE 3,21,88,9,0,0,2,0,1,25,68,10,0,3,0,2,12,83,8,0,0,1,0,0,0,10,Oneida County,precinct
-Oneida County,AUGUSTA 1,91,215,27,0,5,12,2,3,98,189,22,7,12,3,3,57,232,28,4,1,6,1,1,10,10,Oneida County,precinct
-Oneida County,AUGUSTA 2,101,175,25,0,6,8,1,1,102,148,25,9,11,1,2,69,191,26,5,1,2,1,2,8,11,Oneida County,precinct
-Oneida County,AVA 1,44,150,9,0,3,4,1,1,45,142,5,5,5,0,0,18,161,15,1,1,1,0,4,3,9,Oneida County,precinct
-Oneida County,BOONVILLE 1,239,312,35,0,5,18,2,4,208,303,35,7,35,3,2,132,371,39,6,2,11,2,6,18,30,Oneida County,precinct
-Oneida County,BOONVILLE 2,178,267,28,0,6,6,5,2,166,254,25,8,11,2,0,114,294,33,6,1,3,1,1,12,27,Oneida County,precinct
-Oneida County,BOONVILLE 3,57,146,12,0,1,3,1,0,61,131,11,5,7,0,0,41,144,15,3,0,2,0,1,2,10,Oneida County,precinct
-Oneida County,BOONVILLE 4,66,139,10,0,4,5,2,0,65,127,9,4,5,1,1,46,147,11,5,1,4,2,1,2,4,Oneida County,precinct
-Oneida County,BRIDGEWATER 1,135,266,27,0,9,13,4,2,130,235,30,12,16,5,2,85,276,31,7,1,7,1,2,5,27,Oneida County,precinct
-Oneida County,CAMDEN 1,215,355,34,0,10,18,0,2,192,340,30,7,19,4,2,135,397,29,5,6,5,1,9,15,30,Oneida County,precinct
-Oneida County,CAMDEN 2,170,338,46,0,9,13,2,1,160,316,50,8,14,2,0,114,350,43,6,1,9,1,2,11,36,Oneida County,precinct
-Oneida County,CAMDEN 3,101,241,19,0,1,2,0,2,97,214,23,5,6,2,2,70,225,21,6,2,2,2,1,7,34,Oneida County,precinct
-Oneida County,DEERFIELD 1,366,350,36,0,9,19,3,6,347,321,41,10,22,7,2,246,405,40,10,7,4,4,2,15,27,Oneida County,precinct
-Oneida County,DEERFIELD 2,221,364,48,0,5,17,2,3,220,336,46,8,15,3,0,129,412,52,8,4,9,1,1,21,12,Oneida County,precinct
-Oneida County,DEERFIELD 3,285,251,26,0,11,20,5,2,257,252,28,17,14,5,4,183,320,31,9,9,7,2,1,8,22,Oneida County,precinct
-Oneida County,FLORENCE 1,73,210,15,0,7,7,3,5,79,184,13,7,7,1,5,50,210,14,3,1,4,1,2,5,25,Oneida County,precinct
-Oneida County,FLOYD 1,188,304,32,0,12,16,3,3,176,283,33,16,17,4,2,117,342,34,8,5,7,4,7,10,16,Oneida County,precinct
-Oneida County,FLOYD 2,165,305,35,0,2,11,1,5,160,267,37,4,17,1,2,92,329,37,5,1,1,1,2,13,32,Oneida County,precinct
-Oneida County,FLOYD 3,115,226,25,0,2,11,1,2,121,203,28,3,13,2,1,63,233,28,5,1,7,2,1,7,30,Oneida County,precinct
-Oneida County,FORESTPORT 1,164,302,30,0,8,7,1,2,160,278,29,6,13,0,1,98,327,28,4,4,5,0,4,5,25,Oneida County,precinct
-Oneida County,FORESTPORT 2,73,124,9,0,4,4,2,1,72,110,8,5,5,2,1,44,130,11,1,1,3,1,2,7,11,Oneida County,precinct
-Oneida County,KIRKLAND 1,251,211,24,0,6,8,1,2,237,203,25,5,9,4,1,188,249,27,8,1,4,1,0,6,14,Oneida County,precinct
-Oneida County,KIRKLAND 10,209,141,14,0,6,9,0,0,199,135,13,7,11,1,0,152,153,23,10,4,6,0,1,10,13,Oneida County,precinct
-Oneida County,KIRKLAND 2,212,179,20,0,4,12,1,2,195,177,19,7,11,1,3,148,203,23,6,4,6,2,1,13,10,Oneida County,precinct
-Oneida County,KIRKLAND 3,546,90,7,0,23,9,1,2,536,80,7,19,11,4,1,475,100,8,17,18,7,2,1,16,6,Oneida County,precinct
-Oneida County,KIRKLAND 4,198,106,16,0,6,7,3,2,185,99,19,6,14,5,1,145,118,16,8,2,6,9,3,8,11,Oneida County,precinct
-Oneida County,KIRKLAND 5,121,89,7,0,2,5,2,1,117,88,9,1,4,5,0,88,103,10,5,3,3,3,0,3,4,Oneida County,precinct
-Oneida County,KIRKLAND 6,367,173,10,0,17,18,2,2,338,181,8,21,13,5,6,263,216,11,18,18,8,3,1,23,14,Oneida County,precinct
-Oneida County,KIRKLAND 7,286,103,16,0,12,12,2,2,270,101,17,14,12,1,2,208,129,21,9,9,6,1,2,15,15,Oneida County,precinct
-Oneida County,KIRKLAND 8,172,183,25,0,8,8,5,0,167,171,24,7,7,7,0,124,189,22,11,7,6,7,1,9,9,Oneida County,precinct
-Oneida County,KIRKLAND 9,234,112,21,0,8,16,1,0,221,107,20,7,17,1,3,178,136,22,9,5,8,1,0,14,7,Oneida County,precinct
-Oneida County,LEE 1,170,256,33,0,3,6,1,3,168,237,34,5,8,0,1,120,278,34,7,1,5,0,0,6,20,Oneida County,precinct
-Oneida County,LEE 2,202,309,23,0,5,8,0,6,182,296,26,8,8,3,4,122,343,26,4,2,6,1,6,2,23,Oneida County,precinct
-Oneida County,LEE 3,48,133,21,0,3,8,0,1,60,118,18,2,8,0,1,27,144,22,3,2,4,1,0,3,9,Oneida County,precinct
-Oneida County,LEE 4,199,224,28,0,3,15,0,4,180,225,28,4,9,1,1,137,261,34,6,1,6,1,6,2,14,Oneida County,precinct
-Oneida County,LEE 5,349,431,48,0,8,26,3,3,341,400,50,8,19,4,3,245,481,55,6,5,22,2,4,18,27,Oneida County,precinct
-Oneida County,MARCY 1,293,376,41,0,12,24,3,1,279,350,36,7,28,2,6,189,442,46,8,7,10,2,3,8,18,Oneida County,precinct
-Oneida County,MARCY 2,217,310,49,0,15,18,5,2,211,284,43,18,25,5,2,114,359,51,5,7,8,2,7,14,37,Oneida County,precinct
-Oneida County,MARCY 3,295,389,41,0,7,21,2,3,255,383,40,8,17,3,3,161,456,49,11,3,11,2,5,12,36,Oneida County,precinct
-Oneida County,MARCY 4,262,329,45,0,9,16,2,2,245,311,47,7,15,0,2,147,399,42,3,5,11,1,7,11,27,Oneida County,precinct
-Oneida County,MARSHALL 1,159,193,27,0,9,8,0,1,156,173,25,7,10,2,2,99,214,29,7,5,5,1,3,12,14,Oneida County,precinct
-Oneida County,MARSHALL 2,162,192,22,0,3,11,2,0,151,183,23,9,7,1,1,86,218,27,9,1,4,3,2,14,20,Oneida County,precinct
-Oneida County,NEW HARTFORD 1-1,323,320,28,0,6,18,1,3,309,313,32,5,17,1,2,213,391,31,6,4,7,1,5,16,13,Oneida County,precinct
-Oneida County,NEW HARTFORD 1-2,193,203,17,0,6,15,1,1,184,198,18,5,10,5,2,121,241,20,7,7,4,2,2,3,24,Oneida County,precinct
-Oneida County,NEW HARTFORD 1-3,400,267,25,0,10,21,2,3,375,264,25,10,20,3,5,261,341,34,8,6,11,2,2,14,35,Oneida County,precinct
-Oneida County,NEW HARTFORD 1-4,253,190,27,0,6,18,0,1,250,182,23,4,12,5,2,179,228,34,10,0,5,2,1,11,19,Oneida County,precinct
-Oneida County,NEW HARTFORD 1-5,318,216,22,0,6,20,4,1,280,218,23,7,19,5,2,215,272,23,11,4,11,1,3,18,12,Oneida County,precinct
-Oneida County,NEW HARTFORD 2-1,251,205,21,0,13,16,2,0,233,183,23,16,16,3,0,174,234,27,8,7,7,3,1,18,17,Oneida County,precinct
-Oneida County,NEW HARTFORD 2-2,293,242,30,0,6,16,2,0,260,239,28,10,14,4,0,192,294,31,6,6,9,2,2,14,17,Oneida County,precinct
-Oneida County,NEW HARTFORD 2-3,320,293,29,0,7,13,1,1,298,285,30,8,11,2,1,235,337,37,6,6,4,3,2,5,12,Oneida County,precinct
-Oneida County,NEW HARTFORD 2-4,429,311,30,0,13,24,4,1,392,319,30,8,16,4,1,300,393,31,11,10,12,4,3,13,15,Oneida County,precinct
-Oneida County,NEW HARTFORD 3-1,320,198,20,0,6,24,3,3,295,190,18,10,25,4,3,232,247,23,11,4,14,4,6,7,10,Oneida County,precinct
-Oneida County,NEW HARTFORD 3-2,395,243,31,0,6,15,2,6,359,246,33,7,20,2,2,280,305,31,12,3,8,1,1,16,19,Oneida County,precinct
-Oneida County,NEW HARTFORD 3-3,232,164,17,0,19,10,3,1,224,162,16,14,7,2,2,166,190,22,9,11,2,2,4,9,16,Oneida County,precinct
-Oneida County,NEW HARTFORD 3-4,301,243,18,0,3,17,3,0,279,251,22,2,7,2,3,213,301,22,8,2,11,4,2,10,3,Oneida County,precinct
-Oneida County,NEW HARTFORD 4-1,362,233,26,0,4,15,4,0,311,230,25,6,19,4,2,259,259,31,12,2,12,4,4,12,16,Oneida County,precinct
-Oneida County,NEW HARTFORD 4-2,198,134,19,0,5,11,2,1,192,125,17,3,11,3,1,141,169,17,9,0,1,2,3,6,13,Oneida County,precinct
-Oneida County,NEW HARTFORD 4-3,167,142,21,0,5,11,2,0,154,147,19,5,11,0,2,112,163,22,3,2,7,0,4,7,14,Oneida County,precinct
-Oneida County,NEW HARTFORD 4-4,507,420,48,0,13,18,1,3,463,401,49,12,26,3,2,363,476,57,7,11,9,4,0,19,27,Oneida County,precinct
-Oneida County,PARIS 1,210,241,29,0,11,16,3,1,214,218,33,9,16,0,2,120,286,36,7,7,10,2,2,17,12,Oneida County,precinct
-Oneida County,PARIS 2,239,338,54,0,6,19,2,1,221,322,51,6,21,3,1,139,392,54,7,4,6,1,2,14,23,Oneida County,precinct
-Oneida County,PARIS 3,286,370,51,0,12,24,1,3,255,367,46,13,30,4,3,175,419,53,18,4,18,2,3,6,30,Oneida County,precinct
-Oneida County,REMSEN 1,248,460,47,0,13,21,4,1,242,424,43,8,20,6,3,141,483,50,8,3,9,4,5,7,70,Oneida County,precinct
-Oneida County,ROME 1-1,141,101,12,0,4,14,1,1,124,103,15,5,12,2,2,91,132,12,4,2,3,2,3,8,13,Oneida County,precinct
-Oneida County,ROME 1-2,126,121,9,0,5,11,1,0,110,117,12,7,10,1,1,90,135,17,0,6,4,0,0,3,13,Oneida County,precinct
-Oneida County,ROME 1-3,163,132,20,0,3,15,3,0,157,114,18,2,14,1,2,122,152,19,9,1,6,1,2,10,12,Oneida County,precinct
-Oneida County,ROME 1-4,124,117,21,0,3,8,0,2,108,112,15,8,7,0,0,89,133,22,2,1,5,1,2,2,13,Oneida County,precinct
-Oneida County,ROME 2-1,214,289,37,0,7,21,2,3,186,291,32,9,18,2,3,135,341,34,5,2,9,3,3,6,24,Oneida County,precinct
-Oneida County,ROME 2-2,47,37,3,0,0,1,0,0,43,39,2,0,1,0,0,38,36,2,2,0,1,0,0,0,8,Oneida County,precinct
-Oneida County,ROME 2-3,26,37,3,0,3,1,3,1,24,38,2,1,3,0,2,22,42,2,2,1,0,0,0,0,5,Oneida County,precinct
-Oneida County,ROME 2-4,67,67,5,0,4,1,1,1,58,64,4,2,3,2,1,42,73,6,2,2,0,0,1,3,13,Oneida County,precinct
-Oneida County,ROME 2-5,107,49,1,0,5,5,0,0,91,47,5,5,4,0,0,79,66,3,2,1,5,2,0,3,4,Oneida County,precinct
-Oneida County,ROME 3-1,68,55,8,0,2,5,0,0,60,51,5,1,8,0,0,49,63,10,1,0,4,1,1,2,5,Oneida County,precinct
-Oneida County,ROME 3-2,38,82,15,0,1,3,1,2,41,74,13,0,5,3,0,27,90,12,2,1,3,1,1,2,5,Oneida County,precinct
-Oneida County,ROME 3-3,189,251,24,0,3,9,1,6,164,241,25,8,8,4,5,124,279,33,6,4,3,2,4,6,22,Oneida County,precinct
-Oneida County,ROME 3-4,128,144,15,0,11,4,2,2,112,138,15,11,5,2,3,100,150,15,4,3,1,1,2,6,20,Oneida County,precinct
-Oneida County,ROME 3-5,15,13,3,0,0,2,0,0,14,12,2,0,2,0,0,11,14,2,1,0,0,0,0,2,2,Oneida County,precinct
-Oneida County,ROME 4-1,69,51,8,0,3,2,1,0,68,40,8,2,2,1,0,44,55,7,2,2,2,1,1,4,16,Oneida County,precinct
-Oneida County,ROME 4-2,197,154,16,0,6,9,1,2,185,136,17,8,9,2,3,150,166,22,4,6,6,2,2,8,11,Oneida County,precinct
-Oneida County,ROME 4-3,114,105,7,0,9,7,4,2,113,94,9,10,6,2,1,80,114,12,7,4,5,3,1,6,12,Oneida County,precinct
-Oneida County,ROME 4-4,142,150,16,0,5,11,1,2,125,153,12,5,12,1,0,96,167,19,9,3,5,1,3,3,16,Oneida County,precinct
-Oneida County,ROME 5-1,147,82,12,0,5,8,1,1,138,78,13,2,9,2,1,117,98,12,3,4,4,2,0,2,13,Oneida County,precinct
-Oneida County,ROME 5-2,146,108,22,0,4,11,4,1,140,105,20,2,10,2,1,94,141,22,4,1,5,1,2,5,19,Oneida County,precinct
-Oneida County,ROME 5-3,192,201,15,0,9,9,0,2,179,185,20,9,7,0,3,127,225,29,4,6,4,1,5,4,10,Oneida County,precinct
-Oneida County,ROME 5-4,290,279,26,0,11,11,4,1,272,262,22,14,21,3,0,209,311,29,17,5,4,3,6,7,20,Oneida County,precinct
-Oneida County,ROME 6-1,106,142,16,0,2,9,0,0,106,131,17,1,6,0,1,72,160,18,1,1,2,1,0,4,6,Oneida County,precinct
-Oneida County,ROME 6-2,211,183,23,0,2,16,3,1,188,187,25,4,17,2,2,148,221,27,2,2,11,4,3,7,9,Oneida County,precinct
-Oneida County,ROME 6-3,271,314,25,0,1,19,1,1,250,292,30,4,22,2,5,196,351,22,9,2,11,2,2,9,16,Oneida County,precinct
-Oneida County,ROME 6-4,312,340,41,0,7,21,4,2,271,342,38,8,26,5,1,205,407,41,3,3,16,5,2,11,24,Oneida County,precinct
-Oneida County,ROME 7-1,78,128,16,0,3,12,2,0,75,122,15,4,13,2,1,49,143,17,4,0,8,2,0,4,9,Oneida County,precinct
-Oneida County,ROME 7-2,192,161,16,0,4,9,0,1,191,138,17,4,12,1,1,145,177,17,5,1,6,1,3,7,17,Oneida County,precinct
-Oneida County,ROME 7-3,222,183,17,0,9,9,4,4,191,192,18,5,11,3,4,140,244,17,8,1,5,0,3,7,16,Oneida County,precinct
-Oneida County,ROME 7-4,156,121,8,0,6,9,2,0,139,115,7,6,10,2,1,121,144,10,6,2,3,0,3,4,4,Oneida County,precinct
-Oneida County,ROME 7-5,203,125,18,0,5,17,2,3,187,131,20,4,11,2,3,149,153,26,12,2,7,2,1,10,3,Oneida County,precinct
-Oneida County,SANGERFIELD 1,244,164,13,0,7,8,2,2,239,153,16,7,9,2,4,146,210,18,7,6,5,0,1,15,25,Oneida County,precinct
-Oneida County,SANGERFIELD 2,135,186,16,0,7,9,1,1,134,172,19,8,7,0,0,76,208,28,4,6,1,0,3,5,15,Oneida County,precinct
-Oneida County,STEUBEN 1,129,277,33,0,6,7,2,9,138,236,30,8,14,5,5,83,277,29,2,4,2,1,3,5,55,Oneida County,precinct
-Oneida County,TRENTON 1,170,233,31,0,10,13,4,0,161,215,37,5,15,1,1,121,257,29,7,2,3,1,1,11,28,Oneida County,precinct
-Oneida County,TRENTON 2,275,304,32,0,15,11,6,3,249,299,31,14,13,5,3,173,340,33,10,7,3,3,5,14,39,Oneida County,precinct
-Oneida County,TRENTON 3,232,303,43,0,8,17,4,4,215,289,43,13,20,5,2,154,332,32,7,8,12,4,3,8,36,Oneida County,precinct
-Oneida County,TRENTON 4,96,186,19,0,6,9,2,2,90,173,9,6,10,3,1,57,192,19,4,3,7,1,0,8,22,Oneida County,precinct
-Oneida County,UTICA 1-1,58,26,1,0,1,1,0,1,52,19,1,2,3,0,1,46,22,2,3,0,2,0,2,4,3,Oneida County,precinct
-Oneida County,UTICA 1-2,77,15,2,0,1,4,1,0,68,16,2,1,4,0,1,65,21,2,0,1,4,0,1,0,1,Oneida County,precinct
-Oneida County,UTICA 1-3,100,19,4,0,4,1,2,1,88,18,5,2,0,2,2,87,19,6,2,2,0,2,1,1,4,Oneida County,precinct
-Oneida County,UTICA 1-4,219,42,10,0,7,7,2,1,193,48,8,10,5,4,1,192,56,9,4,4,4,0,1,6,4,Oneida County,precinct
-Oneida County,UTICA 1-5,118,26,1,0,5,3,0,1,103,17,3,2,2,1,1,102,28,1,0,3,2,0,0,2,1,Oneida County,precinct
-Oneida County,UTICA 1-6,84,19,1,0,1,2,0,0,74,20,3,1,0,0,0,76,21,1,0,2,1,0,0,0,3,Oneida County,precinct
-Oneida County,UTICA 1-7,267,44,4,0,2,4,2,2,230,45,3,4,3,0,2,229,53,4,1,2,2,1,2,5,8,Oneida County,precinct
-Oneida County,UTICA 1-8,92,36,4,0,8,4,0,0,90,30,5,8,4,1,0,77,34,5,3,8,1,3,2,2,6,Oneida County,precinct
-Oneida County,UTICA 2-1,194,108,7,0,5,4,3,1,191,95,5,4,4,3,2,152,130,9,1,0,2,1,1,4,15,Oneida County,precinct
-Oneida County,UTICA 2-2,105,41,2,0,2,4,0,1,94,39,3,1,4,0,0,84,46,2,4,1,4,1,1,1,5,Oneida County,precinct
-Oneida County,UTICA 2-3,197,92,13,0,8,8,2,1,191,86,11,9,9,0,2,159,113,9,6,5,2,1,0,6,19,Oneida County,precinct
-Oneida County,UTICA 2-4,265,86,8,0,8,11,3,1,226,85,11,8,10,4,2,218,98,10,4,6,6,2,2,9,15,Oneida County,precinct
-Oneida County,UTICA 2-5,144,72,17,0,6,3,4,3,143,65,19,7,4,3,1,115,88,20,3,2,2,1,1,5,11,Oneida County,precinct
-Oneida County,UTICA 2-6,68,20,10,0,2,1,1,0,58,21,7,1,1,2,0,54,25,9,2,0,2,0,1,2,1,Oneida County,precinct
-Oneida County,UTICA 2-7,113,39,4,0,2,2,0,0,102,33,2,3,3,0,0,83,37,6,9,0,2,0,1,2,4,Oneida County,precinct
-Oneida County,UTICA 2-8,54,14,1,0,0,1,0,2,44,14,2,0,2,0,1,47,12,1,1,1,2,0,0,1,4,Oneida County,precinct
-Oneida County,UTICA 3-1,230,107,9,0,7,9,2,2,206,108,12,8,10,3,2,160,138,15,5,7,3,0,4,9,16,Oneida County,precinct
-Oneida County,UTICA 3-10,127,41,5,0,1,5,1,0,106,44,8,5,5,1,0,101,48,6,4,1,4,0,1,4,8,Oneida County,precinct
-Oneida County,UTICA 3-2,192,104,20,0,4,12,5,2,178,100,20,4,12,3,1,137,138,24,4,3,6,4,0,4,12,Oneida County,precinct
-Oneida County,UTICA 3-3,318,172,28,0,9,18,7,4,295,175,28,5,26,9,2,210,239,35,10,3,12,7,8,7,18,Oneida County,precinct
-Oneida County,UTICA 3-4,315,167,22,0,7,13,1,2,282,175,24,8,15,1,2,228,212,26,4,10,10,1,3,8,12,Oneida County,precinct
-Oneida County,UTICA 3-5,202,74,12,0,8,10,3,2,186,69,11,7,9,3,0,148,97,10,7,4,8,1,4,8,10,Oneida County,precinct
-Oneida County,UTICA 3-6,343,157,11,0,12,13,2,1,305,162,15,12,14,2,2,249,201,14,12,9,9,2,3,15,18,Oneida County,precinct
-Oneida County,UTICA 3-7,191,51,6,0,9,4,0,1,179,53,5,6,3,2,1,145,67,8,8,5,3,2,1,2,11,Oneida County,precinct
-Oneida County,UTICA 3-8,172,57,4,0,5,7,1,0,160,59,6,5,7,2,0,133,72,3,8,3,6,1,0,6,9,Oneida County,precinct
-Oneida County,UTICA 3-9,261,99,15,0,8,13,4,0,249,94,16,6,15,4,0,191,125,17,6,7,12,5,1,5,22,Oneida County,precinct
-Oneida County,UTICA 4-1,181,46,5,0,2,7,0,0,155,52,5,3,6,1,0,154,62,4,2,3,5,1,0,3,5,Oneida County,precinct
-Oneida County,UTICA 4-2,178,59,5,0,5,5,2,1,154,71,5,5,3,1,0,125,92,4,3,2,2,2,0,8,6,Oneida County,precinct
-Oneida County,UTICA 4-3,228,107,4,0,7,2,2,0,186,114,5,7,3,0,0,159,153,10,3,3,1,1,2,6,4,Oneida County,precinct
-Oneida County,UTICA 4-4,130,51,3,0,1,3,1,0,100,57,3,2,3,0,1,94,70,5,0,2,0,0,2,1,2,Oneida County,precinct
-Oneida County,UTICA 4-5,187,83,8,0,4,7,1,1,147,96,8,1,6,1,1,128,129,11,1,3,1,1,2,3,6,Oneida County,precinct
-Oneida County,UTICA 4-6,283,99,7,0,3,2,0,0,245,98,7,5,7,1,0,221,123,7,2,3,0,0,0,6,17,Oneida County,precinct
-Oneida County,UTICA 4-7,186,55,4,0,1,4,1,1,158,56,3,1,3,2,1,150,64,7,5,1,2,0,1,0,4,Oneida County,precinct
-Oneida County,UTICA 4-8,183,74,5,0,3,8,0,0,157,77,5,1,4,1,1,132,103,6,1,2,3,0,2,5,6,Oneida County,precinct
-Oneida County,UTICA 4-9,263,156,8,0,4,11,0,1,192,195,11,4,5,1,2,150,223,19,1,2,3,1,3,8,16,Oneida County,precinct
-Oneida County,UTICA 5-1,207,30,4,0,16,7,2,2,185,26,4,13,11,8,0,191,33,4,6,11,4,2,0,3,2,Oneida County,precinct
-Oneida County,UTICA 5-2,269,51,4,0,8,12,0,0,242,51,1,9,11,8,2,225,57,1,10,7,7,3,2,5,17,Oneida County,precinct
-Oneida County,UTICA 5-3,122,17,1,0,1,3,1,0,109,16,2,3,1,1,0,114,19,3,1,1,0,1,0,2,1,Oneida County,precinct
-Oneida County,UTICA 5-4,208,30,0,0,3,4,0,2,170,30,2,6,4,3,0,184,32,1,3,4,3,0,1,3,2,Oneida County,precinct
-Oneida County,UTICA 5-5,308,52,3,0,11,8,2,0,268,58,8,11,9,2,1,252,67,7,9,9,7,1,1,4,7,Oneida County,precinct
-Oneida County,UTICA 5-6,234,34,4,0,9,6,1,1,199,29,7,5,7,2,0,193,40,6,2,3,6,2,1,6,4,Oneida County,precinct
-Oneida County,UTICA 5-7,70,30,2,0,3,2,1,0,67,26,2,5,1,0,0,53,33,1,1,3,2,0,1,1,2,Oneida County,precinct
-Oneida County,UTICA 6-1,181,137,9,0,2,8,2,1,161,129,9,5,10,3,1,130,158,14,1,3,4,0,0,4,16,Oneida County,precinct
-Oneida County,UTICA 6-2,328,249,24,0,12,12,2,1,311,238,23,8,16,3,2,234,294,30,4,3,9,3,7,9,27,Oneida County,precinct
-Oneida County,UTICA 6-3,196,143,16,0,4,11,1,0,180,138,14,6,12,1,3,122,171,21,2,4,4,1,6,8,25,Oneida County,precinct
-Oneida County,UTICA 6-4,175,114,7,0,3,8,1,2,158,106,11,1,11,2,0,127,140,11,4,1,4,1,3,3,10,Oneida County,precinct
-Oneida County,UTICA 6-5,247,203,14,0,8,13,2,3,230,196,14,10,14,2,3,163,250,16,3,1,11,2,8,6,23,Oneida County,precinct
-Oneida County,UTICA 6-6,281,198,14,0,8,18,2,2,262,187,16,7,17,3,1,193,249,22,1,1,11,2,3,9,19,Oneida County,precinct
-Oneida County,UTICA 6-7,265,146,12,0,6,7,0,0,239,139,13,7,7,4,0,195,175,20,5,3,1,0,2,4,14,Oneida County,precinct
-Oneida County,UTICA 6-8,319,175,10,0,2,8,0,2,274,178,11,2,4,3,1,242,224,12,2,2,1,1,2,6,13,Oneida County,precinct
-Oneida County,UTICA 6-9,129,43,5,0,2,5,4,0,105,46,4,1,6,5,0,101,54,5,1,2,2,2,1,5,3,Oneida County,precinct
-Oneida County,VERNON 1,155,315,47,0,4,10,2,4,162,267,48,8,12,5,0,119,313,46,8,4,7,1,3,7,18,Oneida County,precinct
-Oneida County,VERNON 2,245,359,64,0,9,15,1,8,235,333,59,10,21,5,6,165,395,50,13,6,11,0,8,12,39,Oneida County,precinct
-Oneida County,VERNON 3,323,327,47,0,11,26,5,4,302,324,41,9,28,6,5,209,382,53,11,4,13,4,3,30,30,Oneida County,precinct
-Oneida County,VERNON 4,378,419,44,0,11,32,2,1,384,378,41,13,37,4,1,269,458,51,13,3,21,0,8,26,27,Oneida County,precinct
-Oneida County,VERNON 5,224,293,29,0,6,20,4,1,228,272,31,11,16,2,2,145,326,35,17,1,6,1,4,17,25,Oneida County,precinct
-Oneida County,VERONA 1,254,391,69,0,8,24,4,6,243,381,67,10,24,2,10,145,441,73,12,5,12,3,10,14,39,Oneida County,precinct
-Oneida County,VERONA 2,131,212,38,0,9,6,2,0,117,201,33,8,8,2,0,77,219,33,6,3,5,1,0,6,43,Oneida County,precinct
-Oneida County,VERONA 3,131,183,33,0,6,6,1,4,124,177,32,3,7,3,4,88,192,36,12,4,2,0,5,3,20,Oneida County,precinct
-Oneida County,VERONA 4,61,184,31,0,4,5,2,1,68,160,33,6,8,2,1,41,190,29,5,1,2,0,3,2,15,Oneida County,precinct
-Oneida County,VERONA 5,132,180,29,0,4,5,1,1,128,176,27,7,7,0,2,89,196,27,3,3,2,0,5,16,9,Oneida County,precinct
-Oneida County,VERONA 6,88,98,14,0,1,1,0,1,88,90,13,0,1,0,1,64,110,11,5,0,1,1,1,6,5,Oneida County,precinct
-Oneida County,VIENNA 1,157,282,60,0,9,15,2,3,162,264,60,4,16,4,4,111,295,58,8,4,6,1,2,13,20,Oneida County,precinct
-Oneida County,VIENNA 2,118,228,30,0,8,7,1,3,111,210,27,8,9,2,3,80,236,25,8,2,0,2,1,7,26,Oneida County,precinct
-Oneida County,VIENNA 3,179,363,41,0,11,16,3,4,186,336,34,13,14,4,5,123,361,43,7,3,6,0,9,17,35,Oneida County,precinct
-Oneida County,VIENNA 4,164,273,24,0,3,7,3,3,157,251,19,6,10,2,4,113,286,27,4,4,7,1,2,9,15,Oneida County,precinct
-Oneida County,WESTERN 1,39,141,13,0,3,1,1,3,37,133,15,1,3,2,0,14,153,13,2,0,1,0,0,2,17,Oneida County,precinct
-Oneida County,WESTERN 2,96,190,23,0,5,6,3,1,95,176,24,5,10,2,3,69,207,22,3,4,1,1,3,3,14,Oneida County,precinct
-Oneida County,WESTERN 3,89,155,28,0,2,2,3,2,88,146,29,4,1,1,2,58,180,28,2,0,2,2,1,2,3,Oneida County,precinct
-Oneida County,WESTMORELAND 1,185,197,35,0,7,10,2,4,183,184,31,9,11,3,2,122,234,37,8,4,6,0,4,6,15,Oneida County,precinct
-Oneida County,WESTMORELAND 2,344,499,52,0,11,21,4,3,310,488,52,13,20,5,5,197,564,55,4,5,9,1,8,22,55,Oneida County,precinct
-Oneida County,WESTMORELAND 3,197,352,46,0,10,16,3,9,193,333,40,12,19,2,8,108,395,48,7,3,6,2,9,12,43,Oneida County,precinct
-Oneida County,WESTMORELAND 4,196,268,50,0,5,12,5,4,186,258,49,7,15,1,3,109,305,59,4,3,3,1,6,18,26,Oneida County,precinct
-Oneida County,WHITESTOWN 1,106,83,8,0,2,13,1,1,94,75,9,4,13,4,1,64,102,6,1,0,6,3,0,7,17,Oneida County,precinct
-Oneida County,WHITESTOWN 10,146,113,18,0,6,17,0,2,133,99,22,9,13,1,2,99,139,21,5,3,10,2,1,7,10,Oneida County,precinct
-Oneida County,WHITESTOWN 11,148,171,20,0,2,12,0,0,146,162,17,7,8,1,3,110,182,16,5,3,5,2,2,1,19,Oneida County,precinct
-Oneida County,WHITESTOWN 12,251,197,27,0,3,21,2,2,227,195,28,7,19,1,1,165,248,27,4,4,15,1,2,6,16,Oneida County,precinct
-Oneida County,WHITESTOWN 13,115,111,11,0,7,8,1,3,112,110,8,5,9,1,3,80,121,11,4,0,4,1,2,5,21,Oneida County,precinct
-Oneida County,WHITESTOWN 14,349,319,39,0,18,26,1,2,312,310,36,21,23,2,5,226,407,40,2,8,12,2,4,17,23,Oneida County,precinct
-Oneida County,WHITESTOWN 15,388,322,48,0,10,19,2,4,349,314,51,9,18,7,4,256,388,58,7,9,13,1,3,18,25,Oneida County,precinct
-Oneida County,WHITESTOWN 16,428,473,44,0,8,30,2,1,408,432,50,10,28,2,1,271,551,50,15,7,16,3,8,13,26,Oneida County,precinct
-Oneida County,WHITESTOWN 2,101,93,10,0,8,11,1,0,96,82,13,8,13,3,0,61,114,17,2,5,5,0,4,4,11,Oneida County,precinct
-Oneida County,WHITESTOWN 3,248,179,22,0,8,12,5,2,237,157,20,9,10,4,1,154,231,22,5,3,7,3,5,9,18,Oneida County,precinct
-Oneida County,WHITESTOWN 4,180,144,16,0,5,16,2,3,156,147,13,7,19,1,3,117,177,15,2,7,4,3,2,9,24,Oneida County,precinct
-Oneida County,WHITESTOWN 5,151,131,16,0,7,8,2,2,143,124,21,3,10,5,1,95,152,23,5,2,8,2,2,6,19,Oneida County,precinct
-Oneida County,WHITESTOWN 6,271,192,21,0,11,19,3,1,240,193,20,16,15,6,0,149,274,29,4,5,6,2,6,10,21,Oneida County,precinct
-Oneida County,WHITESTOWN 7,138,175,11,0,6,12,1,1,121,169,9,9,11,1,1,85,208,14,3,3,3,2,2,6,13,Oneida County,precinct
-Oneida County,WHITESTOWN 8,207,197,48,0,7,17,4,1,184,196,47,9,17,5,2,112,265,45,6,3,9,0,0,12,29,Oneida County,precinct
-Oneida County,WHITESTOWN 9,225,314,38,0,2,23,5,4,219,283,41,7,18,4,5,142,350,42,7,2,12,3,5,8,25,Oneida County,precinct
+Oneida County,ANNSVILLE 1,152,368,34,0,11,13,7,6,146,325,32,4,19,3,5,84,399,35,11,3,6,3,4,7,20,Oneida County,ANNSVILLE 1
+Oneida County,ANNSVILLE 2,63,146,17,0,2,3,1,2,67,117,14,4,4,2,0,40,147,13,6,3,1,1,2,7,10,Oneida County,ANNSVILLE 2
+Oneida County,ANNSVILLE 3,21,88,9,0,0,2,0,1,25,68,10,0,3,0,2,12,83,8,0,0,1,0,0,0,10,Oneida County,ANNSVILLE 3
+Oneida County,AUGUSTA 1,91,215,27,0,5,12,2,3,98,189,22,7,12,3,3,57,232,28,4,1,6,1,1,10,10,Oneida County,AUGUSTA 1
+Oneida County,AUGUSTA 2,101,175,25,0,6,8,1,1,102,148,25,9,11,1,2,69,191,26,5,1,2,1,2,8,11,Oneida County,AUGUSTA 2
+Oneida County,AVA 1,44,150,9,0,3,4,1,1,45,142,5,5,5,0,0,18,161,15,1,1,1,0,4,3,9,Oneida County,AVA 1
+Oneida County,BOONVILLE 1,239,312,35,0,5,18,2,4,208,303,35,7,35,3,2,132,371,39,6,2,11,2,6,18,30,Oneida County,BOONVILLE 1
+Oneida County,BOONVILLE 2,178,267,28,0,6,6,5,2,166,254,25,8,11,2,0,114,294,33,6,1,3,1,1,12,27,Oneida County,BOONVILLE 2
+Oneida County,BOONVILLE 3,57,146,12,0,1,3,1,0,61,131,11,5,7,0,0,41,144,15,3,0,2,0,1,2,10,Oneida County,BOONVILLE 3
+Oneida County,BOONVILLE 4,66,139,10,0,4,5,2,0,65,127,9,4,5,1,1,46,147,11,5,1,4,2,1,2,4,Oneida County,BOONVILLE 4
+Oneida County,BRIDGEWATER 1,135,266,27,0,9,13,4,2,130,235,30,12,16,5,2,85,276,31,7,1,7,1,2,5,27,Oneida County,BRIDGEWATER 1
+Oneida County,CAMDEN 1,215,355,34,0,10,18,0,2,192,340,30,7,19,4,2,135,397,29,5,6,5,1,9,15,30,Oneida County,CAMDEN 1
+Oneida County,CAMDEN 2,170,338,46,0,9,13,2,1,160,316,50,8,14,2,0,114,350,43,6,1,9,1,2,11,36,Oneida County,CAMDEN 2
+Oneida County,CAMDEN 3,101,241,19,0,1,2,0,2,97,214,23,5,6,2,2,70,225,21,6,2,2,2,1,7,34,Oneida County,CAMDEN 3
+Oneida County,DEERFIELD 1,366,350,36,0,9,19,3,6,347,321,41,10,22,7,2,246,405,40,10,7,4,4,2,15,27,Oneida County,DEERFIELD 1
+Oneida County,DEERFIELD 2,221,364,48,0,5,17,2,3,220,336,46,8,15,3,0,129,412,52,8,4,9,1,1,21,12,Oneida County,DEERFIELD 2
+Oneida County,DEERFIELD 3,285,251,26,0,11,20,5,2,257,252,28,17,14,5,4,183,320,31,9,9,7,2,1,8,22,Oneida County,DEERFIELD 3
+Oneida County,FLORENCE 1,73,210,15,0,7,7,3,5,79,184,13,7,7,1,5,50,210,14,3,1,4,1,2,5,25,Oneida County,FLORENCE 1
+Oneida County,FLOYD 1,188,304,32,0,12,16,3,3,176,283,33,16,17,4,2,117,342,34,8,5,7,4,7,10,16,Oneida County,FLOYD 1
+Oneida County,FLOYD 2,165,305,35,0,2,11,1,5,160,267,37,4,17,1,2,92,329,37,5,1,1,1,2,13,32,Oneida County,FLOYD 2
+Oneida County,FLOYD 3,115,226,25,0,2,11,1,2,121,203,28,3,13,2,1,63,233,28,5,1,7,2,1,7,30,Oneida County,FLOYD 3
+Oneida County,FORESTPORT 1,164,302,30,0,8,7,1,2,160,278,29,6,13,0,1,98,327,28,4,4,5,0,4,5,25,Oneida County,FORESTPORT 1
+Oneida County,FORESTPORT 2,73,124,9,0,4,4,2,1,72,110,8,5,5,2,1,44,130,11,1,1,3,1,2,7,11,Oneida County,FORESTPORT 2
+Oneida County,KIRKLAND 1,251,211,24,0,6,8,1,2,237,203,25,5,9,4,1,188,249,27,8,1,4,1,0,6,14,Oneida County,KIRKLAND 1
+Oneida County,KIRKLAND 10,209,141,14,0,6,9,0,0,199,135,13,7,11,1,0,152,153,23,10,4,6,0,1,10,13,Oneida County,KIRKLAND 10
+Oneida County,KIRKLAND 2,212,179,20,0,4,12,1,2,195,177,19,7,11,1,3,148,203,23,6,4,6,2,1,13,10,Oneida County,KIRKLAND 2
+Oneida County,KIRKLAND 3,546,90,7,0,23,9,1,2,536,80,7,19,11,4,1,475,100,8,17,18,7,2,1,16,6,Oneida County,KIRKLAND 3
+Oneida County,KIRKLAND 4,198,106,16,0,6,7,3,2,185,99,19,6,14,5,1,145,118,16,8,2,6,9,3,8,11,Oneida County,KIRKLAND 4
+Oneida County,KIRKLAND 5,121,89,7,0,2,5,2,1,117,88,9,1,4,5,0,88,103,10,5,3,3,3,0,3,4,Oneida County,KIRKLAND 5
+Oneida County,KIRKLAND 6,367,173,10,0,17,18,2,2,338,181,8,21,13,5,6,263,216,11,18,18,8,3,1,23,14,Oneida County,KIRKLAND 6
+Oneida County,KIRKLAND 7,286,103,16,0,12,12,2,2,270,101,17,14,12,1,2,208,129,21,9,9,6,1,2,15,15,Oneida County,KIRKLAND 7
+Oneida County,KIRKLAND 8,172,183,25,0,8,8,5,0,167,171,24,7,7,7,0,124,189,22,11,7,6,7,1,9,9,Oneida County,KIRKLAND 8
+Oneida County,KIRKLAND 9,234,112,21,0,8,16,1,0,221,107,20,7,17,1,3,178,136,22,9,5,8,1,0,14,7,Oneida County,KIRKLAND 9
+Oneida County,LEE 1,170,256,33,0,3,6,1,3,168,237,34,5,8,0,1,120,278,34,7,1,5,0,0,6,20,Oneida County,LEE 1
+Oneida County,LEE 2,202,309,23,0,5,8,0,6,182,296,26,8,8,3,4,122,343,26,4,2,6,1,6,2,23,Oneida County,LEE 2
+Oneida County,LEE 3,48,133,21,0,3,8,0,1,60,118,18,2,8,0,1,27,144,22,3,2,4,1,0,3,9,Oneida County,LEE 3
+Oneida County,LEE 4,199,224,28,0,3,15,0,4,180,225,28,4,9,1,1,137,261,34,6,1,6,1,6,2,14,Oneida County,LEE 4
+Oneida County,LEE 5,349,431,48,0,8,26,3,3,341,400,50,8,19,4,3,245,481,55,6,5,22,2,4,18,27,Oneida County,LEE 5
+Oneida County,MARCY 1,293,376,41,0,12,24,3,1,279,350,36,7,28,2,6,189,442,46,8,7,10,2,3,8,18,Oneida County,MARCY 1
+Oneida County,MARCY 2,217,310,49,0,15,18,5,2,211,284,43,18,25,5,2,114,359,51,5,7,8,2,7,14,37,Oneida County,MARCY 2
+Oneida County,MARCY 3,295,389,41,0,7,21,2,3,255,383,40,8,17,3,3,161,456,49,11,3,11,2,5,12,36,Oneida County,MARCY 3
+Oneida County,MARCY 4,262,329,45,0,9,16,2,2,245,311,47,7,15,0,2,147,399,42,3,5,11,1,7,11,27,Oneida County,MARCY 4
+Oneida County,MARSHALL 1,159,193,27,0,9,8,0,1,156,173,25,7,10,2,2,99,214,29,7,5,5,1,3,12,14,Oneida County,MARSHALL 1
+Oneida County,MARSHALL 2,162,192,22,0,3,11,2,0,151,183,23,9,7,1,1,86,218,27,9,1,4,3,2,14,20,Oneida County,MARSHALL 2
+Oneida County,NEW HARTFORD 1-1,323,320,28,0,6,18,1,3,309,313,32,5,17,1,2,213,391,31,6,4,7,1,5,16,13,Oneida County,NEW HARTFORD 1-1
+Oneida County,NEW HARTFORD 1-2,193,203,17,0,6,15,1,1,184,198,18,5,10,5,2,121,241,20,7,7,4,2,2,3,24,Oneida County,NEW HARTFORD 1-2
+Oneida County,NEW HARTFORD 1-3,400,267,25,0,10,21,2,3,375,264,25,10,20,3,5,261,341,34,8,6,11,2,2,14,35,Oneida County,NEW HARTFORD 1-3
+Oneida County,NEW HARTFORD 1-4,253,190,27,0,6,18,0,1,250,182,23,4,12,5,2,179,228,34,10,0,5,2,1,11,19,Oneida County,NEW HARTFORD 1-4
+Oneida County,NEW HARTFORD 1-5,318,216,22,0,6,20,4,1,280,218,23,7,19,5,2,215,272,23,11,4,11,1,3,18,12,Oneida County,NEW HARTFORD 1-5
+Oneida County,NEW HARTFORD 2-1,251,205,21,0,13,16,2,0,233,183,23,16,16,3,0,174,234,27,8,7,7,3,1,18,17,Oneida County,NEW HARTFORD 2-1
+Oneida County,NEW HARTFORD 2-2,293,242,30,0,6,16,2,0,260,239,28,10,14,4,0,192,294,31,6,6,9,2,2,14,17,Oneida County,NEW HARTFORD 2-2
+Oneida County,NEW HARTFORD 2-3,320,293,29,0,7,13,1,1,298,285,30,8,11,2,1,235,337,37,6,6,4,3,2,5,12,Oneida County,NEW HARTFORD 2-3
+Oneida County,NEW HARTFORD 2-4,429,311,30,0,13,24,4,1,392,319,30,8,16,4,1,300,393,31,11,10,12,4,3,13,15,Oneida County,NEW HARTFORD 2-4
+Oneida County,NEW HARTFORD 3-1,320,198,20,0,6,24,3,3,295,190,18,10,25,4,3,232,247,23,11,4,14,4,6,7,10,Oneida County,NEW HARTFORD 3-1
+Oneida County,NEW HARTFORD 3-2,395,243,31,0,6,15,2,6,359,246,33,7,20,2,2,280,305,31,12,3,8,1,1,16,19,Oneida County,NEW HARTFORD 3-2
+Oneida County,NEW HARTFORD 3-3,232,164,17,0,19,10,3,1,224,162,16,14,7,2,2,166,190,22,9,11,2,2,4,9,16,Oneida County,NEW HARTFORD 3-3
+Oneida County,NEW HARTFORD 3-4,301,243,18,0,3,17,3,0,279,251,22,2,7,2,3,213,301,22,8,2,11,4,2,10,3,Oneida County,NEW HARTFORD 3-4
+Oneida County,NEW HARTFORD 4-1,362,233,26,0,4,15,4,0,311,230,25,6,19,4,2,259,259,31,12,2,12,4,4,12,16,Oneida County,NEW HARTFORD 4-1
+Oneida County,NEW HARTFORD 4-2,198,134,19,0,5,11,2,1,192,125,17,3,11,3,1,141,169,17,9,0,1,2,3,6,13,Oneida County,NEW HARTFORD 4-2
+Oneida County,NEW HARTFORD 4-3,167,142,21,0,5,11,2,0,154,147,19,5,11,0,2,112,163,22,3,2,7,0,4,7,14,Oneida County,NEW HARTFORD 4-3
+Oneida County,NEW HARTFORD 4-4,507,420,48,0,13,18,1,3,463,401,49,12,26,3,2,363,476,57,7,11,9,4,0,19,27,Oneida County,NEW HARTFORD 4-4
+Oneida County,PARIS 1,210,241,29,0,11,16,3,1,214,218,33,9,16,0,2,120,286,36,7,7,10,2,2,17,12,Oneida County,PARIS 1
+Oneida County,PARIS 2,239,338,54,0,6,19,2,1,221,322,51,6,21,3,1,139,392,54,7,4,6,1,2,14,23,Oneida County,PARIS 2
+Oneida County,PARIS 3,286,370,51,0,12,24,1,3,255,367,46,13,30,4,3,175,419,53,18,4,18,2,3,6,30,Oneida County,PARIS 3
+Oneida County,REMSEN 1,248,460,47,0,13,21,4,1,242,424,43,8,20,6,3,141,483,50,8,3,9,4,5,7,70,Oneida County,REMSEN 1
+Oneida County,ROME 1-1,141,101,12,0,4,14,1,1,124,103,15,5,12,2,2,91,132,12,4,2,3,2,3,8,13,Oneida County,ROME 1-1
+Oneida County,ROME 1-2,126,121,9,0,5,11,1,0,110,117,12,7,10,1,1,90,135,17,0,6,4,0,0,3,13,Oneida County,ROME 1-2
+Oneida County,ROME 1-3,163,132,20,0,3,15,3,0,157,114,18,2,14,1,2,122,152,19,9,1,6,1,2,10,12,Oneida County,ROME 1-3
+Oneida County,ROME 1-4,124,117,21,0,3,8,0,2,108,112,15,8,7,0,0,89,133,22,2,1,5,1,2,2,13,Oneida County,ROME 1-4
+Oneida County,ROME 2-1,214,289,37,0,7,21,2,3,186,291,32,9,18,2,3,135,341,34,5,2,9,3,3,6,24,Oneida County,ROME 2-1
+Oneida County,ROME 2-2,47,37,3,0,0,1,0,0,43,39,2,0,1,0,0,38,36,2,2,0,1,0,0,0,8,Oneida County,ROME 2-2
+Oneida County,ROME 2-3,26,37,3,0,3,1,3,1,24,38,2,1,3,0,2,22,42,2,2,1,0,0,0,0,5,Oneida County,ROME 2-3
+Oneida County,ROME 2-4,67,67,5,0,4,1,1,1,58,64,4,2,3,2,1,42,73,6,2,2,0,0,1,3,13,Oneida County,ROME 2-4
+Oneida County,ROME 2-5,107,49,1,0,5,5,0,0,91,47,5,5,4,0,0,79,66,3,2,1,5,2,0,3,4,Oneida County,ROME 2-5
+Oneida County,ROME 3-1,68,55,8,0,2,5,0,0,60,51,5,1,8,0,0,49,63,10,1,0,4,1,1,2,5,Oneida County,ROME 3-1
+Oneida County,ROME 3-2,38,82,15,0,1,3,1,2,41,74,13,0,5,3,0,27,90,12,2,1,3,1,1,2,5,Oneida County,ROME 3-2
+Oneida County,ROME 3-3,189,251,24,0,3,9,1,6,164,241,25,8,8,4,5,124,279,33,6,4,3,2,4,6,22,Oneida County,ROME 3-3
+Oneida County,ROME 3-4,128,144,15,0,11,4,2,2,112,138,15,11,5,2,3,100,150,15,4,3,1,1,2,6,20,Oneida County,ROME 3-4
+Oneida County,ROME 3-5,15,13,3,0,0,2,0,0,14,12,2,0,2,0,0,11,14,2,1,0,0,0,0,2,2,Oneida County,ROME 3-5
+Oneida County,ROME 4-1,69,51,8,0,3,2,1,0,68,40,8,2,2,1,0,44,55,7,2,2,2,1,1,4,16,Oneida County,ROME 4-1
+Oneida County,ROME 4-2,197,154,16,0,6,9,1,2,185,136,17,8,9,2,3,150,166,22,4,6,6,2,2,8,11,Oneida County,ROME 4-2
+Oneida County,ROME 4-3,114,105,7,0,9,7,4,2,113,94,9,10,6,2,1,80,114,12,7,4,5,3,1,6,12,Oneida County,ROME 4-3
+Oneida County,ROME 4-4,142,150,16,0,5,11,1,2,125,153,12,5,12,1,0,96,167,19,9,3,5,1,3,3,16,Oneida County,ROME 4-4
+Oneida County,ROME 5-1,147,82,12,0,5,8,1,1,138,78,13,2,9,2,1,117,98,12,3,4,4,2,0,2,13,Oneida County,ROME 5-1
+Oneida County,ROME 5-2,146,108,22,0,4,11,4,1,140,105,20,2,10,2,1,94,141,22,4,1,5,1,2,5,19,Oneida County,ROME 5-2
+Oneida County,ROME 5-3,192,201,15,0,9,9,0,2,179,185,20,9,7,0,3,127,225,29,4,6,4,1,5,4,10,Oneida County,ROME 5-3
+Oneida County,ROME 5-4,290,279,26,0,11,11,4,1,272,262,22,14,21,3,0,209,311,29,17,5,4,3,6,7,20,Oneida County,ROME 5-4
+Oneida County,ROME 6-1,106,142,16,0,2,9,0,0,106,131,17,1,6,0,1,72,160,18,1,1,2,1,0,4,6,Oneida County,ROME 6-1
+Oneida County,ROME 6-2,211,183,23,0,2,16,3,1,188,187,25,4,17,2,2,148,221,27,2,2,11,4,3,7,9,Oneida County,ROME 6-2
+Oneida County,ROME 6-3,271,314,25,0,1,19,1,1,250,292,30,4,22,2,5,196,351,22,9,2,11,2,2,9,16,Oneida County,ROME 6-3
+Oneida County,ROME 6-4,312,340,41,0,7,21,4,2,271,342,38,8,26,5,1,205,407,41,3,3,16,5,2,11,24,Oneida County,ROME 6-4
+Oneida County,ROME 7-1,78,128,16,0,3,12,2,0,75,122,15,4,13,2,1,49,143,17,4,0,8,2,0,4,9,Oneida County,ROME 7-1
+Oneida County,ROME 7-2,192,161,16,0,4,9,0,1,191,138,17,4,12,1,1,145,177,17,5,1,6,1,3,7,17,Oneida County,ROME 7-2
+Oneida County,ROME 7-3,222,183,17,0,9,9,4,4,191,192,18,5,11,3,4,140,244,17,8,1,5,0,3,7,16,Oneida County,ROME 7-3
+Oneida County,ROME 7-4,156,121,8,0,6,9,2,0,139,115,7,6,10,2,1,121,144,10,6,2,3,0,3,4,4,Oneida County,ROME 7-4
+Oneida County,ROME 7-5,203,125,18,0,5,17,2,3,187,131,20,4,11,2,3,149,153,26,12,2,7,2,1,10,3,Oneida County,ROME 7-5
+Oneida County,SANGERFIELD 1,244,164,13,0,7,8,2,2,239,153,16,7,9,2,4,146,210,18,7,6,5,0,1,15,25,Oneida County,SANGERFIELD 1
+Oneida County,SANGERFIELD 2,135,186,16,0,7,9,1,1,134,172,19,8,7,0,0,76,208,28,4,6,1,0,3,5,15,Oneida County,SANGERFIELD 2
+Oneida County,STEUBEN 1,129,277,33,0,6,7,2,9,138,236,30,8,14,5,5,83,277,29,2,4,2,1,3,5,55,Oneida County,STEUBEN 1
+Oneida County,TRENTON 1,170,233,31,0,10,13,4,0,161,215,37,5,15,1,1,121,257,29,7,2,3,1,1,11,28,Oneida County,TRENTON 1
+Oneida County,TRENTON 2,275,304,32,0,15,11,6,3,249,299,31,14,13,5,3,173,340,33,10,7,3,3,5,14,39,Oneida County,TRENTON 2
+Oneida County,TRENTON 3,232,303,43,0,8,17,4,4,215,289,43,13,20,5,2,154,332,32,7,8,12,4,3,8,36,Oneida County,TRENTON 3
+Oneida County,TRENTON 4,96,186,19,0,6,9,2,2,90,173,9,6,10,3,1,57,192,19,4,3,7,1,0,8,22,Oneida County,TRENTON 4
+Oneida County,UTICA 1-1,58,26,1,0,1,1,0,1,52,19,1,2,3,0,1,46,22,2,3,0,2,0,2,4,3,Oneida County,UTICA 1-1
+Oneida County,UTICA 1-2,77,15,2,0,1,4,1,0,68,16,2,1,4,0,1,65,21,2,0,1,4,0,1,0,1,Oneida County,UTICA 1-2
+Oneida County,UTICA 1-3,100,19,4,0,4,1,2,1,88,18,5,2,0,2,2,87,19,6,2,2,0,2,1,1,4,Oneida County,UTICA 1-3
+Oneida County,UTICA 1-4,219,42,10,0,7,7,2,1,193,48,8,10,5,4,1,192,56,9,4,4,4,0,1,6,4,Oneida County,UTICA 1-4
+Oneida County,UTICA 1-5,118,26,1,0,5,3,0,1,103,17,3,2,2,1,1,102,28,1,0,3,2,0,0,2,1,Oneida County,UTICA 1-5
+Oneida County,UTICA 1-6,84,19,1,0,1,2,0,0,74,20,3,1,0,0,0,76,21,1,0,2,1,0,0,0,3,Oneida County,UTICA 1-6
+Oneida County,UTICA 1-7,267,44,4,0,2,4,2,2,230,45,3,4,3,0,2,229,53,4,1,2,2,1,2,5,8,Oneida County,UTICA 1-7
+Oneida County,UTICA 1-8,92,36,4,0,8,4,0,0,90,30,5,8,4,1,0,77,34,5,3,8,1,3,2,2,6,Oneida County,UTICA 1-8
+Oneida County,UTICA 2-1,194,108,7,0,5,4,3,1,191,95,5,4,4,3,2,152,130,9,1,0,2,1,1,4,15,Oneida County,UTICA 2-1
+Oneida County,UTICA 2-2,105,41,2,0,2,4,0,1,94,39,3,1,4,0,0,84,46,2,4,1,4,1,1,1,5,Oneida County,UTICA 2-2
+Oneida County,UTICA 2-3,197,92,13,0,8,8,2,1,191,86,11,9,9,0,2,159,113,9,6,5,2,1,0,6,19,Oneida County,UTICA 2-3
+Oneida County,UTICA 2-4,265,86,8,0,8,11,3,1,226,85,11,8,10,4,2,218,98,10,4,6,6,2,2,9,15,Oneida County,UTICA 2-4
+Oneida County,UTICA 2-5,144,72,17,0,6,3,4,3,143,65,19,7,4,3,1,115,88,20,3,2,2,1,1,5,11,Oneida County,UTICA 2-5
+Oneida County,UTICA 2-6,68,20,10,0,2,1,1,0,58,21,7,1,1,2,0,54,25,9,2,0,2,0,1,2,1,Oneida County,UTICA 2-6
+Oneida County,UTICA 2-7,113,39,4,0,2,2,0,0,102,33,2,3,3,0,0,83,37,6,9,0,2,0,1,2,4,Oneida County,UTICA 2-7
+Oneida County,UTICA 2-8,54,14,1,0,0,1,0,2,44,14,2,0,2,0,1,47,12,1,1,1,2,0,0,1,4,Oneida County,UTICA 2-8
+Oneida County,UTICA 3-1,230,107,9,0,7,9,2,2,206,108,12,8,10,3,2,160,138,15,5,7,3,0,4,9,16,Oneida County,UTICA 3-1
+Oneida County,UTICA 3-10,127,41,5,0,1,5,1,0,106,44,8,5,5,1,0,101,48,6,4,1,4,0,1,4,8,Oneida County,UTICA 3-10
+Oneida County,UTICA 3-2,192,104,20,0,4,12,5,2,178,100,20,4,12,3,1,137,138,24,4,3,6,4,0,4,12,Oneida County,UTICA 3-2
+Oneida County,UTICA 3-3,318,172,28,0,9,18,7,4,295,175,28,5,26,9,2,210,239,35,10,3,12,7,8,7,18,Oneida County,UTICA 3-3
+Oneida County,UTICA 3-4,315,167,22,0,7,13,1,2,282,175,24,8,15,1,2,228,212,26,4,10,10,1,3,8,12,Oneida County,UTICA 3-4
+Oneida County,UTICA 3-5,202,74,12,0,8,10,3,2,186,69,11,7,9,3,0,148,97,10,7,4,8,1,4,8,10,Oneida County,UTICA 3-5
+Oneida County,UTICA 3-6,343,157,11,0,12,13,2,1,305,162,15,12,14,2,2,249,201,14,12,9,9,2,3,15,18,Oneida County,UTICA 3-6
+Oneida County,UTICA 3-7,191,51,6,0,9,4,0,1,179,53,5,6,3,2,1,145,67,8,8,5,3,2,1,2,11,Oneida County,UTICA 3-7
+Oneida County,UTICA 3-8,172,57,4,0,5,7,1,0,160,59,6,5,7,2,0,133,72,3,8,3,6,1,0,6,9,Oneida County,UTICA 3-8
+Oneida County,UTICA 3-9,261,99,15,0,8,13,4,0,249,94,16,6,15,4,0,191,125,17,6,7,12,5,1,5,22,Oneida County,UTICA 3-9
+Oneida County,UTICA 4-1,181,46,5,0,2,7,0,0,155,52,5,3,6,1,0,154,62,4,2,3,5,1,0,3,5,Oneida County,UTICA 4-1
+Oneida County,UTICA 4-2,178,59,5,0,5,5,2,1,154,71,5,5,3,1,0,125,92,4,3,2,2,2,0,8,6,Oneida County,UTICA 4-2
+Oneida County,UTICA 4-3,228,107,4,0,7,2,2,0,186,114,5,7,3,0,0,159,153,10,3,3,1,1,2,6,4,Oneida County,UTICA 4-3
+Oneida County,UTICA 4-4,130,51,3,0,1,3,1,0,100,57,3,2,3,0,1,94,70,5,0,2,0,0,2,1,2,Oneida County,UTICA 4-4
+Oneida County,UTICA 4-5,187,83,8,0,4,7,1,1,147,96,8,1,6,1,1,128,129,11,1,3,1,1,2,3,6,Oneida County,UTICA 4-5
+Oneida County,UTICA 4-6,283,99,7,0,3,2,0,0,245,98,7,5,7,1,0,221,123,7,2,3,0,0,0,6,17,Oneida County,UTICA 4-6
+Oneida County,UTICA 4-7,186,55,4,0,1,4,1,1,158,56,3,1,3,2,1,150,64,7,5,1,2,0,1,0,4,Oneida County,UTICA 4-7
+Oneida County,UTICA 4-8,183,74,5,0,3,8,0,0,157,77,5,1,4,1,1,132,103,6,1,2,3,0,2,5,6,Oneida County,UTICA 4-8
+Oneida County,UTICA 4-9,263,156,8,0,4,11,0,1,192,195,11,4,5,1,2,150,223,19,1,2,3,1,3,8,16,Oneida County,UTICA 4-9
+Oneida County,UTICA 5-1,207,30,4,0,16,7,2,2,185,26,4,13,11,8,0,191,33,4,6,11,4,2,0,3,2,Oneida County,UTICA 5-1
+Oneida County,UTICA 5-2,269,51,4,0,8,12,0,0,242,51,1,9,11,8,2,225,57,1,10,7,7,3,2,5,17,Oneida County,UTICA 5-2
+Oneida County,UTICA 5-3,122,17,1,0,1,3,1,0,109,16,2,3,1,1,0,114,19,3,1,1,0,1,0,2,1,Oneida County,UTICA 5-3
+Oneida County,UTICA 5-4,208,30,0,0,3,4,0,2,170,30,2,6,4,3,0,184,32,1,3,4,3,0,1,3,2,Oneida County,UTICA 5-4
+Oneida County,UTICA 5-5,308,52,3,0,11,8,2,0,268,58,8,11,9,2,1,252,67,7,9,9,7,1,1,4,7,Oneida County,UTICA 5-5
+Oneida County,UTICA 5-6,234,34,4,0,9,6,1,1,199,29,7,5,7,2,0,193,40,6,2,3,6,2,1,6,4,Oneida County,UTICA 5-6
+Oneida County,UTICA 5-7,70,30,2,0,3,2,1,0,67,26,2,5,1,0,0,53,33,1,1,3,2,0,1,1,2,Oneida County,UTICA 5-7
+Oneida County,UTICA 6-1,181,137,9,0,2,8,2,1,161,129,9,5,10,3,1,130,158,14,1,3,4,0,0,4,16,Oneida County,UTICA 6-1
+Oneida County,UTICA 6-2,328,249,24,0,12,12,2,1,311,238,23,8,16,3,2,234,294,30,4,3,9,3,7,9,27,Oneida County,UTICA 6-2
+Oneida County,UTICA 6-3,196,143,16,0,4,11,1,0,180,138,14,6,12,1,3,122,171,21,2,4,4,1,6,8,25,Oneida County,UTICA 6-3
+Oneida County,UTICA 6-4,175,114,7,0,3,8,1,2,158,106,11,1,11,2,0,127,140,11,4,1,4,1,3,3,10,Oneida County,UTICA 6-4
+Oneida County,UTICA 6-5,247,203,14,0,8,13,2,3,230,196,14,10,14,2,3,163,250,16,3,1,11,2,8,6,23,Oneida County,UTICA 6-5
+Oneida County,UTICA 6-6,281,198,14,0,8,18,2,2,262,187,16,7,17,3,1,193,249,22,1,1,11,2,3,9,19,Oneida County,UTICA 6-6
+Oneida County,UTICA 6-7,265,146,12,0,6,7,0,0,239,139,13,7,7,4,0,195,175,20,5,3,1,0,2,4,14,Oneida County,UTICA 6-7
+Oneida County,UTICA 6-8,319,175,10,0,2,8,0,2,274,178,11,2,4,3,1,242,224,12,2,2,1,1,2,6,13,Oneida County,UTICA 6-8
+Oneida County,UTICA 6-9,129,43,5,0,2,5,4,0,105,46,4,1,6,5,0,101,54,5,1,2,2,2,1,5,3,Oneida County,UTICA 6-9
+Oneida County,VERNON 1,155,315,47,0,4,10,2,4,162,267,48,8,12,5,0,119,313,46,8,4,7,1,3,7,18,Oneida County,VERNON 1
+Oneida County,VERNON 2,245,359,64,0,9,15,1,8,235,333,59,10,21,5,6,165,395,50,13,6,11,0,8,12,39,Oneida County,VERNON 2
+Oneida County,VERNON 3,323,327,47,0,11,26,5,4,302,324,41,9,28,6,5,209,382,53,11,4,13,4,3,30,30,Oneida County,VERNON 3
+Oneida County,VERNON 4,378,419,44,0,11,32,2,1,384,378,41,13,37,4,1,269,458,51,13,3,21,0,8,26,27,Oneida County,VERNON 4
+Oneida County,VERNON 5,224,293,29,0,6,20,4,1,228,272,31,11,16,2,2,145,326,35,17,1,6,1,4,17,25,Oneida County,VERNON 5
+Oneida County,VERONA 1,254,391,69,0,8,24,4,6,243,381,67,10,24,2,10,145,441,73,12,5,12,3,10,14,39,Oneida County,VERONA 1
+Oneida County,VERONA 2,131,212,38,0,9,6,2,0,117,201,33,8,8,2,0,77,219,33,6,3,5,1,0,6,43,Oneida County,VERONA 2
+Oneida County,VERONA 3,131,183,33,0,6,6,1,4,124,177,32,3,7,3,4,88,192,36,12,4,2,0,5,3,20,Oneida County,VERONA 3
+Oneida County,VERONA 4,61,184,31,0,4,5,2,1,68,160,33,6,8,2,1,41,190,29,5,1,2,0,3,2,15,Oneida County,VERONA 4
+Oneida County,VERONA 5,132,180,29,0,4,5,1,1,128,176,27,7,7,0,2,89,196,27,3,3,2,0,5,16,9,Oneida County,VERONA 5
+Oneida County,VERONA 6,88,98,14,0,1,1,0,1,88,90,13,0,1,0,1,64,110,11,5,0,1,1,1,6,5,Oneida County,VERONA 6
+Oneida County,VIENNA 1,157,282,60,0,9,15,2,3,162,264,60,4,16,4,4,111,295,58,8,4,6,1,2,13,20,Oneida County,VIENNA 1
+Oneida County,VIENNA 2,118,228,30,0,8,7,1,3,111,210,27,8,9,2,3,80,236,25,8,2,0,2,1,7,26,Oneida County,VIENNA 2
+Oneida County,VIENNA 3,179,363,41,0,11,16,3,4,186,336,34,13,14,4,5,123,361,43,7,3,6,0,9,17,35,Oneida County,VIENNA 3
+Oneida County,VIENNA 4,164,273,24,0,3,7,3,3,157,251,19,6,10,2,4,113,286,27,4,4,7,1,2,9,15,Oneida County,VIENNA 4
+Oneida County,WESTERN 1,39,141,13,0,3,1,1,3,37,133,15,1,3,2,0,14,153,13,2,0,1,0,0,2,17,Oneida County,WESTERN 1
+Oneida County,WESTERN 2,96,190,23,0,5,6,3,1,95,176,24,5,10,2,3,69,207,22,3,4,1,1,3,3,14,Oneida County,WESTERN 2
+Oneida County,WESTERN 3,89,155,28,0,2,2,3,2,88,146,29,4,1,1,2,58,180,28,2,0,2,2,1,2,3,Oneida County,WESTERN 3
+Oneida County,WESTMORELAND 1,185,197,35,0,7,10,2,4,183,184,31,9,11,3,2,122,234,37,8,4,6,0,4,6,15,Oneida County,WESTMORELAND 1
+Oneida County,WESTMORELAND 2,344,499,52,0,11,21,4,3,310,488,52,13,20,5,5,197,564,55,4,5,9,1,8,22,55,Oneida County,WESTMORELAND 2
+Oneida County,WESTMORELAND 3,197,352,46,0,10,16,3,9,193,333,40,12,19,2,8,108,395,48,7,3,6,2,9,12,43,Oneida County,WESTMORELAND 3
+Oneida County,WESTMORELAND 4,196,268,50,0,5,12,5,4,186,258,49,7,15,1,3,109,305,59,4,3,3,1,6,18,26,Oneida County,WESTMORELAND 4
+Oneida County,WHITESTOWN 1,106,83,8,0,2,13,1,1,94,75,9,4,13,4,1,64,102,6,1,0,6,3,0,7,17,Oneida County,WHITESTOWN 1
+Oneida County,WHITESTOWN 10,146,113,18,0,6,17,0,2,133,99,22,9,13,1,2,99,139,21,5,3,10,2,1,7,10,Oneida County,WHITESTOWN 10
+Oneida County,WHITESTOWN 11,148,171,20,0,2,12,0,0,146,162,17,7,8,1,3,110,182,16,5,3,5,2,2,1,19,Oneida County,WHITESTOWN 11
+Oneida County,WHITESTOWN 12,251,197,27,0,3,21,2,2,227,195,28,7,19,1,1,165,248,27,4,4,15,1,2,6,16,Oneida County,WHITESTOWN 12
+Oneida County,WHITESTOWN 13,115,111,11,0,7,8,1,3,112,110,8,5,9,1,3,80,121,11,4,0,4,1,2,5,21,Oneida County,WHITESTOWN 13
+Oneida County,WHITESTOWN 14,349,319,39,0,18,26,1,2,312,310,36,21,23,2,5,226,407,40,2,8,12,2,4,17,23,Oneida County,WHITESTOWN 14
+Oneida County,WHITESTOWN 15,388,322,48,0,10,19,2,4,349,314,51,9,18,7,4,256,388,58,7,9,13,1,3,18,25,Oneida County,WHITESTOWN 15
+Oneida County,WHITESTOWN 16,428,473,44,0,8,30,2,1,408,432,50,10,28,2,1,271,551,50,15,7,16,3,8,13,26,Oneida County,WHITESTOWN 16
+Oneida County,WHITESTOWN 2,101,93,10,0,8,11,1,0,96,82,13,8,13,3,0,61,114,17,2,5,5,0,4,4,11,Oneida County,WHITESTOWN 2
+Oneida County,WHITESTOWN 3,248,179,22,0,8,12,5,2,237,157,20,9,10,4,1,154,231,22,5,3,7,3,5,9,18,Oneida County,WHITESTOWN 3
+Oneida County,WHITESTOWN 4,180,144,16,0,5,16,2,3,156,147,13,7,19,1,3,117,177,15,2,7,4,3,2,9,24,Oneida County,WHITESTOWN 4
+Oneida County,WHITESTOWN 5,151,131,16,0,7,8,2,2,143,124,21,3,10,5,1,95,152,23,5,2,8,2,2,6,19,Oneida County,WHITESTOWN 5
+Oneida County,WHITESTOWN 6,271,192,21,0,11,19,3,1,240,193,20,16,15,6,0,149,274,29,4,5,6,2,6,10,21,Oneida County,WHITESTOWN 6
+Oneida County,WHITESTOWN 7,138,175,11,0,6,12,1,1,121,169,9,9,11,1,1,85,208,14,3,3,3,2,2,6,13,Oneida County,WHITESTOWN 7
+Oneida County,WHITESTOWN 8,207,197,48,0,7,17,4,1,184,196,47,9,17,5,2,112,265,45,6,3,9,0,0,12,29,Oneida County,WHITESTOWN 8
+Oneida County,WHITESTOWN 9,225,314,38,0,2,23,5,4,219,283,41,7,18,4,5,142,350,42,7,2,12,3,5,8,25,Oneida County,WHITESTOWN 9
