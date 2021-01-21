@@ -1,0 +1,42 @@
+county,precinct,HOR_DEM,HOR_REP,HOR_CON,HOR_GRE,HOR_WOR,HOR_IND,HOR_WEP,HOR_REF,Sen_DEM,Sen_REP,Sen_CON,Sen_WOR,Sen_IND,Sen_WEP,Sen_REF,Gov_DEM,Gov_REP,Gov_CON,Gov_GRE,Gov_WOR,Gov_IND,Gov_WEP,Gov_REF,Gov_SAM,Gov_LBT,county_id,original_precinct_name
+Wyoming County,Arcade 1 1,163,181,16,0,16,2,3,10,149,206,17,10,6,4,0,123,236,17,0,2,5,2,0,4,5,Wyoming County,precinct
+Wyoming County,Arcade 2 1,60,159,26,0,16,1,4,10,54,173,25,7,7,3,4,29,205,27,6,1,1,1,3,2,5,Wyoming County,precinct
+Wyoming County,Arcade 3 1,114,137,23,0,10,2,0,11,100,154,26,9,4,3,2,73,183,23,2,1,3,0,0,3,10,Wyoming County,precinct
+Wyoming County,Arcade 4 1,121,224,22,0,7,2,4,7,113,220,28,12,8,3,1,83,260,25,2,2,5,0,2,3,8,Wyoming County,precinct
+Wyoming County,Attica 1 1,96,165,33,0,11,2,1,8,81,180,37,8,5,2,1,45,208,38,2,0,0,0,4,4,21,Wyoming County,precinct
+Wyoming County,Attica 2 1,72,154,11,0,7,2,2,6,66,158,12,6,4,1,1,40,185,13,2,1,1,0,0,1,11,Wyoming County,precinct
+Wyoming County,Attica 3 1,117,228,28,0,20,1,8,16,107,253,32,10,4,7,2,72,272,34,7,4,1,3,3,5,25,Wyoming County,precinct
+Wyoming County,Attica 4 1,114,245,59,0,8,4,5,4,98,265,66,2,7,0,3,49,313,57,2,1,4,0,4,3,12,Wyoming County,precinct
+Wyoming County,Bennington 1 1,101,219,58,0,17,7,3,16,94,244,62,9,4,3,0,64,270,63,3,6,1,0,3,1,15,Wyoming County,precinct
+Wyoming County,Bennington 2 1,136,221,59,0,10,5,2,12,121,232,63,15,6,3,1,79,274,72,1,1,1,0,3,6,10,Wyoming County,precinct
+Wyoming County,Bennington 3 1,111,253,67,0,19,1,1,13,101,271,69,8,5,1,2,65,301,77,2,5,2,0,1,3,13,Wyoming County,precinct
+Wyoming County,Castile 1 1,89,161,15,0,5,0,2,9,82,174,18,5,1,1,0,50,198,16,2,0,0,1,0,0,14,Wyoming County,precinct
+Wyoming County,Castile 2 1,136,181,24,0,15,2,3,6,121,205,26,11,3,0,3,87,230,24,4,3,1,0,2,4,12,Wyoming County,precinct
+Wyoming County,Castile 3 1,111,142,12,0,9,0,0,2,104,156,11,6,3,0,0,64,186,13,5,2,2,0,2,1,4,Wyoming County,precinct
+Wyoming County,Covington 1 1,106,247,36,0,12,0,6,11,99,248,40,3,8,3,3,54,299,37,4,1,1,0,3,0,21,Wyoming County,precinct
+Wyoming County,Cumulative,215,241,28,0,15,4,9,8,233,234,33,8,10,9,4,172,255,35,6,5,5,5,5,0,11,Wyoming County,precinct
+Wyoming County,Eagle 1 1,133,242,21,0,9,1,2,19,132,241,23,10,8,1,6,66,314,26,6,3,4,3,0,2,6,Wyoming County,precinct
+Wyoming County,Gainesville 1 1,37,113,12,0,4,0,0,3,32,122,12,3,4,0,0,19,133,13,1,0,0,0,0,2,4,Wyoming County,precinct
+Wyoming County,Gainesville 2 1,63,98,10,0,7,0,2,2,67,92,13,7,1,1,0,38,117,11,2,2,1,0,0,2,8,Wyoming County,precinct
+Wyoming County,Gainesville 3 1,56,94,5,0,2,3,1,3,56,93,7,5,2,1,0,33,106,8,4,2,1,0,1,3,6,Wyoming County,precinct
+Wyoming County,Gainesville 4 1,41,100,11,0,8,2,2,9,41,96,16,7,4,3,1,27,112,14,2,0,2,1,2,2,10,Wyoming County,precinct
+Wyoming County,Genesee Falls 1 1,58,104,5,0,3,1,1,0,58,101,5,2,3,1,1,34,122,5,2,0,4,0,0,0,9,Wyoming County,precinct
+Wyoming County,Java 1 1,133,273,57,0,16,1,2,14,122,296,57,11,4,3,3,78,332,58,2,3,3,3,3,4,10,Wyoming County,precinct
+Wyoming County,Java 2 1,110,258,33,0,12,0,2,13,100,276,34,4,8,0,1,60,306,39,3,1,2,1,1,3,14,Wyoming County,precinct
+Wyoming County,Middlebury 1 1,112,207,31,0,12,7,1,8,98,223,44,2,8,0,2,64,244,26,4,0,4,0,2,3,36,Wyoming County,precinct
+Wyoming County,Middlebury 2 1,41,98,10,0,3,1,4,3,34,104,14,2,1,2,2,23,120,10,1,0,0,0,0,0,8,Wyoming County,precinct
+Wyoming County,Orangeville 1 1,151,307,55,0,15,7,6,17,134,308,64,11,12,6,8,82,361,62,7,2,3,4,5,4,26,Wyoming County,precinct
+Wyoming County,Perry 1 1,128,259,53,0,15,3,3,9,115,282,48,9,7,1,1,68,314,51,3,2,3,0,4,0,23,Wyoming County,precinct
+Wyoming County,Perry 2 1,90,71,12,0,7,2,0,8,77,85,16,5,7,1,0,57,93,18,4,1,1,0,2,5,15,Wyoming County,precinct
+Wyoming County,Perry 3 1,139,147,20,0,10,0,2,6,125,169,20,3,8,1,2,92,175,21,6,1,2,1,3,4,28,Wyoming County,precinct
+Wyoming County,Perry 4 1,139,139,27,0,11,3,1,14,133,156,24,11,7,3,3,96,177,21,5,4,1,2,6,2,20,Wyoming County,precinct
+Wyoming County,Pike 1 1,86,224,27,0,17,6,0,10,78,237,31,10,10,3,1,55,260,28,6,4,3,0,3,3,13,Wyoming County,precinct
+Wyoming County,Sheldon 1 1,71,101,20,0,8,1,1,9,61,110,22,7,4,0,1,41,118,27,5,0,1,0,3,2,14,Wyoming County,precinct
+Wyoming County,Sheldon 2 1,119,239,61,0,19,2,1,7,106,248,69,8,6,2,2,71,286,75,3,4,0,1,4,1,7,Wyoming County,precinct
+Wyoming County,Sheldon 3 1,110,165,32,0,4,5,1,11,99,173,36,4,5,3,6,57,218,41,6,1,0,1,1,3,8,Wyoming County,precinct
+Wyoming County,Warsaw 1 1,110,153,25,0,3,3,0,7,98,165,25,4,5,1,2,67,186,23,1,2,2,0,2,3,13,Wyoming County,precinct
+Wyoming County,Warsaw 2 1,87,148,16,0,13,2,2,9,86,161,20,8,4,2,0,65,182,18,1,4,1,0,1,1,10,Wyoming County,precinct
+Wyoming County,Warsaw 3 1,120,175,21,0,8,1,3,5,114,180,28,4,4,0,3,69,217,29,4,5,3,0,1,2,9,Wyoming County,precinct
+Wyoming County,Warsaw 4 1,134,152,21,0,8,3,1,6,117,169,22,11,7,2,0,75,208,21,4,2,4,0,0,3,13,Wyoming County,precinct
+Wyoming County,Warsaw 5 1,162,189,16,0,7,2,1,9,153,203,20,6,7,0,1,106,235,24,4,3,1,2,2,5,16,Wyoming County,precinct
+Wyoming County,Wethersfield 1 1,86,186,12,0,6,2,1,6,84,189,17,6,3,1,1,52,213,18,2,1,0,0,2,4,13,Wyoming County,precinct

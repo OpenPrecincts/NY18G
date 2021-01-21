@@ -1,0 +1,41 @@
+county,precinct,HOR_DEM,HOR_REP,HOR_CON,HOR_GRE,HOR_WOR,HOR_IND,HOR_WEP,HOR_REF,Sen_DEM,Sen_REP,Sen_CON,Sen_WOR,Sen_IND,Sen_WEP,Sen_REF,Gov_DEM,Gov_REP,Gov_CON,Gov_GRE,Gov_WOR,Gov_IND,Gov_WEP,Gov_REF,Gov_SAM,Gov_LBT,county_id,original_precinct_name
+Livingston County,Avon 1,301,335,54,0,13,5,10,18,283,349,63,9,17,3,6,197,409,56,10,3,9,4,7,4,39,Livingston County,precinct
+Livingston County,Avon 2,367,299,43,0,16,7,14,17,356,322,42,13,17,6,4,237,391,45,12,8,10,6,4,9,44,Livingston County,precinct
+Livingston County,Avon 3,395,265,41,0,24,8,9,17,363,301,46,15,20,8,5,262,356,46,18,7,10,4,5,15,35,Livingston County,precinct
+Livingston County,Avon 4,411,236,33,0,22,4,14,13,385,280,36,14,15,11,5,275,339,37,14,8,7,9,10,14,31,Livingston County,precinct
+Livingston County,Caledonia 1,224,285,49,0,17,2,5,16,199,303,58,9,9,9,2,123,350,56,16,2,3,2,3,8,33,Livingston County,precinct
+Livingston County,Caledonia 2,244,247,53,0,19,4,4,12,227,269,53,13,10,6,3,156,317,54,7,6,2,3,3,6,38,Livingston County,precinct
+Livingston County,Caledonia 3,241,252,54,0,17,5,8,12,213,291,58,15,11,7,2,131,331,60,9,3,5,1,4,14,46,Livingston County,precinct
+Livingston County,Conesus 1,178,243,58,0,14,4,1,15,162,258,61,11,11,4,2,118,280,63,4,2,4,3,5,6,25,Livingston County,precinct
+Livingston County,Conesus 2,207,245,40,0,20,11,7,16,186,262,51,13,14,10,7,114,314,52,8,6,10,4,6,7,30,Livingston County,precinct
+Livingston County,Geneseo 1,633,219,37,0,40,3,13,20,616,244,41,27,23,13,5,491,292,46,32,24,11,10,6,21,32,Livingston County,precinct
+Livingston County,Geneseo 2,473,154,24,0,22,4,9,10,455,173,32,15,8,8,3,373,215,29,12,12,8,8,3,16,20,Livingston County,precinct
+Livingston County,Geneseo 3,328,267,42,0,21,7,5,16,291,301,45,10,11,9,7,221,338,51,13,8,9,3,5,6,29,Livingston County,precinct
+Livingston County,Geneseo 4,291,228,38,0,19,6,2,8,282,238,44,12,11,7,5,195,298,45,5,6,8,4,2,14,18,Livingston County,precinct
+Livingston County,Geneseo 5,623,94,8,0,13,2,12,6,609,107,11,11,10,10,3,481,135,12,69,8,3,6,3,17,23,Livingston County,precinct
+Livingston County,Groveland 1,184,181,35,0,18,0,8,17,163,214,35,11,9,4,4,113,247,36,7,4,2,2,2,7,19,Livingston County,precinct
+Livingston County,Groveland 2,86,117,17,0,9,3,3,5,73,134,19,9,5,0,1,46,147,22,5,1,4,0,3,1,15,Livingston County,precinct
+Livingston County,Leicester 1,340,389,42,0,17,12,5,18,338,388,54,14,17,2,6,227,480,43,9,6,10,3,5,4,52,Livingston County,precinct
+Livingston County,Lima 1,412,387,110,0,29,7,9,17,390,418,118,23,21,4,5,269,488,112,15,10,11,5,8,15,42,Livingston County,precinct
+Livingston County,Lima 2,330,289,92,0,29,10,9,23,307,326,98,18,15,8,7,227,379,90,12,7,8,6,5,18,32,Livingston County,precinct
+Livingston County,Livonia 1,231,349,71,0,18,6,8,18,222,366,77,11,11,7,7,147,407,72,7,6,6,3,3,5,54,Livingston County,precinct
+Livingston County,Livonia 2,269,282,56,0,9,7,5,11,251,296,61,11,12,6,2,169,354,59,13,3,4,0,3,9,38,Livingston County,precinct
+Livingston County,Livonia 3,270,209,36,0,21,5,6,14,245,234,43,18,10,7,1,173,277,35,5,12,10,2,4,7,37,Livingston County,precinct
+Livingston County,Livonia 4,264,312,48,0,21,2,4,12,250,320,49,16,11,7,4,184,368,53,10,3,6,3,2,5,25,Livingston County,precinct
+Livingston County,Livonia 5,281,320,56,0,13,9,3,21,272,340,64,14,12,7,4,209,377,62,2,6,7,5,8,9,22,Livingston County,precinct
+Livingston County,Mt.Morris 1,217,182,34,0,9,3,4,10,205,203,31,10,3,2,1,156,233,31,4,3,2,0,2,3,28,Livingston County,precinct
+Livingston County,Mt.Morris 2,179,152,24,0,10,4,3,9,173,154,28,6,10,3,2,133,190,24,4,2,4,3,3,1,19,Livingston County,precinct
+Livingston County,Mt.Morris 3,144,235,44,0,5,7,7,11,158,239,43,6,7,6,2,103,275,41,3,2,1,1,4,6,28,Livingston County,precinct
+Livingston County,North Dansville 1,249,231,27,0,14,6,6,11,254,236,31,11,11,6,4,180,276,32,6,3,3,5,5,4,36,Livingston County,precinct
+Livingston County,North Dansville 2,195,187,20,0,15,5,2,12,201,197,21,10,8,1,4,141,216,22,6,5,5,1,6,5,39,Livingston County,precinct
+Livingston County,North Dansville 3,174,222,24,0,11,4,3,13,168,239,23,5,8,6,2,106,282,20,5,2,5,2,4,1,43,Livingston County,precinct
+Livingston County,North Dansville 4,137,171,27,0,8,1,4,5,120,191,24,7,13,4,2,85,207,26,4,5,2,3,2,3,28,Livingston County,precinct
+Livingston County,Nunda 1,268,401,43,0,24,11,5,13,263,417,48,25,15,2,8,146,493,55,15,6,4,4,5,9,48,Livingston County,precinct
+Livingston County,Nunda 2,91,180,16,0,7,6,1,7,94,178,16,6,5,3,1,41,224,22,3,2,1,2,2,1,9,Livingston County,precinct
+Livingston County,Ossian 1,63,219,26,0,11,2,2,6,69,213,24,10,5,3,1,41,227,29,2,7,2,0,1,1,25,Livingston County,precinct
+Livingston County,Portage 1,79,164,19,0,7,2,3,7,80,169,18,8,4,4,1,40,197,18,6,3,2,2,1,3,17,Livingston County,precinct
+Livingston County,Sparta 1,192,324,37,0,22,7,14,19,197,335,40,20,17,5,6,117,385,42,11,4,5,3,2,8,61,Livingston County,precinct
+Livingston County,Springwater 1,289,484,73,0,27,11,6,14,285,497,73,23,12,7,4,175,556,82,8,9,4,3,3,8,74,Livingston County,precinct
+Livingston County,West Sparta 1,136,235,42,0,14,6,2,13,131,240,50,12,8,3,2,86,281,50,1,3,1,2,6,7,25,Livingston County,precinct
+Livingston County,York 1,251,250,46,0,16,6,4,11,242,253,51,17,9,9,3,161,320,48,9,9,2,2,1,7,31,Livingston County,precinct
+Livingston County,York 2,347,296,39,0,23,7,3,14,318,317,43,15,17,3,4,213,388,49,14,2,5,3,5,7,49,Livingston County,precinct

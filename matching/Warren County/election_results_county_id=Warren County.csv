@@ -1,0 +1,85 @@
+county,precinct,HOR_DEM,HOR_REP,HOR_CON,HOR_GRE,HOR_WOR,HOR_IND,HOR_WEP,HOR_REF,Sen_DEM,Sen_REP,Sen_CON,Sen_WOR,Sen_IND,Sen_WEP,Sen_REF,Gov_DEM,Gov_REP,Gov_CON,Gov_GRE,Gov_WOR,Gov_IND,Gov_WEP,Gov_REF,Gov_SAM,Gov_LBT,county_id,original_precinct_name
+Warren County,B 01,207,260,28,8,13,7,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,B 02,235,305,27,8,10,3,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,Bolton ED1,0,0,0,0,0,0,0,0,231,223,26,13,15,5,0,155,306,32,5,6,6,5,4,0,9,Warren County,precinct
+Warren County,Bolton ED2,0,0,0,0,0,0,0,0,265,263,23,11,13,11,1,179,329,29,21,2,9,2,4,6,13,Warren County,precinct
+Warren County,C 01,267,391,33,13,12,6,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,C 02,189,329,50,15,9,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,Chester ED1,0,0,0,0,0,0,0,0,302,332,37,21,21,7,2,202,425,40,22,10,12,3,3,6,15,Warren County,precinct
+Warren County,Chester ED2,0,0,0,0,0,0,0,0,230,275,43,17,17,6,3,164,350,50,10,2,2,2,6,3,20,Warren County,precinct
+Warren County,GF W1ED1,276,224,28,15,14,11,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,GF W2ED1,363,247,12,12,22,9,11,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,GF W2ED2,375,227,25,23,17,11,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,GF W3ED1,334,200,28,13,8,7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,GF W3ED2,552,218,31,13,24,7,16,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,GF W4ED1,316,160,17,14,17,6,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,GF W5ED1,189,152,16,13,10,6,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,GF W5ED2,267,213,18,13,12,14,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,Glens Falls Ward 1,0,0,0,0,0,0,0,0,313,185,29,14,20,6,5,236,230,36,15,6,12,2,6,9,27,Warren County,precinct
+Warren County,Glens Falls Ward 2 ED1,0,0,0,0,0,0,0,0,402,198,17,23,18,9,1,283,277,22,31,8,10,6,13,9,21,Warren County,precinct
+Warren County,Glens Falls Ward 2 ED2,0,0,0,0,0,0,0,0,411,190,23,27,18,8,5,290,260,27,39,7,7,3,5,3,45,Warren County,precinct
+Warren County,Glens Falls Ward 3 ED1,0,0,0,0,0,0,0,0,373,158,29,9,11,4,0,262,233,30,19,5,7,4,4,5,23,Warren County,precinct
+Warren County,Glens Falls Ward 3 ED2,0,0,0,0,0,0,0,0,581,184,30,27,24,9,5,416,294,39,47,11,16,7,7,8,21,Warren County,precinct
+Warren County,Glens Falls Ward 4 ED1,0,0,0,0,0,0,0,0,347,113,19,14,16,14,2,283,162,24,24,6,7,7,5,5,13,Warren County,precinct
+Warren County,Glens Falls Ward 5 ED1,0,0,0,0,0,0,0,0,228,113,17,12,13,4,4,144,168,21,15,9,9,2,3,2,19,Warren County,precinct
+Warren County,Glens Falls Ward 5 ED2,0,0,0,0,0,0,0,0,306,156,24,15,26,6,0,227,232,31,16,5,7,4,5,4,13,Warren County,precinct
+Warren County,HA,185,176,12,2,13,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,HO 01,123,169,18,4,3,4,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,HO 02,152,215,29,5,6,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,Hague,0,0,0,0,0,0,0,0,194,150,13,11,9,1,0,157,192,14,5,2,8,3,2,2,2,Warren County,precinct
+Warren County,Horicon ED1,0,0,0,0,0,0,0,0,141,139,19,8,7,5,3,108,177,19,1,2,1,4,2,3,12,Warren County,precinct
+Warren County,Horicon ED2,0,0,0,0,0,0,0,0,178,174,27,10,7,5,0,122,235,28,7,3,2,1,6,4,4,Warren County,precinct
+Warren County,J 01,181,242,24,3,11,12,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,J 02,240,174,15,6,13,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,Johnsburg ED1,0,0,0,0,0,0,0,0,186,215,20,23,14,4,6,127,264,27,8,3,6,2,5,4,28,Warren County,precinct
+Warren County,Johnsburg ED2,0,0,0,0,0,0,0,0,262,138,15,17,17,1,2,200,182,20,12,4,4,1,6,1,34,Warren County,precinct
+Warren County,LG 01,283,349,55,10,9,10,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,LG 02,370,409,30,8,18,11,11,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,LL 01,235,340,45,9,14,9,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,LL 02,204,400,27,8,9,9,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,Lake George ED1,0,0,0,0,0,0,0,0,317,296,57,16,14,5,1,219,401,53,9,3,4,4,11,1,18,Warren County,precinct
+Warren County,Lake George ED2,0,0,0,0,0,0,0,0,395,372,36,17,21,12,4,298,456,35,24,11,10,4,6,6,19,Warren County,precinct
+Warren County,Lake Luzerne ED1,0,0,0,0,0,0,0,0,264,305,38,13,18,3,2,181,377,47,15,5,8,4,2,3,20,Warren County,precinct
+Warren County,Lake Luzerne ED2,0,0,0,0,0,0,0,0,248,332,28,20,16,2,3,168,410,36,12,6,4,1,8,4,18,Warren County,precinct
+Warren County,Q W1ED1,336,438,51,7,12,9,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,Q W1ED2,349,307,42,5,11,11,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,Q W1ED3,346,389,37,7,17,6,10,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,Q W1ED4,262,220,29,8,13,6,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,Q W2ED1,358,288,28,8,10,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,Q W2ED4,348,288,30,5,25,9,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,Q W3ED3,281,356,37,8,14,13,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,Q W3ED4,310,332,36,3,14,5,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,Q W4ED1,238,275,27,10,22,10,8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,Q W4ED2  ,365,315,35,8,14,6,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,QW1ED5,269,321,21,7,9,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,QW2ED2,454,309,36,4,14,7,9,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,QW2ED3,422,285,25,14,10,6,8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,QW3ED1,375,301,44,10,17,13,9,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,QW3ED2,325,323,43,8,13,5,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,QW4ED3,326,333,38,6,13,15,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,Queensbury Ward 1 ED1,0,0,0,0,0,0,0,0,368,385,51,11,24,8,5,256,488,54,15,5,10,7,4,7,14,Warren County,precinct
+Warren County,Queensbury Ward 1 ED2,0,0,0,0,0,0,0,0,380,269,41,12,18,4,0,256,385,45,12,5,9,1,6,9,10,Warren County,precinct
+Warren County,Queensbury Ward 1 ED3,0,0,0,0,0,0,0,0,373,347,28,18,20,12,4,261,459,37,13,10,12,7,2,2,15,Warren County,precinct
+Warren County,Queensbury Ward 1 ED4,0,0,0,0,0,0,0,0,280,193,36,11,11,8,1,202,262,40,13,7,4,5,1,4,11,Warren County,precinct
+Warren County,Queensbury Ward 1 ED5,0,0,0,0,0,0,0,0,311,263,21,14,12,5,0,208,358,35,12,8,8,3,3,3,2,Warren County,precinct
+Warren County,Queensbury Ward 2 ED1,0,0,0,0,0,0,0,0,383,252,27,12,20,5,0,275,322,31,20,3,14,1,11,9,19,Warren County,precinct
+Warren County,Queensbury Ward 2 ED2,0,0,0,0,0,0,0,0,466,269,34,18,17,12,3,360,376,43,13,8,7,2,7,0,17,Warren County,precinct
+Warren County,Queensbury Ward 2 ED3,0,0,0,0,0,0,0,0,486,218,23,14,17,5,5,329,337,32,25,6,11,2,6,12,10,Warren County,precinct
+Warren County,Queensbury Ward 2 ED4,0,0,0,0,0,0,0,0,392,225,30,25,19,7,4,272,323,44,18,8,8,7,9,5,15,Warren County,precinct
+Warren County,Queensbury Ward 3 ED1,0,0,0,0,0,0,0,0,423,241,45,13,24,4,8,288,351,61,20,1,10,6,8,7,18,Warren County,precinct
+Warren County,Queensbury Ward 3 ED2,0,0,0,0,0,0,0,0,387,249,41,19,17,9,4,262,362,43,19,4,9,1,4,8,18,Warren County,precinct
+Warren County,Queensbury Ward 3 ED3,0,0,0,0,0,0,0,0,335,295,39,13,23,7,1,215,405,47,14,4,8,5,11,7,12,Warren County,precinct
+Warren County,Queensbury Ward 3 ED4,0,0,0,0,0,0,0,0,365,271,28,17,14,5,1,256,366,36,14,2,11,1,5,4,13,Warren County,precinct
+Warren County,Queensbury Ward 4 ED1,0,0,0,0,0,0,0,0,281,229,27,19,20,9,1,198,295,39,15,6,9,3,6,12,14,Warren County,precinct
+Warren County,Queensbury Ward 4 ED2,0,0,0,0,0,0,0,0,412,263,37,17,13,3,0,293,359,52,10,6,7,1,4,5,10,Warren County,precinct
+Warren County,Queensbury Ward 4 ED3,0,0,0,0,0,0,0,0,356,297,41,11,17,6,3,235,402,42,16,6,9,5,7,7,16,Warren County,precinct
+Warren County,SC,85,223,20,3,8,2,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,Stony Creek,0,0,0,0,0,0,0,0,105,195,18,10,7,2,1,73,230,22,5,3,0,2,0,3,16,Warren County,precinct
+Warren County,T,136,258,34,12,10,4,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,Thurman,0,0,0,0,0,0,0,0,177,204,31,17,7,4,7,108,267,38,10,5,2,1,10,3,24,Warren County,precinct
+Warren County,W 01,109,194,8,3,3,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,W 02,185,201,21,9,12,5,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,W 03,159,302,27,3,8,4,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Warren County,precinct
+Warren County,Warrensburg ED1,0,0,0,0,0,0,0,0,133,156,4,9,12,4,0,88,200,8,8,4,8,1,2,2,10,Warren County,precinct
+Warren County,Warrensburg ED2,0,0,0,0,0,0,0,0,219,167,20,13,7,2,0,152,234,26,9,2,3,0,0,4,16,Warren County,precinct
+Warren County,Warrensburg ED3,0,0,0,0,0,0,0,0,189,268,28,4,7,4,2,140,320,25,4,1,4,1,5,3,13,Warren County,precinct

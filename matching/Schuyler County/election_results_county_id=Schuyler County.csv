@@ -1,0 +1,36 @@
+county,precinct,HOR_DEM,HOR_REP,HOR_CON,HOR_GRE,HOR_WOR,HOR_IND,HOR_WEP,HOR_REF,Sen_DEM,Sen_REP,Sen_CON,Sen_WOR,Sen_IND,Sen_WEP,Sen_REF,Gov_DEM,Gov_REP,Gov_CON,Gov_GRE,Gov_WOR,Gov_IND,Gov_WEP,Gov_REF,Gov_SAM,Gov_LBT,county_id,original_precinct_name
+Schuyler County,CC Catharine 1,38,24,0,0,4,0,0,0,18,12,0,1,2,0,0,16,14,0,2,1,0,0,0,0,1,Schuyler County,precinct
+Schuyler County,CC Cayuta 1,2,0,4,0,0,0,0,0,0,1,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,Schuyler County,precinct
+Schuyler County,CC Dix 1,4,2,0,0,0,0,0,0,2,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,Schuyler County,precinct
+Schuyler County,CC Dix 2,66,32,0,0,0,0,0,0,30,15,2,0,0,0,0,22,17,1,1,0,0,0,1,0,5,Schuyler County,precinct
+Schuyler County,CC Dix 3,30,56,0,0,0,0,0,0,16,25,0,0,0,0,0,16,25,0,1,0,0,0,0,0,1,Schuyler County,precinct
+Schuyler County,CC Hector 1,80,16,4,0,2,0,0,0,38,8,0,0,3,0,0,30,12,1,4,0,2,0,0,2,0,Schuyler County,precinct
+Schuyler County,CC Hector 2,14,6,0,0,0,0,0,0,8,2,0,0,0,0,0,3,2,0,0,0,0,0,0,2,0,Schuyler County,precinct
+Schuyler County,CC Hector 3,12,22,6,0,2,2,0,0,6,9,4,1,1,0,0,6,7,4,0,1,0,0,0,1,3,Schuyler County,precinct
+Schuyler County,CC Hector 4,44,16,4,0,6,0,0,0,21,9,2,3,0,0,0,15,11,3,1,2,0,0,0,0,1,Schuyler County,precinct
+Schuyler County,CC Hector 5,6,8,0,0,0,2,0,0,3,4,0,0,1,0,0,2,3,0,0,0,1,0,0,0,0,Schuyler County,precinct
+Schuyler County,CC Hector 6,8,8,0,0,0,0,0,0,4,5,0,0,0,0,0,3,4,0,0,0,0,0,0,0,1,Schuyler County,precinct
+Schuyler County,CC Orange,28,52,10,0,0,0,0,0,15,25,5,0,1,0,0,12,26,7,0,0,1,0,0,0,0,Schuyler County,precinct
+Schuyler County,CC Reading 1,24,18,0,0,4,0,0,0,11,9,0,2,0,0,0,9,9,0,2,0,0,0,0,1,1,Schuyler County,precinct
+Schuyler County,CC Reading 2,8,14,0,0,0,2,0,0,6,4,2,0,0,0,0,5,5,2,0,0,0,0,0,0,0,Schuyler County,precinct
+Schuyler County,CC Tyrone 1,18,4,2,0,0,0,0,0,9,2,1,0,0,0,0,8,2,1,0,0,0,0,0,0,0,Schuyler County,precinct
+Schuyler County,CC Tyrone 2,8,24,0,0,0,0,0,0,4,12,1,0,0,0,0,3,13,0,0,0,0,0,0,0,0,Schuyler County,precinct
+Schuyler County,Catharine 1,410,636,90,0,50,20,0,0,208,307,43,27,10,0,4,159,303,36,11,18,4,0,6,7,65,Schuyler County,precinct
+Schuyler County,Cayuta 1,96,240,22,0,10,10,0,0,48,112,13,8,2,0,2,23,118,11,4,1,1,0,3,3,24,Schuyler County,precinct
+Schuyler County,Dix 1,156,138,10,0,6,2,0,0,74,61,8,3,5,0,0,46,73,10,1,2,3,0,2,1,19,Schuyler County,precinct
+Schuyler County,Dix 2,594,514,58,0,30,8,0,0,302,224,29,11,18,0,2,230,248,32,9,3,9,0,4,8,61,Schuyler County,precinct
+Schuyler County,Dix 3,264,780,62,0,22,12,0,0,147,348,29,15,5,0,5,102,352,30,7,5,2,0,5,5,58,Schuyler County,precinct
+Schuyler County,Hector 1,644,430,50,0,42,12,0,0,329,203,21,26,7,0,3,262,214,20,7,17,5,0,1,11,49,Schuyler County,precinct
+Schuyler County,Hector 2,308,188,22,0,44,8,0,0,145,92,11,27,5,0,2,122,92,11,15,15,1,0,2,7,21,Schuyler County,precinct
+Schuyler County,Hector 3,366,450,74,0,22,14,0,0,195,203,36,12,11,0,2,143,198,29,5,7,5,0,6,7,63,Schuyler County,precinct
+Schuyler County,Hector 4,430,444,86,0,50,10,0,0,228,200,44,29,5,0,2,169,186,32,16,14,3,0,2,8,81,Schuyler County,precinct
+Schuyler County,Hector 5,188,180,24,0,28,12,0,0,107,82,13,9,3,0,3,69,87,14,6,7,0,0,2,5,29,Schuyler County,precinct
+Schuyler County,Hector 6,146,164,24,0,6,6,0,0,79,73,13,2,4,0,0,61,78,15,1,1,3,0,1,1,9,Schuyler County,precinct
+Schuyler County,Montour 1,156,230,30,0,12,8,0,0,85,101,14,3,6,0,2,55,110,18,0,3,1,0,2,7,24,Schuyler County,precinct
+Schuyler County,Montour 2,118,166,16,0,4,2,0,0,60,78,8,2,0,0,3,41,81,13,0,0,0,0,1,4,13,Schuyler County,precinct
+Schuyler County,Montour 3,404,532,42,0,28,8,0,0,233,220,25,14,10,0,1,167,250,20,8,8,4,0,2,9,36,Schuyler County,precinct
+Schuyler County,Orange 1,240,622,66,0,22,14,0,0,125,290,36,7,12,0,0,74,316,34,5,2,6,0,1,2,37,Schuyler County,precinct
+Schuyler County,Reading 1,320,662,62,0,20,14,0,0,183,304,31,5,12,0,6,120,299,32,9,3,6,0,4,7,60,Schuyler County,precinct
+Schuyler County,Reading 2,178,142,12,0,2,2,0,0,93,61,9,1,3,0,0,73,74,6,0,0,2,0,3,0,10,Schuyler County,precinct
+Schuyler County,Tyrone 1,124,344,10,0,12,8,0,0,75,155,5,6,6,0,0,52,165,6,3,0,2,0,1,0,25,Schuyler County,precinct
+Schuyler County,Tyrone 2,214,324,34,0,10,4,0,0,118,148,17,3,5,0,1,84,170,15,6,2,1,0,2,3,17,Schuyler County,precinct

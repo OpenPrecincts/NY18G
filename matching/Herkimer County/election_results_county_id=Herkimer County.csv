@@ -1,0 +1,119 @@
+county,precinct,HOR_DEM,HOR_REP,HOR_CON,HOR_GRE,HOR_WOR,HOR_IND,HOR_WEP,HOR_REF,Sen_DEM,Sen_REP,Sen_CON,Sen_WOR,Sen_IND,Sen_WEP,Sen_REF,Gov_DEM,Gov_REP,Gov_CON,Gov_GRE,Gov_WOR,Gov_IND,Gov_WEP,Gov_REF,Gov_SAM,Gov_LBT,county_id,original_precinct_name
+Herkimer County,City of Little Falls Ward 1 1,0,0,0,0,0,0,0,0,223,140,20,9,5,7,2,159,207,23,6,3,2,2,2,6,11,Herkimer County,precinct
+Herkimer County,City of Little Falls Ward 1 1 LD 12,231,153,24,0,5,6,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,City of Little Falls Ward 2 1,0,0,0,0,0,0,0,0,262,180,30,4,9,4,2,192,225,45,10,2,2,2,3,10,14,Herkimer County,precinct
+Herkimer County,City of Little Falls Ward 2 1 LD 12,279,180,26,0,7,13,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,City of Little Falls Ward 3 1,0,0,0,0,0,0,0,0,50,40,8,6,4,0,3,46,42,11,1,3,1,0,5,2,3,Herkimer County,precinct
+Herkimer County,City of Little Falls Ward 3 1 LD 12,57,36,11,0,4,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,City of Little Falls Ward 3 2,0,0,0,0,0,0,0,0,122,81,8,3,6,2,0,93,103,9,7,2,3,2,0,3,4,Herkimer County,precinct
+Herkimer County,City of Little Falls Ward 3 2 LD 10,138,87,6,0,3,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,City of Little Falls Ward 4 1,0,0,0,0,0,0,0,0,150,92,11,5,6,2,0,92,128,21,11,1,1,0,2,6,10,Herkimer County,precinct
+Herkimer County,City of Little Falls Ward 4 1 LD 12,158,99,12,0,4,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Columbia 1,0,0,0,0,0,0,0,0,117,297,36,13,5,4,2,67,341,38,6,1,3,1,2,8,24,Herkimer County,precinct
+Herkimer County,Town of Columbia 1 LD 7,120,328,33,0,5,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Columbia 2,0,0,0,0,0,0,0,0,37,86,19,3,3,1,0,21,99,20,4,0,2,1,1,1,5,Herkimer County,precinct
+Herkimer County,Town of Columbia 2 LD 13,35,96,17,0,2,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Danube 1,0,0,0,0,0,0,0,0,95,200,18,5,11,0,0,50,242,25,3,1,2,1,2,3,11,Herkimer County,precinct
+Herkimer County,Town of Danube 1 LD 14,100,220,20,0,1,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Fairfield 1,0,0,0,0,0,0,0,0,152,336,27,15,16,4,1,90,399,43,7,2,1,2,5,5,14,Herkimer County,precinct
+Herkimer County,Town of Fairfield 1 LD 16,158,365,34,0,7,12,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Frankfort 1,0,0,0,0,0,0,0,0,133,144,12,8,13,3,0,88,185,15,5,2,7,1,4,3,6,Herkimer County,precinct
+Herkimer County,Town of Frankfort 1 LD 8,150,150,13,0,4,10,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Frankfort 2,0,0,0,0,0,0,0,0,150,152,15,7,15,5,1,117,194,18,5,1,7,0,2,5,17,Herkimer County,precinct
+Herkimer County,Town of Frankfort 2 LD 9,178,180,11,0,5,12,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Frankfort 3,0,0,0,0,0,0,0,0,130,183,15,10,9,2,4,76,238,25,0,1,8,2,1,6,16,Herkimer County,precinct
+Herkimer County,Town of Frankfort 3 LD 9,147,199,21,0,5,7,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Frankfort 4,0,0,0,0,0,0,0,0,141,250,23,4,3,1,2,95,285,25,6,3,1,0,3,5,11,Herkimer County,precinct
+Herkimer County,Town of Frankfort 4 LD 8,162,250,25,0,2,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Frankfort 5,0,0,0,0,0,0,0,0,261,312,40,12,20,3,3,190,391,46,13,3,7,0,5,9,25,Herkimer County,precinct
+Herkimer County,Town of Frankfort 5 LD 8,296,338,40,0,5,16,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Frankfort 6,0,0,0,0,0,0,0,0,277,265,21,10,11,5,4,182,341,30,7,6,4,4,7,5,27,Herkimer County,precinct
+Herkimer County,Town of Frankfort 6 LD 9,308,284,25,0,8,12,6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of German Flatts 1,0,0,0,0,0,0,0,0,148,272,17,19,11,4,0,103,323,20,5,2,4,0,3,7,21,Herkimer County,precinct
+Herkimer County,Town of German Flatts 1 LD 7,168,292,18,0,13,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of German Flatts 10,0,0,0,0,0,0,0,0,63,55,7,7,6,4,2,33,81,10,3,3,0,2,2,1,9,Herkimer County,precinct
+Herkimer County,Town of German Flatts 10 LD 5,66,68,9,0,2,3,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of German Flatts 11,0,0,0,0,0,0,0,0,183,199,11,6,3,3,4,121,241,17,10,2,1,2,1,4,21,Herkimer County,precinct
+Herkimer County,Town of German Flatts 11 LD 6,195,203,15,0,4,2,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of German Flatts 12,0,0,0,0,0,0,0,0,169,150,14,4,6,3,2,105,189,19,7,2,3,1,5,4,17,Herkimer County,precinct
+Herkimer County,Town of German Flatts 12 LD 6,165,168,11,0,4,8,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of German Flatts 13,0,0,0,0,0,0,0,0,182,191,18,9,11,4,3,136,234,17,11,4,6,1,1,5,9,Herkimer County,precinct
+Herkimer County,Town of German Flatts 13 LD 5,200,204,12,0,5,12,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of German Flatts 14,0,0,0,0,0,0,0,0,93,163,19,7,7,6,0,52,194,22,2,1,1,1,5,5,13,Herkimer County,precinct
+Herkimer County,Town of German Flatts 14 LD 5,96,187,20,0,2,5,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of German Flatts 2,0,0,0,0,0,0,0,0,163,161,9,6,7,1,1,96,212,14,8,2,3,1,1,2,14,Herkimer County,precinct
+Herkimer County,Town of German Flatts 2 LD 1,166,173,14,0,4,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of German Flatts 3,0,0,0,0,0,0,0,0,203,264,29,6,15,4,3,127,317,34,6,4,5,1,12,4,25,Herkimer County,precinct
+Herkimer County,Town of German Flatts 3 LD 4,203,294,28,0,7,10,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of German Flatts 4,0,0,0,0,0,0,0,0,57,63,2,4,6,0,1,39,75,7,3,1,2,0,1,1,6,Herkimer County,precinct
+Herkimer County,Town of German Flatts 4 LD 5,58,71,2,0,3,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of German Flatts 5,0,0,0,0,0,0,0,0,43,38,4,1,3,0,0,27,47,5,3,0,1,0,2,2,3,Herkimer County,precinct
+Herkimer County,Town of German Flatts 5 LD 6,46,38,4,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of German Flatts 6,0,0,0,0,0,0,0,0,102,86,14,7,0,1,0,66,106,23,2,0,2,1,4,1,12,Herkimer County,precinct
+Herkimer County,Town of German Flatts 6 LD 6,108,89,13,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of German Flatts 7,0,0,0,0,0,0,0,0,89,81,9,5,4,1,1,61,97,11,3,0,2,0,5,7,13,Herkimer County,precinct
+Herkimer County,Town of German Flatts 7 LD 4,93,82,7,0,4,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of German Flatts 8,0,0,0,0,0,0,0,0,101,131,9,5,3,0,1,62,154,11,4,0,1,1,3,0,13,Herkimer County,precinct
+Herkimer County,Town of German Flatts 8 LD 5,108,133,7,0,2,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of German Flatts 9,0,0,0,0,0,0,0,0,97,90,10,8,10,1,1,66,103,18,4,1,4,1,3,4,12,Herkimer County,precinct
+Herkimer County,Town of German Flatts 9 LD 4,111,87,10,0,6,11,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Herkimer 1,0,0,0,0,0,0,0,0,211,317,26,8,10,3,2,127,402,28,6,1,3,1,2,7,20,Herkimer County,precinct
+Herkimer County,Town of Herkimer 1 LD 2,242,336,28,0,7,13,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Herkimer 2,0,0,0,0,0,0,0,0,95,78,9,5,7,1,1,72,99,10,6,1,0,1,1,3,11,Herkimer County,precinct
+Herkimer County,Town of Herkimer 2 LD 2,113,79,7,0,3,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Herkimer 3,0,0,0,0,0,0,0,0,99,61,7,5,3,2,3,89,77,8,4,1,0,2,0,2,11,Herkimer County,precinct
+Herkimer County,Town of Herkimer 3 LD 2,118,64,7,0,3,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Herkimer 4,0,0,0,0,0,0,0,0,86,67,13,13,4,2,3,74,90,18,5,4,1,1,4,2,6,Herkimer County,precinct
+Herkimer County,Town of Herkimer 4 LD 2,112,62,11,0,11,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Herkimer 5,0,0,0,0,0,0,0,0,128,143,3,7,8,0,2,103,158,8,6,3,3,0,3,2,24,Herkimer County,precinct
+Herkimer County,Town of Herkimer 5 LD 1,152,146,7,0,6,6,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Herkimer 6,0,0,0,0,0,0,0,0,267,265,21,16,16,8,1,193,343,26,8,3,6,2,2,12,18,Herkimer County,precinct
+Herkimer County,Town of Herkimer 6 LD 3,289,309,22,0,8,13,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Herkimer 7,0,0,0,0,0,0,0,0,122,126,17,6,10,0,1,83,158,20,4,2,3,1,3,5,8,Herkimer County,precinct
+Herkimer County,Town of Herkimer 7 LD 3,138,126,14,0,5,8,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Herkimer 8,0,0,0,0,0,0,0,0,150,99,13,4,7,3,0,100,135,16,7,1,2,2,3,4,9,Herkimer County,precinct
+Herkimer County,Town of Herkimer 8 LD 1,154,103,14,0,7,7,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Herkimer 9,0,0,0,0,0,0,0,0,162,172,12,3,8,4,2,113,213,18,2,0,1,1,0,5,15,Herkimer County,precinct
+Herkimer County,Town of Herkimer 9 LD 3,178,181,15,0,1,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Litchfield 1,0,0,0,0,0,0,0,0,206,308,39,13,9,0,3,120,354,40,6,2,4,0,4,8,32,Herkimer County,precinct
+Herkimer County,Town of Litchfield 1 LD 13,202,340,41,0,5,8,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Little Falls 1,0,0,0,0,0,0,0,0,219,290,36,13,8,6,3,137,389,37,5,1,4,1,7,2,18,Herkimer County,precinct
+Herkimer County,Town of Little Falls 1 LD 14,237,333,32,0,7,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Manheim 1,0,0,0,0,0,0,0,0,47,64,7,7,3,1,0,35,82,6,0,0,1,1,2,1,7,Herkimer County,precinct
+Herkimer County,Town of Manheim 1 LD 10,35,80,9,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Manheim 2,0,0,0,0,0,0,0,0,225,292,39,11,12,6,5,126,392,56,11,1,5,4,8,8,17,Herkimer County,precinct
+Herkimer County,Town of Manheim 2 LD 10,188,353,44,8,4,6,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Manheim 3,0,0,0,0,0,0,0,0,103,107,18,7,5,0,1,64,150,21,3,1,1,1,2,2,5,Herkimer County,precinct
+Herkimer County,Town of Manheim 3 LD 10,111,118,16,0,4,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Newport 1,0,0,0,0,0,0,0,0,289,408,49,18,23,3,1,193,494,54,11,5,11,1,2,13,27,Herkimer County,precinct
+Herkimer County,Town of Newport 1 LD 17,316,443,41,0,14,20,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Norway 1,0,0,0,0,0,0,0,0,80,161,14,10,3,0,2,41,203,14,6,1,2,0,2,4,8,Herkimer County,precinct
+Herkimer County,Town of Norway 1 LD 16,86,178,12,0,4,3,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Ohio 1,0,0,0,0,0,0,0,0,95,250,23,5,8,1,2,67,258,21,6,1,1,0,3,9,30,Herkimer County,precinct
+Herkimer County,Town of Ohio 1 LD 15,78,273,21,6,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Russia 1,0,0,0,0,0,0,0,0,174,286,37,6,14,6,0,133,306,42,8,2,8,0,0,7,22,Herkimer County,precinct
+Herkimer County,Town of Russia 1 LD 17,150,308,41,3,2,7,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Russia 2,0,0,0,0,0,0,0,0,67,167,20,6,1,1,1,45,178,16,1,0,1,0,0,8,15,Herkimer County,precinct
+Herkimer County,Town of Russia 2 LD 15,56,177,19,1,1,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Russia 3,0,0,0,0,0,0,0,0,45,67,10,2,0,0,1,33,78,9,1,0,0,0,2,0,6,Herkimer County,precinct
+Herkimer County,Town of Russia 3 LD 17,48,73,9,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Salisbury 1,0,0,0,0,0,0,0,0,128,372,27,10,11,5,2,69,419,32,10,1,4,2,7,3,22,Herkimer County,precinct
+Herkimer County,Town of Salisbury 1 LD 16,90,406,32,5,7,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Schuyler 1,0,0,0,0,0,0,0,0,147,124,11,8,5,2,1,118,155,15,1,3,1,2,3,5,10,Herkimer County,precinct
+Herkimer County,Town of Schuyler 1 LD 11,171,120,7,0,7,4,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Schuyler 2,0,0,0,0,0,0,0,0,153,257,26,8,11,4,1,112,308,24,3,4,3,1,4,5,15,Herkimer County,precinct
+Herkimer County,Town of Schuyler 2 LD 11,164,287,25,0,6,13,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Schuyler 3,0,0,0,0,0,0,0,0,119,239,28,5,8,1,1,66,286,31,6,1,2,0,3,6,12,Herkimer County,precinct
+Herkimer County,Town of Schuyler 3 LD 11,143,235,27,0,8,10,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Stark 1,0,0,0,0,0,0,0,0,102,141,16,8,5,2,1,68,167,18,4,2,0,2,1,2,10,Herkimer County,precinct
+Herkimer County,Town of Stark 1 LD 14,95,156,17,0,5,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Warren 1,0,0,0,0,0,0,0,0,109,172,31,12,9,4,1,72,204,42,3,4,3,2,5,7,16,Herkimer County,precinct
+Herkimer County,Town of Warren 1 LD 7,102,198,36,0,4,11,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Webb 1,0,0,0,0,0,0,0,0,372,361,27,17,17,2,8,281,421,34,13,4,5,3,6,14,18,Herkimer County,precinct
+Herkimer County,Town of Webb 1 LD 15,353,396,26,6,13,9,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Webb 2,0,0,0,0,0,0,0,0,58,80,7,4,2,0,3,41,93,8,4,1,0,0,2,6,2,Herkimer County,precinct
+Herkimer County,Town of Webb 2 LD 15,54,89,8,1,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Winfield 1,0,0,0,0,0,0,0,0,127,195,29,11,10,5,3,68,249,21,8,3,7,1,4,6,20,Herkimer County,precinct
+Herkimer County,Town of Winfield 1 LD 13,133,222,21,0,7,13,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct
+Herkimer County,Town of Winfield 2,0,0,0,0,0,0,0,0,130,162,20,9,6,4,1,89,201,25,5,0,4,0,2,5,11,Herkimer County,precinct
+Herkimer County,Town of Winfield 2 LD 13,133,187,26,0,3,6,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Herkimer County,precinct

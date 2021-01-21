@@ -1,0 +1,90 @@
+county,precinct,HOR_DEM,HOR_REP,HOR_CON,HOR_GRE,HOR_WOR,HOR_IND,HOR_WEP,HOR_REF,Sen_DEM,Sen_REP,Sen_CON,Sen_WOR,Sen_IND,Sen_WEP,Sen_REF,Gov_DEM,Gov_REP,Gov_CON,Gov_GRE,Gov_WOR,Gov_IND,Gov_WEP,Gov_REF,Gov_SAM,Gov_LBT,county_id,original_precinct_name
+Chemung County,Ashland 1501,125,362,24,0,6,12,0,0,151,327,18,10,10,5,2,98,382,23,3,0,5,1,6,5,10,Chemung County,precinct
+Chemung County,Baldwin 0601,82,216,21,0,5,2,1,0,90,182,23,4,4,0,1,50,206,26,4,1,2,0,1,2,27,Chemung County,precinct
+Chemung County,Big Flats 0201,148,189,17,0,2,2,4,0,160,169,17,5,4,5,2,127,173,17,5,2,5,2,1,2,30,Chemung County,precinct
+Chemung County,Big Flats 0202,177,159,17,0,2,5,0,0,171,154,16,5,6,1,2,127,173,25,4,1,6,0,2,2,23,Chemung County,precinct
+Chemung County,Big Flats 0203,232,324,24,0,5,6,8,0,254,284,30,6,12,3,2,186,324,26,5,1,9,3,5,4,34,Chemung County,precinct
+Chemung County,Big Flats 0204,131,191,23,0,6,5,1,0,142,178,20,4,3,2,3,101,202,23,6,1,2,1,4,4,14,Chemung County,precinct
+Chemung County,Big Flats 0205,223,259,37,0,6,6,4,0,253,222,35,6,7,4,1,179,265,37,4,3,3,3,4,5,26,Chemung County,precinct
+Chemung County,Big Flats 0206,227,273,23,0,5,3,10,0,250,247,23,8,9,1,1,188,275,21,8,5,6,3,5,7,25,Chemung County,precinct
+Chemung County,Big Flats 0405,322,363,24,0,9,10,3,0,352,325,23,10,12,1,2,260,389,25,6,3,7,3,4,7,26,Chemung County,precinct
+Chemung County,Big Flats 0706,54,89,7,0,5,4,0,0,59,72,7,9,5,1,0,48,85,7,3,2,1,0,1,0,9,Chemung County,precinct
+Chemung County,Catlin 0101,139,287,29,0,2,10,2,0,150,258,23,5,9,2,4,103,287,26,3,2,4,1,3,5,30,Chemung County,precinct
+Chemung County,Catlin 0105,111,338,25,0,4,9,8,0,127,295,26,8,11,5,1,84,316,27,6,1,7,0,4,4,39,Chemung County,precinct
+Chemung County,Chemung 0602,113,332,32,0,6,5,5,0,118,319,27,8,5,3,0,94,327,29,3,2,0,1,0,7,27,Chemung County,precinct
+Chemung County,Chemung 0606,118,204,16,0,7,7,0,0,126,185,18,7,5,0,2,93,200,14,4,3,4,0,1,4,26,Chemung County,precinct
+Chemung County,Elmira 0901,170,151,11,0,8,5,3,0,182,124,15,6,7,1,1,139,158,16,1,3,2,1,0,6,19,Chemung County,precinct
+Chemung County,Elmira 0902,131,151,8,0,7,4,6,0,141,127,14,6,7,4,2,104,164,11,2,2,5,3,5,1,11,Chemung County,precinct
+Chemung County,Elmira 0903,90,66,8,0,5,3,1,0,98,57,7,7,3,2,1,84,63,6,3,2,3,1,0,1,12,Chemung County,precinct
+Chemung County,Elmira 0904,69,56,8,0,4,2,1,0,68,49,9,4,5,0,0,64,52,7,2,1,2,1,0,0,7,Chemung County,precinct
+Chemung County,Elmira 0905,17,39,1,0,0,1,0,0,27,25,2,1,0,1,1,15,37,0,1,0,0,0,0,0,6,Chemung County,precinct
+Chemung County,Elmira 0906,63,50,2,0,2,3,0,0,65,48,1,1,2,0,1,51,51,3,0,1,2,0,3,2,7,Chemung County,precinct
+Chemung County,Elmira 0907,111,67,5,0,7,1,0,0,113,60,5,5,2,2,1,97,74,7,2,1,1,0,0,0,11,Chemung County,precinct
+Chemung County,Elmira 1001,184,114,8,0,5,5,3,0,200,95,8,5,4,5,1,156,115,12,4,2,0,2,2,2,21,Chemung County,precinct
+Chemung County,Elmira 1002,165,89,8,0,7,3,5,0,175,74,4,7,7,5,2,138,95,6,4,4,6,6,0,2,12,Chemung County,precinct
+Chemung County,Elmira 1003,12,13,0,0,0,1,0,0,14,10,0,1,0,1,0,12,11,1,0,1,1,0,0,1,0,Chemung County,precinct
+Chemung County,Elmira 1004,56,20,0,0,2,2,2,0,58,22,0,1,1,1,1,44,26,2,0,2,1,0,2,1,4,Chemung County,precinct
+Chemung County,Elmira 1005,5,7,1,0,0,1,0,0,5,8,1,0,0,0,1,4,8,1,0,0,0,0,1,0,1,Chemung County,precinct
+Chemung County,Elmira 1006,162,181,13,0,10,4,3,0,186,149,12,7,10,1,2,141,186,15,2,4,3,1,1,1,17,Chemung County,precinct
+Chemung County,Elmira 1007,164,134,5,0,6,6,4,0,167,121,8,7,10,1,0,135,139,11,10,0,4,3,2,1,15,Chemung County,precinct
+Chemung County,Elmira 1101,189,133,9,0,13,7,5,0,203,111,9,12,6,4,4,159,137,9,10,7,2,3,3,2,23,Chemung County,precinct
+Chemung County,Elmira 1102,121,68,6,0,3,4,2,0,120,55,10,3,5,1,2,108,60,8,1,5,1,0,1,1,22,Chemung County,precinct
+Chemung County,Elmira 1103,116,58,6,0,2,4,3,0,116,60,7,3,2,1,1,109,58,9,5,1,2,0,0,1,6,Chemung County,precinct
+Chemung County,Elmira 1104,14,14,1,0,0,1,1,0,17,13,1,1,2,1,0,13,13,1,5,0,1,0,0,0,0,Chemung County,precinct
+Chemung County,Elmira 1105,173,74,12,0,6,3,3,0,189,64,10,8,5,1,2,178,70,10,6,3,3,0,2,1,8,Chemung County,precinct
+Chemung County,Elmira 1106,11,3,0,0,2,0,0,0,9,3,1,1,2,0,0,10,5,0,0,0,1,0,0,0,0,Chemung County,precinct
+Chemung County,Elmira 1201,157,143,11,0,7,4,5,0,170,121,11,11,4,2,3,119,146,17,1,5,3,0,1,1,29,Chemung County,precinct
+Chemung County,Elmira 1202,68,58,4,0,4,5,1,0,70,53,4,5,4,0,1,64,56,6,2,1,2,0,2,1,5,Chemung County,precinct
+Chemung County,Elmira 1203,66,64,12,0,9,6,1,0,71,57,7,7,7,2,2,59,61,9,5,3,4,0,0,2,17,Chemung County,precinct
+Chemung County,Elmira 1204,135,90,8,0,6,7,1,0,136,77,9,8,4,4,0,99,97,17,5,1,2,0,4,3,19,Chemung County,precinct
+Chemung County,Elmira 1205,180,174,20,0,13,5,2,0,184,158,20,9,9,1,1,127,183,28,4,7,6,1,4,4,22,Chemung County,precinct
+Chemung County,Elmira 1206,7,4,0,0,2,1,0,0,7,5,0,1,1,0,0,6,5,0,2,1,0,0,0,0,1,Chemung County,precinct
+Chemung County,Elmira 1301,43,18,2,0,1,0,0,0,40,16,2,1,0,2,0,36,19,1,0,1,1,0,0,0,3,Chemung County,precinct
+Chemung County,Elmira 1302,157,183,12,0,13,8,2,0,178,158,13,7,12,0,1,130,180,19,8,6,7,1,1,1,15,Chemung County,precinct
+Chemung County,Elmira 1303,79,59,5,0,4,2,2,0,80,51,5,6,4,1,1,63,65,8,1,2,1,0,1,1,7,Chemung County,precinct
+Chemung County,Elmira 1304,159,172,14,0,13,4,3,0,171,148,14,10,9,2,2,134,173,16,2,2,6,2,3,3,21,Chemung County,precinct
+Chemung County,Elmira 1305,77,71,8,0,5,4,2,0,83,60,7,5,7,2,0,60,76,8,3,1,6,1,1,1,11,Chemung County,precinct
+Chemung County,Elmira twp 0701,271,242,13,0,16,12,3,0,289,212,17,12,12,5,2,210,259,21,5,10,10,1,4,7,21,Chemung County,precinct
+Chemung County,Elmira twp 0702,84,76,6,0,3,3,1,0,94,62,6,2,3,0,0,66,80,6,3,2,0,0,1,4,4,Chemung County,precinct
+Chemung County,Elmira twp 0703,297,266,18,0,17,8,6,0,304,234,18,19,12,6,3,238,285,31,7,7,7,7,6,5,9,Chemung County,precinct
+Chemung County,Elmira twp 0704,375,296,28,0,11,6,5,0,412,253,24,6,13,4,1,313,307,28,10,1,10,2,3,7,29,Chemung County,precinct
+Chemung County,Elmira twp 0705,332,234,20,0,4,5,2,0,346,200,15,3,14,2,1,258,262,31,7,1,2,2,2,5,19,Chemung County,precinct
+Chemung County,Elmira twp 0804,137,185,12,0,11,7,1,0,142,176,15,9,9,2,4,98,196,16,4,2,4,3,1,5,30,Chemung County,precinct
+Chemung County,Elmira twp 0908,23,26,3,0,1,2,0,0,27,21,1,1,1,1,1,17,32,1,0,1,1,0,1,0,3,Chemung County,precinct
+Chemung County,Elmira twp 1506,93,186,12,0,6,8,4,0,107,165,14,3,9,2,2,74,190,12,4,2,0,1,2,4,16,Chemung County,precinct
+Chemung County,Erin 0503,112,322,29,0,11,11,2,0,138,285,26,7,11,1,3,85,326,38,2,2,4,1,0,3,29,Chemung County,precinct
+Chemung County,Erin 0604,59,181,26,0,4,3,1,0,83,156,19,3,7,0,1,37,166,24,5,1,0,0,0,10,28,Chemung County,precinct
+Chemung County,Horseheads 0301,315,417,29,0,5,9,2,0,352,353,29,7,16,3,1,261,416,38,14,0,7,2,4,8,15,Chemung County,precinct
+Chemung County,Horseheads 0302,145,205,19,0,13,6,4,0,165,185,15,12,8,2,0,129,196,17,3,10,3,2,2,1,21,Chemung County,precinct
+Chemung County,Horseheads 0303,310,351,27,0,18,16,6,0,350,301,22,12,23,5,3,241,381,30,8,3,12,3,4,5,36,Chemung County,precinct
+Chemung County,Horseheads 0304,245,306,23,0,10,4,7,0,275,264,24,13,6,3,1,201,307,21,8,6,2,4,4,6,37,Chemung County,precinct
+Chemung County,Horseheads 0401,39,80,11,0,1,3,0,0,40,73,9,2,1,2,0,35,75,10,4,1,1,1,0,2,3,Chemung County,precinct
+Chemung County,Horseheads 0402,24,36,7,0,1,0,1,0,24,34,6,1,1,1,0,17,36,8,0,1,0,0,1,1,4,Chemung County,precinct
+Chemung County,Horseheads 0403,117,191,15,0,5,0,3,0,135,162,16,4,2,2,2,94,181,18,6,1,2,2,2,4,19,Chemung County,precinct
+Chemung County,Horseheads 0404,248,289,28,0,10,11,6,0,275,249,27,11,14,5,4,204,300,30,8,5,7,3,5,5,18,Chemung County,precinct
+Chemung County,Horseheads 0406,86,125,5,0,2,1,2,0,95,114,5,3,2,1,0,64,125,7,2,3,2,0,2,4,11,Chemung County,precinct
+Chemung County,Horseheads 0407,14,49,3,0,2,0,1,0,22,40,3,2,0,0,0,14,45,2,0,0,0,0,0,0,5,Chemung County,precinct
+Chemung County,Horseheads 0408,169,150,14,0,6,6,3,0,179,131,12,6,4,2,4,143,143,13,6,4,1,0,6,4,23,Chemung County,precinct
+Chemung County,Horseheads 0501,229,404,39,0,11,10,3,0,273,350,38,11,12,2,1,195,401,42,1,3,9,1,5,4,34,Chemung County,precinct
+Chemung County,Horseheads 0502,172,248,19,0,9,8,3,0,187,224,21,5,11,3,3,146,245,19,3,2,7,1,2,3,27,Chemung County,precinct
+Chemung County,Horseheads 0504,241,511,37,0,11,15,1,0,270,461,40,14,17,3,1,178,507,35,8,5,11,2,6,3,52,Chemung County,precinct
+Chemung County,Horseheads 0801,38,55,4,0,2,2,1,0,39,50,3,1,4,0,0,28,58,2,1,0,0,0,0,0,7,Chemung County,precinct
+Chemung County,Horseheads 0802,175,258,9,0,8,3,3,0,193,229,12,10,6,2,1,133,260,18,9,1,5,0,1,7,27,Chemung County,precinct
+Chemung County,Horseheads 0803,164,210,14,0,11,9,2,0,196,171,15,14,7,3,1,140,196,20,5,2,1,2,3,4,44,Chemung County,precinct
+Chemung County,Horseheads 0805,132,236,13,0,5,7,3,0,144,210,15,3,5,3,2,118,221,13,3,1,1,1,3,0,28,Chemung County,precinct
+Chemung County,Southport 1207,27,58,6,0,2,0,1,0,28,54,6,2,2,0,0,21,59,4,0,0,0,0,0,0,8,Chemung County,precinct
+Chemung County,Southport 1306,98,125,10,0,7,4,5,0,104,111,13,5,6,3,2,74,137,17,1,1,2,1,2,0,15,Chemung County,precinct
+Chemung County,Southport 1401,105,172,7,0,6,13,0,0,119,148,9,8,9,2,1,82,160,14,4,2,3,1,3,3,25,Chemung County,precinct
+Chemung County,Southport 1402,152,243,14,0,4,6,2,0,175,212,13,4,5,3,2,108,254,9,3,1,2,2,4,9,28,Chemung County,precinct
+Chemung County,Southport 1403,138,222,28,0,5,6,0,0,177,179,29,2,6,1,1,120,220,33,1,1,5,1,1,0,18,Chemung County,precinct
+Chemung County,Southport 1404,215,393,17,0,6,6,2,0,242,338,17,11,8,3,1,159,402,22,6,2,5,2,7,3,27,Chemung County,precinct
+Chemung County,Southport 1405,108,209,9,0,2,4,3,0,130,178,9,4,4,0,1,84,219,13,5,0,1,0,2,1,6,Chemung County,precinct
+Chemung County,Southport 1406,87,211,19,0,3,4,0,0,93,195,19,4,5,0,1,62,213,25,1,0,5,0,2,1,13,Chemung County,precinct
+Chemung County,Southport 1502,41,19,2,0,1,1,0,0,44,16,2,3,0,0,0,40,20,2,0,2,0,0,0,1,2,Chemung County,precinct
+Chemung County,Southport 1503,118,161,13,0,7,4,1,0,139,129,10,6,8,1,1,102,158,16,4,0,4,1,2,4,12,Chemung County,precinct
+Chemung County,Southport 1504,61,125,9,0,5,7,2,0,82,93,10,9,6,0,2,57,119,14,1,1,4,0,4,4,8,Chemung County,precinct
+Chemung County,Southport 1505,119,179,12,0,2,6,4,0,124,163,10,7,7,2,3,81,181,15,7,1,3,2,2,3,22,Chemung County,precinct
+Chemung County,Van Etten 0605,179,314,46,0,23,14,8,0,203,270,45,21,15,11,2,143,309,44,15,12,8,4,4,5,33,Chemung County,precinct
+Chemung County,Veteran 0102,137,273,21,0,3,11,8,0,157,185,26,2,10,6,1,105,271,28,3,0,4,6,2,6,26,Chemung County,precinct
+Chemung County,Veteran 0103,180,346,41,0,6,12,2,0,193,322,40,8,14,2,0,133,343,43,7,3,3,1,5,6,44,Chemung County,precinct
+Chemung County,Veteran 0104,108,179,29,0,8,3,4,0,120,154,28,7,4,3,2,84,187,28,5,0,1,0,1,5,20,Chemung County,precinct

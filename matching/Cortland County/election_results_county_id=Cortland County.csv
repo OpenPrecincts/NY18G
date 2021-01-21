@@ -1,0 +1,52 @@
+county,precinct,HOR_DEM,HOR_REP,HOR_CON,HOR_GRE,HOR_WOR,HOR_IND,HOR_WEP,HOR_REF,Sen_DEM,Sen_REP,Sen_CON,Sen_WOR,Sen_IND,Sen_WEP,Sen_REF,Gov_DEM,Gov_REP,Gov_CON,Gov_GRE,Gov_WOR,Gov_IND,Gov_WEP,Gov_REF,Gov_SAM,Gov_LBT,county_id,original_precinct_name
+Cortland County,Cincinnatus,105,221,20,0,5,4,2,2,109,203,21,7,7,0,3,73,230,22,5,0,3,0,0,7,16,Cortland County,precinct
+Cortland County,Cortlandville-1,404,240,25,0,4,10,5,3,390,238,25,4,10,8,4,286,273,33,7,4,3,5,3,29,28,Cortland County,precinct
+Cortland County,Cortlandville-2,345,277,27,0,7,21,7,6,331,277,30,8,20,7,6,257,291,30,5,5,10,3,7,39,26,Cortland County,precinct
+Cortland County,Cortlandville-3,213,172,25,0,6,6,2,0,203,167,30,6,8,5,1,149,190,28,6,2,2,0,1,13,15,Cortland County,precinct
+Cortland County,Cortlandville-4,227,273,29,0,9,13,1,2,228,251,32,11,13,2,4,140,285,33,4,1,6,2,1,15,44,Cortland County,precinct
+Cortland County,Cortlandville-5,117,82,13,0,10,6,4,1,127,67,14,9,8,2,1,88,85,14,6,5,2,2,4,10,12,Cortland County,precinct
+Cortland County,Cortlandville-6,384,223,29,0,11,9,2,5,371,213,28,14,12,10,2,280,237,26,11,5,6,6,8,31,41,Cortland County,precinct
+Cortland County,Cuyler,93,161,26,0,8,7,1,5,101,150,24,11,9,4,1,53,155,24,4,1,3,0,5,11,32,Cortland County,precinct
+Cortland County,Freetown,96,133,16,0,7,2,1,0,89,129,12,9,5,1,0,54,142,15,5,3,2,0,3,5,19,Cortland County,precinct
+Cortland County,Harford,111,158,18,0,8,4,4,4,99,153,20,10,10,4,3,68,166,20,8,4,2,3,5,4,25,Cortland County,precinct
+Cortland County,Homer-1,86,82,10,0,4,3,1,1,88,77,8,6,4,1,1,56,85,14,2,1,1,2,0,14,10,Cortland County,precinct
+Cortland County,Homer-2,314,282,33,0,17,15,6,2,303,265,28,13,20,6,7,209,309,35,14,6,10,3,8,39,27,Cortland County,precinct
+Cortland County,Homer-3,313,227,28,0,7,17,5,1,308,216,26,9,17,4,4,224,270,24,9,5,6,5,2,17,24,Cortland County,precinct
+Cortland County,Homer-4,284,197,23,0,7,12,4,2,267,200,23,8,13,4,5,207,216,26,9,2,5,2,6,23,22,Cortland County,precinct
+Cortland County,Homer-5,411,228,32,0,13,26,6,4,400,223,32,13,23,5,4,291,251,40,16,6,11,4,9,41,38,Cortland County,precinct
+Cortland County,Lapeer,90,166,14,0,4,2,0,2,87,157,15,4,1,1,2,59,169,15,3,1,0,0,1,9,14,Cortland County,precinct
+Cortland County,Marathon-1,154,218,20,0,7,9,4,2,147,206,20,7,9,2,6,105,229,23,2,4,4,1,2,8,24,Cortland County,precinct
+Cortland County,Marathon-2,138,164,11,0,7,4,1,1,129,162,11,5,8,1,3,91,189,13,2,1,2,0,3,3,18,Cortland County,precinct
+Cortland County,Preble,270,265,41,0,11,13,13,6,278,240,42,12,11,9,4,197,285,38,10,3,2,2,7,31,32,Cortland County,precinct
+Cortland County,Scott,171,208,16,0,6,9,3,0,164,194,16,14,7,2,2,101,212,17,4,1,5,0,4,33,22,Cortland County,precinct
+Cortland County,Solon,142,225,13,0,10,13,6,4,133,220,14,14,12,5,5,103,219,13,10,3,5,0,7,12,30,Cortland County,precinct
+Cortland County,Taylor,54,130,11,0,6,6,0,2,52,118,11,10,6,0,1,45,122,12,2,3,3,0,2,6,13,Cortland County,precinct
+Cortland County,Truxton,192,237,30,0,12,7,7,4,200,210,28,15,9,11,3,110,241,29,21,5,4,4,1,29,34,Cortland County,precinct
+Cortland County,Virgil-1,158,167,26,0,7,8,2,1,150,163,19,10,10,5,2,107,177,21,5,1,2,1,1,14,38,Cortland County,precinct
+Cortland County,Virgil-2,313,286,41,0,13,18,9,1,309,274,33,13,23,10,1,210,298,38,14,7,11,5,3,24,44,Cortland County,precinct
+Cortland County,Ward 1 ED 1,384,154,13,0,17,12,4,2,374,145,15,17,14,7,3,273,187,15,9,10,27,4,3,26,32,Cortland County,precinct
+Cortland County,Ward 1 ED 2,9,2,1,0,1,2,0,0,9,3,1,0,2,0,0,7,2,2,0,0,1,0,0,0,2,Cortland County,precinct
+Cortland County,Ward 1 ED 3,243,157,8,0,5,10,1,1,234,153,13,5,10,3,0,195,161,12,9,6,7,0,0,8,18,Cortland County,precinct
+Cortland County,Ward 2 ED 1,214,74,10,0,13,9,2,2,209,68,12,14,11,4,5,157,82,14,11,8,9,3,1,14,15,Cortland County,precinct
+Cortland County,Ward 2 ED 2,78,35,4,0,3,4,2,1,76,36,6,2,2,2,1,55,42,4,4,4,2,1,0,4,10,Cortland County,precinct
+Cortland County,Ward 2 ED 3,40,14,2,0,0,4,0,0,39,12,2,3,2,0,0,31,19,2,0,1,1,0,1,4,0,Cortland County,precinct
+Cortland County,Ward 3 ED 1,130,35,5,0,3,5,1,1,120,40,5,4,3,3,2,99,43,6,3,2,4,1,1,9,9,Cortland County,precinct
+Cortland County,Ward 3 ED 2,64,55,5,0,2,1,1,1,64,53,6,2,2,1,0,47,56,7,1,2,0,0,2,8,6,Cortland County,precinct
+Cortland County,Ward 3 ED 3,112,40,4,0,1,3,1,0,109,41,2,1,3,3,1,94,40,4,4,0,2,1,0,6,9,Cortland County,precinct
+Cortland County,Ward 3 ED 4,60,12,0,0,3,1,1,0,58,11,1,4,2,1,0,50,13,0,3,5,1,1,1,0,2,Cortland County,precinct
+Cortland County,Ward 3 ED 5,101,21,4,0,6,5,2,0,105,23,2,6,3,2,0,77,25,3,6,4,4,1,1,9,8,Cortland County,precinct
+Cortland County,Ward 4 ED 1,245,70,6,0,12,9,8,0,241,67,10,8,9,9,1,196,75,9,6,2,5,5,2,17,19,Cortland County,precinct
+Cortland County,Ward 4 ED 2,49,30,2,0,2,4,0,0,45,30,4,3,4,0,0,34,32,7,0,2,2,0,0,3,6,Cortland County,precinct
+Cortland County,Ward 4 ED 3,8,0,1,0,0,1,0,0,7,1,1,0,1,0,0,5,1,1,0,0,1,0,0,2,0,Cortland County,precinct
+Cortland County,Ward 5 ED 1,1,2,0,0,0,0,0,0,1,2,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,Cortland County,precinct
+Cortland County,Ward 5 ED 2,139,81,7,0,10,6,3,1,127,84,11,8,8,4,0,107,89,10,5,6,3,2,1,9,11,Cortland County,precinct
+Cortland County,Ward 5 ED 3,10,5,0,0,0,1,0,1,9,3,1,1,1,0,1,4,3,0,1,0,1,0,0,4,3,Cortland County,precinct
+Cortland County,Ward 5 ED 4,159,61,3,0,5,7,4,1,147,62,5,8,4,7,1,116,75,7,11,3,4,2,1,9,8,Cortland County,precinct
+Cortland County,Ward 6 ED 1,352,191,32,0,16,18,3,4,346,173,36,17,15,5,3,291,189,38,12,6,9,1,6,21,32,Cortland County,precinct
+Cortland County,Ward 6 ED 2,43,15,5,0,1,3,2,2,39,17,3,1,3,2,3,29,18,4,2,1,0,1,0,6,8,Cortland County,precinct
+Cortland County,Ward 7 ED 1,335,139,12,0,12,14,2,6,308,134,13,18,17,4,4,225,175,15,12,6,4,2,7,27,32,Cortland County,precinct
+Cortland County,Ward 7 ED 2,32,19,3,0,3,0,2,1,31,21,3,1,0,3,0,26,21,4,1,1,0,2,1,2,2,Cortland County,precinct
+Cortland County,Ward 7 ED 3,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,Cortland County,precinct
+Cortland County,Ward 8 ED 1,248,133,12,0,13,11,1,4,240,124,13,11,14,5,2,170,166,13,6,5,8,1,3,13,25,Cortland County,precinct
+Cortland County,Ward 8 ED 2,62,16,5,0,1,1,0,0,51,17,6,0,1,2,0,50,16,4,0,1,1,0,2,2,7,Cortland County,precinct
+Cortland County,Willet,88,165,15,0,4,1,3,3,90,151,17,7,2,3,3,60,169,11,1,0,1,1,3,7,20,Cortland County,precinct

@@ -1,0 +1,42 @@
+county,precinct,HOR_DEM,HOR_REP,HOR_CON,HOR_GRE,HOR_WOR,HOR_IND,HOR_WEP,HOR_REF,Sen_DEM,Sen_REP,Sen_CON,Sen_WOR,Sen_IND,Sen_WEP,Sen_REF,Gov_DEM,Gov_REP,Gov_CON,Gov_GRE,Gov_WOR,Gov_IND,Gov_WEP,Gov_REF,Gov_SAM,Gov_LBT,county_id,original_precinct_name
+Tioga County,Town of Barton 1 LD 5,179,195,9,0,6,3,2,0,179,170,12,6,7,2,1,146,194,12,2,3,4,0,1,1,20,Tioga County,precinct
+Tioga County,Town of Barton 2 LD 5,207,242,22,0,12,9,8,0,229,215,20,10,10,6,6,181,228,19,9,5,8,2,5,5,39,Tioga County,precinct
+Tioga County,Town of Barton 3 LD 5,56,98,6,0,6,5,2,0,70,86,6,8,2,3,2,54,93,6,0,3,0,1,2,2,12,Tioga County,precinct
+Tioga County,Town of Barton 4 LD 6,155,284,19,0,6,7,1,0,174,251,17,8,7,2,2,122,288,18,4,3,2,0,5,4,24,Tioga County,precinct
+Tioga County,Town of Barton 5 LD 6,86,240,16,0,9,3,2,0,94,223,16,11,1,1,2,65,233,15,7,6,1,0,2,6,19,Tioga County,precinct
+Tioga County,Town of Barton 7 LD 5,130,281,15,0,6,5,3,0,150,254,15,7,3,2,1,124,271,15,1,1,1,0,2,2,19,Tioga County,precinct
+Tioga County,Town of Berkshire 1 LD 7,142,309,22,0,8,12,4,0,153,290,22,11,6,4,7,123,314,28,5,3,3,2,2,2,25,Tioga County,precinct
+Tioga County,Town of Candor 1 LD 7,196,245,17,0,20,5,6,0,201,229,24,13,6,6,3,157,236,23,17,13,2,3,1,4,30,Tioga County,precinct
+Tioga County,Town of Candor 2 LD 7,74,210,15,0,9,1,3,0,81,197,16,9,3,0,1,60,203,15,2,2,1,0,1,3,27,Tioga County,precinct
+Tioga County,Town of Candor 3 LD 7,153,264,19,0,10,3,2,0,158,252,18,9,5,1,1,121,261,16,8,5,1,1,2,11,26,Tioga County,precinct
+Tioga County,Town of Candor 4 LD 7,232,323,28,0,7,11,5,0,238,308,28,8,11,7,4,185,318,27,16,8,4,4,3,6,50,Tioga County,precinct
+Tioga County,Town of Newark Valley 1 LD 7,166,325,24,0,6,10,3,0,176,303,26,6,16,1,3,128,339,26,9,1,6,0,5,5,14,Tioga County,precinct
+Tioga County,Town of Newark Valley 2 LD 7,160,212,15,0,12,6,6,0,170,211,11,6,5,3,1,137,220,11,5,1,3,3,2,7,24,Tioga County,precinct
+Tioga County,Town of Newark Valley 3 LD 7,150,273,32,0,4,6,4,0,170,251,31,6,6,2,2,128,286,29,8,1,2,0,2,3,17,Tioga County,precinct
+Tioga County,Town of Nichols 1 LD 4,149,211,15,0,5,5,0,2,156,190,16,4,8,0,1,120,224,15,1,3,6,0,2,2,14,Tioga County,precinct
+Tioga County,Town of Nichols 2 LD 4,108,179,13,0,6,7,2,0,103,178,15,7,5,0,1,73,199,15,3,4,2,0,1,8,8,Tioga County,precinct
+Tioga County,Town of Nichols 3 LD 4,32,85,5,0,3,1,2,0,34,79,6,1,3,1,2,34,78,7,2,0,1,1,1,0,3,Tioga County,precinct
+Tioga County,Town of Owego 1 LD 1,303,297,31,0,10,4,3,0,309,283,30,11,3,2,2,261,322,25,8,7,2,1,0,9,13,Tioga County,precinct
+Tioga County,Town of Owego 10 LD 2,179,309,22,0,5,7,3,0,195,276,26,4,8,6,4,143,305,26,6,1,2,2,4,3,26,Tioga County,precinct
+Tioga County,Town of Owego 11 LD 4,105,231,26,0,8,6,4,0,111,222,26,4,3,2,0,73,244,25,7,3,1,2,2,3,12,Tioga County,precinct
+Tioga County,Town of Owego 12 LD 4,139,151,9,0,5,2,2,1,136,142,12,7,3,2,1,98,180,10,6,2,3,1,2,1,8,Tioga County,precinct
+Tioga County,Town of Owego 13 LD 3,178,223,22,0,1,7,2,1,169,216,25,5,8,1,0,119,258,21,4,2,2,4,2,3,8,Tioga County,precinct
+Tioga County,Town of Owego 14 LD 4,203,233,21,0,4,9,1,3,201,233,17,6,11,2,2,166,252,23,1,2,5,2,0,3,21,Tioga County,precinct
+Tioga County,Town of Owego 15 LD 3,336,351,33,0,7,17,1,0,336,344,36,7,14,1,1,260,388,36,8,1,13,2,0,5,16,Tioga County,precinct
+Tioga County,Town of Owego 16 LD 4,133,238,23,0,6,5,2,1,126,231,21,8,5,3,2,96,254,21,3,2,2,0,1,3,16,Tioga County,precinct
+Tioga County,Town of Owego 17 LD 3,355,322,29,0,19,8,4,3,358,307,26,19,11,5,5,282,359,27,7,16,4,4,4,4,15,Tioga County,precinct
+Tioga County,Town of Owego 18 LD 1,166,168,7,0,7,1,4,0,178,159,6,2,5,2,4,148,168,6,7,3,3,0,3,6,12,Tioga County,precinct
+Tioga County,Town of Owego 19 LD 3,208,236,21,0,11,14,5,1,208,234,26,10,9,4,3,151,257,25,12,4,4,1,0,7,31,Tioga County,precinct
+Tioga County,Town of Owego 2 LD 1,209,309,25,0,3,7,5,0,226,288,23,1,10,3,1,173,313,29,10,2,3,1,2,7,17,Tioga County,precinct
+Tioga County,Town of Owego 3 LD 1,109,220,29,0,2,4,2,0,117,203,29,4,4,2,4,88,229,28,3,1,2,1,4,2,5,Tioga County,precinct
+Tioga County,Town of Owego 4 LD 1,228,303,31,0,17,5,5,0,235,284,33,14,10,6,2,183,312,28,6,8,7,4,3,8,27,Tioga County,precinct
+Tioga County,Town of Owego 5 LD 2,100,91,6,0,4,1,1,0,108,85,6,3,1,2,0,91,91,6,1,2,2,0,0,2,6,Tioga County,precinct
+Tioga County,Town of Owego 6 LD 2,246,238,18,0,9,11,5,0,261,224,18,9,10,1,3,203,245,14,8,5,5,1,6,6,29,Tioga County,precinct
+Tioga County,Town of Owego 7 LD 2,272,183,15,0,7,9,6,0,260,176,20,6,11,5,4,212,203,18,7,4,6,3,3,6,17,Tioga County,precinct
+Tioga County,Town of Owego 8 LD 2,115,100,6,0,1,1,2,0,118,96,5,2,0,2,2,92,109,5,2,1,0,0,0,2,14,Tioga County,precinct
+Tioga County,Town of Richford 1 LD 7,152,208,18,0,11,6,8,0,154,192,18,9,13,8,4,115,223,16,10,1,3,2,2,6,26,Tioga County,precinct
+Tioga County,Town of Spencer 1 LD 6,241,311,22,0,16,5,8,0,244,283,28,24,11,6,4,189,292,22,22,12,3,3,2,7,40,Tioga County,precinct
+Tioga County,Town of Spencer 2 LD 6,160,257,18,0,7,9,7,0,159,257,19,9,7,6,4,136,241,24,7,3,5,3,1,7,24,Tioga County,precinct
+Tioga County,Town of Tioga 1 LD 4,157,250,20,0,9,6,2,0,189,216,23,4,11,1,1,149,248,23,5,3,6,2,2,2,13,Tioga County,precinct
+Tioga County,Town of Tioga 2 LD 4,163,427,18,0,6,9,2,0,185,390,25,8,16,2,2,133,412,19,10,1,7,1,3,8,23,Tioga County,precinct
+Tioga County,Town of Tioga 4 LD 4,136,278,9,0,9,10,3,0,153,255,10,7,9,5,3,106,290,6,8,2,6,3,0,3,28,Tioga County,precinct

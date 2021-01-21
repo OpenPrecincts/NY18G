@@ -1,0 +1,50 @@
+county,precinct,HOR_DEM,HOR_REP,HOR_CON,HOR_GRE,HOR_WOR,HOR_IND,HOR_WEP,HOR_REF,Sen_DEM,Sen_REP,Sen_CON,Sen_WOR,Sen_IND,Sen_WEP,Sen_REF,Gov_DEM,Gov_REP,Gov_CON,Gov_GRE,Gov_WOR,Gov_IND,Gov_WEP,Gov_REF,Gov_SAM,Gov_LBT,county_id,original_precinct_name
+Otsego County,Burlington 1 ,114,282,27,4,2,2,6,3,139,252,29,5,6,5,1,79,291,31,8,2,3,2,6,4,12,Otsego County,precinct
+Otsego County,Butternuts 1 ,81,144,11,3,1,3,3,3,90,131,12,6,4,2,2,68,144,13,7,1,1,0,2,1,9,Otsego County,precinct
+Otsego County,Butternuts 2 ,211,228,11,5,20,2,9,0,219,215,14,17,4,12,3,160,245,16,12,9,2,3,1,5,22,Otsego County,precinct
+Otsego County,Cherry Valley 1 ,270,209,24,16,17,4,14,1,291,195,22,17,12,9,4,203,249,31,10,6,7,7,1,7,25,Otsego County,precinct
+Otsego County,Decatur 1 ,49,87,15,3,2,3,1,0,53,81,16,3,3,1,0,34,101,13,2,1,2,0,0,1,2,Otsego County,precinct
+Otsego County,Edmeston 1 ,197,334,42,13,9,7,4,2,222,312,43,6,8,3,2,146,365,45,10,3,6,1,1,7,22,Otsego County,precinct
+Otsego County,Exeter 1 ,93,188,12,8,6,3,1,0,109,173,15,7,6,0,1,76,200,13,1,4,1,0,1,1,12,Otsego County,precinct
+Otsego County,Hartwick 1 ,265,240,36,14,22,7,5,0,262,225,39,16,23,6,5,188,281,39,15,9,9,2,11,12,18,Otsego County,precinct
+Otsego County,Hartwick 2 ,133,135,13,6,6,0,4,0,127,140,16,3,3,2,1,89,160,11,7,1,2,1,3,4,6,Otsego County,precinct
+Otsego County,Laurens 1 ,167,182,26,7,11,3,3,0,170,180,27,5,12,5,1,128,214,26,6,3,3,1,2,0,7,Otsego County,precinct
+Otsego County,Laurens 2 ,201,234,30,5,13,5,11,2,213,221,25,9,17,7,7,149,260,26,19,2,12,3,0,4,27,Otsego County,precinct
+Otsego County,Maryland 1 ,107,167,5,6,4,0,4,3,109,170,9,3,2,3,2,72,183,8,4,1,1,2,3,2,10,Otsego County,precinct
+Otsego County,Maryland 2 ,115,267,14,5,12,6,4,1,136,236,20,15,10,4,1,76,281,22,7,4,3,1,2,3,17,Otsego County,precinct
+Otsego County,Middlefield 1 ,276,108,14,6,10,2,4,2,278,105,11,14,8,2,3,221,133,14,8,10,6,1,3,8,7,Otsego County,precinct
+Otsego County,Middlefield 2 ,254,232,14,7,12,6,6,0,264,213,19,11,11,7,1,193,243,23,16,8,4,5,3,8,12,Otsego County,precinct
+Otsego County,Milford 1 ,175,206,18,2,8,1,2,0,190,190,14,7,9,1,2,131,216,18,3,0,5,1,5,3,22,Otsego County,precinct
+Otsego County,Milford 2 ,319,344,21,15,18,5,4,4,343,316,18,13,22,3,5,246,375,23,16,6,8,1,4,11,24,Otsego County,precinct
+Otsego County,Morris 1 ,270,314,18,11,19,4,11,5,276,304,20,23,9,14,7,185,352,28,15,8,4,6,8,10,29,Otsego County,precinct
+Otsego County,New Lisbon 1 ,174,227,35,9,9,8,2,3,183,215,38,10,8,6,1,121,257,33,7,1,3,4,4,3,23,Otsego County,precinct
+Otsego County,Oneonta 1 ,368,246,19,6,10,7,6,0,355,247,24,14,15,2,2,283,293,26,11,4,4,3,3,8,14,Otsego County,precinct
+Otsego County,Oneonta 2 ,367,240,15,4,13,8,5,1,362,234,19,8,14,4,3,278,280,26,11,3,11,3,3,10,17,Otsego County,precinct
+Otsego County,Oneonta 3 ,251,154,12,8,10,4,7,0,262,144,12,8,8,6,0,195,170,16,7,5,4,8,5,11,15,Otsego County,precinct
+Otsego County,Oneonta 4 ,179,162,16,3,5,4,7,0,185,149,17,7,4,5,1,141,175,15,6,1,5,8,3,2,8,Otsego County,precinct
+Otsego County,Oneonta City Ward 1 ,445,166,11,5,17,7,10,3,442,164,11,13,19,12,3,368,195,13,15,6,13,8,2,11,19,Otsego County,precinct
+Otsego County,Oneonta City Ward 2 ,310,73,12,6,11,3,7,0,307,72,14,14,9,6,0,252,93,15,18,11,4,5,3,5,6,Otsego County,precinct
+Otsego County,Oneonta City Ward 3 ,183,41,5,4,12,2,13,0,176,44,7,11,8,9,2,140,55,4,15,4,6,8,0,4,10,Otsego County,precinct
+Otsego County,Oneonta City Ward 4 ,196,72,3,1,13,0,2,0,197,69,3,13,4,3,0,157,77,3,10,9,2,1,0,10,10,Otsego County,precinct
+Otsego County,Oneonta City Ward 5 ,252,144,11,5,12,2,8,2,262,129,13,11,8,3,4,186,161,11,15,6,4,6,3,6,19,Otsego County,precinct
+Otsego County,Oneonta City Ward 6 ,273,161,12,8,11,1,6,1,280,145,13,14,9,5,3,212,188,9,7,6,7,3,6,9,20,Otsego County,precinct
+Otsego County,Oneonta City Ward 7 ,172,58,3,5,12,2,7,0,167,51,3,14,11,4,0,143,62,2,7,10,7,2,0,6,11,Otsego County,precinct
+Otsego County,Oneonta City Ward 8 ,218,61,3,6,11,1,6,1,218,59,3,10,4,7,2,184,70,4,9,8,4,5,0,7,9,Otsego County,precinct
+Otsego County,Otego 1 ,174,281,21,11,9,3,5,1,186,257,30,10,9,5,4,126,293,32,4,4,2,4,1,11,30,Otsego County,precinct
+Otsego County,Otego 2 ,234,290,32,8,13,4,8,2,243,274,34,11,13,5,3,178,308,35,7,5,7,4,4,5,28,Otsego County,precinct
+Otsego County,Otsego 1 ,603,221,23,5,19,4,11,1,590,215,25,17,20,13,4,494,243,26,19,9,10,7,12,22,13,Otsego County,precinct
+Otsego County,Otsego 2 ,188,123,12,3,13,7,4,2,197,109,10,9,10,5,4,144,138,13,5,6,7,3,3,13,2,Otsego County,precinct
+Otsego County,Otsego 3 ,330,292,32,7,20,5,6,2,335,273,35,13,16,7,4,235,332,37,9,4,11,6,7,8,13,Otsego County,precinct
+Otsego County,Pittsfield 1 ,154,209,10,2,8,8,2,1,151,200,9,15,9,2,2,112,230,15,4,0,4,0,2,3,19,Otsego County,precinct
+Otsego County,Plainfield 1 ,75,192,22,5,3,5,2,0,92,179,21,3,7,0,3,53,195,20,7,1,3,0,1,5,18,Otsego County,precinct
+Otsego County,Richfield 1 ,143,196,19,8,6,6,1,0,154,181,23,12,7,1,2,109,209,28,8,2,4,1,2,5,9,Otsego County,precinct
+Otsego County,Richfield 2 ,108,284,21,8,5,7,3,1,122,264,22,8,9,1,3,72,303,28,4,2,2,2,3,5,14,Otsego County,precinct
+Otsego County,Roseboom 1 ,128,137,9,6,7,3,3,1,136,122,10,11,8,3,1,96,155,8,6,6,3,2,2,5,6,Otsego County,precinct
+Otsego County,Springfield 1 ,193,259,32,13,9,4,4,1,196,253,27,10,18,6,3,141,280,33,15,4,5,4,3,10,20,Otsego County,precinct
+Otsego County,Unadilla 1 ,149,223,18,10,5,3,2,2,155,217,21,9,6,1,3,117,241,22,4,3,5,2,3,4,10,Otsego County,precinct
+Otsego County,Unadilla 2 ,199,288,13,8,10,8,6,0,212,275,15,13,9,4,1,158,303,20,6,5,1,3,1,2,22,Otsego County,precinct
+Otsego County,Unadilla 3 ,190,128,13,8,6,0,2,0,200,122,14,6,4,1,2,149,160,16,3,2,0,0,3,3,8,Otsego County,precinct
+Otsego County,Westford 1 ,120,207,23,7,5,6,7,0,134,196,22,5,10,7,1,85,221,27,5,2,9,1,1,3,16,Otsego County,precinct
+Otsego County,Worcester 1 ,93,171,26,7,6,3,4,1,105,165,26,3,7,3,2,76,174,28,4,0,1,2,3,1,16,Otsego County,precinct
+Otsego County,Worcester 2 ,56,102,16,5,5,5,2,1,61,98,16,6,2,1,2,32,113,22,3,3,1,1,1,3,8,Otsego County,precinct
+Otsego County,Worcester 3 ,117,153,17,5,4,2,2,0,121,152,17,3,6,2,0,84,177,19,5,1,4,0,2,2,10,Otsego County,precinct

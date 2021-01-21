@@ -1,0 +1,105 @@
+county,precinct,HOR_DEM,HOR_REP,HOR_CON,HOR_GRE,HOR_WOR,HOR_IND,HOR_WEP,HOR_REF,Sen_DEM,Sen_REP,Sen_CON,Sen_WOR,Sen_IND,Sen_WEP,Sen_REF,Gov_DEM,Gov_REP,Gov_CON,Gov_GRE,Gov_WOR,Gov_IND,Gov_WEP,Gov_REF,Gov_SAM,Gov_LBT,county_id,original_precinct_name
+Greene County,ASHLAND ABS,14,11,5,1,0,0,0,0,15,11,5,0,0,1,0,11,8,5,2,0,0,0,0,0,2,Greene County,precinct
+Greene County,ATHENS ABS 1,24,8,2,1,1,1,0,0,24,8,2,1,0,1,0,21,7,3,3,1,0,0,0,0,0,Greene County,precinct
+Greene County,ATHENS ABS 2,10,10,0,0,2,0,0,0,11,9,0,0,0,0,0,9,11,0,0,0,0,0,0,0,2,Greene County,precinct
+Greene County,ATHENS ABS 3,25,22,7,0,0,0,0,0,29,19,7,0,0,0,0,14,25,6,1,1,0,0,0,0,1,Greene County,precinct
+Greene County,ATHENS ABS 4,10,25,2,2,4,1,0,0,10,27,3,3,0,0,0,8,29,3,2,2,0,0,0,0,0,Greene County,precinct
+Greene County,CAIRO ABS 1,10,18,3,0,0,0,0,0,11,17,3,0,0,0,0,8,19,2,1,0,0,0,1,0,0,Greene County,precinct
+Greene County,CAIRO ABS 2,13,21,3,0,1,1,0,0,15,21,4,1,0,0,0,13,22,4,1,0,0,0,0,0,1,Greene County,precinct
+Greene County,CAIRO ABS 3,4,2,2,2,0,0,0,0,3,3,2,0,1,0,1,4,2,2,1,0,1,0,0,0,0,Greene County,precinct
+Greene County,CAIRO ABS 4,14,18,1,1,2,0,0,0,16,16,1,2,0,0,0,12,20,1,0,2,0,0,0,0,0,Greene County,precinct
+Greene County,CAIRO ABS 5,8,9,0,0,2,0,0,0,8,9,0,1,1,0,0,7,10,0,0,1,1,0,0,0,0,Greene County,precinct
+Greene County,CAIRO ABS 6,14,16,4,1,1,0,1,0,15,15,4,0,1,3,0,10,18,5,2,1,0,1,0,0,0,Greene County,precinct
+Greene County,CAIRO ABS 7,10,7,0,0,2,0,0,0,10,7,1,1,1,0,0,9,8,0,2,0,0,0,0,0,0,Greene County,precinct
+Greene County,CATSKILL ABS 1,26,14,0,0,0,1,0,0,24,16,0,0,1,1,0,22,14,0,1,0,1,0,0,0,1,Greene County,precinct
+Greene County,CATSKILL ABS 10,24,14,0,1,1,0,0,0,23,14,1,1,0,0,0,19,16,1,0,0,0,0,0,2,0,Greene County,precinct
+Greene County,CATSKILL ABS 11,19,20,3,1,1,0,0,0,20,22,2,0,0,0,0,16,20,3,1,1,0,0,0,0,0,Greene County,precinct
+Greene County,CATSKILL ABS 12,8,2,0,0,0,0,0,0,7,2,0,0,0,0,0,5,4,0,0,0,1,0,0,0,0,Greene County,precinct
+Greene County,CATSKILL ABS 13,13,11,2,0,0,0,0,0,13,12,1,0,1,0,0,12,13,2,0,0,1,0,0,0,0,Greene County,precinct
+Greene County,CATSKILL ABS 14,20,2,1,0,1,0,0,0,18,2,1,1,1,0,0,15,2,1,1,1,1,0,0,0,0,Greene County,precinct
+Greene County,CATSKILL ABS 2,24,14,0,2,1,0,0,0,27,11,1,1,0,1,0,16,14,1,4,1,0,0,1,1,0,Greene County,precinct
+Greene County,CATSKILL ABS 3,11,7,0,0,1,0,0,0,13,5,0,2,0,0,0,8,8,0,0,2,0,0,0,0,0,Greene County,precinct
+Greene County,CATSKILL ABS 4,5,7,2,0,0,0,0,0,6,7,0,0,0,0,0,5,8,1,0,0,0,0,0,0,0,Greene County,precinct
+Greene County,CATSKILL ABS 5,28,25,2,1,0,0,2,0,32,21,3,0,3,1,1,28,26,3,1,0,1,0,1,0,0,Greene County,precinct
+Greene County,CATSKILL ABS 6,10,7,0,1,0,0,0,0,11,7,0,0,0,1,0,9,7,0,0,0,0,0,0,0,0,Greene County,precinct
+Greene County,CATSKILL ABS 7,12,10,3,0,0,0,0,0,11,9,3,0,2,0,0,6,10,1,0,0,1,0,0,0,1,Greene County,precinct
+Greene County,CATSKILL ABS 8,2,6,0,0,0,0,0,0,2,6,0,0,0,0,0,2,5,0,0,0,0,0,0,0,0,Greene County,precinct
+Greene County,CATSKILL ABS 9,22,15,4,1,0,0,0,0,24,13,2,2,1,0,0,19,14,4,1,0,1,0,0,1,0,Greene County,precinct
+Greene County,COXSACKIE ABS 1,36,12,7,0,2,0,1,1,38,12,6,2,2,1,1,28,18,7,0,1,1,1,1,2,0,Greene County,precinct
+Greene County,COXSACKIE ABS 2,9,7,1,1,0,0,0,0,10,7,1,0,0,0,0,9,7,1,0,0,0,0,0,0,1,Greene County,precinct
+Greene County,COXSACKIE ABS 3,1,4,0,0,0,0,0,0,1,4,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,Greene County,precinct
+Greene County,COXSACKIE ABS 4,12,11,2,0,0,0,0,0,13,9,3,0,0,0,0,11,10,3,1,0,0,0,0,0,0,Greene County,precinct
+Greene County,COXSACKIE ABS 5,2,5,1,0,1,1,0,0,3,5,2,0,1,0,0,3,5,2,0,0,0,0,0,0,0,Greene County,precinct
+Greene County,COXSACKIE ABS 6,11,10,4,0,0,0,5,0,16,7,4,0,1,4,0,11,10,5,0,0,1,4,0,0,0,Greene County,precinct
+Greene County,DURHAM ABS 1,31,9,1,0,3,1,3,0,31,10,1,2,1,3,0,28,11,1,2,4,0,1,0,0,1,Greene County,precinct
+Greene County,DURHAM ABS 2,23,20,3,1,1,0,0,0,22,18,4,3,0,1,0,20,20,2,0,3,0,0,0,0,0,Greene County,precinct
+Greene County,GREENVILLE ABS 1,22,21,2,0,1,0,4,0,19,25,2,1,1,3,0,20,21,2,0,1,0,1,1,1,1,Greene County,precinct
+Greene County,GREENVILLE ABS 2,16,12,1,0,0,0,1,0,16,12,1,1,0,0,0,12,13,1,1,0,0,1,0,0,0,Greene County,precinct
+Greene County,GREENVILLE ABS 3,13,8,3,0,0,1,0,0,12,8,4,0,1,0,0,10,8,4,0,1,0,0,0,0,1,Greene County,precinct
+Greene County,HALCOTT ABS,16,9,0,0,7,0,0,0,13,10,0,8,0,0,0,11,10,0,3,7,0,0,0,0,0,Greene County,precinct
+Greene County,HUNTER ABS 1,40,8,0,2,4,0,0,0,39,12,0,3,1,0,0,36,11,0,1,2,0,0,0,0,0,Greene County,precinct
+Greene County,HUNTER ABS 2,42,20,2,0,2,0,0,0,39,19,3,4,1,0,1,33,21,2,3,0,1,0,0,0,0,Greene County,precinct
+Greene County,HUNTER ABS 3,17,15,3,1,0,1,1,0,21,12,3,1,0,1,0,12,14,3,1,1,2,1,0,0,1,Greene County,precinct
+Greene County,HUNTER ABS 4,14,10,0,0,1,0,0,0,12,11,0,2,0,0,0,9,11,0,3,1,0,0,0,0,0,Greene County,precinct
+Greene County,JEWETT ABS,38,22,7,0,10,1,1,0,40,21,8,8,2,2,0,33,24,6,2,7,2,1,0,1,0,Greene County,precinct
+Greene County,LEXINGTON ABS 1,10,7,1,1,3,1,0,0,13,7,1,2,1,0,0,14,7,0,0,1,1,0,0,0,0,Greene County,precinct
+Greene County,LEXINGTON ABS 2,13,4,0,0,0,1,0,1,14,2,1,0,2,0,0,10,6,0,1,0,0,0,1,0,0,Greene County,precinct
+Greene County,NEW BALTIMORE ABS 1,18,9,3,3,1,1,0,0,24,8,3,0,1,0,0,12,13,3,3,0,0,0,0,2,1,Greene County,precinct
+Greene County,NEW BALTIMORE ABS 2,2,8,4,1,1,0,0,0,2,9,4,0,1,0,0,2,9,4,0,0,1,0,0,0,0,Greene County,precinct
+Greene County,NEW BALTIMORE ABS 3,13,8,1,0,3,0,0,0,11,9,1,3,1,1,0,10,9,1,1,2,1,1,0,0,0,Greene County,precinct
+Greene County,NEW BALTIMORE ABS 4,6,8,1,0,0,0,0,0,6,8,1,0,0,0,0,4,8,2,1,0,0,0,0,0,0,Greene County,precinct
+Greene County,PRATTSVILLE ABS,8,7,4,0,0,0,0,0,11,3,4,1,0,0,0,7,8,3,0,0,0,0,0,0,0,Greene County,precinct
+Greene County,Town of Ashland 1 LD 6,77,187,14,10,3,2,0,1,91,171,17,6,5,2,2,57,187,21,9,0,2,0,2,0,6,Greene County,precinct
+Greene County,Town of Athens 1 LD 3,162,149,21,6,13,5,6,0,172,144,25,8,9,3,2,125,167,24,11,4,3,2,3,8,12,Greene County,precinct
+Greene County,Town of Athens 2 LD 3,98,152,23,7,6,1,3,0,97,148,26,4,5,5,1,66,181,30,3,0,3,2,3,3,2,Greene County,precinct
+Greene County,Town of Athens 3 LD 3,308,273,34,8,24,5,9,4,322,248,36,20,21,9,8,235,319,44,16,9,7,7,4,18,9,Greene County,precinct
+Greene County,Town of Athens 4 LD 3,93,179,31,8,11,2,2,0,96,168,32,14,6,5,2,59,209,29,8,6,1,3,3,5,4,Greene County,precinct
+Greene County,Town of Cairo 1 LD 8,125,197,41,11,6,2,3,0,132,191,39,9,8,3,4,84,223,44,3,3,3,1,4,7,3,Greene County,precinct
+Greene County,Town of Cairo 2 LD 8,78,222,35,13,7,5,5,0,75,222,41,7,10,5,1,57,234,34,3,2,4,3,3,3,15,Greene County,precinct
+Greene County,Town of Cairo 3 LD 8,50,99,21,5,2,0,1,0,50,93,24,3,3,1,3,32,113,20,2,0,3,0,0,2,2,Greene County,precinct
+Greene County,Town of Cairo 4 LD 8,107,220,46,7,8,9,3,1,117,216,46,10,9,2,3,74,250,46,5,1,8,2,2,7,7,Greene County,precinct
+Greene County,Town of Cairo 5 LD 8,91,200,26,4,6,2,2,0,106,184,31,8,4,2,0,68,210,37,3,1,3,2,1,3,12,Greene County,precinct
+Greene County,Town of Cairo 6 LD 8,132,242,31,8,14,6,1,0,154,215,35,14,13,2,0,100,261,41,5,9,5,2,6,1,6,Greene County,precinct
+Greene County,Town of Cairo 7 LD 8,80,93,20,7,8,0,1,0,80,89,21,5,6,4,2,56,106,21,5,1,3,1,2,4,2,Greene County,precinct
+Greene County,Town of Catskill 1 LD 1,199,59,12,3,7,1,1,0,197,53,10,7,2,3,2,156,72,13,7,7,1,2,3,6,3,Greene County,precinct
+Greene County,Town of Catskill 10 LD 1,222,287,21,8,28,2,7,4,237,258,20,32,14,8,5,178,298,26,16,15,7,5,6,3,8,Greene County,precinct
+Greene County,Town of Catskill 11 LD 1,150,218,33,13,7,4,2,1,164,213,27,9,9,8,2,114,246,35,6,4,4,2,4,6,8,Greene County,precinct
+Greene County,Town of Catskill 12 LD 1,52,76,11,4,4,1,0,0,58,75,10,2,2,1,1,39,93,12,2,2,0,0,0,2,2,Greene County,precinct
+Greene County,Town of Catskill 13 LD 1,104,121,20,4,6,4,2,0,119,110,19,5,4,3,1,85,132,29,6,4,2,0,2,0,2,Greene County,precinct
+Greene County,Town of Catskill 14 LD 1,86,93,17,4,9,1,0,2,82,90,21,10,4,1,3,58,108,21,7,6,1,0,1,4,5,Greene County,precinct
+Greene County,Town of Catskill 2 LD 1,98,108,16,1,5,3,1,1,96,102,14,8,3,1,1,66,127,18,7,3,2,1,3,1,6,Greene County,precinct
+Greene County,Town of Catskill 3 LD 1,148,84,4,4,19,1,4,0,156,81,5,12,6,3,1,124,104,6,10,8,3,1,1,2,4,Greene County,precinct
+Greene County,Town of Catskill 4 LD 1,94,47,12,6,9,0,3,0,98,45,13,9,2,2,0,81,58,13,2,1,1,1,2,0,3,Greene County,precinct
+Greene County,Town of Catskill 5 LD 1,146,153,13,5,7,0,2,1,152,149,14,4,7,3,0,103,187,17,1,1,2,3,6,2,4,Greene County,precinct
+Greene County,Town of Catskill 6 LD 1,117,91,19,3,5,1,6,1,117,92,23,7,7,4,1,80,114,26,4,4,5,2,5,4,5,Greene County,precinct
+Greene County,Town of Catskill 7 LD 1,145,167,22,12,9,4,8,1,163,147,29,15,5,6,1,107,196,34,10,5,1,5,1,4,10,Greene County,precinct
+Greene County,Town of Catskill 8 LD 1,20,24,1,1,2,0,0,0,18,21,0,5,1,0,0,14,27,1,2,1,0,0,0,1,1,Greene County,precinct
+Greene County,Town of Catskill 9 LD 1,167,236,28,2,17,5,4,0,177,215,27,13,6,7,2,135,243,32,16,7,2,6,4,3,7,Greene County,precinct
+Greene County,Town of Coxsackie 1 LD 2,272,255,41,14,20,4,4,0,294,233,44,17,16,4,2,204,305,48,14,10,9,2,3,4,20,Greene County,precinct
+Greene County,Town of Coxsackie 2 LD 2,153,148,27,9,13,8,9,0,167,132,26,18,11,8,6,117,173,28,14,3,6,4,5,7,12,Greene County,precinct
+Greene County,Town of Coxsackie 3 LD 2,62,97,13,7,5,2,3,1,64,96,15,6,2,2,2,36,113,15,6,2,2,2,5,2,4,Greene County,precinct
+Greene County,Town of Coxsackie 4 LD 2,196,352,55,16,8,3,6,2,218,322,62,17,15,6,5,133,394,59,11,6,6,4,5,9,14,Greene County,precinct
+Greene County,Town of Coxsackie 5 LD 2,93,100,18,3,4,3,0,1,100,85,19,6,5,0,5,59,113,26,5,2,5,1,3,1,4,Greene County,precinct
+Greene County,Town of Coxsackie 6 LD 2,165,197,33,12,7,5,7,0,178,194,35,9,10,7,2,126,240,39,9,0,4,3,2,3,9,Greene County,precinct
+Greene County,Town of Durham 1 LD 9,184,258,39,13,10,5,7,2,191,249,38,11,6,8,5,127,313,37,7,10,2,3,5,2,10,Greene County,precinct
+Greene County,Town of Durham 2 LD 9,176,229,38,7,15,3,8,2,195,208,38,16,4,11,5,130,271,40,7,5,2,5,4,5,6,Greene County,precinct
+Greene County,Town of Greenville 1 LD 4,187,309,59,11,12,5,6,2,198,306,55,11,8,4,3,136,353,58,11,7,2,4,1,4,10,Greene County,precinct
+Greene County,Town of Greenville 2 LD 4,118,213,42,10,14,6,3,0,130,200,47,14,8,2,3,89,240,44,12,7,1,0,2,4,18,Greene County,precinct
+Greene County,Town of Greenville 3 LD 4,181,258,68,15,12,5,3,0,208,231,62,16,8,2,3,141,284,64,13,3,5,2,6,5,14,Greene County,precinct
+Greene County,Town of Halcott 1 LD 7,42,54,5,4,7,2,0,0,48,50,3,10,1,0,0,36,57,7,2,6,1,0,1,0,0,Greene County,precinct
+Greene County,Town of Hunter 1 LD 7,140,169,12,2,7,1,3,1,128,175,10,8,4,2,3,99,189,12,3,5,0,4,3,2,3,Greene County,precinct
+Greene County,Town of Hunter 2 LD 7,140,138,15,5,10,0,6,0,141,138,13,9,7,3,0,116,157,16,4,6,1,2,2,4,2,Greene County,precinct
+Greene County,Town of Hunter 3 LD 7,109,94,15,4,5,1,2,2,116,99,14,4,4,2,2,88,107,16,1,1,1,0,4,2,13,Greene County,precinct
+Greene County,Town of Hunter 4 LD 7,95,95,5,1,4,2,1,0,109,85,6,3,1,3,0,76,105,8,1,2,0,0,2,0,9,Greene County,precinct
+Greene County,Town of Jewett 1 LD 6,139,204,30,7,14,2,4,0,155,192,31,10,6,5,1,119,212,30,5,7,4,4,2,3,7,Greene County,precinct
+Greene County,Town of Lexington 1 LD 7,79,107,17,6,3,6,1,0,93,94,15,6,2,2,1,65,118,13,2,3,1,1,1,1,12,Greene County,precinct
+Greene County,Town of Lexington 2 LD 7,77,52,10,0,3,3,2,0,80,44,11,2,4,1,0,73,55,12,1,3,0,1,1,0,0,Greene County,precinct
+Greene County,Town of New Baltimore 1 L,156,198,49,8,9,3,7,1,176,186,54,12,9,3,3,110,237,58,7,10,2,3,3,11,8,Greene County,precinct
+Greene County,Town of New Baltimore 2 L,99,138,46,3,13,5,2,0,99,135,44,15,11,2,1,67,169,45,6,5,4,1,3,2,9,Greene County,precinct
+Greene County,Town of New Baltimore 3 L,138,222,38,13,13,3,7,0,156,211,42,10,15,6,2,96,257,44,11,8,3,3,4,6,6,Greene County,precinct
+Greene County,Town of New Baltimore 4 L,72,134,23,4,7,2,1,0,81,132,20,3,5,3,1,63,141,26,3,2,1,1,2,1,2,Greene County,precinct
+Greene County,Town of Prattsville 1 LD,62,170,18,6,7,5,5,0,67,165,20,6,7,5,0,39,184,25,6,3,0,0,1,0,9,Greene County,precinct
+Greene County,Town of Windham 1 LD 6,134,216,27,4,7,3,2,1,123,213,30,5,9,4,1,106,224,28,7,3,6,0,1,5,4,Greene County,precinct
+Greene County,Town of Windham 2 LD 6,73,195,26,1,6,3,0,0,76,185,23,8,5,1,0,57,205,24,2,3,5,1,1,2,3,Greene County,precinct
+Greene County,WINDHAM ABS 1,40,12,4,0,1,0,0,0,37,16,3,0,1,0,0,32,18,4,0,0,0,0,0,0,0,Greene County,precinct
+Greene County,WINDHAM ABS 2,10,21,2,1,0,1,0,0,10,22,2,0,2,0,0,10,21,2,0,0,2,0,0,0,0,Greene County,precinct

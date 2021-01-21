@@ -1,0 +1,43 @@
+county,precinct,HOR_DEM,HOR_REP,HOR_CON,HOR_GRE,HOR_WOR,HOR_IND,HOR_WEP,HOR_REF,Sen_DEM,Sen_REP,Sen_CON,Sen_WOR,Sen_IND,Sen_WEP,Sen_REF,Gov_DEM,Gov_REP,Gov_CON,Gov_GRE,Gov_WOR,Gov_IND,Gov_WEP,Gov_REF,Gov_SAM,Gov_LBT,county_id,original_precinct_name
+Essex County,CHESTERFIELD 1,131,127,11,5,4,2,1,3,148,95,12,7,4,2,0,122,118,9,6,0,3,1,6,1,5,Essex County,precinct
+Essex County,CHESTERFIELD 2,208,266,14,8,9,6,2,0,222,214,10,16,8,4,1,180,269,16,6,5,4,1,2,2,11,Essex County,precinct
+Essex County,CHESTERFIELD 4,78,69,2,0,4,2,0,2,92,49,5,4,2,1,2,66,62,5,1,2,1,2,2,2,8,Essex County,precinct
+Essex County,CROWN POINT 1,68,145,4,3,2,3,0,0,82,119,2,4,3,0,0,57,144,7,1,3,0,0,2,1,2,Essex County,precinct
+Essex County,CROWN POINT 2,46,83,0,0,4,2,0,0,52,69,0,6,0,0,0,41,75,0,1,2,0,0,2,2,3,Essex County,precinct
+Essex County,CROWN POINT 3,84,153,5,2,3,2,0,0,88,137,6,8,3,1,0,68,161,8,0,5,1,1,1,2,1,Essex County,precinct
+Essex County,ELIZABETHTOWN,236,243,7,4,11,5,9,2,267,177,12,11,12,7,1,231,216,15,8,5,6,4,2,4,7,Essex County,precinct
+Essex County,ESSEX 1,132,44,3,3,5,0,3,1,134,34,1,7,5,4,0,113,43,1,5,7,4,2,3,3,1,Essex County,precinct
+Essex County,ESSEX 2,88,54,1,1,7,4,3,0,99,42,0,8,3,3,0,80,55,2,5,5,2,1,2,0,3,Essex County,precinct
+Essex County,JAY 1,426,301,24,7,16,14,10,0,459,257,23,16,17,8,4,379,277,31,11,8,11,3,4,11,25,Essex County,precinct
+Essex County,JAY 2,134,103,12,4,4,3,3,1,152,85,10,8,2,2,0,123,103,9,5,0,0,1,3,1,12,Essex County,precinct
+Essex County,KEENE 1,259,106,0,5,14,2,7,0,262,90,1,13,6,6,0,217,103,3,13,12,7,4,1,4,5,Essex County,precinct
+Essex County,KEENE 2,174,54,5,2,11,2,6,0,185,44,1,8,4,3,1,161,51,4,10,7,1,3,2,1,2,Essex County,precinct
+Essex County,LEWIS,179,287,13,12,10,7,3,4,219,211,8,16,10,7,3,146,280,14,10,4,5,1,2,4,8,Essex County,precinct
+Essex County,MINERVA,159,163,13,6,11,6,6,1,170,133,14,10,8,6,1,109,175,17,16,2,4,3,0,4,18,Essex County,precinct
+Essex County,MORIAH 1,138,159,5,1,8,4,4,0,141,137,3,7,9,0,2,108,167,8,6,3,3,2,2,4,4,Essex County,precinct
+Essex County,MORIAH 2,160,298,5,6,6,4,1,1,183,238,6,10,9,3,1,144,279,10,2,3,3,1,1,5,6,Essex County,precinct
+Essex County,MORIAH 3,127,156,12,2,6,5,1,2,143,120,7,14,5,3,0,114,154,6,2,1,2,1,4,2,11,Essex County,precinct
+Essex County,MORIAH 4,101,100,4,3,2,0,1,0,108,86,3,2,2,3,0,86,92,4,4,1,3,1,0,2,2,Essex County,precinct
+Essex County,NEWCOMB,91,122,15,0,4,3,2,2,104,101,13,4,7,0,1,90,106,10,4,3,3,1,2,2,9,Essex County,precinct
+Essex County,NORTH ELBA 1,173,80,5,5,3,1,0,0,182,50,4,8,6,3,1,161,67,8,9,4,10,0,1,3,4,Essex County,precinct
+Essex County,NORTH ELBA 2,287,109,15,11,7,2,5,1,307,81,14,10,13,2,0,260,108,16,10,2,11,4,2,7,4,Essex County,precinct
+Essex County,NORTH ELBA 3,209,159,9,4,6,5,5,0,235,117,11,3,20,1,0,199,132,10,6,2,8,0,1,15,11,Essex County,precinct
+Essex County,NORTH ELBA 4,186,145,11,9,7,9,6,1,217,105,13,10,7,7,0,202,111,12,5,5,8,3,2,4,4,Essex County,precinct
+Essex County,NORTH ELBA 5,257,178,14,3,8,6,6,0,276,141,15,8,12,5,1,253,145,19,8,5,7,4,1,5,5,Essex County,precinct
+Essex County,NORTH ELBA 6,343,188,24,7,14,3,7,0,355,155,23,15,20,1,1,319,160,21,9,16,16,4,0,6,8,Essex County,precinct
+Essex County,NORTH ELBA 7,146,98,9,9,9,1,3,1,168,74,10,10,2,2,0,144,89,8,9,5,3,3,1,4,3,Essex County,precinct
+Essex County,NORTH HUDSON,29,92,6,0,2,1,1,0,40,77,5,5,2,1,0,38,72,5,0,0,0,1,1,4,12,Essex County,precinct
+Essex County,SCHROON 1,128,222,25,2,6,5,1,2,139,199,22,6,11,1,2,107,216,25,5,2,3,0,4,2,6,Essex County,precinct
+Essex County,SCHROON 2,169,269,23,5,8,3,3,3,185,248,22,6,5,2,5,136,264,28,11,2,5,2,2,4,3,Essex County,precinct
+Essex County,ST. ARMAND,320,205,15,9,18,5,10,2,345,167,10,16,18,8,4,276,193,16,8,13,8,2,2,22,17,Essex County,precinct
+Essex County,TICONDEROGA 1,79,151,9,8,6,4,3,0,96,126,8,10,6,4,0,62,166,7,3,4,4,2,0,4,1,Essex County,precinct
+Essex County,TICONDEROGA 2,100,182,11,1,1,8,3,1,130,143,7,3,12,1,1,82,189,12,1,2,9,1,2,3,7,Essex County,precinct
+Essex County,TICONDEROGA 3,98,109,6,1,1,3,3,0,116,81,6,1,6,1,0,99,103,7,1,1,3,1,0,0,2,Essex County,precinct
+Essex County,TICONDEROGA 4,80,187,10,4,3,3,1,3,104,145,6,8,7,0,1,79,177,10,3,0,2,0,2,5,5,Essex County,precinct
+Essex County,TICONDEROGA 5,66,117,6,1,5,5,0,1,84,92,3,9,4,0,1,56,116,7,3,3,4,0,1,3,1,Essex County,precinct
+Essex County,TICONDEROGA 6,85,129,3,1,5,1,3,0,103,101,2,6,5,2,0,63,132,10,1,1,1,2,1,1,4,Essex County,precinct
+Essex County,WESTPORT 1,95,66,2,0,4,1,2,0,98,57,1,8,6,1,0,79,67,1,3,1,3,1,0,4,1,Essex County,precinct
+Essex County,WESTPORT 2,252,192,9,11,17,8,6,3,267,159,10,14,11,8,5,210,193,11,10,9,7,3,6,4,8,Essex County,precinct
+Essex County,WILLSBORO 1,224,197,17,1,10,6,4,0,239,142,16,8,18,2,1,174,200,21,5,7,7,2,1,3,1,Essex County,precinct
+Essex County,WILLSBORO 2,145,158,12,2,10,5,2,1,159,117,8,5,11,3,1,121,164,12,4,0,6,1,2,0,2,Essex County,precinct
+Essex County,WILMINGTON,318,195,23,5,10,7,5,3,317,163,18,20,10,5,1,295,172,16,10,6,8,6,3,7,10,Essex County,precinct

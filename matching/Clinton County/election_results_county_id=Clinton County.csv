@@ -1,0 +1,52 @@
+county,precinct,HOR_DEM,HOR_REP,HOR_CON,HOR_GRE,HOR_WOR,HOR_IND,HOR_WEP,HOR_REF,Sen_DEM,Sen_REP,Sen_CON,Sen_WOR,Sen_IND,Sen_WEP,Sen_REF,Gov_DEM,Gov_REP,Gov_CON,Gov_GRE,Gov_WOR,Gov_IND,Gov_WEP,Gov_REF,Gov_SAM,Gov_LBT,county_id,original_precinct_name
+Clinton County,Altona,304,400,40,9,23,15,4,3,379,303,40,26,14,3,4,225,444,32,7,9,7,1,13,8,29,Clinton County,precinct
+Clinton County,Ausable001,193,238,14,8,7,6,3,1,214,200,13,4,18,2,5,167,228,17,5,3,14,1,3,3,21,Clinton County,precinct
+Clinton County,Ausable002,217,215,13,3,6,9,4,1,258,152,12,13,13,2,2,182,214,18,9,3,4,2,7,5,14,Clinton County,precinct
+Clinton County,Beekmantown001,185,192,8,1,10,6,2,3,207,146,14,15,15,0,0,164,187,18,1,4,9,1,2,6,13,Clinton County,precinct
+Clinton County,Beekmantown002,196,226,13,3,11,14,3,3,242,158,9,15,16,5,2,177,222,13,6,7,6,0,2,2,15,Clinton County,precinct
+Clinton County,Beekmantown003,334,246,17,8,21,18,7,4,365,195,21,22,23,5,3,299,238,26,5,13,15,4,8,7,15,Clinton County,precinct
+Clinton County,Beekmantown004,259,304,22,2,14,10,3,2,306,233,21,17,19,3,2,204,315,32,10,6,13,2,4,5,11,Clinton County,precinct
+Clinton County,Black Brook001,154,209,11,7,4,5,3,2,178,155,12,11,7,4,1,132,206,13,3,3,2,3,1,3,16,Clinton County,precinct
+Clinton County,Black Brook002,68,87,5,2,3,3,1,1,73,73,4,8,2,1,1,55,88,8,2,1,1,1,5,1,2,Clinton County,precinct
+Clinton County,Champlain001,266,261,19,4,9,13,5,1,311,197,14,12,20,2,1,242,260,17,6,4,10,3,3,6,8,Clinton County,precinct
+Clinton County,Champlain002,272,345,21,4,13,12,2,2,343,245,18,19,17,5,3,265,314,27,7,7,12,2,5,4,11,Clinton County,precinct
+Clinton County,Champlain003,288,318,21,4,18,12,7,1,342,239,18,23,17,8,5,267,308,28,8,4,9,4,6,5,14,Clinton County,precinct
+Clinton County,Chazy001,355,354,25,12,20,9,6,2,393,283,21,13,20,9,2,271,386,37,9,5,10,4,5,9,23,Clinton County,precinct
+Clinton County,Chazy002,328,347,19,12,24,25,3,4,412,238,19,20,29,3,1,275,357,37,11,6,15,2,3,7,24,Clinton County,precinct
+Clinton County,City of Plattsburgh W1 D1,130,67,6,3,9,5,2,0,149,46,3,9,4,3,0,123,66,9,3,4,2,1,1,3,7,Clinton County,precinct
+Clinton County,City of Plattsburgh W1 D2,525,271,14,2,24,11,6,4,552,215,14,27,22,7,5,481,247,18,14,21,16,3,6,6,19,Clinton County,precinct
+Clinton County,City of Plattsburgh W1 D3,25,26,2,0,3,3,0,0,27,20,3,1,5,0,0,26,24,2,0,0,4,0,0,0,1,Clinton County,precinct
+Clinton County,City of Plattsburgh W2 D1,225,126,7,3,8,10,4,1,248,84,9,6,16,4,2,201,124,15,7,6,12,1,1,4,10,Clinton County,precinct
+Clinton County,City of Plattsburgh W2 D2,107,47,6,3,8,3,4,0,112,39,6,7,9,1,0,88,44,7,10,7,5,1,0,5,9,Clinton County,precinct
+Clinton County,City of Plattsburgh W3 D1,293,174,12,3,13,8,7,1,325,134,11,4,16,4,4,259,179,20,9,6,13,3,4,5,8,Clinton County,precinct
+Clinton County,City of Plattsburgh W3 D2,363,205,8,1,24,13,5,2,402,147,9,29,14,3,3,330,199,22,18,18,7,0,4,3,7,Clinton County,precinct
+Clinton County,City of Plattsburgh W4 D1,420,207,12,10,33,25,9,2,450,151,9,34,37,8,5,388,212,17,23,13,17,2,7,13,10,Clinton County,precinct
+Clinton County,City of Plattsburgh W4 D2,378,190,8,5,24,6,9,0,392,159,8,12,23,6,0,318,215,11,13,8,12,4,3,15,6,Clinton County,precinct
+Clinton County,City of Plattsburgh W5 D1,254,95,8,0,16,4,9,1,265,68,8,17,13,5,0,205,100,13,9,12,10,3,3,4,12,Clinton County,precinct
+Clinton County,City of Plattsburgh W5 D2,398,175,14,10,21,12,13,2,412,147,12,21,19,11,6,351,188,17,12,11,11,5,1,14,18,Clinton County,precinct
+Clinton County,City of Plattsburgh W6 D1,287,98,13,4,23,5,11,3,304,75,11,22,19,3,3,247,97,12,23,15,12,4,3,7,19,Clinton County,precinct
+Clinton County,City of Plattsburgh W6 D2,162,60,4,4,11,2,6,1,166,50,6,12,7,7,0,143,62,7,8,6,5,5,2,3,4,Clinton County,precinct
+Clinton County,Clinton001,83,118,6,3,5,1,1,1,114,80,6,10,2,3,0,65,113,7,6,2,0,1,1,2,17,Clinton County,precinct
+Clinton County,Dannemora001,56,91,8,4,4,0,0,0,73,74,6,8,3,0,0,39,100,8,1,1,0,0,2,3,6,Clinton County,precinct
+Clinton County,Dannemora002,117,157,10,4,7,4,0,1,143,122,9,11,7,2,1,90,162,15,5,3,4,0,4,5,8,Clinton County,precinct
+Clinton County,Dannemora003,95,166,8,1,6,3,2,1,126,123,6,9,5,2,2,74,171,10,3,3,5,0,6,0,11,Clinton County,precinct
+Clinton County,Ellenburg001,236,393,18,12,8,7,5,1,305,293,22,15,9,8,3,168,411,20,4,4,3,2,5,9,25,Clinton County,precinct
+Clinton County,Mooers001,247,410,20,13,17,9,7,4,321,316,22,19,12,7,5,217,408,33,14,9,8,2,8,9,15,Clinton County,precinct
+Clinton County,Mooers002,114,232,12,3,11,6,1,2,166,162,9,14,12,1,3,113,221,10,4,4,3,1,3,4,6,Clinton County,precinct
+Clinton County,Peru001,228,244,23,7,12,9,6,2,259,205,18,12,18,5,2,211,239,22,9,6,11,1,3,8,14,Clinton County,precinct
+Clinton County,Peru002,332,337,16,2,21,13,2,2,364,265,17,25,23,2,3,261,341,20,17,16,14,1,5,10,13,Clinton County,precinct
+Clinton County,Peru003,142,280,30,4,11,7,2,1,170,244,26,10,14,2,2,115,288,31,6,3,6,1,1,3,8,Clinton County,precinct
+Clinton County,Peru004,402,370,29,13,14,22,6,0,446,299,34,22,30,10,2,327,396,40,8,10,14,1,2,7,25,Clinton County,precinct
+Clinton County,Plattsburgh001,221,159,9,1,14,11,5,0,250,115,9,16,16,4,0,190,170,12,1,7,9,1,1,2,12,Clinton County,precinct
+Clinton County,Plattsburgh002,292,305,23,5,22,13,8,4,349,225,18,24,24,7,2,263,301,34,7,8,10,5,4,3,21,Clinton County,precinct
+Clinton County,Plattsburgh003,316,240,11,4,19,11,3,2,341,194,14,14,16,4,1,285,234,20,7,8,11,3,2,5,18,Clinton County,precinct
+Clinton County,Plattsburgh004,281,336,20,9,15,12,7,1,335,259,16,20,17,9,3,225,330,31,11,10,11,2,6,11,16,Clinton County,precinct
+Clinton County,Plattsburgh005,194,148,12,5,8,10,6,2,212,119,11,10,18,2,5,168,161,12,5,3,7,4,1,4,15,Clinton County,precinct
+Clinton County,Plattsburgh006,509,392,34,2,23,15,6,2,561,320,31,21,20,5,1,463,390,36,6,14,9,3,5,3,26,Clinton County,precinct
+Clinton County,Plattsburgh007,201,255,23,11,14,16,2,2,254,189,19,20,13,5,4,177,246,27,6,7,5,0,5,1,27,Clinton County,precinct
+Clinton County,Saranac001,281,420,28,8,20,12,5,3,329,349,6,23,11,9,4,215,458,34,11,12,5,4,3,4,15,Clinton County,precinct
+Clinton County,Saranac002,197,276,14,3,7,4,5,2,221,221,16,11,14,4,1,142,292,22,5,3,7,0,2,9,19,Clinton County,precinct
+Clinton County,Saranac003,141,203,15,5,12,9,1,0,177,155,13,7,10,4,4,109,215,17,3,5,8,2,6,6,10,Clinton County,precinct
+Clinton County,Schuyler Falls001,151,245,13,4,9,7,3,0,178,199,15,10,7,2,2,126,258,13,1,3,8,0,5,4,9,Clinton County,precinct
+Clinton County,Schuyler Falls002,289,348,15,3,20,13,6,1,338,279,12,24,23,6,2,245,336,18,7,15,12,2,2,11,31,Clinton County,precinct
+Clinton County,Schuyler Falls003,264,281,16,5,6,8,4,1,284,225,15,13,20,5,1,218,272,15,6,3,11,1,6,7,20,Clinton County,precinct

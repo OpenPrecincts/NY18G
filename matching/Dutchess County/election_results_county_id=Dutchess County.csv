@@ -1,0 +1,221 @@
+county,precinct,HOR_DEM,HOR_REP,HOR_CON,HOR_GRE,HOR_WOR,HOR_IND,HOR_WEP,HOR_REF,Sen_DEM,Sen_REP,Sen_CON,Sen_WOR,Sen_IND,Sen_WEP,Sen_REF,Gov_DEM,Gov_REP,Gov_CON,Gov_GRE,Gov_WOR,Gov_IND,Gov_WEP,Gov_REF,Gov_SAM,Gov_LBT,county_id,original_precinct_name
+Dutchess County,City of Beacon W 1 ED 1,494,116,17,0,25,14,2,2,489,121,18,26,15,3,3,430,154,20,21,17,12,4,7,9,5,Dutchess County,precinct
+Dutchess County,City of Beacon W 1 ED 2,427,156,22,0,43,21,8,3,439,157,20,45,18,9,3,392,204,27,13,36,13,6,6,5,5,Dutchess County,precinct
+Dutchess County,City of Beacon W 2 ED 1,223,47,7,0,15,4,4,0,217,50,6,17,9,3,0,206,62,7,4,14,9,1,3,1,3,Dutchess County,precinct
+Dutchess County,City of Beacon W 2 ED 2,343,68,14,0,23,5,6,2,347,61,12,26,5,9,2,325,77,14,7,23,5,5,4,3,4,Dutchess County,precinct
+Dutchess County,City of Beacon W 2 ED 3,381,81,10,0,18,11,7,4,378,79,8,26,14,9,4,360,106,13,7,18,7,6,5,2,4,Dutchess County,precinct
+Dutchess County,City of Beacon W 3 ED 1,416,103,21,0,17,7,10,0,415,108,14,21,7,11,3,350,157,20,13,17,3,6,4,11,8,Dutchess County,precinct
+Dutchess County,City of Beacon W 3 ED 2,470,203,37,0,36,11,13,2,481,201,36,41,9,14,3,414,266,37,17,32,4,11,3,7,9,Dutchess County,precinct
+Dutchess County,City of Beacon W 3 ED 3,4,1,0,0,1,0,0,0,4,1,0,1,0,0,0,5,0,0,0,1,0,0,0,0,0,Dutchess County,precinct
+Dutchess County,City of Beacon W 4 ED 1,517,132,34,0,38,20,6,3,520,129,32,52,14,7,3,458,183,38,25,36,5,4,1,6,11,Dutchess County,precinct
+Dutchess County,City of Beacon W 4 ED 2,447,145,15,0,37,11,6,3,448,146,18,38,11,10,2,388,193,17,21,34,6,8,6,4,7,Dutchess County,precinct
+Dutchess County,City of Poughkeepsie W 1 ED 1,295,77,8,0,13,8,8,0,295,76,6,22,8,7,0,284,98,11,15,9,6,5,3,4,4,Dutchess County,precinct
+Dutchess County,City of Poughkeepsie W 1 ED 2,196,58,9,0,8,6,0,1,195,62,7,8,4,3,1,186,74,9,2,5,3,0,2,1,5,Dutchess County,precinct
+Dutchess County,City of Poughkeepsie W 1 ED 3,2,0,1,0,0,0,0,0,2,0,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,Dutchess County,precinct
+Dutchess County,City of Poughkeepsie W 2 ED 1,262,63,14,0,5,7,3,3,266,59,14,4,9,4,2,234,91,12,1,3,7,1,4,8,4,Dutchess County,precinct
+Dutchess County,City of Poughkeepsie W 2 ED 2,432,46,8,0,17,8,4,1,423,44,8,20,7,8,1,408,72,7,10,14,0,7,1,4,7,Dutchess County,precinct
+Dutchess County,City of Poughkeepsie W 2 ED 3,13,0,0,0,0,0,0,0,13,0,0,0,0,0,0,11,2,0,0,0,0,0,0,0,0,Dutchess County,precinct
+Dutchess County,City of Poughkeepsie W 3 ED 1,201,14,2,0,2,2,0,0,212,15,3,0,2,1,0,210,25,3,1,3,1,1,0,0,1,Dutchess County,precinct
+Dutchess County,City of Poughkeepsie W 3 ED 2,252,52,8,0,8,5,1,0,265,45,9,7,5,1,1,240,70,9,7,5,3,1,2,3,0,Dutchess County,precinct
+Dutchess County,City of Poughkeepsie W 4 ED 1,373,81,12,0,14,7,3,2,378,85,11,15,9,1,2,343,122,12,10,14,5,3,3,3,0,Dutchess County,precinct
+Dutchess County,City of Poughkeepsie W 4 ED 2,248,136,24,0,5,6,2,2,244,138,23,7,7,5,3,206,189,23,5,5,3,2,1,0,2,Dutchess County,precinct
+Dutchess County,City of Poughkeepsie W 4 ED 3,344,174,18,0,15,3,3,3,340,173,21,15,3,5,3,295,215,25,8,14,4,4,4,3,0,Dutchess County,precinct
+Dutchess County,City of Poughkeepsie W 4 ED 4,54,7,1,0,0,1,1,0,55,6,2,0,0,1,0,49,12,0,1,0,0,1,1,1,1,Dutchess County,precinct
+Dutchess County,City of Poughkeepsie W 5 ED 1,204,27,6,0,6,4,3,4,207,22,5,7,5,5,3,207,32,8,1,2,3,3,2,0,3,Dutchess County,precinct
+Dutchess County,City of Poughkeepsie W 5 ED 2,305,20,5,0,4,10,1,0,309,22,5,3,11,3,2,311,38,5,5,3,7,2,3,0,2,Dutchess County,precinct
+Dutchess County,City of Poughkeepsie W 5 ED 3,8,3,0,0,0,0,0,0,7,3,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,Dutchess County,precinct
+Dutchess County,City of Poughkeepsie W 6 ED 1,231,40,8,0,11,3,4,0,241,35,7,11,3,3,0,222,49,10,3,9,6,2,0,1,3,Dutchess County,precinct
+Dutchess County,City of Poughkeepsie W 6 ED 2,339,63,29,0,11,8,1,1,348,60,26,15,9,2,2,321,89,23,5,14,4,3,2,1,7,Dutchess County,precinct
+Dutchess County,City of Poughkeepsie W 6 ED 3,64,5,0,0,2,0,0,0,65,5,0,2,0,2,0,61,6,0,1,3,0,2,0,0,0,Dutchess County,precinct
+Dutchess County,City of Poughkeepsie W 7 ED 1,326,85,11,0,19,4,5,0,330,79,12,21,7,4,0,296,113,14,6,16,3,5,2,1,4,Dutchess County,precinct
+Dutchess County,City of Poughkeepsie W 7 ED 2,270,39,9,0,9,2,0,1,270,44,10,9,2,1,0,273,52,10,2,4,3,3,2,1,2,Dutchess County,precinct
+Dutchess County,City of Poughkeepsie W 7 ED 3,35,5,0,0,1,2,0,0,37,3,0,2,1,0,0,35,6,0,0,2,2,0,0,0,0,Dutchess County,precinct
+Dutchess County,City of Poughkeepsie W 8 ED 1,425,140,28,0,15,12,8,4,419,145,25,24,9,10,4,361,203,32,12,11,3,6,7,2,6,Dutchess County,precinct
+Dutchess County,City of Poughkeepsie W 8 ED 2,313,184,29,0,9,11,1,1,322,170,27,11,10,6,3,259,227,32,8,3,7,2,2,2,7,Dutchess County,precinct
+Dutchess County,City of Poughkeepsie W 8 ED 3,440,226,34,0,10,22,8,2,447,219,35,13,18,9,4,351,305,41,8,8,14,7,9,6,7,Dutchess County,precinct
+Dutchess County,City of Poughkeepsie W 8 ED 4,11,7,0,0,0,0,0,0,10,8,0,0,0,0,0,8,9,1,0,0,0,0,0,0,0,Dutchess County,precinct
+Dutchess County,Town of Amenia ED 1,267,198,21,8,15,4,6,1,266,185,20,24,8,6,2,212,252,29,5,13,3,4,3,1,11,Dutchess County,precinct
+Dutchess County,Town of Amenia ED 2,148,87,16,7,7,4,2,0,144,99,14,9,9,0,1,109,147,13,3,3,5,0,5,2,1,Dutchess County,precinct
+Dutchess County,Town of Amenia ED 3,232,241,20,10,15,3,8,0,239,243,29,12,11,4,2,194,293,23,9,8,3,3,4,1,12,Dutchess County,precinct
+Dutchess County,Town of Beekman ED 1,213,238,43,2,5,5,3,1,211,233,42,8,11,1,1,182,270,44,4,2,4,0,4,0,5,Dutchess County,precinct
+Dutchess County,Town of Beekman ED 2,251,256,45,3,3,7,2,1,248,255,40,3,14,2,6,206,297,48,5,1,7,0,6,4,5,Dutchess County,precinct
+Dutchess County,Town of Beekman ED 3,263,363,62,3,13,9,6,0,270,349,60,21,17,4,2,221,416,69,6,7,7,2,2,1,7,Dutchess County,precinct
+Dutchess County,Town of Beekman ED 4,298,247,32,6,12,6,5,0,298,248,33,11,10,4,0,257,298,31,5,8,7,2,4,2,7,Dutchess County,precinct
+Dutchess County,Town of Beekman ED 5,270,261,37,8,3,3,2,0,273,244,35,5,14,3,3,206,323,41,8,4,5,1,5,1,4,Dutchess County,precinct
+Dutchess County,Town of Beekman ED 6,206,347,58,2,14,3,2,2,224,340,52,10,11,3,3,177,398,50,4,7,8,1,4,4,8,Dutchess County,precinct
+Dutchess County,Town of Beekman ED 7,148,244,48,7,5,2,2,1,155,235,49,7,10,1,1,120,273,49,3,6,6,3,2,1,10,Dutchess County,precinct
+Dutchess County,Town of Beekman ED 8,104,150,26,2,3,1,4,0,105,148,26,3,8,3,0,83,175,27,2,3,6,1,1,1,0,Dutchess County,precinct
+Dutchess County,Town of Beekman ED 9,271,332,61,5,5,10,5,1,285,308,67,6,14,3,3,241,365,67,6,4,7,3,8,2,2,Dutchess County,precinct
+Dutchess County,Town of Clinton ED 1,405,250,50,6,17,4,9,3,393,236,51,22,21,8,6,325,320,56,10,13,14,4,5,2,2,Dutchess County,precinct
+Dutchess County,Town of Clinton ED 2,289,233,44,10,17,7,5,3,294,237,43,17,11,7,2,220,299,48,10,7,6,5,9,3,5,Dutchess County,precinct
+Dutchess County,Town of Clinton ED 3,338,271,39,7,16,1,5,0,345,261,40,19,9,6,0,266,347,39,8,8,5,5,3,0,7,Dutchess County,precinct
+Dutchess County,Town of Dover ED 1,142,182,26,3,3,1,1,0,144,180,21,4,4,1,1,114,214,22,2,2,2,2,0,0,4,Dutchess County,precinct
+Dutchess County,Town of Dover ED 2,186,199,20,5,7,8,3,1,197,191,22,10,10,3,1,161,234,30,2,3,3,3,1,2,5,Dutchess County,precinct
+Dutchess County,Town of Dover ED 3,200,206,31,4,5,7,5,1,203,204,26,5,7,5,2,164,248,27,5,1,2,3,7,2,4,Dutchess County,precinct
+Dutchess County,Town of Dover ED 4,200,198,25,9,6,5,3,1,201,186,33,13,8,3,1,174,228,31,5,3,4,1,6,1,10,Dutchess County,precinct
+Dutchess County,Town of Dover ED 5,200,191,24,6,7,6,3,1,181,205,25,8,8,5,2,168,232,28,10,1,4,2,3,2,5,Dutchess County,precinct
+Dutchess County,Town of Dover ED 6,155,162,26,7,6,3,2,1,159,157,27,6,5,5,3,139,185,24,3,3,3,1,2,2,3,Dutchess County,precinct
+Dutchess County,Town of East Fishkill ED 1,275,270,62,0,13,14,6,4,269,279,60,12,14,10,6,218,343,60,7,7,6,4,10,0,7,Dutchess County,precinct
+Dutchess County,Town of East Fishkill ED 10,192,241,50,0,12,2,0,2,198,237,45,10,7,1,3,157,279,46,9,6,3,1,7,1,5,Dutchess County,precinct
+Dutchess County,Town of East Fishkill ED 11,174,250,40,0,14,8,3,2,186,247,42,14,11,2,1,147,293,41,6,9,6,0,3,5,6,Dutchess County,precinct
+Dutchess County,Town of East Fishkill ED 12,226,274,48,0,4,8,1,2,237,264,49,10,9,0,2,174,329,52,2,4,9,1,4,1,4,Dutchess County,precinct
+Dutchess County,Town of East Fishkill ED 13,293,345,43,0,15,12,4,2,293,339,50,13,11,7,2,238,407,51,7,3,3,3,2,4,7,Dutchess County,precinct
+Dutchess County,Town of East Fishkill ED 14,299,330,58,0,12,5,2,2,306,319,55,8,11,5,4,263,373,56,6,2,2,3,4,3,9,Dutchess County,precinct
+Dutchess County,Town of East Fishkill ED 15,183,199,36,0,5,6,2,0,185,197,33,7,7,3,1,158,225,30,3,6,4,3,1,2,8,Dutchess County,precinct
+Dutchess County,Town of East Fishkill ED 16,0,2,0,0,0,0,0,0,0,3,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,Dutchess County,precinct
+Dutchess County,Town of East Fishkill ED 17,272,327,68,0,4,5,3,2,274,323,68,7,6,4,2,225,384,71,4,3,2,1,3,0,9,Dutchess County,precinct
+Dutchess County,Town of East Fishkill ED 18,283,275,54,0,9,3,2,3,296,250,60,10,6,2,5,233,331,58,3,5,1,3,9,0,5,Dutchess County,precinct
+Dutchess County,Town of East Fishkill ED 19,261,301,54,0,13,13,2,0,262,311,50,10,14,6,2,221,370,49,3,6,6,1,3,1,6,Dutchess County,precinct
+Dutchess County,Town of East Fishkill ED 2,300,313,52,0,7,15,3,0,293,314,56,11,12,3,3,244,376,56,6,2,6,3,7,2,3,Dutchess County,precinct
+Dutchess County,Town of East Fishkill ED 20,246,342,51,0,8,13,4,4,254,330,48,11,16,4,4,197,396,53,5,5,13,3,5,1,6,Dutchess County,precinct
+Dutchess County,Town of East Fishkill ED 21,192,205,34,0,7,6,3,1,195,204,34,7,7,3,1,162,236,34,3,4,2,1,3,7,3,Dutchess County,precinct
+Dutchess County,Town of East Fishkill ED 3,349,371,48,0,8,14,3,1,351,359,54,9,16,5,2,299,430,56,7,2,5,2,3,2,7,Dutchess County,precinct
+Dutchess County,Town of East Fishkill ED 4,252,306,55,0,7,7,0,1,254,296,54,13,8,1,2,209,343,53,8,4,7,0,2,3,9,Dutchess County,precinct
+Dutchess County,Town of East Fishkill ED 5,216,305,52,0,10,6,3,2,209,310,45,12,8,2,1,176,347,43,9,5,4,1,3,4,10,Dutchess County,precinct
+Dutchess County,Town of East Fishkill ED 6,168,274,33,0,3,12,4,1,174,263,36,2,15,4,1,144,298,41,1,0,7,3,3,2,7,Dutchess County,precinct
+Dutchess County,Town of East Fishkill ED 7,313,326,38,0,7,9,2,4,328,324,35,7,6,4,0,268,389,43,4,6,5,2,1,0,4,Dutchess County,precinct
+Dutchess County,Town of East Fishkill ED 8,176,208,38,0,3,7,3,3,183,203,36,6,5,4,2,137,248,46,3,2,1,2,3,1,4,Dutchess County,precinct
+Dutchess County,Town of East Fishkill ED 9,177,248,39,0,6,7,3,3,183,241,38,11,10,0,1,133,305,41,5,5,4,0,1,1,4,Dutchess County,precinct
+Dutchess County,Town of Fishkill ED 1,235,217,46,0,12,6,2,1,244,211,40,13,7,3,3,204,257,44,2,7,3,4,1,1,7,Dutchess County,precinct
+Dutchess County,Town of Fishkill ED 10,321,303,44,0,9,10,7,1,327,297,43,15,10,5,2,278,356,42,11,7,5,3,3,3,7,Dutchess County,precinct
+Dutchess County,Town of Fishkill ED 11,353,287,43,0,8,13,3,3,358,273,43,13,13,3,5,305,338,47,5,7,4,2,6,1,6,Dutchess County,precinct
+Dutchess County,Town of Fishkill ED 12,199,203,42,0,4,6,6,1,205,191,45,5,11,5,1,171,230,39,3,6,5,3,3,2,8,Dutchess County,precinct
+Dutchess County,Town of Fishkill ED 13,217,260,37,0,6,12,2,4,226,254,37,9,11,3,2,193,298,40,4,4,4,2,4,2,4,Dutchess County,precinct
+Dutchess County,Town of Fishkill ED 14,243,196,37,0,4,9,1,2,238,203,35,5,11,2,1,212,236,36,4,1,3,2,2,4,5,Dutchess County,precinct
+Dutchess County,Town of Fishkill ED 15,306,222,24,0,6,14,3,3,304,226,26,10,10,6,2,256,277,31,2,2,8,2,9,1,7,Dutchess County,precinct
+Dutchess County,Town of Fishkill ED 16,189,106,17,0,3,0,2,1,191,104,15,2,2,1,1,164,132,16,2,1,0,2,0,1,5,Dutchess County,precinct
+Dutchess County,Town of Fishkill ED 2,305,135,21,0,9,8,2,2,312,136,21,9,9,3,2,274,162,19,8,11,5,3,3,4,10,Dutchess County,precinct
+Dutchess County,Town of Fishkill ED 3,144,60,15,0,3,3,2,2,145,65,11,4,3,1,2,131,71,15,11,2,1,0,2,0,4,Dutchess County,precinct
+Dutchess County,Town of Fishkill ED 4,157,84,13,0,12,7,3,1,158,83,13,15,5,1,0,141,97,16,1,12,4,2,1,0,4,Dutchess County,precinct
+Dutchess County,Town of Fishkill ED 5,416,341,42,0,5,14,1,2,421,339,35,4,17,3,3,369,397,41,5,3,7,1,8,3,3,Dutchess County,precinct
+Dutchess County,Town of Fishkill ED 6,390,284,35,0,14,16,5,3,391,275,32,20,18,7,1,339,346,46,8,5,7,4,2,2,9,Dutchess County,precinct
+Dutchess County,Town of Fishkill ED 7,165,180,27,0,3,5,1,0,164,176,31,4,6,1,0,130,217,29,3,2,3,0,2,0,4,Dutchess County,precinct
+Dutchess County,Town of Fishkill ED 8,219,186,47,0,5,6,6,1,221,187,47,4,8,3,2,180,221,56,4,3,2,1,3,2,9,Dutchess County,precinct
+Dutchess County,Town of Fishkill ED 9,186,162,31,0,6,6,2,3,192,165,29,8,5,1,5,145,208,31,5,3,4,0,4,2,2,Dutchess County,precinct
+Dutchess County,Town of Hyde Park W 1 ED 1,291,263,45,9,19,10,7,1,306,246,52,21,13,7,2,239,333,52,5,8,7,2,8,2,10,Dutchess County,precinct
+Dutchess County,Town of Hyde Park W 1 ED 2,332,142,25,0,4,3,2,1,331,144,22,7,5,5,2,268,193,31,4,3,3,2,4,1,10,Dutchess County,precinct
+Dutchess County,Town of Hyde Park W 1 ED 3,290,256,42,9,8,9,9,2,321,224,35,12,17,6,2,230,322,48,4,7,7,2,6,1,8,Dutchess County,precinct
+Dutchess County,Town of Hyde Park W 1 ED 4,123,86,15,1,3,1,5,2,119,78,17,6,5,4,4,99,108,14,1,2,6,4,4,0,4,Dutchess County,precinct
+Dutchess County,Town of Hyde Park W 2 ED 1,247,163,31,8,5,3,4,1,258,157,29,12,8,4,1,195,225,34,1,3,3,1,5,1,7,Dutchess County,precinct
+Dutchess County,Town of Hyde Park W 2 ED 2,329,238,48,9,12,9,4,1,330,239,46,11,18,6,3,258,324,55,11,4,5,2,4,3,3,Dutchess County,precinct
+Dutchess County,Town of Hyde Park W 2 ED 3,208,178,27,7,8,3,8,0,216,175,23,8,9,4,0,163,240,31,7,3,4,2,2,3,3,Dutchess County,precinct
+Dutchess County,Town of Hyde Park W 2 ED 4,138,104,21,0,10,5,1,0,148,98,21,11,7,0,1,127,131,22,2,4,4,0,2,1,4,Dutchess County,precinct
+Dutchess County,Town of Hyde Park W 3 ED 1,189,182,27,9,14,4,4,0,199,173,27,17,11,2,1,149,239,29,2,10,4,1,3,1,2,Dutchess County,precinct
+Dutchess County,Town of Hyde Park W 3 ED 2,98,53,8,0,9,2,0,1,99,54,13,8,1,2,0,78,76,12,4,8,1,0,1,1,3,Dutchess County,precinct
+Dutchess County,Town of Hyde Park W 3 ED 3,262,248,48,4,9,10,3,2,284,225,45,8,21,2,1,197,322,53,4,2,7,0,7,2,11,Dutchess County,precinct
+Dutchess County,Town of Hyde Park W 3 ED 4,210,170,27,12,7,4,7,2,227,161,25,13,11,4,4,151,236,31,3,9,5,3,8,2,7,Dutchess County,precinct
+Dutchess County,Town of Hyde Park W 4 ED 1,255,272,40,4,12,4,5,3,248,270,43,13,14,6,2,197,337,54,4,6,5,0,5,4,3,Dutchess County,precinct
+Dutchess County,Town of Hyde Park W 4 ED 2,326,277,48,5,17,6,3,1,347,252,41,15,13,7,3,242,368,47,9,6,5,2,5,2,6,Dutchess County,precinct
+Dutchess County,Town of Hyde Park W 4 ED 3,276,284,57,10,15,7,2,1,290,259,62,18,7,3,3,207,357,69,3,8,3,2,3,5,10,Dutchess County,precinct
+Dutchess County,Town of Hyde Park W 4 ED 4,253,217,29,4,10,3,7,0,255,199,31,13,13,6,0,199,259,39,6,6,12,3,4,1,3,Dutchess County,precinct
+Dutchess County,Town of LaGrange ED 1,320,340,55,11,16,3,2,1,337,322,50,13,16,6,3,272,395,64,9,4,3,2,7,4,6,Dutchess County,precinct
+Dutchess County,Town of LaGrange ED 10,306,268,54,4,7,5,4,1,313,262,54,5,12,2,2,272,310,54,2,2,5,2,5,2,7,Dutchess County,precinct
+Dutchess County,Town of LaGrange ED 11,315,268,43,0,7,12,5,1,319,271,42,7,11,5,2,250,344,48,5,5,3,2,5,4,5,Dutchess County,precinct
+Dutchess County,Town of LaGrange ED 12,184,218,48,6,7,3,3,1,190,212,46,8,5,6,2,137,255,48,5,4,4,4,6,3,10,Dutchess County,precinct
+Dutchess County,Town of LaGrange ED 2,205,192,40,0,4,6,4,1,216,180,37,6,7,3,3,182,218,37,4,5,5,5,2,1,5,Dutchess County,precinct
+Dutchess County,Town of LaGrange ED 3,335,237,56,0,10,13,2,3,337,243,51,8,13,3,0,253,318,59,9,6,5,1,5,1,9,Dutchess County,precinct
+Dutchess County,Town of LaGrange ED 4,198,198,33,0,5,9,4,1,193,207,35,8,6,4,1,171,240,38,2,7,4,1,1,0,0,Dutchess County,precinct
+Dutchess County,Town of LaGrange ED 5,168,162,20,0,9,7,3,3,172,159,19,8,5,3,6,137,197,23,1,4,4,1,6,2,3,Dutchess County,precinct
+Dutchess County,Town of LaGrange ED 6,319,307,45,11,8,5,7,2,342,284,47,12,12,5,5,261,363,46,3,8,4,3,12,4,11,Dutchess County,precinct
+Dutchess County,Town of LaGrange ED 7,253,370,65,12,8,3,7,0,261,355,67,13,14,4,2,199,415,70,6,10,5,2,7,1,8,Dutchess County,precinct
+Dutchess County,Town of LaGrange ED 8,330,258,54,0,12,9,1,3,335,249,56,16,7,6,4,266,327,57,10,9,1,2,6,2,12,Dutchess County,precinct
+Dutchess County,Town of LaGrange ED 9,183,254,44,5,13,5,1,0,197,248,41,15,3,0,0,166,284,39,3,9,2,0,2,3,8,Dutchess County,precinct
+Dutchess County,Town of Milan ED 1,358,251,42,5,29,5,6,1,369,243,40,24,15,6,4,291,318,42,6,21,8,5,5,3,14,Dutchess County,precinct
+Dutchess County,Town of Milan ED 2,260,162,23,5,14,3,3,1,262,162,24,16,6,4,3,217,215,19,8,8,4,0,3,1,17,Dutchess County,precinct
+Dutchess County,Town of North East ED 1,224,139,14,0,24,6,4,0,223,138,13,22,11,1,1,182,183,15,3,16,7,0,2,0,3,Dutchess County,precinct
+Dutchess County,Town of North East ED 2,246,112,25,6,13,3,4,0,244,109,28,13,8,3,0,196,151,36,2,8,3,3,4,3,6,Dutchess County,precinct
+Dutchess County,Town of North East ED 3,172,105,14,3,13,2,2,0,168,106,15,13,9,1,1,137,136,17,6,6,3,1,4,2,5,Dutchess County,precinct
+Dutchess County,Town of Pawling ED 1,330,305,36,2,8,10,5,1,331,300,35,7,16,6,3,283,348,35,9,5,8,4,6,2,6,Dutchess County,precinct
+Dutchess County,Town of Pawling ED 2,200,259,41,2,7,3,5,1,209,265,40,9,6,4,0,173,290,50,3,5,3,1,1,5,6,Dutchess County,precinct
+Dutchess County,Town of Pawling ED 3,277,379,54,3,10,5,7,2,277,369,54,12,10,6,2,242,414,58,6,6,4,5,6,1,11,Dutchess County,precinct
+Dutchess County,Town of Pawling ED 4,227,149,19,3,5,4,5,1,224,150,20,11,6,4,2,200,181,14,5,9,2,3,6,0,2,Dutchess County,precinct
+Dutchess County,Town of Pawling ED 5,182,207,15,6,5,2,3,0,186,191,17,8,9,7,1,157,217,24,4,6,5,4,3,0,3,Dutchess County,precinct
+Dutchess County,Town of Pawling ED 6,335,270,27,7,11,7,1,3,348,249,23,15,18,2,4,307,298,28,7,8,10,0,6,1,7,Dutchess County,precinct
+Dutchess County,Town of Pine Plains ED 1,266,271,33,5,20,8,5,1,278,252,26,20,17,6,2,187,370,36,10,9,8,2,8,0,7,Dutchess County,precinct
+Dutchess County,Town of Pine Plains ED 2,241,152,12,8,16,6,0,1,243,139,9,22,15,5,0,174,218,18,7,9,8,2,2,3,4,Dutchess County,precinct
+Dutchess County,Town of Pleasant Valley ED 1,357,281,50,5,12,5,7,0,359,259,49,15,19,4,2,254,368,60,6,6,11,4,3,3,7,Dutchess County,precinct
+Dutchess County,Town of Pleasant Valley ED 2,262,268,34,9,8,4,8,1,281,251,32,9,12,6,4,205,340,32,6,4,5,4,7,3,7,Dutchess County,precinct
+Dutchess County,Town of Pleasant Valley ED 3,281,231,24,13,13,2,5,1,303,202,26,11,11,3,3,238,277,35,3,6,4,0,10,2,9,Dutchess County,precinct
+Dutchess County,Town of Pleasant Valley ED 4,317,306,44,8,13,3,1,0,337,293,43,11,11,6,0,250,385,51,8,5,3,1,3,2,11,Dutchess County,precinct
+Dutchess County,Town of Pleasant Valley ED 5,289,285,46,7,13,4,8,0,303,273,41,17,9,8,3,225,354,44,11,9,3,3,9,5,8,Dutchess County,precinct
+Dutchess County,Town of Pleasant Valley ED 6,246,297,49,2,10,5,3,2,249,280,49,14,7,4,1,187,357,55,3,6,3,3,6,3,2,Dutchess County,precinct
+Dutchess County,Town of Pleasant Valley ED 7,116,116,31,3,2,5,1,1,120,112,31,3,8,2,1,87,151,34,1,1,0,0,2,1,5,Dutchess County,precinct
+Dutchess County,Town of Poughkeepsie W 1 ED 1,125,130,26,0,3,4,1,3,121,129,25,3,9,2,0,91,166,28,5,2,4,1,3,1,3,Dutchess County,precinct
+Dutchess County,Town of Poughkeepsie W 1 ED 2,237,180,30,0,6,10,2,1,231,185,29,9,8,2,2,185,226,32,10,5,0,1,4,5,7,Dutchess County,precinct
+Dutchess County,Town of Poughkeepsie W 1 ED 3,201,176,31,0,5,9,1,0,206,179,34,5,6,2,1,167,213,31,4,2,5,1,5,0,8,Dutchess County,precinct
+Dutchess County,Town of Poughkeepsie W 1 ED 4,308,223,36,0,7,6,3,3,318,211,35,10,7,4,4,276,269,36,10,4,1,2,3,4,4,Dutchess County,precinct
+Dutchess County,Town of Poughkeepsie W 1 ED 5,245,220,36,0,5,9,2,1,257,213,36,6,10,4,0,203,279,34,8,2,6,3,2,0,3,Dutchess County,precinct
+Dutchess County,Town of Poughkeepsie W 2 ED 1,277,182,28,0,7,6,3,3,281,177,29,10,7,3,1,244,223,31,3,4,2,1,5,1,5,Dutchess County,precinct
+Dutchess County,Town of Poughkeepsie W 2 ED 2,293,219,41,0,3,8,3,0,292,222,37,4,9,4,0,241,277,38,3,2,5,3,2,2,10,Dutchess County,precinct
+Dutchess County,Town of Poughkeepsie W 2 ED 3,288,124,24,0,7,6,4,3,286,119,25,13,7,5,3,247,153,30,7,8,4,5,6,3,3,Dutchess County,precinct
+Dutchess County,Town of Poughkeepsie W 2 ED 4,299,251,50,0,9,10,4,3,308,261,45,7,8,5,1,237,328,46,4,3,10,3,6,2,5,Dutchess County,precinct
+Dutchess County,Town of Poughkeepsie W 2 ED 5,291,208,33,0,14,6,2,0,299,202,27,15,10,3,1,258,259,30,4,7,5,1,1,1,5,Dutchess County,precinct
+Dutchess County,Town of Poughkeepsie W 3 ED 1,270,143,20,0,6,9,1,4,278,141,26,3,7,1,3,214,195,23,8,0,6,2,2,1,6,Dutchess County,precinct
+Dutchess County,Town of Poughkeepsie W 3 ED 2,308,194,32,0,7,11,2,0,314,182,36,11,7,2,2,283,229,34,4,4,4,4,3,2,5,Dutchess County,precinct
+Dutchess County,Town of Poughkeepsie W 3 ED 3,233,183,23,7,9,6,2,0,252,168,25,10,8,5,1,200,219,31,0,8,4,0,5,5,2,Dutchess County,precinct
+Dutchess County,Town of Poughkeepsie W 3 ED 4,144,56,8,0,6,5,1,1,153,53,10,6,3,2,0,122,82,13,1,4,1,3,2,0,5,Dutchess County,precinct
+Dutchess County,Town of Poughkeepsie W 3 ED 5,282,194,47,0,11,12,2,1,290,192,48,12,14,2,2,222,261,53,3,7,10,3,3,0,8,Dutchess County,precinct
+Dutchess County,Town of Poughkeepsie W 3 ED 6,259,87,9,0,5,7,0,1,263,90,8,9,3,0,1,236,128,8,2,6,1,0,1,1,3,Dutchess County,precinct
+Dutchess County,Town of Poughkeepsie W 4 ED 1,363,190,35,0,11,9,5,2,364,189,33,16,7,5,2,315,236,36,3,13,4,5,5,3,7,Dutchess County,precinct
+Dutchess County,Town of Poughkeepsie W 4 ED 2,30,29,6,1,0,0,0,0,32,26,8,0,0,0,1,20,38,7,0,0,0,1,1,0,1,Dutchess County,precinct
+Dutchess County,Town of Poughkeepsie W 4 ED 3,302,164,32,0,9,9,3,2,302,163,32,13,5,7,3,254,211,40,13,3,4,4,1,2,6,Dutchess County,precinct
+Dutchess County,Town of Poughkeepsie W 4 ED 4,297,222,43,0,8,11,3,3,306,210,45,13,16,3,3,241,283,46,7,4,10,3,3,2,5,Dutchess County,precinct
+Dutchess County,Town of Poughkeepsie W 4 ED 5,361,166,31,0,13,10,4,3,358,168,29,17,12,8,5,303,238,27,7,8,7,1,7,2,10,Dutchess County,precinct
+Dutchess County,Town of Poughkeepsie W 5 ED 1,440,184,32,0,15,10,2,1,449,185,32,15,10,4,2,396,241,29,4,11,7,2,10,6,7,Dutchess County,precinct
+Dutchess County,Town of Poughkeepsie W 5 ED 2,416,199,37,0,18,12,7,5,425,196,38,24,10,7,5,345,284,46,7,13,6,5,5,8,5,Dutchess County,precinct
+Dutchess County,Town of Poughkeepsie W 5 ED 3,283,192,29,0,11,10,2,5,294,181,32,12,9,5,3,240,245,31,5,6,7,1,5,2,8,Dutchess County,precinct
+Dutchess County,Town of Poughkeepsie W 5 ED 4,384,193,37,0,11,7,3,2,389,182,36,13,12,1,5,316,253,41,8,9,5,0,7,3,4,Dutchess County,precinct
+Dutchess County,Town of Poughkeepsie W 6 ED 1,398,247,39,0,17,7,3,0,396,253,40,18,12,4,0,327,308,46,17,12,4,3,4,1,7,Dutchess County,precinct
+Dutchess County,Town of Poughkeepsie W 6 ED 2,435,202,39,0,19,20,9,2,433,202,41,25,15,11,0,375,248,43,16,19,9,5,5,5,6,Dutchess County,precinct
+Dutchess County,Town of Poughkeepsie W 6 ED 3,148,22,2,0,13,4,4,1,144,20,2,16,5,5,1,121,41,4,9,11,4,4,2,0,0,Dutchess County,precinct
+Dutchess County,Town of Poughkeepsie W 6 ED 4,427,63,9,0,15,6,5,2,432,63,12,14,7,5,2,382,76,16,20,7,2,2,5,4,9,Dutchess County,precinct
+Dutchess County,Town of Poughkeepsie W 6 ED 5,88,34,10,0,3,4,0,0,88,34,10,4,1,0,0,71,54,8,1,4,0,0,2,1,0,Dutchess County,precinct
+Dutchess County,Town of Poughkeepsie W 6 ED 6,190,96,16,0,1,0,3,1,191,94,15,1,1,3,1,156,133,20,3,0,0,1,1,0,2,Dutchess County,precinct
+Dutchess County,Town of Red Hook ED 1,389,111,22,4,16,2,7,0,385,108,23,24,5,3,1,314,159,23,17,16,3,0,8,6,7,Dutchess County,precinct
+Dutchess County,Town of Red Hook ED 2,489,260,44,7,27,7,9,2,502,247,43,33,16,6,4,368,379,55,12,20,7,3,11,2,6,Dutchess County,precinct
+Dutchess County,Town of Red Hook ED 3,479,258,37,5,25,6,11,3,487,242,34,30,16,9,2,348,382,34,18,17,7,5,14,5,7,Dutchess County,precinct
+Dutchess County,Town of Red Hook ED 4,384,175,33,12,22,8,11,0,399,170,31,25,12,6,5,282,276,37,9,17,2,3,16,5,11,Dutchess County,precinct
+Dutchess County,Town of Red Hook ED 5,668,46,13,6,30,2,9,0,655,45,12,41,6,8,2,602,73,13,31,31,2,8,1,5,2,Dutchess County,precinct
+Dutchess County,Town of Red Hook ED 6,445,263,42,8,13,7,11,1,458,246,44,21,14,11,4,338,375,49,12,10,3,5,11,3,14,Dutchess County,precinct
+Dutchess County,Town of Red Hook ED 7,422,292,45,10,27,6,18,3,433,274,44,29,19,13,6,304,411,60,6,15,5,7,12,2,10,Dutchess County,precinct
+Dutchess County,Town of Red Hook ED 8,164,57,12,5,7,1,3,0,159,55,13,10,6,4,0,125,94,17,3,7,2,5,4,0,1,Dutchess County,precinct
+Dutchess County,Town of Rhinebeck ED 1,389,172,11,2,10,3,4,2,390,163,13,20,3,2,1,340,205,21,6,12,0,2,5,1,4,Dutchess County,precinct
+Dutchess County,Town of Rhinebeck ED 2,264,117,24,4,8,2,3,0,267,101,29,11,7,5,0,216,152,26,4,9,2,4,2,1,5,Dutchess County,precinct
+Dutchess County,Town of Rhinebeck ED 3,378,131,9,3,20,4,5,0,376,121,10,26,7,6,1,317,171,10,17,14,2,1,6,3,4,Dutchess County,precinct
+Dutchess County,Town of Rhinebeck ED 4,513,112,29,8,20,4,3,2,515,111,31,22,7,1,3,431,173,30,8,17,4,2,9,9,5,Dutchess County,precinct
+Dutchess County,Town of Rhinebeck ED 5,536,187,26,3,32,3,6,0,519,179,25,38,14,4,2,454,237,32,12,28,8,1,10,1,6,Dutchess County,precinct
+Dutchess County,Town of Rhinebeck ED 6,257,94,18,5,18,0,3,0,264,85,17,17,6,3,0,226,119,18,8,17,2,2,3,0,0,Dutchess County,precinct
+Dutchess County,Town of Rhinebeck ED 7,309,179,29,2,14,8,3,2,305,180,27,13,9,3,4,259,226,31,11,6,6,1,6,2,3,Dutchess County,precinct
+Dutchess County,Town of Stanford ED 1,280,216,33,7,15,4,5,3,281,216,35,13,13,7,4,220,274,31,9,6,8,6,5,6,6,Dutchess County,precinct
+Dutchess County,Town of Stanford ED 2,292,264,55,7,10,3,9,1,294,259,59,11,16,6,1,245,332,54,9,3,7,2,7,0,8,Dutchess County,precinct
+Dutchess County,Town of Stanford ED 3,215,169,31,5,9,2,3,2,219,167,27,11,3,4,2,181,207,23,7,3,2,4,5,3,5,Dutchess County,precinct
+Dutchess County,Town of Union Vale ED 1,181,297,40,3,4,1,6,1,194,285,36,3,5,3,2,158,334,34,4,2,3,1,4,0,5,Dutchess County,precinct
+Dutchess County,Town of Union Vale ED 2,190,239,45,1,7,4,7,4,209,224,41,8,7,8,3,154,268,46,2,8,7,6,7,1,1,Dutchess County,precinct
+Dutchess County,Town of Union Vale ED 3,202,307,60,9,10,5,7,1,219,296,54,14,12,5,3,161,361,59,6,2,8,3,3,4,7,Dutchess County,precinct
+Dutchess County,Town of Union Vale ED 4,194,202,41,9,13,6,6,0,203,198,40,11,13,8,1,174,235,41,2,10,4,4,5,1,10,Dutchess County,precinct
+Dutchess County,Town of Wappinger W 1 ED 1,207,116,21,0,5,4,2,1,209,121,19,3,5,2,0,162,160,22,3,3,0,5,5,1,8,Dutchess County,precinct
+Dutchess County,Town of Wappinger W 1 ED 2,324,225,22,0,13,14,5,3,335,215,23,14,17,4,4,290,276,24,9,7,10,2,3,1,15,Dutchess County,precinct
+Dutchess County,Town of Wappinger W 1 ED 3,233,217,38,0,12,10,4,1,232,209,35,12,11,8,2,194,263,39,4,6,5,5,0,4,4,Dutchess County,precinct
+Dutchess County,Town of Wappinger W 1 ED 4,213,155,38,0,10,14,6,4,224,148,36,9,16,4,4,180,197,43,8,5,8,4,7,0,3,Dutchess County,precinct
+Dutchess County,Town of Wappinger W 1 ED 5,26,27,6,0,0,3,1,0,23,30,5,1,3,1,0,17,33,6,0,1,2,1,0,0,1,Dutchess County,precinct
+Dutchess County,Town of Wappinger W 2 ED 1,191,178,29,0,6,14,6,1,196,180,28,5,16,5,2,168,199,30,5,2,9,3,5,1,7,Dutchess County,precinct
+Dutchess County,Town of Wappinger W 2 ED 2,227,155,21,0,8,12,4,1,228,155,19,6,9,6,3,197,190,22,8,2,4,5,2,3,4,Dutchess County,precinct
+Dutchess County,Town of Wappinger W 2 ED 3,278,183,27,0,7,10,2,2,264,190,28,12,16,2,2,230,229,32,6,6,7,0,2,2,8,Dutchess County,precinct
+Dutchess County,Town of Wappinger W 2 ED 4,105,76,14,0,2,4,1,1,109,74,15,5,4,1,0,94,86,17,4,3,1,0,2,0,3,Dutchess County,precinct
+Dutchess County,Town of Wappinger W 2 ED 5,289,289,47,0,8,7,2,2,286,294,45,9,10,3,2,249,327,43,3,8,6,4,4,2,11,Dutchess County,precinct
+Dutchess County,Town of Wappinger W 2 ED 6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,Dutchess County,precinct
+Dutchess County,Town of Wappinger W 3 ED 1,228,97,10,0,2,4,5,1,232,100,8,3,2,4,1,217,124,7,5,1,2,3,2,2,3,Dutchess County,precinct
+Dutchess County,Town of Wappinger W 3 ED 2,307,254,37,0,10,10,3,2,306,255,34,15,13,3,1,255,307,38,5,8,7,3,4,2,6,Dutchess County,precinct
+Dutchess County,Town of Wappinger W 3 ED 3,281,241,32,0,7,8,4,2,277,235,35,9,10,7,1,227,293,39,7,6,3,3,4,2,8,Dutchess County,precinct
+Dutchess County,Town of Wappinger W 3 ED 4,216,242,31,0,10,10,1,3,222,232,33,14,11,3,1,178,301,32,1,7,6,2,3,0,2,Dutchess County,precinct
+Dutchess County,Town of Wappinger W 3 ED 5,286,302,61,0,8,10,3,3,292,286,61,10,8,3,3,249,352,59,7,3,6,3,6,0,3,Dutchess County,precinct
+Dutchess County,Town of Wappinger W 3 ED 6,226,258,46,0,11,6,2,2,236,246,47,15,7,2,2,199,292,50,4,5,3,1,3,1,5,Dutchess County,precinct
+Dutchess County,Town of Wappinger W 4 ED 1,260,291,55,0,14,12,4,2,264,290,57,15,10,3,2,216,345,66,4,9,4,4,5,1,4,Dutchess County,precinct
+Dutchess County,Town of Wappinger W 4 ED 2,238,192,36,0,9,10,5,1,245,191,37,12,4,6,1,191,234,38,7,7,3,4,7,2,4,Dutchess County,precinct
+Dutchess County,Town of Wappinger W 4 ED 3,177,184,35,0,4,6,1,6,178,179,34,6,8,2,5,152,211,38,4,3,5,1,7,0,5,Dutchess County,precinct
+Dutchess County,Town of Wappinger W 4 ED 4,240,237,38,0,5,10,1,4,238,237,37,4,9,1,5,182,298,41,2,1,6,0,6,1,8,Dutchess County,precinct
+Dutchess County,Town of Wappinger W 4 ED 5,251,272,49,0,7,11,3,4,247,284,45,11,10,2,5,220,314,43,6,5,5,1,8,0,2,Dutchess County,precinct
+Dutchess County,Town of Washington ED 1,245,228,47,3,6,6,3,1,249,227,43,8,7,1,3,207,272,45,7,5,3,0,4,2,3,Dutchess County,precinct
+Dutchess County,Town of Washington ED 2,255,146,15,2,6,3,2,1,250,142,14,8,9,1,0,219,175,18,4,4,4,2,3,0,0,Dutchess County,precinct
+Dutchess County,Town of Washington ED 3,187,150,16,3,1,3,1,0,193,145,18,3,3,1,0,153,189,16,5,1,2,1,1,0,0,Dutchess County,precinct
+Dutchess County,Town of Washington ED 4,367,238,41,3,10,5,6,0,360,231,43,16,12,3,3,282,306,46,9,9,5,3,5,11,3,Dutchess County,precinct

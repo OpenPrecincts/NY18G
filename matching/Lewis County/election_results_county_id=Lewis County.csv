@@ -1,0 +1,39 @@
+county,precinct,HOR_DEM,HOR_REP,HOR_CON,HOR_GRE,HOR_WOR,HOR_IND,HOR_WEP,HOR_REF,Sen_DEM,Sen_REP,Sen_CON,Sen_WOR,Sen_IND,Sen_WEP,Sen_REF,Gov_DEM,Gov_REP,Gov_CON,Gov_GRE,Gov_WOR,Gov_IND,Gov_WEP,Gov_REF,Gov_SAM,Gov_LBT,county_id,original_precinct_name
+Lewis County,Croghan 1,28,99,14,4,0,2,0,0,42,80,12,3,3,0,0,12,103,14,1,0,2,0,2,3,5,Lewis County,precinct
+Lewis County,Croghan 2,40,72,9,7,2,5,1,0,47,67,8,0,6,2,0,36,84,9,0,1,0,1,1,1,2,Lewis County,precinct
+Lewis County,Croghan 3,86,191,25,5,1,0,1,0,104,158,20,8,2,0,1,47,199,23,6,1,0,0,1,2,20,Lewis County,precinct
+Lewis County,Croghan 4,57,173,16,6,2,2,1,2,77,144,14,2,6,2,0,41,180,17,2,1,2,1,4,0,8,Lewis County,precinct
+Lewis County,Croghan 5,20,30,2,2,2,2,0,0,27,24,5,1,1,0,0,17,33,2,1,1,0,0,1,1,2,Lewis County,precinct
+Lewis County,Croghan 6,17,35,4,1,2,2,0,0,30,25,1,1,1,0,0,14,30,5,0,0,0,0,0,1,6,Lewis County,precinct
+Lewis County,Denmark 1,47,90,12,11,0,1,1,2,58,83,10,1,6,1,2,35,104,7,2,2,2,1,1,1,7,Lewis County,precinct
+Lewis County,Denmark 2,82,217,17,13,9,6,0,0,118,180,22,6,7,2,2,66,230,21,5,0,1,1,2,7,6,Lewis County,precinct
+Lewis County,Denmark 3,48,150,24,3,2,7,3,0,71,121,23,8,7,0,0,36,162,24,2,0,2,0,0,4,5,Lewis County,precinct
+Lewis County,Diana 1,107,198,27,10,5,9,3,0,138,158,29,9,9,5,0,81,207,31,7,0,3,2,3,5,10,Lewis County,precinct
+Lewis County,Diana 2,60,88,5,4,2,0,0,0,73,66,6,5,4,0,1,39,100,6,2,1,0,0,0,3,5,Lewis County,precinct
+Lewis County,Greig,124,286,25,9,2,4,1,3,159,219,21,5,13,3,3,88,308,20,5,1,2,3,2,3,21,Lewis County,precinct
+Lewis County,Harrisburg,36,112,10,5,0,5,2,0,55,87,10,3,1,0,1,31,113,12,2,0,0,0,2,3,4,Lewis County,precinct
+Lewis County,Lewis,52,201,16,1,1,0,0,0,66,176,15,5,2,0,1,31,203,19,2,0,0,1,2,7,9,Lewis County,precinct
+Lewis County,Leyden 1,51,175,17,1,4,4,2,0,66,154,19,4,4,1,0,36,182,20,3,2,1,2,6,1,7,Lewis County,precinct
+Lewis County,Leyden 2,34,80,10,2,1,5,1,0,42,72,8,1,1,1,0,20,93,9,2,0,0,0,3,2,8,Lewis County,precinct
+Lewis County,Leyden 3,31,90,1,2,2,2,1,0,40,72,7,4,2,0,0,22,94,3,3,2,0,0,2,1,7,Lewis County,precinct
+Lewis County,Lowville 1,79,107,11,8,5,5,2,0,99,81,9,2,9,3,0,54,132,8,0,0,1,1,1,4,12,Lewis County,precinct
+Lewis County,Lowville 2,102,169,5,4,1,7,1,0,130,128,4,6,7,3,1,70,172,9,6,1,2,0,0,5,16,Lewis County,precinct
+Lewis County,Lowville 3,53,80,8,5,1,2,1,0,63,62,10,4,6,2,1,35,87,10,4,1,1,1,3,0,4,Lewis County,precinct
+Lewis County,Lowville 4,227,357,36,13,10,10,4,5,296,274,38,15,10,5,2,178,365,32,9,5,3,3,5,11,40,Lewis County,precinct
+Lewis County,Lowville 5,30,83,6,2,0,2,0,0,40,72,1,1,5,0,0,20,92,6,1,0,1,0,0,1,3,Lewis County,precinct
+Lewis County,Lyonsdale 1,48,176,14,5,3,1,3,2,69,144,12,8,3,3,1,29,186,13,1,0,0,2,3,3,17,Lewis County,precinct
+Lewis County,Lyonsdale 2,15,48,3,0,0,1,1,0,19,42,3,4,0,1,0,8,48,2,1,0,1,0,0,2,10,Lewis County,precinct
+Lewis County,Lyonsdale 3,6,14,0,0,0,1,0,0,3,15,0,1,2,0,0,2,16,0,0,1,0,0,0,2,0,Lewis County,precinct
+Lewis County,Martinsburg,95,260,22,11,4,8,1,2,143,205,18,10,4,3,4,76,255,25,3,1,3,1,2,2,22,Lewis County,precinct
+Lewis County,Montague,6,29,1,0,0,1,0,1,8,27,3,0,0,0,0,3,30,1,0,1,0,0,0,1,1,Lewis County,precinct
+Lewis County,New Bremen 1,98,247,19,18,10,10,3,1,137,201,18,19,14,0,3,60,274,30,6,2,5,0,4,5,22,Lewis County,precinct
+Lewis County,New Bremen 2,103,260,23,16,1,5,2,2,153,198,22,12,4,1,2,62,273,29,4,1,1,0,6,7,26,Lewis County,precinct
+Lewis County,New Bremen 3,25,59,4,5,0,0,0,0,37,51,3,1,1,0,0,21,55,7,1,0,0,0,0,3,9,Lewis County,precinct
+Lewis County,Osceola,16,79,4,1,0,2,3,0,25,70,5,1,2,1,0,11,82,5,0,0,0,0,1,4,4,Lewis County,precinct
+Lewis County,Pinckney,20,89,6,2,1,3,1,0,33,74,5,1,4,1,0,13,93,6,2,0,0,1,2,2,1,Lewis County,precinct
+Lewis County,Turin,70,163,5,6,2,5,0,1,89,133,7,8,6,2,1,50,168,8,2,0,1,1,0,2,14,Lewis County,precinct
+Lewis County,Watson,175,380,21,21,7,9,8,1,230,308,25,16,15,4,4,116,391,29,7,4,6,2,10,9,33,Lewis County,precinct
+Lewis County,West Turin 1,55,187,22,3,8,3,1,1,75,161,19,3,6,0,1,32,189,28,2,0,3,0,2,4,14,Lewis County,precinct
+Lewis County,West Turin 2,11,47,3,0,2,1,0,0,20,36,0,1,1,0,0,7,48,4,0,0,0,0,0,0,5,Lewis County,precinct
+Lewis County,West Turin 3,21,74,7,0,2,4,0,0,34,56,9,3,3,0,1,16,78,9,0,0,0,0,1,1,5,Lewis County,precinct
+Lewis County,West Turin 4,42,111,6,1,2,2,0,1,65,74,8,5,4,3,2,31,105,8,0,3,1,0,1,9,6,Lewis County,precinct

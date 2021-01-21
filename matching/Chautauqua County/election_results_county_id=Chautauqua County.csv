@@ -1,0 +1,101 @@
+county,precinct,HOR_DEM,HOR_REP,HOR_CON,HOR_GRE,HOR_WOR,HOR_IND,HOR_WEP,HOR_REF,Sen_DEM,Sen_REP,Sen_CON,Sen_WOR,Sen_IND,Sen_WEP,Sen_REF,Gov_DEM,Gov_REP,Gov_CON,Gov_GRE,Gov_WOR,Gov_IND,Gov_WEP,Gov_REF,Gov_SAM,Gov_LBT,county_id,original_precinct_name
+Chautauqua County,Arkwright,140,215,49,0,13,10,2,0,173,196,47,0,15,1,1,101,236,55,10,7,6,1,1,5,12,Chautauqua County,precinct
+Chautauqua County,Busti 1,333,543,53,0,11,15,10,0,386,488,53,0,19,7,5,286,578,44,5,7,15,2,7,6,24,Chautauqua County,precinct
+Chautauqua County,Busti 2,232,343,50,0,8,10,7,0,284,296,47,0,19,5,1,218,333,45,5,3,15,6,2,6,19,Chautauqua County,precinct
+Chautauqua County,Busti 3,248,328,34,0,8,7,5,0,287,284,33,0,17,2,2,230,312,37,3,2,10,2,2,7,10,Chautauqua County,precinct
+Chautauqua County,Busti 4,123,284,30,0,5,4,1,0,151,251,30,0,8,4,1,111,268,33,5,1,4,0,2,4,17,Chautauqua County,precinct
+Chautauqua County,Busti 5,124,356,39,0,9,6,3,0,171,308,40,0,12,2,1,112,352,36,7,3,3,2,1,4,20,Chautauqua County,precinct
+Chautauqua County,Carroll 1,168,444,64,0,17,16,9,0,232,376,65,0,27,8,3,126,457,72,6,7,7,4,8,4,39,Chautauqua County,precinct
+Chautauqua County,Carroll 2,142,437,79,0,7,7,8,0,207,385,71,0,10,4,1,133,434,70,4,2,8,3,3,1,30,Chautauqua County,precinct
+Chautauqua County,Charlotte,154,333,59,0,11,15,5,0,194,289,62,0,16,6,2,117,334,65,9,4,9,5,8,3,25,Chautauqua County,precinct
+Chautauqua County,Chautauqua 1,250,299,31,0,14,9,6,0,304,239,31,0,19,6,1,218,309,35,4,7,11,1,3,4,12,Chautauqua County,precinct
+Chautauqua County,Chautauqua 2,143,235,37,0,10,6,6,0,186,199,39,0,14,4,0,117,243,39,9,6,9,2,3,0,18,Chautauqua County,precinct
+Chautauqua County,Chautauqua 3,239,221,34,0,10,7,5,0,264,207,32,0,11,2,1,210,232,37,5,4,3,2,4,8,15,Chautauqua County,precinct
+Chautauqua County,Chautauqua 4,23,98,16,0,0,4,1,0,38,84,16,0,3,0,0,18,98,15,2,0,0,0,0,1,6,Chautauqua County,precinct
+Chautauqua County,Cherry Creek,82,205,33,0,3,6,0,0,94,190,33,0,2,0,1,67,212,36,2,2,1,0,1,1,13,Chautauqua County,precinct
+Chautauqua County,Clymer,93,341,33,0,2,7,3,0,126,316,34,0,3,1,2,75,348,30,1,2,3,0,0,4,10,Chautauqua County,precinct
+Chautauqua County,Dunkirk 1-1,97,30,4,0,4,1,2,0,104,20,6,0,4,2,2,94,29,4,1,1,5,1,0,2,2,Chautauqua County,precinct
+Chautauqua County,Dunkirk 1-2,206,128,14,0,12,5,1,0,240,99,15,0,6,2,3,189,115,21,5,3,4,1,2,5,13,Chautauqua County,precinct
+Chautauqua County,Dunkirk 1-3,195,111,14,0,6,8,2,0,221,88,11,0,10,3,0,156,134,22,2,2,3,3,5,0,8,Chautauqua County,precinct
+Chautauqua County,Dunkirk 2-1,169,113,20,0,12,4,4,0,183,98,15,0,9,7,2,142,113,24,3,8,5,2,2,4,12,Chautauqua County,precinct
+Chautauqua County,Dunkirk 2-2,349,221,22,0,11,20,12,0,407,172,22,0,19,7,2,312,233,29,6,6,11,6,5,3,17,Chautauqua County,precinct
+Chautauqua County,Dunkirk 2-3,113,123,14,0,4,2,1,0,128,106,13,0,5,3,1,102,126,13,3,2,2,1,0,1,10,Chautauqua County,precinct
+Chautauqua County,Dunkirk 3-1,95,36,3,0,8,3,3,0,107,30,5,0,1,3,0,85,35,8,3,6,0,1,2,1,4,Chautauqua County,precinct
+Chautauqua County,Dunkirk 3-2,124,62,12,0,3,5,4,0,133,55,10,0,6,4,2,96,75,15,3,2,5,2,2,4,7,Chautauqua County,precinct
+Chautauqua County,Dunkirk 3-3,181,163,22,0,6,6,6,0,205,136,22,0,10,5,1,164,171,19,3,0,4,2,3,3,12,Chautauqua County,precinct
+Chautauqua County,Dunkirk 4-1,130,61,8,0,10,3,2,0,143,47,6,0,6,2,1,126,58,7,5,3,4,3,0,1,8,Chautauqua County,precinct
+Chautauqua County,Dunkirk 4-2,122,88,15,0,11,6,2,0,142,76,15,0,9,1,0,103,99,20,3,4,5,1,0,1,6,Chautauqua County,precinct
+Chautauqua County,Dunkirk 4-3,103,75,17,0,8,9,4,0,123,66,12,0,12,2,1,80,96,20,4,0,3,0,2,0,11,Chautauqua County,precinct
+Chautauqua County,Dunkirk Town 1,89,92,16,0,7,6,3,0,107,85,17,0,7,1,2,73,108,16,2,0,5,0,2,3,7,Chautauqua County,precinct
+Chautauqua County,Dunkirk Town 2,103,80,7,0,8,2,0,0,124,69,9,0,4,1,1,104,81,10,2,4,2,0,0,0,5,Chautauqua County,precinct
+Chautauqua County,Ellery 1,141,389,37,0,5,9,2,0,169,354,42,0,19,0,0,102,405,44,5,1,6,2,3,4,16,Chautauqua County,precinct
+Chautauqua County,Ellery 2,202,307,39,0,6,12,3,0,219,280,42,0,17,2,0,175,320,36,5,4,8,2,3,5,8,Chautauqua County,precinct
+Chautauqua County,Ellery 2V,56,95,7,0,1,7,3,0,74,85,7,0,10,0,0,54,101,9,2,0,4,0,1,5,1,Chautauqua County,precinct
+Chautauqua County,Ellery 3,226,362,31,0,5,9,5,0,270,304,34,0,13,5,2,209,352,36,4,2,10,1,0,7,13,Chautauqua County,precinct
+Chautauqua County,Ellicott 1-1,128,151,13,0,7,12,4,0,154,133,14,0,12,0,1,118,155,22,4,2,6,0,2,0,12,Chautauqua County,precinct
+Chautauqua County,Ellicott 1-2,151,167,30,0,12,9,4,0,172,152,24,0,14,3,4,141,164,28,3,4,5,0,9,8,11,Chautauqua County,precinct
+Chautauqua County,Ellicott 2-1,284,373,33,0,9,13,7,0,342,322,33,0,11,3,2,248,382,44,2,7,7,4,3,15,9,Chautauqua County,precinct
+Chautauqua County,Ellicott 2-2,71,125,18,0,2,7,2,0,88,114,13,0,9,1,1,63,133,19,0,2,2,0,3,2,6,Chautauqua County,precinct
+Chautauqua County,Ellicott 2-3,38,56,16,0,2,1,1,0,39,54,18,0,2,1,0,23,65,17,1,1,2,1,0,1,4,Chautauqua County,precinct
+Chautauqua County,Ellicott 3-1,164,210,18,0,6,14,3,0,199,181,11,0,20,6,0,119,222,16,10,3,8,2,2,2,28,Chautauqua County,precinct
+Chautauqua County,Ellicott 3-2,92,229,27,0,7,4,3,0,129,189,30,0,6,2,2,72,229,32,1,4,2,0,3,3,21,Chautauqua County,precinct
+Chautauqua County,Ellicott 4-1,100,150,12,0,8,6,2,0,121,133,14,0,6,3,1,74,162,12,0,3,2,0,0,3,21,Chautauqua County,precinct
+Chautauqua County,Ellicott 4-2,7,14,6,0,0,0,0,0,6,15,7,0,0,0,0,6,14,5,0,0,0,0,0,0,3,Chautauqua County,precinct
+Chautauqua County,Ellicott 4-3,155,333,29,0,12,5,2,0,177,305,30,0,12,3,3,127,321,32,7,2,4,1,2,3,20,Chautauqua County,precinct
+Chautauqua County,Ellington,128,354,33,0,9,9,4,0,159,323,29,0,12,8,2,89,361,36,10,3,8,2,5,3,22,Chautauqua County,precinct
+Chautauqua County,French Creek,67,213,13,0,8,3,0,0,79,202,18,0,4,0,0,66,216,18,1,2,2,1,1,0,4,Chautauqua County,precinct
+Chautauqua County,Gerry,135,459,71,0,15,17,9,0,192,409,74,0,21,4,0,109,448,65,7,4,14,3,7,7,34,Chautauqua County,precinct
+Chautauqua County,Hanover 1,208,201,36,0,15,10,4,0,248,171,29,0,11,4,5,184,196,42,3,4,7,2,3,0,31,Chautauqua County,precinct
+Chautauqua County,Hanover 2,137,177,40,0,9,10,5,0,162,161,38,0,8,4,2,110,193,34,5,4,3,2,3,3,24,Chautauqua County,precinct
+Chautauqua County,Hanover 3,193,233,43,0,16,14,5,0,237,195,38,0,14,8,1,165,237,53,6,7,9,3,6,4,8,Chautauqua County,precinct
+Chautauqua County,Hanover 4,179,235,52,0,14,5,7,0,208,217,44,0,16,6,2,145,245,53,4,7,11,1,3,7,22,Chautauqua County,precinct
+Chautauqua County,Hanover 5,198,365,71,0,18,11,7,0,257,327,58,0,13,7,2,164,371,65,13,6,8,3,9,6,32,Chautauqua County,precinct
+Chautauqua County,Harmony 1,141,356,43,0,13,5,7,0,179,331,38,0,9,8,0,115,379,38,1,2,6,3,2,7,11,Chautauqua County,precinct
+Chautauqua County,Harmony 2,48,119,7,0,3,2,2,0,66,99,10,0,4,2,0,39,115,11,3,5,2,1,0,1,5,Chautauqua County,precinct
+Chautauqua County,Jamestown 1-1,96,92,11,0,3,5,2,0,105,79,7,0,6,3,1,77,96,9,5,2,1,0,3,0,14,Chautauqua County,precinct
+Chautauqua County,Jamestown 1-2,179,164,20,0,7,6,3,0,197,145,21,0,4,5,5,153,165,24,8,1,5,1,7,3,13,Chautauqua County,precinct
+Chautauqua County,Jamestown 1-3,215,231,19,0,2,7,2,0,251,201,17,0,10,1,3,204,219,19,7,2,5,1,0,4,12,Chautauqua County,precinct
+Chautauqua County,Jamestown 2-1,100,65,8,0,6,5,4,0,116,60,6,0,3,3,1,99,61,10,4,3,3,0,1,1,6,Chautauqua County,precinct
+Chautauqua County,Jamestown 2-2,223,150,22,0,15,9,5,0,250,133,21,0,11,4,4,198,155,17,6,6,7,5,1,5,24,Chautauqua County,precinct
+Chautauqua County,Jamestown 2-3,307,270,27,0,16,10,11,0,336,247,26,0,17,7,2,274,281,30,6,8,10,3,2,5,11,Chautauqua County,precinct
+Chautauqua County,Jamestown 3-1,145,141,19,0,8,3,1,0,162,123,19,0,8,2,0,135,137,19,5,4,4,0,4,1,5,Chautauqua County,precinct
+Chautauqua County,Jamestown 3-2,127,74,12,0,7,6,3,0,136,65,11,0,7,3,1,120,76,9,6,5,6,1,1,2,5,Chautauqua County,precinct
+Chautauqua County,Jamestown 3-3,89,77,19,0,0,3,2,0,91,64,22,0,10,1,2,75,71,15,4,0,5,1,2,4,12,Chautauqua County,precinct
+Chautauqua County,Jamestown 3-4,15,8,0,0,0,1,0,0,13,10,1,0,0,0,0,15,6,2,0,0,0,0,0,0,1,Chautauqua County,precinct
+Chautauqua County,Jamestown 4-1,291,262,36,0,12,10,1,0,314,240,32,0,12,3,3,266,277,29,5,8,7,4,5,1,17,Chautauqua County,precinct
+Chautauqua County,Jamestown 4-2,245,291,34,0,9,11,5,0,285,252,36,0,9,5,5,228,295,37,3,5,3,2,5,5,13,Chautauqua County,precinct
+Chautauqua County,Jamestown 4-3,262,244,28,0,13,6,0,0,276,223,28,0,18,1,0,230,262,35,6,1,8,1,2,1,5,Chautauqua County,precinct
+Chautauqua County,Jamestown 5-1,159,112,11,0,3,6,3,0,179,93,10,0,11,1,2,138,119,11,4,4,6,3,2,3,8,Chautauqua County,precinct
+Chautauqua County,Jamestown 5-2,198,202,29,0,10,6,3,0,226,174,28,0,9,1,2,181,192,30,10,6,3,2,1,4,15,Chautauqua County,precinct
+Chautauqua County,Jamestown 5-3,251,258,42,0,11,6,1,0,298,211,36,0,13,2,0,226,262,35,3,6,8,2,3,3,22,Chautauqua County,precinct
+Chautauqua County,Jamestown 6-1,220,179,30,0,12,4,3,0,247,153,28,0,7,7,1,199,183,27,5,3,2,3,4,2,17,Chautauqua County,precinct
+Chautauqua County,Jamestown 6-2,121,127,13,0,8,4,5,0,143,109,11,0,3,6,3,106,126,13,4,3,4,3,2,3,16,Chautauqua County,precinct
+Chautauqua County,Jamestown 6-3,186,207,31,0,5,9,3,0,206,191,30,0,9,6,2,174,216,29,5,0,5,2,1,0,15,Chautauqua County,precinct
+Chautauqua County,Kiantone,217,337,42,0,11,7,2,0,240,309,38,0,15,2,2,167,359,42,5,4,9,0,0,2,27,Chautauqua County,precinct
+Chautauqua County,Mina,109,263,23,0,1,2,1,0,113,257,26,0,2,1,0,103,250,27,0,2,3,1,1,1,8,Chautauqua County,precinct
+Chautauqua County,North Harmony 1,187,295,28,0,6,6,2,0,208,270,24,0,11,1,5,162,293,30,3,4,2,1,3,4,15,Chautauqua County,precinct
+Chautauqua County,North Harmony 2,144,289,36,0,7,6,4,0,165,265,37,0,13,2,0,112,308,38,4,2,4,0,3,1,11,Chautauqua County,precinct
+Chautauqua County,Poland 1,105,249,34,0,9,9,3,0,129,227,32,0,15,2,0,82,248,37,1,4,7,4,2,2,21,Chautauqua County,precinct
+Chautauqua County,Poland 2,95,311,29,0,5,5,3,0,128,272,30,0,8,5,4,73,300,28,7,2,1,2,2,8,30,Chautauqua County,precinct
+Chautauqua County,Pomfret 1,292,240,34,0,18,14,7,0,330,210,31,0,26,5,2,238,264,36,6,12,15,3,7,4,15,Chautauqua County,precinct
+Chautauqua County,Pomfret 2,277,133,15,0,15,3,6,0,291,122,16,0,12,4,3,229,160,14,5,10,5,3,1,4,13,Chautauqua County,precinct
+Chautauqua County,Pomfret 3,304,221,27,0,16,8,7,0,337,181,33,0,22,4,0,246,237,40,11,7,14,2,3,2,14,Chautauqua County,precinct
+Chautauqua County,Pomfret 4,481,226,35,0,17,11,12,0,494,212,36,0,21,12,2,404,245,47,10,18,22,11,2,4,21,Chautauqua County,precinct
+Chautauqua County,Pomfret 5,361,179,32,0,16,10,7,0,379,160,32,0,22,3,3,290,216,31,11,8,13,1,2,1,27,Chautauqua County,precinct
+Chautauqua County,Pomfret 6,109,97,14,0,8,3,2,0,112,100,12,0,6,3,2,80,122,15,4,1,6,1,3,1,6,Chautauqua County,precinct
+Chautauqua County,Pomfret 7,229,277,57,0,21,21,14,0,271,256,56,0,26,6,5,192,302,69,11,8,8,7,6,6,17,Chautauqua County,precinct
+Chautauqua County,Pomfret 8,200,223,42,0,16,10,7,0,221,199,43,0,18,4,2,170,236,48,3,9,10,4,3,3,11,Chautauqua County,precinct
+Chautauqua County,Portland 1,166,221,41,0,9,10,5,0,189,208,34,0,17,4,3,140,235,40,3,2,8,4,4,0,19,Chautauqua County,precinct
+Chautauqua County,Portland 2,123,212,52,0,6,7,5,0,153,193,49,0,7,5,4,107,223,45,2,2,6,4,6,4,12,Chautauqua County,precinct
+Chautauqua County,Portland 3,162,209,25,0,13,7,5,0,209,168,28,0,16,2,1,140,210,35,1,5,5,1,4,4,19,Chautauqua County,precinct
+Chautauqua County,Ripley 1,130,194,28,0,5,10,2,0,153,179,24,0,10,0,1,128,205,21,4,6,3,0,6,2,3,Chautauqua County,precinct
+Chautauqua County,Ripley 2,95,256,33,0,10,6,5,0,131,232,32,0,11,2,2,92,260,27,6,3,5,1,5,2,14,Chautauqua County,precinct
+Chautauqua County,Sheridan 1,115,218,56,0,9,3,3,0,149,190,51,0,7,2,2,112,208,53,2,4,4,1,3,1,16,Chautauqua County,precinct
+Chautauqua County,Sheridan 2,258,349,49,0,12,9,8,0,302,309,47,0,18,3,7,219,361,59,10,3,10,2,4,4,18,Chautauqua County,precinct
+Chautauqua County,Sherman,121,285,44,0,12,5,5,0,154,258,37,0,10,6,2,102,279,40,5,3,6,3,2,4,24,Chautauqua County,precinct
+Chautauqua County,Stockton 1,112,279,43,0,8,6,7,0,141,256,42,0,10,4,2,91,289,51,5,2,2,3,4,3,14,Chautauqua County,precinct
+Chautauqua County,Stockton 2,130,183,21,0,4,7,3,0,151,167,17,0,8,2,3,108,192,19,0,2,4,3,3,1,13,Chautauqua County,precinct
+Chautauqua County,Villenova,121,219,33,0,14,8,1,0,167,195,29,0,6,1,3,98,229,40,6,7,2,0,3,2,9,Chautauqua County,precinct
+Chautauqua County,Westfield 1,258,289,46,0,23,9,10,0,290,271,42,0,17,12,4,222,312,43,6,10,14,10,3,9,11,Chautauqua County,precinct
+Chautauqua County,Westfield 2,182,304,48,0,8,10,6,0,233,250,47,0,9,5,1,171,300,45,8,4,11,3,5,3,8,Chautauqua County,precinct
+Chautauqua County,Westfield 3,230,381,33,0,15,8,3,0,279,330,35,0,12,4,3,202,388,44,7,7,5,2,4,4,8,Chautauqua County,precinct
